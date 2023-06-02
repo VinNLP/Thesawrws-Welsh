@@ -1,0 +1,155 @@
+
+body {
+}
+
+.logo {
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+}
+.color_0 {
+    color: #F98C12;
+}
+
+.color_1 {
+    color: #F98C12;
+}
+
+.color_2 {
+    color: #17A849;
+}
+
+.color_3 {
+    color: #0C63B2;
+}
+
+.color_4 {
+    color: #9E0003;
+}
+
+.color_5 {
+    color: #800080;
+}
+
+.color_6 {
+    color: #FF79E7 ;
+
+}
+
+.color_7 {
+    color: #ff7f00;
+}
+
+.color_8 {
+    color: #cab2d6;
+}
+
+.color_9 {
+    color: #000000;
+}
+
+.color_10 {
+    color: #000000;
+}
+
+.color_correct {
+          color: green;
+          background-color: white;
+          border-style: inset;
+        }
+
+.color_incorrect {
+    color: red !important;
+    background-color: white !important;
+    border-style: inset;
+}
+
+.correct_answer {
+    color: green;
+    font-weight: bold;
+    font-size: large;
+
+}
+.attempt-box {
+  font-weight: bold;
+}
+
+.incorrect_answer {
+    color: red;
+    font-weight: bold;
+    font-size: large;
+
+}
+textarea {
+    width: 100%;
+}
+table.clozeTable {
+    width: 100%;
+}
+
+.clozeTable tr:nth-child(even) {
+    background: #ebebeb;
+}
+
+.clozeTable tr:nth-child(odd) {
+    background: #FFFFFF;
+}
+table, table *{
+    padding-right: 10px;
+    border:0;
+
+}
+table thead td{
+    font-weight: bold;
+}
+table tbody tr:nth-child(even) td{
+    background: #ebebeb;
+}
+
+.concordance-table {
+  table-layout: fixed;
+  width: 100%;
+
+
+}
+.settings-form{
+
+}
+
+.gap-attempt-box {
+  margin: 5px;
+}
+.attempt-box {
+  text-align:center;
+  width: 100%;
+  height: 100%;
+  background-color: #FFFFFF !important;
+}
+.footer {
+  width: 100%;
+  text-align: center;
+}
+
+.navbar {
+  align: left;
+}
+
+.h3 {
+  padding-top: 5px;
+
+}
+
+.well {
+  /*margin: 2px;*/
+  margin-right: 1px;
+  margin-left: 1px;
+}
+
+.leftcut {
+  margin-left:auto;
+  margin-right:auto;
+  text-align:right;
+  overflow:hidden;
+  white-space: nowrap;
+}

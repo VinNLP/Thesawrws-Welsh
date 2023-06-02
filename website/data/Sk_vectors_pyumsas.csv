@@ -1,0 +1,2491 @@
+﻿Gair,lemma,tag,pymusas,synset,lemma,tag,pymusas_1
+pobl,pobl,E,['S2'],pobol,pobol,E,['S2']
+pobl,pobl,E,['S2'],bobl,pobl,E,['S2']
+pobl,pobl,E,['S2'],phobl,pobl,E,['S2']
+pobl,pobl,E,['S2'],bobol,pobol,E,['S2']
+pobl,pobl,E,['S2'],rhywun,rhywun,E,['Z8mfc']
+pobl,pobl,E,['S2'],trigolion,trigolyn,E,['H4/S2mf']
+pobl,pobl,E,['S2'],pawb,pawb,unk,['Z8/N5.1+c']
+pobl,pobl,E,['S2'],dinasyddion,dinesydd,E,"['G1.1/S2mf', 'S5+/S2mf']"
+pobl,pobl,E,['S2'],plant,plentyn,E,"['S2mf/T3-', 'S4mf']"
+pobl,pobl,E,['S2'],pobl,pobl,E,['S2']
+gwaith,gwaith | gwaith,E | E,"['X7+/T1', 'N3.1/T1']",waith,gwaith | gwaith,E | E,['Z99']
+gwaith,gwaith | gwaith,E | E,"['X7+/T1', 'N3.1/T1']",gwait,gwait,unk,['Z99']
+gwaith,gwaith | gwaith,E | E,"['X7+/T1', 'N3.1/T1']",gweithiau,gwaith | gwaith,E | E,['Z3']
+gwaith,gwaith | gwaith,E | E,"['X7+/T1', 'N3.1/T1']",gwaith,gwaith | gwaith,E | E,"['X7+/T1', 'N3.1/T1']"
+gwaith,gwaith | gwaith,E | E,"['X7+/T1', 'N3.1/T1']",ngwaith,gwaith | gwaith,E | E,['Z99']
+gwaith,gwaith | gwaith,E | E,"['X7+/T1', 'N3.1/T1']",ngwaith,gwaith | gwaith,E | E,['Z99']
+gwaith,gwaith | gwaith,E | E,"['X7+/T1', 'N3.1/T1']",gwaith,gwaith | gwaith,E | E,"['X7+/T1', 'N3.1/T1']"
+gwaith,gwaith | gwaith,E | E,"['X7+/T1', 'N3.1/T1']",gweith,gweu,B,"['B5', 'S5+', 'B2+', 'B1']"
+gwaith,gwaith | gwaith,E | E,"['X7+/T1', 'N3.1/T1']",ngwaith,gwaith | gwaith,E | E,['Z99']
+gwaith,gwaith | gwaith,E | E,"['X7+/T1', 'N3.1/T1']",ffugwaith,ffugwaith,unk,['Z99']
+blwyddyn,blwyddyn,E,"['T1.3', 'P1c']",blwyddy,blwyddy,unk,['Z99']
+blwyddyn,blwyddyn,E,"['T1.3', 'P1c']",blwyddyn,blwyddyn,E,"['T1.3', 'P1c']"
+blwyddyn,blwyddyn,E,"['T1.3', 'P1c']",flwyddyn,blwyddyn,E,"['T1.3', 'P1c']"
+blwyddyn,blwyddyn,E,"['T1.3', 'P1c']",flwyddyn,blwyddyn,E,"['T1.3', 'P1c']"
+blwyddyn,blwyddyn,E,"['T1.3', 'P1c']",mlwyddyn,blwyddyn,E,"['T1.3', 'P1c']"
+blwyddyn,blwyddyn,E,"['T1.3', 'P1c']",blwyddyn,blwyddyn,E,"['T1.3', 'P1c']"
+blwyddyn,blwyddyn,E,"['T1.3', 'P1c']",blynedd,blwyddyn,E,['T1.3']
+blwyddyn,blwyddyn,E,"['T1.3', 'P1c']",wyddyn,wyddyn,unk,['Z99']
+blwyddyn,blwyddyn,E,"['T1.3', 'P1c']",blywyddyn,blywyddyn,unk,['Z99']
+blwyddyn,blwyddyn,E,"['T1.3', 'P1c']",flynedd,blwyddyn,E,"['T1.3', 'P1c']"
+iaith,iaith,E,"['Q3', 'Y2']",gymraeg,gymraeg,unk,['Z99']
+iaith,iaith,E,"['Q3', 'Y2']",iaith,iaith,E,"['Q3', 'Y2']"
+iaith,iaith,E,"['Q3', 'Y2']",iaith,iaith,E,"['Q3', 'Y2']"
+iaith,iaith,E,"['Q3', 'Y2']",ieithyddol,ieithyddol,Ans,['Q3']
+iaith,iaith,E,"['Q3', 'Y2']",gymraeg,gymraeg,unk,['Z99']
+iaith,iaith,E,"['Q3', 'Y2']",ieithyddiaeth,ieithyddiaeth,unk,['Z99']
+iaith,iaith,E,"['Q3', 'Y2']",famiaith,mamiaith,E,['Z99']
+iaith,iaith,E,"['Q3', 'Y2']",rhwydiaith,rhwydiaith,unk,['Z99']
+iaith,iaith,E,"['Q3', 'Y2']",gyfiaith,gyfiaith,unk,['Z99']
+iaith,iaith,E,"['Q3', 'Y2']",hunaniaith,hunaniaith,unk,['Z99']
+plentyn,plentyn,E,"['S2mf/T3-', 'S4mf']",plentyn,plentyn,E,"['S2mf/T3-', 'S4mf']"
+plentyn,plentyn,E,"['S2mf/T3-', 'S4mf']",blentyn,plentyn,E,"['S2mf/T3-', 'S4mf']"
+plentyn,plentyn,E,"['S2mf/T3-', 'S4mf']",phlentyn,plentyn,E,"['S2mf/T3-', 'S4mf']"
+plentyn,plentyn,E,"['S2mf/T3-', 'S4mf']",plant,plentyn,E,"['S2mf/T3-', 'S4mf']"
+plentyn,plentyn,E,"['S2mf/T3-', 'S4mf']",babi,babi,E,['T3--']
+plentyn,plentyn,E,"['S2mf/T3-', 'S4mf']",disgybl,disgybl,E,"['P1/S2mf', 'G2.1/S2mf', 'B1']"
+plentyn,plentyn,E,"['S2mf/T3-', 'S4mf']",blant,plentyn,E,"['S2mf/T3-', 'S4mf']"
+plentyn,plentyn,E,"['S2mf/T3-', 'S4mf']",mhlentyn,plentyn,E,"['S2mf/T3-', 'S4mf']"
+plentyn,plentyn,E,"['S2mf/T3-', 'S4mf']",baban,baban,E,['T3--']
+plentyn,plentyn,E,"['S2mf/T3-', 'S4mf']",ysgentyn,ysgentyn,unk,['Z99']
+ysgol,ysgol,E,['P1'],gynradd,cynradd,Ans,"['G1.2', 'P1', 'B2-']"
+ysgol,ysgol,E,['P1'],uwchradd,uwchradd,Ans,"['S7.1++/S2mf', 'A5.1++/S2mf']"
+ysgol,ysgol,E,['P1'],gyfun,cyfun,Ans,"['S5+', 'A2.1+']"
+ysgol,ysgol,E,['P1'],ysgolion,ysgol,E,['P1']
+ysgol,ysgol,E,['P1'],hysgol,ysgol,E,['P1']
+ysgol,ysgol,E,['P1'],chynradd,cynradd,Ans,"['G1.2', 'P1', 'B2-']"
+ysgol,ysgol,E,['P1'],ddisgybl,disgybl,E,"['P1/S2mf', 'G2.1/S2mf', 'B1']"
+ysgol,ysgol,E,['P1'],ddisgyblion,disgybl,E,"['P1/S2mf', 'G2.1/S2mf', 'B1']"
+ysgol,ysgol,E,['P1'],disgyblion,disgybl,E,"['P1/S2mf', 'G2.1/S2mf', 'B1']"
+ysgol,ysgol,E,['P1'],ysgol,ysgol,E,['P1']
+byd,byd,E,"['W1', 'S5+c', 'A4.1', 'N5+']",fyd,byd,E,"['W1', 'S5+c', 'A4.1', 'N5+']"
+byd,byd,E,"['W1', 'S5+c', 'A4.1', 'N5+']",einglamericanaidd,einglamericanaidd,unk,['Z99']
+byd,byd,E,"['W1', 'S5+c', 'A4.1', 'N5+']",cyfandir,tir,E,"['M1', 'M2', 'M5', 'M4', 'A9+', 'A2.2']"
+byd,byd,E,"['W1', 'S5+c', 'A4.1', 'N5+']",wlad,gwlad,E,"['G1.1c', 'W3', 'F4/M7']"
+byd,byd,E,"['W1', 'S5+c', 'A4.1', 'N5+']",mydoedd,byd,E,"['W1', 'S5+c', 'A4.1', 'N5+']"
+byd,byd,E,"['W1', 'S5+c', 'A4.1', 'N5+']",doedd,doedd,unk,"['A3+', 'Z5']"
+byd,byd,E,"['W1', 'S5+c', 'A4.1', 'N5+']",byd,byd,E,"['W1', 'S5+c', 'A4.1', 'N5+']"
+byd,byd,E,"['W1', 'S5+c', 'A4.1', 'N5+']",fydoedd,byd,E,"['W1', 'S5+c', 'A4.1', 'N5+']"
+byd,byd,E,"['W1', 'S5+c', 'A4.1', 'N5+']",unedig,unedig,Ans,['S5+']
+byd,byd,E,"['W1', 'S5+c', 'A4.1', 'N5+']",myd,byd,E,"['W1', 'S5+c', 'A4.1', 'N5+']"
+dydd,dydd,E,['T1.3'],ddydd,dydd,E,['T1.3']
+dydd,dydd,E,['T1.3'],gwener,gwenu,B,['E4.1+']
+dydd,dydd,E,['T1.3'],mercher,mercher,unk,['Z99']
+dydd,dydd,E,['T1.3'],iau,ifanc | iau | iau,Ans | E | E,['A1.1.1/A1.7+']
+dydd,dydd,E,['T1.3'],sadwrn,sadwrn,unk,['Z99']
+dydd,dydd,E,['T1.3'],sul,sul,unk,['Z99']
+dydd,dydd,E,['T1.3'],mawrth,mawrth,unk,['Z99']
+dydd,dydd,E,['T1.3'],llungwener,llungwener,unk,['Z99']
+dydd,dydd,E,['T1.3'],brynhawniau,brynhawniau,unk,['Z99']
+dydd,dydd,E,['T1.3'],nos,nos,E,['T1.3']
+rhaid,rhaid,E,"['S6+', 'A11.1+']",raid,rhaid,E,"['S6+', 'A11.1+']"
+rhaid,rhaid,E,"['S6+', 'A11.1+']",angen,angen,E,['S6+']
+rhaid,rhaid,E,"['S6+', 'A11.1+']",rhaid,rhaid,E,"['S6+', 'A11.1+']"
+rhaid,rhaid,E,"['S6+', 'A11.1+']",ofynnol,gofynnol,Ans,"['S6+', 'A11.1+']"
+rhaid,rhaid,E,"['S6+', 'A11.1+']",gorfod,gorfod,B,['Z99']
+rhaid,rhaid,E,"['S6+', 'A11.1+']",rhaid,rhaid,E,"['S6+', 'A11.1+']"
+rhaid,rhaid,E,"['S6+', 'A11.1+']",disgwyl,disgwyl,B,"['X2.6+', 'B1']"
+rhaid,rhaid,E,"['S6+', 'A11.1+']",caniatáu,caniatáu,B,"['S7.4+', 'S8+', 'X2.1']"
+rhaid,rhaid,E,"['S6+', 'A11.1+']",modd,bodd,E,['N2']
+rhaid,rhaid,E,"['S6+', 'A11.1+']",caniatau,caniatau,unk,['Z99']
+tŷ,tŷ,E,['H4'],ty,tyfu | tyfu,B | B,['Z99']
+tŷ,tŷ,E,['H4'],dydy,bod,B,"['A3+', 'Z5']"
+tŷ,tŷ,E,['H4'],nhy,nhy,unk,['Z99']
+tŷ,tŷ,E,['H4'],thy,thy,unk,['Z99']
+tŷ,tŷ,E,['H4'],fflat,fflat,E,"['O4.4', 'N5-', 'A6.1+', 'K2']"
+tŷ,tŷ,E,['H4'],nhy,nhy,unk,['Z99']
+tŷ,tŷ,E,['H4'],adeilad,adeilad,E,"['H1', 'A1.1.1', 'A5.1+/A2.1', 'N3.2+/A2.1']"
+tŷ,tŷ,E,['H4'],ysgubor,ysgubor,unk,['Z99']
+tŷ,tŷ,E,['H4'],garej,garej,E,['M3/H1']
+tŷ,tŷ,E,['H4'],ffermdy,ffermdy,unk,['Z99']
+angen,angen,E,['S6+'],rhaid,rhaid,E,"['S6+', 'A11.1+']"
+angen,angen,E,['S6+'],hangen,angen,E,['S6+']
+angen,angen,E,['S6+'],eisiau,eisiau,E,"['X7+', 'S6+', 'A7+', 'S3.2', 'A9-']"
+angen,angen,E,['S6+'],angen,angen,E,['S6+']
+angen,angen,E,['S6+'],angen,angen,E,['S6+']
+angen,angen,E,['S6+'],arnom,ar,Ar,['Z5']
+angen,angen,E,['S6+'],dylid,dylu,B,['Z99']
+angen,angen,E,['S6+'],angen,angen,E,['S6+']
+angen,angen,E,['S6+'],eisio,eisio,E,"['X7+', 'S6+', 'A7+', 'S3.2', 'A9-']"
+angen,angen,E,['S6+'],isio,eisiau,E,"['X7+', 'S6+', 'A7+', 'S3.2', 'A9-']"
+amser,amser,E,"['X7+/T1', 'N3.1/T1']",hamser,amser,E,"['X7+/T1', 'N3.1/T1']"
+amser,amser,E,"['X7+/T1', 'N3.1/T1']",famser,famser,unk,['Z99']
+amser,amser,E,"['X7+/T1', 'N3.1/T1']",amse,amse,unk,['Z99']
+amser,amser,E,"['X7+/T1', 'N3.1/T1']",amser,amser,E,"['X7+/T1', 'N3.1/T1']"
+amser,amser,E,"['X7+/T1', 'N3.1/T1']",amser,amser,E,"['X7+/T1', 'N3.1/T1']"
+amser,amser,E,"['X7+/T1', 'N3.1/T1']",diamser,diamser,unk,['Z99']
+amser,amser,E,"['X7+/T1', 'N3.1/T1']",amserydd,amserydd,E,['T1/O2']
+amser,amser,E,"['X7+/T1', 'N3.1/T1']",awr,awr,E,['T1.3']
+amser,amser,E,"['X7+/T1', 'N3.1/T1']",amsar,amsar,unk,['Z99']
+amser,amser,E,"['X7+/T1', 'N3.1/T1']",dreulir,treulio,B,"['I1.2', 'A1.5.1', 'T1.3']"
+ffordd,ffordd,E,['A13.3'],fordd,fordd,unk,['Z99']
+ffordd,ffordd,E,['A13.3'],brifffordd,brifffordd,unk,['Z99']
+ffordd,ffordd,E,['A13.3'],ffyrdd,ffwrdd,E,['A13.3']
+ffordd,ffordd,E,['A13.3'],priffordd,priffordd,E,['M3']
+ffordd,ffordd,E,['A13.3'],briffordd,priffordd,E,['M3']
+ffordd,ffordd,E,['A13.3'],gyffordd,gyffordd,unk,['Z99']
+ffordd,ffordd,E,['A13.3'],phriffordd,priffordd,E,['M3']
+ffordd,ffordd,E,['A13.3'],ffordd,ffordd,E,['A13.3']
+ffordd,ffordd,E,['A13.3'],rhywffordd,rhywffordd,unk,['Z99']
+ffordd,ffordd,E,['A13.3'],ffor,ffor,unk,['Z99']
+ffordd,ffordd,E,['A13.3'],fordd,fordd,unk,['Z99']
+ffordd,ffordd,E,['A13.3'],brifffordd,brifffordd,unk,['Z99']
+ffordd,ffordd,E,['A13.3'],ffyrdd,ffwrdd,E,['A13.3']
+ffordd,ffordd,E,['A13.3'],priffordd,priffordd,E,['M3']
+ffordd,ffordd,E,['A13.3'],briffordd,priffordd,E,['M3']
+ffordd,ffordd,E,['A13.3'],gyffordd,gyffordd,unk,['Z99']
+ffordd,ffordd,E,['A13.3'],phriffordd,priffordd,E,['M3']
+ffordd,ffordd,E,['A13.3'],ffordd,ffordd,E,['A13.3']
+ffordd,ffordd,E,['A13.3'],rhywffordd,rhywffordd,unk,['Z99']
+ffordd,ffordd,E,['A13.3'],ffor,ffor,unk,['Z99']
+enw,enw,E,['Q2.2'],henw,enw,E,['Q2.2']
+enw,enw,E,['Q2.2'],enw,enw,E,['Q2.2']
+enw,enw,E,['Q2.2'],go,go,Adf,"['Z4', 'E2++']"
+enw,enw,E,['Q2.2'],enw,enw,E,['Q2.2']
+enw,enw,E,['Q2.2'],cyfenw,cyfenw,E,['Q2.2']
+enw,enw,E,['Q2.2'],llysenw,llysenw,unk,['Z99']
+enw,enw,E,['Q2.2'],gyfenw,cyfenw,E,['Q2.2']
+enw,enw,E,['Q2.2'],enwau,enw,E,['Q2.2']
+enw,enw,E,['Q2.2'],lysenw,lysenw,unk,['Z99']
+enw,enw,E,['Q2.2'],ffugenw,ffugenw,E,['A5.4-']
+pen,pen,E,"['S7.1+', 'K5.1', 'M1', 'N5', 'A2.1+', 'A11.1+', 'Q1.2', 'T1.1.3']",blwydd,blwydd,E,"['T1.3', 'P1c']"
+pen,pen,E,"['S7.1+', 'K5.1', 'M1', 'N5', 'A2.1+', 'A11.1+', 'Q1.2', 'T1.1.3']",draw,draw,Adf,['M6']
+pen,pen,E,"['S7.1+', 'K5.1', 'M1', 'N5', 'A2.1+', 'A11.1+', 'Q1.2', 'T1.1.3']",phen,pen,E,"['S7.1+', 'K5.1', 'M1', 'N5', 'A2.1+', 'A11.1+', 'Q1.2', 'T1.1.3']"
+pen,pen,E,"['S7.1+', 'K5.1', 'M1', 'N5', 'A2.1+', 'A11.1+', 'Q1.2', 'T1.1.3']",ben,pen,E,"['S7.1+', 'K5.1', 'M1', 'N5', 'A2.1+', 'A11.1+', 'Q1.2', 'T1.1.3']"
+pen,pen,E,"['S7.1+', 'K5.1', 'M1', 'N5', 'A2.1+', 'A11.1+', 'Q1.2', 'T1.1.3']",blwyddau,blwyddau,unk,['Z99']
+pen,pen,E,"['S7.1+', 'K5.1', 'M1', 'N5', 'A2.1+', 'A11.1+', 'Q1.2', 'T1.1.3']",blwyddi,blwydd,E,['T1.3']
+pen,pen,E,"['S7.1+', 'K5.1', 'M1', 'N5', 'A2.1+', 'A11.1+', 'Q1.2', 'T1.1.3']",llau,lleuen,E,['L2']
+pen,pen,E,"['S7.1+', 'K5.1', 'M1', 'N5', 'A2.1+', 'A11.1+', 'Q1.2', 'T1.1.3']",tennyn,tennyn,E,['Z99']
+pen,pen,E,"['S7.1+', 'K5.1', 'M1', 'N5', 'A2.1+', 'A11.1+', 'Q1.2', 'T1.1.3']",cau,cau,B,"['A1.1.1', 'A10-', 'T2-']"
+pen,pen,E,"['S7.1+', 'K5.1', 'M1', 'N5', 'A2.1+', 'A11.1+', 'Q1.2', 'T1.1.3']",rhionydd,rhionydd,unk,['Z99']
+pen,pen,E,"['S7.1+', 'K5.1', 'M1', 'N5', 'A2.1+', 'A11.1+', 'Q1.2', 'T1.1.3']",blwydd,blwydd,E,"['T1.3', 'P1c']"
+pen,pen,E,"['S7.1+', 'K5.1', 'M1', 'N5', 'A2.1+', 'A11.1+', 'Q1.2', 'T1.1.3']",draw,draw,Adf,['M6']
+pen,pen,E,"['S7.1+', 'K5.1', 'M1', 'N5', 'A2.1+', 'A11.1+', 'Q1.2', 'T1.1.3']",phen,pen,E,"['S7.1+', 'K5.1', 'M1', 'N5', 'A2.1+', 'A11.1+', 'Q1.2', 'T1.1.3']"
+pen,pen,E,"['S7.1+', 'K5.1', 'M1', 'N5', 'A2.1+', 'A11.1+', 'Q1.2', 'T1.1.3']",ben,pen,E,"['S7.1+', 'K5.1', 'M1', 'N5', 'A2.1+', 'A11.1+', 'Q1.2', 'T1.1.3']"
+pen,pen,E,"['S7.1+', 'K5.1', 'M1', 'N5', 'A2.1+', 'A11.1+', 'Q1.2', 'T1.1.3']",blwyddau,blwyddau,unk,['Z99']
+pen,pen,E,"['S7.1+', 'K5.1', 'M1', 'N5', 'A2.1+', 'A11.1+', 'Q1.2', 'T1.1.3']",blwyddi,blwydd,E,['T1.3']
+pen,pen,E,"['S7.1+', 'K5.1', 'M1', 'N5', 'A2.1+', 'A11.1+', 'Q1.2', 'T1.1.3']",llau,lleuen,E,['L2']
+pen,pen,E,"['S7.1+', 'K5.1', 'M1', 'N5', 'A2.1+', 'A11.1+', 'Q1.2', 'T1.1.3']",tennyn,tennyn,E,['Z99']
+pen,pen,E,"['S7.1+', 'K5.1', 'M1', 'N5', 'A2.1+', 'A11.1+', 'Q1.2', 'T1.1.3']",cau,cau,B,"['A1.1.1', 'A10-', 'T2-']"
+pen,pen,E,"['S7.1+', 'K5.1', 'M1', 'N5', 'A2.1+', 'A11.1+', 'Q1.2', 'T1.1.3']",rhionydd,rhionydd,unk,['Z99']
+lle,lle,Rha,['M6'],ble,ble,Rha,['M6']
+lle,lle,Rha,['M6'],modd,bodd,E,['N2']
+lle,lle,Rha,['M6'],fan,fan,E,['M3fn']
+lle,lle,Rha,['M6'],hefyd,hefyd,Adf,['N5++']
+lle,lle,Rha,['M6'],le,lle,E,"['M2', 'X2.2+', 'I3.1', 'Q2.2']"
+lle,lle,Rha,['M6'],ddiau,diau,Ans,['A7+']
+lle,lle,Rha,['M6'],tra,tra,Cys,['Z5']
+lle,lle,Rha,['M6'],pryd,pryd,E,"['X7+/T1', 'N3.1/T1']"
+lle,lle,Rha,['M6'],fannau,ban,E,"['N5.1+', 'A5.1+++']"
+lle,lle,Rha,['M6'],ond,ond,Cys,['Z5']
+mis,mis,E,['T1.3'],fis,mis,E,['T1.3']
+mis,mis,E,['T1.3'],llynedd,llynedd,Adf,['Z99']
+mis,mis,E,['T1.3'],ionawr,ionawr,unk,['Z99']
+mis,mis,E,['T1.3'],tachwedd,tachwedd,unk,['Z99']
+mis,mis,E,['T1.3'],mawrth,mawrth,unk,['Z99']
+mis,mis,E,['T1.3'],gorffennaf,gorffen,B,"['T2-', 'Q1.2']"
+mis,mis,E,['T1.3'],medi,medi | medi,B | B,"['F4', 'A9+']"
+mis,mis,E,['T1.3'],wythnos,wythnos,E,['T1.3']
+mis,mis,E,['T1.3'],hydref,hydref,E,['T1.3']
+mis,mis,E,['T1.3'],chwefror,chwefror,unk,['Z99']
+tro,tro,E,"['M2', 'M1', 'O4.4', 'A1.1.1', 'A2.1+', 'O4.2-']",cyntaf,un,Rhi,"['N4', 'P1@']"
+tro,tro,E,"['M2', 'M1', 'O4.4', 'A1.1.1', 'A2.1+', 'O4.2-']",cynta,un,Rhi,"['N4', 'P1@']"
+tro,tro,E,"['M2', 'M1', 'O4.4', 'A1.1.1', 'A2.1+', 'O4.2-']",cynta,un,Rhi,"['N4', 'P1@']"
+tro,tro,E,"['M2', 'M1', 'O4.4', 'A1.1.1', 'A2.1+', 'O4.2-']",cynta,un,Rhi,"['N4', 'P1@']"
+tro,tro,E,"['M2', 'M1', 'O4.4', 'A1.1.1', 'A2.1+', 'O4.2-']",dro,tro,E,"['M2', 'M1', 'O4.4', 'A1.1.1', 'A2.1+', 'O4.2-']"
+tro,tro,E,"['M2', 'M1', 'O4.4', 'A1.1.1', 'A2.1+', 'O4.2-']",eildro,eildro,E,['Z99']
+tro,tro,E,"['M2', 'M1', 'O4.4', 'A1.1.1', 'A2.1+', 'O4.2-']",dwuy,dwuy,unk,['Z99']
+tro,tro,E,"['M2', 'M1', 'O4.4', 'A1.1.1', 'A2.1+', 'O4.2-']",erioed,erioed,Adf,['T1/Z6']
+tro,tro,E,"['M2', 'M1', 'O4.4', 'A1.1.1', 'A2.1+', 'O4.2-']",ers,ers,Ar,['N4']
+tro,tro,E,"['M2', 'M1', 'O4.4', 'A1.1.1', 'A2.1+', 'O4.2-']",degawd,degawd,E,['T1.3']
+llyfr,llyfr,E,"['A9+/Q2.2', 'G2.1']",lyfr,llyfr,E,"['A9+/Q2.2', 'G2.1']"
+llyfr,llyfr,E,"['A9+/Q2.2', 'G2.1']",llyfr,llyfr,E,"['A9+/Q2.2', 'G2.1']"
+llyfr,llyfr,E,"['A9+/Q2.2', 'G2.1']",cyfrolau,cyfrol,E,"['N3.4', 'N5', 'Q4.1', 'Q4.2', 'X3.2']"
+llyfr,llyfr,E,"['A9+/Q2.2', 'G2.1']",llyfr,llyfr,E,"['A9+/Q2.2', 'G2.1']"
+llyfr,llyfr,E,"['A9+/Q2.2', 'G2.1']",pumllyfr,pumllyfr,unk,['Z99']
+llyfr,llyfr,E,"['A9+/Q2.2', 'G2.1']",llyfryn,llyfryn,E,['Q4.1']
+llyfr,llyfr,E,"['A9+/Q2.2', 'G2.1']",llyfre,llyfre,unk,['Z99']
+llyfr,llyfr,E,"['A9+/Q2.2', 'G2.1']",cyfrol,cyfrol,E,"['N3.4', 'N5', 'Q4.1', 'Q4.2', 'X3.2']"
+llyfr,llyfr,E,"['A9+/Q2.2', 'G2.1']",llyfra,llyfru | llyfru,B | B,"['A9+/Q2.2', 'G2.1']"
+llyfr,llyfr,E,"['A9+/Q2.2', 'G2.1']",ilyfr,ilyfr,unk,['Z99']
+cwrs,cwrs,E,['M1'],cyrsiau,cwrs,E,"['M6', 'X7+', 'P1', 'B3', 'F1', 'M7/K5.1', 'T1.3']"
+cwrs,cwrs,E,['M1'],cwrs,cwrs,E,['M1']
+cwrs,cwrs,E,['M1'],gyrsiau,cwrs,E,['M1']
+cwrs,cwrs,E,['M1'],diploma,diploma,E,"['P1', 'Q1.2']"
+cwrs,cwrs,E,['M1'],chyrsiau,cwrs,E,['M1']
+cwrs,cwrs,E,['M1'],tiwtora,tiwtora,unk,['Z99']
+cwrs,cwrs,E,['M1'],cymhwyster,cymhwyster,E,"['P1', 'X9.1', 'S6+', 'A1.7+']"
+cwrs,cwrs,E,['M1'],chwrs,cwrs,E,['M1']
+cwrs,cwrs,E,['M1'],hyfforddi,hyfforddi | hyfforddi,B | B,"['P1', 'K5.1']"
+cwrs,cwrs,E,['M1'],wlpan,wlpan,unk,['Z99']
+cwrs,cwrs,E,['M1'],cyrsiau,cwrs,E,"['M6', 'X7+', 'P1', 'B3', 'F1', 'M7/K5.1', 'T1.3']"
+cwrs,cwrs,E,['M1'],cwrs,cwrs,E,['M1']
+cwrs,cwrs,E,['M1'],gyrsiau,cwrs,E,['M1']
+cwrs,cwrs,E,['M1'],diploma,diploma,E,"['P1', 'Q1.2']"
+cwrs,cwrs,E,['M1'],chyrsiau,cwrs,E,['M1']
+cwrs,cwrs,E,['M1'],tiwtora,tiwtora,unk,['Z99']
+cwrs,cwrs,E,['M1'],cymhwyster,cymhwyster,E,"['P1', 'X9.1', 'S6+', 'A1.7+']"
+cwrs,cwrs,E,['M1'],chwrs,cwrs,E,['M1']
+cwrs,cwrs,E,['M1'],hyfforddi,hyfforddi | hyfforddi,B | B,"['P1', 'K5.1']"
+cwrs,cwrs,E,['M1'],wlpan,wlpan,unk,['Z99']
+rhaglen,rhaglen,E,['Y2'],rhaglen,rhaglen,E,['Y2']
+rhaglen,rhaglen,E,['Y2'],raglen,rhaglen,E,['Y2']
+rhaglen,rhaglen,E,['Y2'],rhagleni,rhagleni,unk,['Z99']
+rhaglen,rhaglen,E,['Y2'],rhaglenni,rhaglennu,E,['Y2']
+rhaglen,rhaglen,E,['Y2'],rhaglennydd,rhaglennydd,unk,['Z99']
+rhaglen,rhaglen,E,['Y2'],ddogfen,dogfen,E,"['Q1.2', 'X2.2+', 'A5.2+']"
+rhaglen,rhaglen,E,['Y2'],gyfres,cyfres,E,"['N4c', 'Q4.3c']"
+rhaglen,rhaglen,E,['Y2'],rhaglennu,rhaglennu,B,['Y2']
+rhaglen,rhaglen,E,['Y2'],raglenni,rhaglen,E,['Y2']
+rhaglen,rhaglen,E,['Y2'],rhaglenjonathan,rhaglenjonathan,unk,['Z99']
+diolch,diolch,B,['S1.2.4+'],diolcha,diolch | diolch,B | B,['S1.2.4+']
+diolch,diolch,E,['S1.2.4+'],dimdiolch,dimdiolch,unk,['Z99']
+diolch,diolch,B,['S1.2.4+'],diolchaf,diolch,B,['S1.2.4+']
+diolch,diolch,E,['S1.2.4+'],diolch,diolch,E,['S1.2.4+']
+diolch,diolch,B,['S1.2.4+'],diolchai,diolch,B,['S1.2.4+']
+diolch,diolch,E,['S1.2.4+'],diolchwn,diolch,B,['S1.2.4+']
+diolch,diolch,B,['S1.2.4+'],diolchais,diolch,B,['S1.2.4+']
+diolch,diolch,E,['S1.2.4+'],diolchwch,diolch | diolch,B | B,['S1.2.4+']
+diolch,diolch,B,['S1.2.4+'],ddiolch,diolch,E,['S1.2.4+']
+diolch,diolch,E,['S1.2.4+'],diolch,diolch,E,['S1.2.4+']
+aelod,aelod,E,"['S5+/S2mf', 'B1']",aelode,aelode,unk,['Z99']
+aelod,aelod,E,"['S5+/S2mf', 'B1']",aelodau,aelod,E,"['S5+/S2mf', 'B1']"
+aelod,aelod,E,"['S5+/S2mf', 'B1']",cynaelod,cynaelod,unk,['Z99']
+aelod,aelod,E,"['S5+/S2mf', 'B1']",seneddol,seneddol,Ans,['G1.1']
+aelod,aelod,E,"['S5+/S2mf', 'B1']",cynrychiolydd,cynrychiolydd,E,"['Q2.1/S2mf', 'G1.1/S2mf', 'I2.2/S2mf', 'A4.1']"
+aelod,aelod,E,"['S5+/S2mf', 'B1']",aeloda,aelodi | aelodi,B | B,['S5+']
+aelod,aelod,E,"['S5+/S2mf', 'B1']",gynrychiolydd,cynrychiolydd,E,"['Q2.1/S2mf', 'G1.1/S2mf', 'I2.2/S2mf', 'A4.1']"
+aelod,aelod,E,"['S5+/S2mf', 'B1']",haelod,aelod,E,"['S5+/S2mf', 'B1']"
+aelod,aelod,E,"['S5+/S2mf', 'B1']",cynaelodau,cynaelodau,unk,['Z99']
+aelod,aelod,E,"['S5+/S2mf', 'B1']",cynrychiolwr,cynrychiolwr,E,"['Q2.1/S2mf', 'G1.1/S2mf', 'I2.2/S2mf', 'A4.1']"
+gair,gair,E,['Q3'],air,gair,E,['Q3']
+gair,gair,E,['Q3'],ymadrodd,ymadrodd,B,['Q2.1']
+gair,gair,E,['Q3'],ystyr,ystyr,E,"['X2.1', 'A11.1+', 'Q3', 'X7+']"
+gair,gair,E,['Q3'],geiriau,gair,E,['Q3']
+gair,gair,E,['Q3'],gair,gair,E,['Q3']
+gair,gair,E,['Q3'],arwydd,arwydd,E,"['Q1.2', 'Q1.1', 'G2.1', 'I3.1', 'S9']"
+gair,gair,E,['Q3'],eiriau,gair,E,['Q3']
+gair,gair,E,['Q3'],dyfyniad,dyfyniad,E,"['Q2.2', 'I1.3']"
+gair,gair,E,['Q3'],dyfyniadau,dyfyniad,E,"['Q2.2', 'I1.3']"
+gair,gair,E,['Q3'],gair,gair,E,['Q3']
+oed,oed,E,"['T3++', 'T3']",mlwydd,blwydd,E,"['T1.3', 'P1c']"
+oed,oed,E,"['T3++', 'T3']",ddwyflwydd,dwyflwydd,Ans,['Z99']
+oed,oed,E,"['T3++', 'T3']",ddyflwydd,ddyflwydd,unk,['Z99']
+oed,oed,E,"['T3++', 'T3']",flwydd,blwydd,E,"['T1.3', 'P1c']"
+oed,oed,E,"['T3++', 'T3']",dwyflwydd,dwyflwydd,Ans,['Z99']
+oed,oed,E,"['T3++', 'T3']",dyflwydd,dyflwydd,unk,['Z99']
+oed,oed,E,"['T3++', 'T3']",blwydd,blwydd,E,"['T1.3', 'P1c']"
+oed,oed,E,"['T3++', 'T3']",throsodd,tros | trosi,Adf | B,['Z99']
+oed,oed,E,"['T3++', 'T3']",deirblwydd,deirblwydd,unk,['Z99']
+oed,oed,E,"['T3++', 'T3']",dyn,dyn,B,"['A3+', 'Z5']"
+llywodraeth,llywodraeth,E,['G1.1c'],llywodraet,llywodraet,unk,['Z99']
+llywodraeth,llywodraeth,E,['G1.1c'],llywodraeth,llywodraeth,E,['G1.1c']
+llywodraeth,llywodraeth,E,['G1.1c'],elywodraeth,elywodraeth,unk,['Z99']
+llywodraeth,llywodraeth,E,['G1.1c'],llywodaeth,llywodaeth,unk,['Z99']
+llywodraeth,llywodraeth,E,['G1.1c'],lywodraeth,llywodraeth,E,['G1.1c']
+llywodraeth,llywodraeth,E,['G1.1c'],llywodraethau,llywodraeth,E,['G1.1c']
+llywodraeth,llywodraeth,E,['G1.1c'],uywodraeth,uywodraeth,unk,['Z99']
+llywodraeth,llywodraeth,E,['G1.1c'],iywodraeth,iywodraeth,unk,['Z99']
+llywodraeth,llywodraeth,E,['G1.1c'],llywodraetha,llywodraethu | llywodraethu,B | B,"['S7.1+', 'A1.7+']"
+llywodraeth,llywodraeth,E,['G1.1c'],cynlywodraeth,cynlywodraeth,unk,['Z99']
+gwybodaeth,gwybodaeth,E,"['X2.2+', 'S3.2/B1%']",gwybodaet,gwybodaet,unk,['Z99']
+gwybodaeth,gwybodaeth,E,"['X2.2+', 'S3.2/B1%']",gwybodaeth,gwybodaeth,E,"['X2.2+', 'S3.2/B1%']"
+gwybodaeth,gwybodaeth,E,"['X2.2+', 'S3.2/B1%']",gwybodaeth,gwybodaeth,E,"['X2.2+', 'S3.2/B1%']"
+gwybodaeth,gwybodaeth,E,"['X2.2+', 'S3.2/B1%']",gwybodaeth,gwybodaeth,E,"['X2.2+', 'S3.2/B1%']"
+gwybodaeth,gwybodaeth,E,"['X2.2+', 'S3.2/B1%']",ngwybodaeth,gwybodaeth,E,"['X2.2+', 'S3.2/B1%']"
+gwybodaeth,gwybodaeth,E,"['X2.2+', 'S3.2/B1%']",wybodaet,wybodaet,unk,['Z99']
+gwybodaeth,gwybodaeth,E,"['X2.2+', 'S3.2/B1%']",wybodaeth,gwybodaeth,E,"['X2.2+', 'S3.2/B1%']"
+gwybodaeth,gwybodaeth,E,"['X2.2+', 'S3.2/B1%']",hanwybodaeth,anwybodaeth,E,"['X9.1-', 'S1.2.4-']"
+gwybodaeth,gwybodaeth,E,"['X2.2+', 'S3.2/B1%']",cuddwybodaeth,cuddwybodaeth,unk,['Z99']
+gwybodaeth,gwybodaeth,E,"['X2.2+', 'S3.2/B1%']",gwybodau,gwybodau,unk,['Z99']
+cyfle,cyfle,E,['A1.4'],gyfle,cyfle,E,['A1.4']
+cyfle,cyfle,E,['A1.4'],cyfleoedd,cyfle,E,['A1.4']
+cyfle,cyfle,E,['A1.4'],cyfle,cyfle,E,['A1.4']
+cyfle,cyfle,E,['A1.4'],chyfle,cyfle,E,['A1.4']
+cyfle,cyfle,E,['A1.4'],cyfle,cyfle,E,['A1.4']
+cyfle,cyfle,E,['A1.4'],cyfleodd,cyfleu,B,['Q1.1']
+cyfle,cyfle,E,['A1.4'],gyfleoedd,cyfle,E,['A1.4']
+cyfle,cyfle,E,['A1.4'],gwahoddiad,gwahoddiad,E,['Q2.2']
+cyfle,cyfle,E,['A1.4'],cyfloedd,cyfloedd,unk,['Z99']
+cyfle,cyfle,E,['A1.4'],cyfleon,cyfleu | cyfleu | cyfle,B | B | E,['A1.4']
+hanes,hanes,E,"['T1.1.1', 'P1/T1.1.1', 'Q2.1', 'B2']",gwylhanes,gwylhanes,unk,['Z99']
+hanes,hanes,E,"['T1.1.1', 'P1/T1.1.1', 'Q2.1', 'B2']",hanesion,hanes,E,"['T1.1.1', 'P1/T1.1.1', 'Q2.1', 'B2']"
+hanes,hanes,E,"['T1.1.1', 'P1/T1.1.1', 'Q2.1', 'B2']",hanesiol,hanesiol,unk,['Z99']
+hanes,hanes,E,"['T1.1.1', 'P1/T1.1.1', 'Q2.1', 'B2']",hanesyddiaeth,hanesyddiaeth,unk,['Z99']
+hanes,hanes,E,"['T1.1.1', 'P1/T1.1.1', 'Q2.1', 'B2']",hanes,hanes,E,"['T1.1.1', 'P1/T1.1.1', 'Q2.1', 'B2']"
+hanes,hanes,E,"['T1.1.1', 'P1/T1.1.1', 'Q2.1', 'B2']",morwriaeth,morwriaeth,E,['Z99']
+hanes,hanes,E,"['T1.1.1', 'P1/T1.1.1', 'Q2.1', 'B2']",naearyddiaeth,daearyddiaeth,E,"['P1/W3', 'W3']"
+hanes,hanes,E,"['T1.1.1', 'P1/T1.1.1', 'Q2.1', 'B2']",hynafiaethau,hynafiaethau,unk,['Z99']
+hanes,hanes,E,"['T1.1.1', 'P1/T1.1.1', 'Q2.1', 'B2']",hanes,hanes,E,"['T1.1.1', 'P1/T1.1.1', 'Q2.1', 'B2']"
+hanes,hanes,E,"['T1.1.1', 'P1/T1.1.1', 'Q2.1', 'B2']",thraddodiadau,traddodiad,E,"['S1.1.1', 'T1.1.1', 'A6.2+']"
+hyd,hyd,E,"['N3.7', 'T1.3', 'M4']",nes,agos,Ans,['N3.3--']
+hyd,hyd,E,"['N3.7', 'T1.3', 'M4']",lled,lled,E,"['N3.7', 'N3.3']"
+hyd,hyd,E,"['N3.7', 'T1.3', 'M4']",ganol,canol,E,"['M6', 'N5', 'N4', 'T1.2']"
+hyd,hyd,E,"['N3.7', 'T1.3', 'M4']",ol,holl,Ans,['A13.2']
+hyd,hyd,E,"['N3.7', 'T1.3', 'M4']",ben,pen,E,"['S7.1+', 'K5.1', 'M1', 'N5', 'A2.1+', 'A11.1+', 'Q1.2', 'T1.1.3']"
+hyd,hyd,E,"['N3.7', 'T1.3', 'M4']",oed,oed,E,"['T3++', 'T3']"
+hyd,hyd,E,"['N3.7', 'T1.3', 'M4']",bryd,bryd,E,"['E6+', 'E2-', 'S8+', 'A1.3']"
+hyd,hyd,E,"['N3.7', 'T1.3', 'M4']",dal,dal,B,['T2++']
+hyd,hyd,E,"['N3.7', 'T1.3', 'M4']",ddiwedd,diwedd,E,['T2-']
+hyd,hyd,E,"['N3.7', 'T1.3', 'M4']",gyd,cyd,Ans,['F1']
+llun,llun,E,"['X2.1', 'C1']",gwener,gwenu,B,['E4.1+']
+llun,llun,E,"['X2.1', 'C1']",mercher,mercher,unk,['Z99']
+llun,llun,E,"['X2.1', 'C1']",ddydd,dydd,E,['T1.3']
+llun,llun,E,"['X2.1', 'C1']",iau,ifanc,Ans,['T3--']
+llun,llun,E,"['X2.1', 'C1']",lluniau,llun,E,"['C1', 'Q4.3', 'X4.1']"
+llun,llun,E,"['X2.1', 'C1']",pamae,pamae,unk,['Z99']
+llun,llun,E,"['X2.1', 'C1']",llungwener,llungwener,unk,['Z99']
+llun,llun,E,"['X2.1', 'C1']",mawrth,mawrth,unk,['Z99']
+llun,llun,E,"['X2.1', 'C1']",dyddllun,dyddllun,unk,['Z99']
+llun,llun,E,"['X2.1', 'C1']",brynhawn,prynhawn,E,['T1.3']
+man,man,E,"['M2', 'X2.2+', 'I3.1', 'Q2.2']",fan,fan,E,['M3fn']
+man,man,E,"['M2', 'X2.2+', 'I3.1', 'Q2.2']",lle,lle,Rha,['M6']
+man,man,E,"['M2', 'X2.2+', 'I3.1', 'Q2.2']",mannau,man,E,"['M2', 'X2.2+', 'I3.1', 'Q2.2']"
+man,man,E,"['M2', 'X2.2+', 'I3.1', 'Q2.2']",reaper,reaper,unk,['Z99']
+man,man,E,"['M2', 'X2.2+', 'I3.1', 'Q2.2']",lleoliad,lleoliad,E,['M7']
+man,man,E,"['M2', 'X2.2+', 'I3.1', 'Q2.2']",cares,cares,unk,['Z99']
+man,man,E,"['M2', 'X2.2+', 'I3.1', 'Q2.2']",stared,stared,unk,['Z99']
+man,man,E,"['M2', 'X2.2+', 'I3.1', 'Q2.2']",gwan,gwan,Ans,"['S1.2.5-', 'O4.1', 'S7.1-', 'A5.1-']"
+man,man,E,"['M2', 'X2.2+', 'I3.1', 'Q2.2']",stones,stones,unk,['Z99']
+man,man,E,"['M2', 'X2.2+', 'I3.1', 'Q2.2']",maes,maes,E,"['K5.1', 'A1.1.1']"
+man,man,E,"['M2', 'X2.2+', 'I3.1', 'Q2.2']",fan,fan,E,['M3fn']
+man,man,E,"['M2', 'X2.2+', 'I3.1', 'Q2.2']",lle,lle,Rha,['M6']
+man,man,E,"['M2', 'X2.2+', 'I3.1', 'Q2.2']",mannau,man,E,"['M2', 'X2.2+', 'I3.1', 'Q2.2']"
+man,man,E,"['M2', 'X2.2+', 'I3.1', 'Q2.2']",reaper,reaper,unk,['Z99']
+man,man,E,"['M2', 'X2.2+', 'I3.1', 'Q2.2']",lleoliad,lleoliad,E,['M7']
+man,man,E,"['M2', 'X2.2+', 'I3.1', 'Q2.2']",cares,cares,unk,['Z99']
+man,man,E,"['M2', 'X2.2+', 'I3.1', 'Q2.2']",stared,stared,unk,['Z99']
+man,man,E,"['M2', 'X2.2+', 'I3.1', 'Q2.2']",gwan,gwan,Ans,"['S1.2.5-', 'O4.1', 'S7.1-', 'A5.1-']"
+man,man,E,"['M2', 'X2.2+', 'I3.1', 'Q2.2']",stones,stones,unk,['Z99']
+man,man,E,"['M2', 'X2.2+', 'I3.1', 'Q2.2']",maes,maes,E,"['K5.1', 'A1.1.1']"
+diwrnod,diwrnod,E,['T1.3'],ddiwrnod,diwrnod,E,['T1.3']
+diwrnod,diwrnod,E,['T1.3'],diwrnodiau,diwrnod,E,['T1.3']
+diwrnod,diwrnod,E,['T1.3'],diwrnod,diwrnod,E,['T1.3']
+diwrnod,diwrnod,E,['T1.3'],arddiwrnod,arddiwrnod,unk,['Z99']
+diwrnod,diwrnod,E,['T1.3'],dwrnod,dwrnod,unk,['Z99']
+diwrnod,diwrnod,E,['T1.3'],ddiwrnode,ddiwrnode,unk,['Z99']
+diwrnod,diwrnod,E,['T1.3'],diwrnodyllyfr,diwrnodyllyfr,unk,['Z99']
+diwrnod,diwrnod,E,['T1.3'],ddiwrnodiau,diwrnod,E,['T1.3']
+diwrnod,diwrnod,E,['T1.3'],ddwrnod,ddwrnod,unk,['Z99']
+diwrnod,diwrnod,E,['T1.3'],dïwrnod,dïwrnod,unk,['Z99']
+rhyw,rhyw,E,['L2'],ryw,rhyw,E,['L2']
+rhyw,rhyw,E,['L2'],fath,bath | math,E | E,['Z99']
+rhyw,rhyw,E,['L2'],rhywiol,rhywiol,Ans,['S3.2']
+rhyw,rhyw,E,['L2'],rhyw,rhyw,E,['L2']
+rhyw,rhyw,E,['L2'],rhywfodd,rhywfodd,unk,['Z99']
+rhyw,rhyw,E,['L2'],dau,dau,Rhi,"['N1', 'T3', 'T1.2']"
+rhyw,rhyw,E,['L2'],na,dyna,U,['Z5']
+rhyw,rhyw,E,['L2'],rhywfath,rhywfath,unk,['Z99']
+rhyw,rhyw,E,['L2'],rhywffordd,rhywffordd,unk,['Z99']
+rhyw,rhyw,E,['L2'],bron,bron,E,"['B1', 'F1', 'O2']"
+rhyw,rhyw,E,['L2'],ryw,rhyw,E,['L2']
+rhyw,rhyw,E,['L2'],fath,bath | math,E | E,['Z99']
+rhyw,rhyw,E,['L2'],rhywiol,rhywiol,Ans,['S3.2']
+rhyw,rhyw,E,['L2'],rhyw,rhyw,E,['L2']
+rhyw,rhyw,E,['L2'],rhywfodd,rhywfodd,unk,['Z99']
+rhyw,rhyw,E,['L2'],dau,dau,Rhi,"['N1', 'T3', 'T1.2']"
+rhyw,rhyw,E,['L2'],na,dyna,U,['Z5']
+rhyw,rhyw,E,['L2'],rhywfath,rhywfath,unk,['Z99']
+rhyw,rhyw,E,['L2'],rhywffordd,rhywffordd,unk,['Z99']
+rhyw,rhyw,E,['L2'],bron,bron,E,"['B1', 'F1', 'O2']"
+gwasanaeth,gwasanaeth,E,"['A1.1.1', 'S8+']",wasanaeth,gwasanaeth,E,"['A1.1.1', 'S8+']"
+gwasanaeth,gwasanaeth,E,"['A1.1.1', 'S8+']",gwasanaethol,gwasanaethol,unk,['Z99']
+gwasanaeth,gwasanaeth,E,"['A1.1.1', 'S8+']",gwasanaeth,gwasanaeth,E,"['A1.1.1', 'S8+']"
+gwasanaeth,gwasanaeth,E,"['A1.1.1', 'S8+']",gwasanaetha,gwasanaethu | gwasanaethu,B | B,"['S8+', 'S7.1-', 'I2.2', 'A9-', 'F1', 'A1.1.1', 'I3.1', 'K5.1', 'G2.1']"
+gwasanaeth,gwasanaeth,E,"['A1.1.1', 'S8+']",gwasanaethant,gwasanaethu,B,"['S8+', 'S7.1-', 'I2.2', 'A9-', 'F1', 'A1.1.1', 'I3.1', 'K5.1', 'G2.1']"
+gwasanaeth,gwasanaeth,E,"['A1.1.1', 'S8+']",agwasanaeth,agwasanaeth,unk,['Z99']
+gwasanaeth,gwasanaeth,E,"['A1.1.1', 'S8+']",gwasanaethwyr,gwasanaethwyr,unk,['Z99']
+gwasanaeth,gwasanaeth,E,"['A1.1.1', 'S8+']",gwasanaethai,gwasanaethu,B,"['S8+', 'S7.1-', 'I2.2', 'A9-', 'F1', 'A1.1.1', 'I3.1', 'K5.1', 'G2.1']"
+gwasanaeth,gwasanaeth,E,"['A1.1.1', 'S8+']",gwasanaethau,gwasanaeth,E,"['S8+', 'S7.1-', 'A1.1.1', 'S9', 'G3@', 'G2.1@', 'M3/M7@']"
+gwasanaeth,gwasanaeth,E,"['A1.1.1', 'S8+']",gwasanaethwch,gwasanaethu | gwasanaethu,B | B,"['S8+', 'S7.1-', 'I2.2', 'A9-', 'F1', 'A1.1.1', 'I3.1', 'K5.1', 'G2.1']"
+gwlad,gwlad,E,"['G1.1c', 'W3', 'F4/M7']",thaigwlad,thaigwlad,unk,['Z99']
+gwlad,gwlad,E,"['G1.1c', 'W3', 'F4/M7']",belggwlad,belggwlad,unk,['Z99']
+gwlad,gwlad,E,"['G1.1c', 'W3', 'F4/M7']",iorddonengwlad,iorddonengwlad,unk,['Z99']
+gwlad,gwlad,E,"['G1.1c', 'W3', 'F4/M7']",groeggwlad,groeggwlad,unk,['Z99']
+gwlad,gwlad,E,"['G1.1c', 'W3', 'F4/M7']",agwlad,agwlad,unk,['Z99']
+gwlad,gwlad,E,"['G1.1c', 'W3', 'F4/M7']",cefngwlad,cefngwlad,unk,['Z99']
+gwlad,gwlad,E,"['G1.1c', 'W3', 'F4/M7']",swazigwlad,swazigwlad,unk,['Z99']
+gwlad,gwlad,E,"['G1.1c', 'W3', 'F4/M7']",chwegwlad,chwegwlad,unk,['Z99']
+gwlad,gwlad,E,"['G1.1c', 'W3', 'F4/M7']",belg,belg,unk,['Z99']
+gwlad,gwlad,E,"['G1.1c', 'W3', 'F4/M7']",gwlad,gwlad,E,"['G1.1c', 'W3', 'F4/M7']"
+cyfnod,cyfnod,E,"['T1.3', 'B1', 'Q3', 'P1/T1.3']",cyfnodau,cyfnod,E,"['T1.3', 'B1', 'Q3', 'P1/T1.3']"
+cyfnod,cyfnod,E,"['T1.3', 'B1', 'Q3', 'P1/T1.3']",gyfnod,cyfnod,E,"['T1.3', 'B1', 'Q3', 'P1/T1.3']"
+cyfnod,cyfnod,E,"['T1.3', 'B1', 'Q3', 'P1/T1.3']",chyfnod,cyfnod,E,"['T1.3', 'B1', 'Q3', 'P1/T1.3']"
+cyfnod,cyfnod,E,"['T1.3', 'B1', 'Q3', 'P1/T1.3']",cyfnodi,cyfnodi,unk,['Z99']
+cyfnod,cyfnod,E,"['T1.3', 'B1', 'Q3', 'P1/T1.3']",chyfnodau,cyfnod,E,"['T1.3', 'B1', 'Q3', 'P1/T1.3']"
+cyfnod,cyfnod,E,"['T1.3', 'B1', 'Q3', 'P1/T1.3']",cyfnod,cyfnod,E,"['T1.3', 'B1', 'Q3', 'P1/T1.3']"
+cyfnod,cyfnod,E,"['T1.3', 'B1', 'Q3', 'P1/T1.3']",ycyfnod,ycyfnod,unk,['Z99']
+cyfnod,cyfnod,E,"['T1.3', 'B1', 'Q3', 'P1/T1.3']",gyfnodau,cyfnod,E,"['T1.3', 'B1', 'Q3', 'P1/T1.3']"
+cyfnod,cyfnod,E,"['T1.3', 'B1', 'Q3', 'P1/T1.3']",nghyfnodau,cyfnod,E,"['T1.3', 'B1', 'Q3', 'P1/T1.3']"
+cyfnod,cyfnod,E,"['T1.3', 'B1', 'Q3', 'P1/T1.3']",gynni,gan,Ar,['Z5']
+bywyd,bywyd,E,"['L1+', 'A3+', 'T1.3', 'S1.1.1', 'A1.1.1', 'X5.2+', 'Q4.1', 'A11.1+++', 'A5.4+/C1']",bywydu,bywydu,unk,['Z99']
+bywyd,bywyd,E,"['L1+', 'A3+', 'T1.3', 'S1.1.1', 'A1.1.1', 'X5.2+', 'Q4.1', 'A11.1+++', 'A5.4+/C1']",bywydau,bywyd,E,"['L1+', 'A3+', 'T1.3', 'S1.1.1', 'A1.1.1', 'X5.2+', 'Q4.1', 'A11.1+++', 'A5.4+/C1']"
+bywyd,bywyd,E,"['L1+', 'A3+', 'T1.3', 'S1.1.1', 'A1.1.1', 'X5.2+', 'Q4.1', 'A11.1+++', 'A5.4+/C1']",fywyd,bywyd,E,"['L1+', 'A3+', 'T1.3', 'S1.1.1', 'A1.1.1', 'X5.2+', 'Q4.1', 'A11.1+++', 'A5.4+/C1']"
+bywyd,bywyd,E,"['L1+', 'A3+', 'T1.3', 'S1.1.1', 'A1.1.1', 'X5.2+', 'Q4.1', 'A11.1+++', 'A5.4+/C1']",bywydol,bywydol,unk,['Z99']
+bywyd,bywyd,E,"['L1+', 'A3+', 'T1.3', 'S1.1.1', 'A1.1.1', 'X5.2+', 'Q4.1', 'A11.1+++', 'A5.4+/C1']",bywyd,bywyd,E,"['L1+', 'A3+', 'T1.3', 'S1.1.1', 'A1.1.1', 'X5.2+', 'Q4.1', 'A11.1+++', 'A5.4+/C1']"
+bywyd,bywyd,E,"['L1+', 'A3+', 'T1.3', 'S1.1.1', 'A1.1.1', 'X5.2+', 'Q4.1', 'A11.1+++', 'A5.4+/C1']",bywyde,bywyde,unk,['Z99']
+bywyd,bywyd,E,"['L1+', 'A3+', 'T1.3', 'S1.1.1', 'A1.1.1', 'X5.2+', 'Q4.1', 'A11.1+++', 'A5.4+/C1']",gwyllt,gwyllt,Ans,"['E3-', 'X5.2+', 'A1.7-']"
+bywyd,bywyd,E,"['L1+', 'A3+', 'T1.3', 'S1.1.1', 'A1.1.1', 'X5.2+', 'Q4.1', 'A11.1+++', 'A5.4+/C1']",tragwyddol,tragwyddol,Ans,['T2+++']
+bywyd,bywyd,E,"['L1+', 'A3+', 'T1.3', 'S1.1.1', 'A1.1.1', 'X5.2+', 'Q4.1', 'A11.1+++', 'A5.4+/C1']",beunyddiol,beunyddiol,Ans,"['Q4.2', 'B4/S2mf']"
+bywyd,bywyd,E,"['L1+', 'A3+', 'T1.3', 'S1.1.1', 'A1.1.1', 'X5.2+', 'Q4.1', 'A11.1+++', 'A5.4+/C1']",mywyd,bywyd,E,"['L1+', 'A3+', 'T1.3', 'S1.1.1', 'A1.1.1', 'X5.2+', 'Q4.1', 'A11.1+++', 'A5.4+/C1']"
+cig,cig,E,"['F1', 'A4.2+']",oen,oen,E,"['L2mfn', 'F1']"
+cig,cig,E,"['F1', 'A4.2+']",eidion,eidion,E,['L2mn']
+cig,cig,E,"['F1', 'A4.2+']",chig,cig,E,"['F1', 'A4.2+']"
+cig,cig,E,"['F1', 'A4.2+']",pgi,pgi,unk,['Z99']
+cig,cig,E,"['F1', 'A4.2+']",eidionnau,eidion,E,['L2mn']
+cig,cig,E,"['F1', 'A4.2+']",porc,porc,unk,['Z99']
+cig,cig,E,"['F1', 'A4.2+']",llaeth,llaeth,E,"['F4', 'A9+']"
+cig,cig,E,"['F1', 'A4.2+']",phorc,phorc,unk,['Z99']
+cig,cig,E,"['F1', 'A4.2+']",cynnyrch,cynnyrch,E,"['O2', 'A1.1.1', 'A2.2', 'N2%']"
+cig,cig,E,"['F1', 'A4.2+']",hcc,hcc,unk,['Z99']
+nifer,nifer,E,['N5'],cynifer,cynifer,Ans,['Z99']
+nifer,nifer,E,['N5'],niferoedd,nifer,E,"['N5', 'N1', 'Q1.3', 'K2', 'Q4.2']"
+nifer,nifer,E,['N5'],nifer,nifer,E,['N5']
+nifer,nifer,E,['N5'],amryw,amryw,unk,['N5']
+nifer,nifer,E,['N5'],rhai,rhai,unk,['A13.5']
+nifer,nifer,E,['N5'],cynnifer,cynnifer,unk,['Z99']
+nifer,nifer,E,['N5'],gynifer,cynifer,Ans,['Z99']
+nifer,nifer,E,['N5'],ddwsinau,dwsin,E,['N5']
+nifer,nifer,E,['N5'],canran,canran,E,"['N5', 'N5']"
+nifer,nifer,E,['N5'],niferau,niferau,unk,['Z99']
+gwefan,gwefan,E,['Y2'],ngwefan,gwefan,E,['Y2']
+gwefan,gwefan,E,['Y2'],wefan,gwefan,E,['Y2']
+gwefan,gwefan,E,['Y2'],gwefanau,gwefanau,unk,['Z99']
+gwefan,gwefan,E,['Y2'],www,www,unk,['Z99']
+gwefan,gwefan,E,['Y2'],hawlgwefan,hawlgwefan,unk,['Z99']
+gwefan,gwefan,E,['Y2'],gwefannau,gwefan,E,['Y2']
+gwefan,gwefan,E,['Y2'],cymrucatalonia,cymrucatalonia,unk,['Z99']
+gwefan,gwefan,E,['Y2'],naturiaethwyr,naturiaethwyr,unk,['Z99']
+gwefan,gwefan,E,['Y2'],eatwelshlambandwelshbeef,eatwelshlambandwelshbeef,unk,['Z99']
+gwefan,gwefan,E,['Y2'],wyndhamleigh,wyndhamleigh,unk,['Z99']
+ystod,ystod,E,"['A1.8+', 'T1.3', 'N3.3', 'N3.7']",ddiwedd,diwedd,E,['T2-']
+ystod,ystod,E,"['A1.8+', 'T1.3', 'N3.3', 'N3.7']",diwethaf,diwethaf,Ans,"['T2++', 'T1.3']"
+ystod,ystod,E,"['A1.8+', 'T1.3', 'N3.3', 'N3.7']",ddiweddarach,diweddar,Ans,['T3-']
+ystod,ystod,E,"['A1.8+', 'T1.3', 'N3.3', 'N3.7']",gydol,cydol,E,['N5.1+']
+ystod,ystod,E,"['A1.8+', 'T1.3', 'N3.3', 'N3.7']",gynharach,cynnar,Ans,['T4+']
+ystod,ystod,E,"['A1.8+', 'T1.3', 'N3.3', 'N3.7']",dilyn,dilyn,B,"['M1', 'N4', 'S7.1-', 'X2.4', 'X2.5+', 'A6.1+', 'A1.1.1', 'A2.2', 'K5.1', 'X3.4']"
+ystod,ystod,E,"['A1.8+', 'T1.3', 'N3.3', 'N3.7']",cyfnod,cyfnod,E,"['T1.3', 'B1', 'Q3', 'P1/T1.3']"
+ystod,ystod,E,"['A1.8+', 'T1.3', 'N3.3', 'N3.7']",dilynol,dilynol,Ans,['N4']
+ystod,ystod,E,"['A1.8+', 'T1.3', 'N3.3', 'N3.7']",chynnar,cynnar,Ans,['T4+']
+ystod,ystod,E,"['A1.8+', 'T1.3', 'N3.3', 'N3.7']",sgil,sgil,E,['Z99']
+newyddion,,E,"['X2.2+/T3-', 'X2.2+/Q4.2', 'X2.2+/Q4.3']",newyddion,,E,"['X2.2+/T3-', 'X2.2+/Q4.2', 'X2.2+/Q4.3']"
+newyddion,,E,"['X2.2+/T3-', 'X2.2+/Q4.2', 'X2.2+/Q4.3']",newyddion,,E,"['X2.2+/T3-', 'X2.2+/Q4.2', 'X2.2+/Q4.3']"
+newyddion,,E,"['X2.2+/T3-', 'X2.2+/Q4.2', 'X2.2+/Q4.3']",newyddionheart,newyddionheart,unk,['Z99']
+newyddion,,E,"['X2.2+/T3-', 'X2.2+/Q4.2', 'X2.2+/Q4.3']",newyddionadigwyddiadau,newyddionadigwyddiadau,unk,['Z99']
+newyddion,,E,"['X2.2+/T3-', 'X2.2+/Q4.2', 'X2.2+/Q4.3']",newyddionbbc,newyddionbbc,unk,['Z99']
+newyddion,,E,"['X2.2+/T3-', 'X2.2+/Q4.2', 'X2.2+/Q4.3']",bbcnewyddion,bbcnewyddion,unk,['Z99']
+newyddion,,E,"['X2.2+/T3-', 'X2.2+/Q4.2', 'X2.2+/Q4.3']",newyddiondt,newyddiondt,unk,['Z99']
+newyddion,,E,"['X2.2+/T3-', 'X2.2+/Q4.2', 'X2.2+/Q4.3']",newyddian,newyddian,unk,['Z99']
+newyddion,,E,"['X2.2+/T3-', 'X2.2+/Q4.2', 'X2.2+/Q4.3']",newyddionaber,newyddionaber,unk,['Z99']
+newyddion,,E,"['X2.2+/T3-', 'X2.2+/Q4.2', 'X2.2+/Q4.3']",newyddiondiweddaraf,newyddiondiweddaraf,unk,['Z99']
+wythnos,wythnos,E,['T1.3'],wythnos,wythnos,E,['T1.3']
+wythnos,wythnos,E,['T1.3'],wythno,wythno,unk,['Z99']
+wythnos,wythnos,E,['T1.3'],wythnose,wythnose,unk,['Z99']
+wythnos,wythnos,E,['T1.3'],wythnos,wythnos,E,['T1.3']
+wythnos,wythnos,E,['T1.3'],wythnos,wythnos,E,['T1.3']
+wythnos,wythnos,E,['T1.3'],wythnosa,wythnosa,unk,['Z99']
+wythnos,wythnos,E,['T1.3'],bythefnos,pythefnos,E,['T1.3']
+wythnos,wythnos,E,['T1.3'],arlwyrwythnos,arlwyrwythnos,unk,['Z99']
+wythnos,wythnos,E,['T1.3'],penwythnos,penwythnos,E,['T1.3']
+wythnos,wythnos,E,['T1.3'],mis,mis,E,['T1.3']
+teulu,teulu,E,"['S4c', 'A4.1c']",theulu,teulu,E,"['S4c', 'A4.1c']"
+teulu,teulu,E,"['S4c', 'A4.1c']",teulu,teulu,E,"['S4c', 'A4.1c']"
+teulu,teulu,E,"['S4c', 'A4.1c']",teuluoedd,teulu,E,"['S4', 'A4.1']"
+teulu,teulu,E,"['S4c', 'A4.1c']",benteulu,benteulu,unk,['Z99']
+teulu,teulu,E,"['S4c', 'A4.1c']",teulu,teulu,E,"['S4c', 'A4.1c']"
+teulu,teulu,E,"['S4c', 'A4.1c']",teuluol,teulu,Ans,"['S4c', 'A4.1c']"
+teulu,teulu,E,"['S4c', 'A4.1c']",rhieni,rhiant,E,"['S4mf', 'A9+']"
+teulu,teulu,E,"['S4c', 'A4.1c']",practis,practis,E,['A1.1.1']
+teulu,teulu,E,"['S4c', 'A4.1c']",penteulu,penteulu,unk,['Z99']
+teulu,teulu,E,"['S4c', 'A4.1c']",meddyg,meddyg,E,"['B3', 'A2.1+/G2.1-']"
+cwmni,cwmni,E,"['I2.1/S5+c', 'S5+c', 'G3/S5+c', 'S3.1', 'K4/S5+c']",gwmni,cwmni,E,"['I2.1/S5+c', 'S5+c', 'G3/S5+c', 'S3.1', 'K4/S5+c']"
+cwmni,cwmni,E,"['I2.1/S5+c', 'S5+c', 'G3/S5+c', 'S3.1', 'K4/S5+c']",chwmni,cwmni,E,"['I2.1/S5+c', 'S5+c', 'G3/S5+c', 'S3.1', 'K4/S5+c']"
+cwmni,cwmni,E,"['I2.1/S5+c', 'S5+c', 'G3/S5+c', 'S3.1', 'K4/S5+c']",cwmnïau,cwmni,E,"['I2.1/S5+c', 'S5+c', 'G3/S5+c', 'S3.1', 'K4/S5+c']"
+cwmni,cwmni,E,"['I2.1/S5+c', 'S5+c', 'G3/S5+c', 'S3.1', 'K4/S5+c']",cwmni,cwmni,E,"['I2.1/S5+c', 'S5+c', 'G3/S5+c', 'S3.1', 'K4/S5+c']"
+cwmni,cwmni,E,"['I2.1/S5+c', 'S5+c', 'G3/S5+c', 'S3.1', 'K4/S5+c']",ltd,ltd,unk,['Z99']
+cwmni,cwmni,E,"['I2.1/S5+c', 'S5+c', 'G3/S5+c', 'S3.1', 'K4/S5+c']",cwmnï,cwmnï,unk,['Z99']
+cwmni,cwmni,E,"['I2.1/S5+c', 'S5+c', 'G3/S5+c', 'S3.1', 'K4/S5+c']",cwmniau,cwmniau,unk,['Z99']
+cwmni,cwmni,E,"['I2.1/S5+c', 'S5+c', 'G3/S5+c', 'S3.1', 'K4/S5+c']",company,company,unk,['Z99']
+cwmni,cwmni,E,"['I2.1/S5+c', 'S5+c', 'G3/S5+c', 'S3.1', 'K4/S5+c']",datblygwr,datblygwr,E,"['H1/S2mf', 'C1/O1.2@@']"
+cwmni,cwmni,E,"['I2.1/S5+c', 'S5+c', 'G3/S5+c', 'S3.1', 'K4/S5+c']",isgwmni,isgwmni,unk,['Z99']
+cwmni,cwmni,E,"['I2.1/S5+c', 'S5+c', 'G3/S5+c', 'S3.1', 'K4/S5+c']",gwmni,cwmni,E,"['I2.1/S5+c', 'S5+c', 'G3/S5+c', 'S3.1', 'K4/S5+c']"
+cwmni,cwmni,E,"['I2.1/S5+c', 'S5+c', 'G3/S5+c', 'S3.1', 'K4/S5+c']",chwmni,cwmni,E,"['I2.1/S5+c', 'S5+c', 'G3/S5+c', 'S3.1', 'K4/S5+c']"
+cwmni,cwmni,E,"['I2.1/S5+c', 'S5+c', 'G3/S5+c', 'S3.1', 'K4/S5+c']",cwmnïau,cwmni,E,"['I2.1/S5+c', 'S5+c', 'G3/S5+c', 'S3.1', 'K4/S5+c']"
+cwmni,cwmni,E,"['I2.1/S5+c', 'S5+c', 'G3/S5+c', 'S3.1', 'K4/S5+c']",cwmni,cwmni,E,"['I2.1/S5+c', 'S5+c', 'G3/S5+c', 'S3.1', 'K4/S5+c']"
+cwmni,cwmni,E,"['I2.1/S5+c', 'S5+c', 'G3/S5+c', 'S3.1', 'K4/S5+c']",ltd,ltd,unk,['Z99']
+cwmni,cwmni,E,"['I2.1/S5+c', 'S5+c', 'G3/S5+c', 'S3.1', 'K4/S5+c']",cwmnï,cwmnï,unk,['Z99']
+cwmni,cwmni,E,"['I2.1/S5+c', 'S5+c', 'G3/S5+c', 'S3.1', 'K4/S5+c']",cwmniau,cwmniau,unk,['Z99']
+cwmni,cwmni,E,"['I2.1/S5+c', 'S5+c', 'G3/S5+c', 'S3.1', 'K4/S5+c']",company,company,unk,['Z99']
+cwmni,cwmni,E,"['I2.1/S5+c', 'S5+c', 'G3/S5+c', 'S3.1', 'K4/S5+c']",datblygwr,datblygwr,E,"['H1/S2mf', 'C1/O1.2@@']"
+cwmni,cwmni,E,"['I2.1/S5+c', 'S5+c', 'G3/S5+c', 'S3.1', 'K4/S5+c']",isgwmni,isgwmni,unk,['Z99']
+meddwl,meddwl,B,['X2.1'],feddwl,meddwl,B,['X2.1']
+meddwl,meddwl,E,['X2.1'],meddwl,meddwl,E,['X2.1']
+meddwl,meddwl,B,['X2.1'],meddylia,meddwl | meddwl,B | B,['X2.1']
+meddwl,meddwl,E,['X2.1'],gwbod,gwybod,B,"['X2.2+', 'S3.2/B1%']"
+meddwl,meddwl,B,['X2.1'],meddylie,meddylie,unk,['Z99']
+meddwl,meddwl,E,['X2.1'],teimlo,teimlo,B,"['X2.1', 'E1', 'X3']"
+meddwl,meddwl,B,['X2.1'],credu,credu,B,"['X2.1', 'S9%']"
+meddwl,meddwl,E,['X2.1'],meddwl,meddwl,E,['X2.1']
+meddwl,meddwl,B,['X2.1'],meddylies,meddylies,unk,['Z99']
+meddwl,meddwl,E,['X2.1'],meddyliant,meddwl,B,['X2.1']
+meddwl,meddwl,B,['X2.1'],feddwl,meddwl,E,['X2.1']
+meddwl,meddwl,E,['X2.1'],meddwl,meddwl,E,['X2.1']
+meddwl,meddwl,B,['X2.1'],meddylia,meddwl | meddwl,B | B,['X2.1']
+meddwl,meddwl,E,['X2.1'],gwbod,gwybod,B,"['X2.2+', 'S3.2/B1%']"
+meddwl,meddwl,B,['X2.1'],meddylie,meddylie,unk,['Z99']
+meddwl,meddwl,E,['X2.1'],teimlo,teimlo,B,"['X2.1', 'E1', 'X3']"
+meddwl,meddwl,B,['X2.1'],credu,credu,B,"['X2.1', 'S9%']"
+meddwl,meddwl,E,['X2.1'],meddwl,meddwl,E,['X2.1']
+meddwl,meddwl,B,['X2.1'],meddylies,meddylies,unk,['Z99']
+meddwl,meddwl,E,['X2.1'],meddyliant,meddwl,B,['X2.1']
+pryd,pryd,E,"['X7+/T1', 'N3.1/T1']",adeg,adeg,E,"['X7+/T1', 'N3.1/T1']"
+pryd,pryd,E,"['X7+/T1', 'N3.1/T1']",bryd,bryd,E,"['E6+', 'E2-', 'S8+', 'A1.3']"
+pryd,pryd,E,"['X7+/T1', 'N3.1/T1']",peth,peth,E,"['O2', 'X4.1', 'A7-', 'S2mf', 'L2mf']"
+pryd,pryd,E,"['X7+/T1', 'N3.1/T1']",lle,lle,Rha,['M6']
+pryd,pryd,E,"['X7+/T1', 'N3.1/T1']",pan,pan,Cys,['Z5']
+pryd,pryd,E,"['X7+/T1', 'N3.1/T1']",cyfan,cyfan,Ans,['N5.1+']
+pryd,pryd,E,"['X7+/T1', 'N3.1/T1']",ble,ble,Rha,['M6']
+pryd,pryd,E,"['X7+/T1', 'N3.1/T1']",modd,bodd,E,['N2']
+pryd,pryd,E,"['X7+/T1', 'N3.1/T1']",tra,tra,Cys,['Z5']
+pryd,pryd,E,"['X7+/T1', 'N3.1/T1']",prydiau,pryd,E,['F1']
+pryd,pryd,E,"['X7+/T1', 'N3.1/T1']",adeg,adeg,E,"['X7+/T1', 'N3.1/T1']"
+pryd,pryd,E,"['X7+/T1', 'N3.1/T1']",bryd,bryd,E,"['E6+', 'E2-', 'S8+', 'A1.3']"
+pryd,pryd,E,"['X7+/T1', 'N3.1/T1']",peth,peth,E,"['O2', 'X4.1', 'A7-', 'S2mf', 'L2mf']"
+pryd,pryd,E,"['X7+/T1', 'N3.1/T1']",lle,lle,Rha,['M6']
+pryd,pryd,E,"['X7+/T1', 'N3.1/T1']",pan,pan,Cys,['Z5']
+pryd,pryd,E,"['X7+/T1', 'N3.1/T1']",cyfan,cyfan,Ans,['N5.1+']
+pryd,pryd,E,"['X7+/T1', 'N3.1/T1']",ble,ble,Rha,['M6']
+pryd,pryd,E,"['X7+/T1', 'N3.1/T1']",modd,bodd,E,['N2']
+pryd,pryd,E,"['X7+/T1', 'N3.1/T1']",tra,tra,Cys,['Z5']
+pryd,pryd,E,"['X7+/T1', 'N3.1/T1']",prydiau,pryd,E,['F1']
+pryd,pryd,E,"['X7+/T1', 'N3.1/T1']",adeg,adeg,E,"['X7+/T1', 'N3.1/T1']"
+pryd,pryd,E,"['X7+/T1', 'N3.1/T1']",bryd,bryd,E,"['E6+', 'E2-', 'S8+', 'A1.3']"
+pryd,pryd,E,"['X7+/T1', 'N3.1/T1']",peth,peth,E,"['O2', 'X4.1', 'A7-', 'S2mf', 'L2mf']"
+pryd,pryd,E,"['X7+/T1', 'N3.1/T1']",lle,lle,Rha,['M6']
+pryd,pryd,E,"['X7+/T1', 'N3.1/T1']",pan,pan,Cys,['Z5']
+pryd,pryd,E,"['X7+/T1', 'N3.1/T1']",cyfan,cyfan,Ans,['N5.1+']
+pryd,pryd,E,"['X7+/T1', 'N3.1/T1']",ble,ble,Rha,['M6']
+pryd,pryd,E,"['X7+/T1', 'N3.1/T1']",modd,bodd,E,['N2']
+pryd,pryd,E,"['X7+/T1', 'N3.1/T1']",tra,tra,Cys,['Z5']
+pryd,pryd,E,"['X7+/T1', 'N3.1/T1']",prydiau,pryd,E,['F1']
+arian,arian,E,['I1'],harian,arian,E,['I1']
+arian,arian,E,['I1'],arian,arian,E,['I1']
+arian,arian,E,['I1'],ariannu,ariannu,B,['I1']
+arian,arian,E,['I1'],cyllid,cyllid,E,"['G1.1/I1', 'I1.1+', 'Z3c']"
+arian,arian,E,['I1'],bunnau,punt,E,"['A1.1.1', 'P1']"
+arian,arian,E,['I1'],gyllid,cyllid,E,"['G1.1/I1', 'I1.1+', 'Z3c']"
+arian,arian,E,['I1'],bres,pres,E,['I1']
+arian,arian,E,['I1'],arianu,arianu,unk,['Z99']
+arian,arian,E,['I1'],goffrau,goffrau,unk,['Z99']
+arian,arian,E,['I1'],wario,gwario,B,"['I1.2', 'A1.5.1', 'T1.3']"
+diwedd,diwedd,E,['T2-'],ddiwedd,diwedd,E,['T2-']
+diwedd,diwedd,E,['T2-'],dechrau,dechrau,B,['T2+']
+diwedd,diwedd,E,['T2-'],diweddi,diweddu,B,"['X6+', 'T2-']"
+diwedd,diwedd,E,['T2-'],diwedd,diwedd,E,['T2-']
+diwedd,diwedd,E,['T2-'],ddechrau,dechrau,E,['T2+']
+diwedd,diwedd,E,['T2-'],ddiweddol,ddiweddol,unk,['Z99']
+diwedd,diwedd,E,['T2-'],diweddeb,diweddeb,unk,['Z99']
+diwedd,diwedd,E,['T2-'],diweddol,diweddol,unk,['Z99']
+diwedd,diwedd,E,['T2-'],diweddiad,diweddiad,unk,['Z99']
+diwedd,diwedd,E,['T2-'],niwedd,diwedd,E,['T2-']
+marwolaeth,marwolaeth,E,['L1-'],marwolaeth,marwolaeth,E,['L1-']
+marwolaeth,marwolaeth,E,['L1-'],farwolaeth,marwolaeth,E,['L1-']
+marwolaeth,marwolaeth,E,['L1-'],marwolaethau,marwolaeth,E,['L1-']
+marwolaeth,marwolaeth,E,['L1-'],llofruddiaeth,llofruddiaeth,unk,['Z99']
+marwolaeth,marwolaeth,E,['L1-'],bradlofruddiaeth,bradlofruddiaeth,unk,['Z99']
+marwolaeth,marwolaeth,E,['L1-'],marw,marw | marw,Ans | B,"['A13.3', 'A4.2+']"
+marwolaeth,marwolaeth,E,['L1-'],llofruddiaethau,llofruddiaethau,unk,['Z99']
+marwolaeth,marwolaeth,E,['L1-'],lofruddiaeth,lofruddiaeth,unk,['Z99']
+marwolaeth,marwolaeth,E,['L1-'],farwolaethau,marwolaeth,E,['L1-']
+marwolaeth,marwolaeth,E,['L1-'],lofruddiaethau,lofruddiaethau,unk,['Z99']
+to,to | toi | toi,E | B | B,['H2'],and,and,unk,['Z99']
+to,to | toi | toi,E | B | B,['H2'],their,their,unk,['Z99']
+to,to | toi | toi,E | B | B,['H2'],itll,itll,unk,['Z99']
+to,to | toi | toi,E | B | B,['H2'],the,te | bod,E | B,['Z99']
+to,to | toi | toi,E | B | B,['H2'],able,able,unk,['Z99']
+to,to | toi | toi,E | B | B,['H2'],allow,allow,unk,['Z99']
+to,to | toi | toi,E | B | B,['H2'],unable,unable,unk,['Z99']
+to,to | toi | toi,E | B | B,['H2'],encouraged,encouraged,unk,['Z99']
+to,to | toi | toi,E | B | B,['H2'],seemed,seemed,unk,['Z99']
+to,to | toi | toi,E | B | B,['H2'],theyll,theyll,unk,['Z99']
+to,to | toi | toi,E | B | B,['H2'],and,and,unk,['Z99']
+to,to | toi | toi,E | B | B,['H2'],their,their,unk,['Z99']
+to,to | toi | toi,E | B | B,['H2'],itll,itll,unk,['Z99']
+to,to | toi | toi,E | B | B,['H2'],the,te | bod,E | B,['Z99']
+to,to | toi | toi,E | B | B,['H2'],able,able,unk,['Z99']
+to,to | toi | toi,E | B | B,['H2'],allow,allow,unk,['Z99']
+to,to | toi | toi,E | B | B,['H2'],unable,unable,unk,['Z99']
+to,to | toi | toi,E | B | B,['H2'],encouraged,encouraged,unk,['Z99']
+to,to | toi | toi,E | B | B,['H2'],seemed,seemed,unk,['Z99']
+to,to | toi | toi,E | B | B,['H2'],theyll,theyll,unk,['Z99']
+llu,llu,E,['S1.1.1'],lu,llu,E,['S1.1.1']
+llu,llu,E,['S1.1.1'],nifer,nifer,E,['N5']
+llu,llu,E,['S1.1.1'],heddlu,heddlu,E,"['G2.1', 'G2.2']"
+llu,llu,E,['S1.1.1'],bataliynau,bataliynau,unk,['Z99']
+llu,llu,E,['S1.1.1'],lluoedd,llu,E,['S1.1.1']
+llu,llu,E,['S1.1.1'],cynnifer,cynnifer,unk,['Z99']
+llu,llu,E,['S1.1.1'],fyddin,byddin,E,"['G3c', 'N5+']"
+llu,llu,E,['S1.1.1'],ddwsinau,dwsin,E,['N5']
+llu,llu,E,['S1.1.1'],arfog,arfog,Ans,"['G3', 'B1']"
+llu,llu,E,['S1.1.1'],hofrennyddion,hofrennyddion,unk,['Z99']
+teledu,teledu,B,['Q4.3'],deledu,teledu,E,['Q4.3']
+teledu,teledu,E,['Q4.3'],theledu,teledu,E,['Q4.3']
+teledu,teledu,B,['Q4.3'],atheledu,atheledu,unk,['Z99']
+teledu,teledu,E,['Q4.3'],darlledu,darlledu,B,['Q4.3']
+teledu,teledu,B,['Q4.3'],radio,radio,E,['Q1.3']
+teledu,teledu,E,['Q4.3'],ffilms,ffilm,E,['Q4.3']
+teledu,teledu,B,['Q4.3'],darlledydd,darlledydd,unk,['Z99']
+teledu,teledu,E,['Q4.3'],darlledi,darlledu,B,['Q4.3']
+teledu,teledu,B,['Q4.3'],teledutu,teledutu,unk,['Z99']
+teledu,teledu,E,['Q4.3'],darlledid,darlledu,B,['Q4.3']
+aderyn,aderyn,E,"['L2mfn', 'S2.1f']",cathaderyn,cathaderyn,unk,['Z99']
+aderyn,aderyn,E,"['L2mfn', 'S2.1f']",aderyn,aderyn,E,"['L2mfn', 'S2.1f']"
+aderyn,aderyn,E,"['L2mfn', 'S2.1f']",prysgaderyn,prysgaderyn,unk,['Z99']
+aderyn,aderyn,E,"['L2mfn', 'S2.1f']",adar,aderyn,E,"['L2mfn', 'S2.1f']"
+aderyn,aderyn,E,"['L2mfn', 'S2.1f']",dderyn,aderyn,E,"['L2mfn', 'S2.1f']"
+aderyn,aderyn,E,"['L2mfn', 'S2.1f']",teyrnaderyn,teyrnaderyn,unk,['Z99']
+aderyn,aderyn,E,"['L2mfn', 'S2.1f']",pêrchwibanwr,pêrchwibanwr,unk,['Z99']
+aderyn,aderyn,E,"['L2mfn', 'S2.1f']",titwdelor,titwdelor,unk,['Z99']
+aderyn,aderyn,E,"['L2mfn', 'S2.1f']",aderyndrycin,aderyndrycin,unk,['Z99']
+aderyn,aderyn,E,"['L2mfn', 'S2.1f']",gwybedogdelor,gwybedogdelor,unk,['Z99']
+bryd,bryd,E,"['E6+', 'E2-', 'S8+', 'A1.3']",pryd,pryd,E,"['X7+/T1', 'N3.1/T1']"
+bryd,bryd,E,"['E6+', 'E2-', 'S8+', 'A1.3']",bellach,pell,Adf,"['A13.3', 'N3.3+', 'X9.2+']"
+bryd,bryd,E,"['E6+', 'E2-', 'S8+', 'A1.3']",nawr,nawr,Adf,['Z4']
+bryd,bryd,E,"['E6+', 'E2-', 'S8+', 'A1.3']",ran,rhan,E,"['A10+', 'B4', 'S3.1-']"
+bryd,bryd,E,"['E6+', 'E2-', 'S8+', 'A1.3']",bry,pryf,E,['L2mfn']
+bryd,bryd,E,"['E6+', 'E2-', 'S8+', 'A1.3']",fater,mater,E,['A11.1+']
+bryd,bryd,E,"['E6+', 'E2-', 'S8+', 'A1.3']",hyd,hyd,Ar,['Z5']
+bryd,bryd,E,"['E6+', 'E2-', 'S8+', 'A1.3']",ganlyniad,canlyniad,E,['A2.2']
+bryd,bryd,E,"['E6+', 'E2-', 'S8+', 'A1.3']",serch,serch,Cys,['A2.1-']
+bryd,bryd,E,"['E6+', 'E2-', 'S8+', 'A1.3']",erbyn,erbyn,Ar,['M6']
+oedfa,oedfa,E,['Z99'],oedfaon,oedfaon,unk,['Z99']
+oedfa,oedfa,E,['Z99'],pregeth,pregeth,E,['S9/Q2.2']
+oedfa,oedfa,E,['Z99'],hoedfaon,hoedfaon,unk,['Z99']
+oedfa,oedfa,E,['Z99'],bregeth,pregeth,E,['S9/Q2.2']
+oedfa,oedfa,E,['Z99'],nghapel,capel,E,['S9/H1c']
+oedfa,oedfa,E,['Z99'],pregether,pregethu,B,['Q2.2']
+oedfa,oedfa,E,['Z99'],gymun,gymun,unk,['Z99']
+oedfa,oedfa,E,['Z99'],plygain,plygain,E,['Z99']
+oedfa,oedfa,E,['Z99'],pregethu,pregethu,B,['Q2.2']
+oedfa,oedfa,E,['Z99'],cymundeb,cymundeb,unk,['Z99']
+cyfaill,cyfaill,E,['S3.2'],cyfaill,cyfaill,E,['S3.2']
+cyfaill,cyfaill,E,['S3.2'],gyfaill,cyfaill,E,['S3.2']
+cyfaill,cyfaill,E,['S3.2'],chyfaill,cyfaill,E,['S3.2']
+cyfaill,cyfaill,E,['S3.2'],cydweithiwr,cydweithiwr,E,['I3.2/S2mf']
+cyfaill,cyfaill,E,['S3.2'],ffrind,ffrind,E,['S3.1/S2mf']
+cyfaill,cyfaill,E,['S3.2'],mynwesol,mynwesol,unk,['Z99']
+cyfaill,cyfaill,E,['S3.2'],gyfeillion,cyfaill,E,['S3.2']
+cyfaill,cyfaill,E,['S3.2'],cyddeithiwr,cyddeithiwr,unk,['Z99']
+cyfaill,cyfaill,E,['S3.2'],tad,tad,E,['S4/B1']
+cyfaill,cyfaill,E,['S3.2'],gydweithiwr,cydweithiwr,E,['I3.2/S2mf']
+priodas,priodas,E,['S4'],phriodas,priodas,E,['S4']
+priodas,priodas,E,['S4'],priodasol,priodasol,Ans,['S4']
+priodas,priodas,E,['S4'],briodas,priodas,E,['S4']
+priodas,priodas,E,['S4'],priodasgyfartal,priodasgyfartal,unk,['Z99']
+priodas,priodas,E,['S4'],priodasant,priodi,B,"['S4', 'A2.2']"
+priodas,priodas,E,['S4'],priodasau,priodas,E,['S4']
+priodas,priodas,E,['S4'],mhriodas,priodas,E,['S4']
+priodas,priodas,E,['S4'],phriodasau,priodas,E,['S4']
+priodas,priodas,E,['S4'],briodasau,priodas,E,['S4']
+priodas,priodas,E,['S4'],briodasferch,briodasferch,unk,['Z99']
+brwydr,brwydr,E,"['X8+', 'G3', 'E3-']",frwydr,brwydr,E,"['X8+', 'G3', 'E3-']"
+brwydr,brwydr,E,"['X8+', 'G3', 'E3-']",brwydr,brwydr,E,"['X8+', 'G3', 'E3-']"
+brwydr,brwydr,E,"['X8+', 'G3', 'E3-']",ymladdwyd,ymladd,B,"['S8-', 'X8+', 'E3-', 'G1.2']"
+brwydr,brwydr,E,"['X8+', 'G3', 'E3-']",brwydrai,brwydro,B,"['S8-', 'X8+', 'E3-', 'G1.2']"
+brwydr,brwydr,E,"['X8+', 'G3', 'E3-']",mrwydr,brwydr,E,"['X8+', 'G3', 'E3-']"
+brwydr,brwydr,E,"['X8+', 'G3', 'E3-']",brwydrau,brwydr,E,"['X8+', 'G3', 'E3-']"
+brwydr,brwydr,E,"['X8+', 'G3', 'E3-']",frwydr,brwydr,E,"['X8+', 'G3', 'E3-']"
+brwydr,brwydr,E,"['X8+', 'G3', 'E3-']",brwydyr,brwydyr,unk,['Z99']
+brwydr,brwydr,E,"['X8+', 'G3', 'E3-']",brwydrant,brwydro,B,"['S8-', 'X8+', 'E3-', 'G1.2']"
+brwydr,brwydr,E,"['X8+', 'G3', 'E3-']",brwydrwyr,brwydrwyr,unk,['Z99']
+pwll,pwll,E,['S1.1.2+'],bwll,pwll,E,['S1.1.2+']
+pwll,pwll,E,['S1.1.2+'],mhwll,pwll,E,['S1.1.2+']
+pwll,pwll,E,['S1.1.2+'],pwlltrap,pwlltrap,unk,['Z99']
+pwll,pwll,E,['S1.1.2+'],nofio,nofio,B,"['M4', 'M1', 'N5.2+']"
+pwll,pwll,E,['S1.1.2+'],phwll,pwll,E,['S1.1.2+']
+pwll,pwll,E,['S1.1.2+'],mwll,mwll,unk,['Z99']
+pwll,pwll,E,['S1.1.2+'],byllau,pwll,E,['S1.1.2+']
+pwll,pwll,E,['S1.1.2+'],lofa,glo,E,['Z99']
+pwll,pwll,E,['S1.1.2+'],glofa,glo,E,['I4/H1c']
+pwll,pwll,E,['S1.1.2+'],rhandirmwyn,rhandirmwyn,unk,['Z99']
+banc,banc,E,"['I1.1', 'X2.6+', 'M1']",fanc,banc,E,"['I1.1', 'X2.6+', 'M1']"
+banc,banc,E,"['I1.1', 'X2.6+', 'M1']",barclays,barclays,unk,['Z99']
+banc,banc,E,"['I1.1', 'X2.6+', 'M1']",banciau,banc,E,"['I1.1', 'X2.6+', 'M1']"
+banc,banc,E,"['I1.1', 'X2.6+', 'M1']",fanciau,banc,E,"['I1.1', 'X2.6+', 'M1']"
+banc,banc,E,"['I1.1', 'X2.6+', 'M1']",hsbc,hsbc,unk,['Z99']
+banc,banc,E,"['I1.1', 'X2.6+', 'M1']",lloyds,lloyds,unk,['Z99']
+banc,banc,E,"['I1.1', 'X2.6+', 'M1']",bancio,bancio,B,"['I1.1', 'X2.6+', 'M1']"
+banc,banc,E,"['I1.1', 'X2.6+', 'M1']",cyfrifon,cyfrif,E,['Q2.2']
+banc,banc,E,"['I1.1', 'X2.6+', 'M1']",gorddrafft,gorddrafft,E,['I1.2']
+banc,banc,E,"['I1.1', 'X2.6+', 'M1']",natwest,natwest,unk,['Z99']
+banc,banc,E,"['I1.1', 'X2.6+', 'M1']",fanc,banc,E,"['I1.1', 'X2.6+', 'M1']"
+banc,banc,E,"['I1.1', 'X2.6+', 'M1']",barclays,barclays,unk,['Z99']
+banc,banc,E,"['I1.1', 'X2.6+', 'M1']",banciau,banc,E,"['I1.1', 'X2.6+', 'M1']"
+banc,banc,E,"['I1.1', 'X2.6+', 'M1']",fanciau,banc,E,"['I1.1', 'X2.6+', 'M1']"
+banc,banc,E,"['I1.1', 'X2.6+', 'M1']",hsbc,hsbc,unk,['Z99']
+banc,banc,E,"['I1.1', 'X2.6+', 'M1']",lloyds,lloyds,unk,['Z99']
+banc,banc,E,"['I1.1', 'X2.6+', 'M1']",bancio,bancio,B,"['I1.1', 'X2.6+', 'M1']"
+banc,banc,E,"['I1.1', 'X2.6+', 'M1']",cyfrifon,cyfrif,E,['Q2.2']
+banc,banc,E,"['I1.1', 'X2.6+', 'M1']",gorddrafft,gorddrafft,E,['I1.2']
+banc,banc,E,"['I1.1', 'X2.6+', 'M1']",natwest,natwest,unk,['Z99']
+gorfod,gorfod,B,['Z99'],orfod,gorfod,B,['Z99']
+gorfod,gorfod,B,['Z99'],gallu,gallu,E,['X9.1+']
+gorfod,gorfod,B,['Z99'],methu,methu,B,"['X9.2-', 'A5.1-/A2.1']"
+gorfod,gorfod,B,['Z99'],penderfynu,penderfynu,B,['X6+']
+gorfod,gorfod,B,['Z99'],ceisio,ceisio,B,"['X8+', 'X2.4', 'Q2.2', 'G2.1', 'A12-']"
+gorfod,gorfod,B,['Z99'],medru,medru,B,['Z99']
+gorfod,gorfod,B,['Z99'],rhaid,rhaid,E,"['S6+', 'A11.1+']"
+gorfod,gorfod,B,['Z99'],bwriadu,bwriadu,B,['X7+']
+gorfod,gorfod,B,['Z99'],mynnu,mynnu,B,['S7.1+/Q2.2']
+gorfod,gorfod,B,['Z99'],gwrthod,gwrthod,B,"['Q2.2/Z6', 'S7.4-', 'X7-']"
+gorfod,gorfod,B,['Z99'],orfod,gorfod,B,['Z99']
+gorfod,gorfod,B,['Z99'],gallu,gallu,E,['X9.1+']
+gorfod,gorfod,B,['Z99'],methu,methu,B,"['X9.2-', 'A5.1-/A2.1']"
+gorfod,gorfod,B,['Z99'],penderfynu,penderfynu,B,['X6+']
+gorfod,gorfod,B,['Z99'],ceisio,ceisio,B,"['X8+', 'X2.4', 'Q2.2', 'G2.1', 'A12-']"
+gorfod,gorfod,B,['Z99'],medru,medru,B,['Z99']
+gorfod,gorfod,B,['Z99'],rhaid,rhaid,E,"['S6+', 'A11.1+']"
+gorfod,gorfod,B,['Z99'],bwriadu,bwriadu,B,['X7+']
+gorfod,gorfod,B,['Z99'],mynnu,mynnu,B,['S7.1+/Q2.2']
+gorfod,gorfod,B,['Z99'],gwrthod,gwrthod,B,"['Q2.2/Z6', 'S7.4-', 'X7-']"
+teimlad,teimlad,E,"['X2.1', 'E1', 'X3']",yteimlad,yteimlad,unk,['Z99']
+teimlad,teimlad,E,"['X2.1', 'E1', 'X3']",deimlad,teimlad,E,"['X2.1', 'E1', 'X3']"
+teimlad,teimlad,E,"['X2.1', 'E1', 'X3']",ymdeimlad,ymdeimlad,E,"['X3', 'X5.2+']"
+teimlad,teimlad,E,"['X2.1', 'E1', 'X3']",theimlad,teimlad,E,"['X2.1', 'E1', 'X3']"
+teimlad,teimlad,E,"['X2.1', 'E1', 'X3']",teimladau,teimlad,E,"['X2.1', 'E1', 'X3']"
+teimlad,teimlad,E,"['X2.1', 'E1', 'X3']",teimladrwydd,teimladrwydd,unk,['Z99']
+teimlad,teimlad,E,"['X2.1', 'E1', 'X3']",nheimlad,teimlad,E,"['X2.1', 'E1', 'X3']"
+teimlad,teimlad,E,"['X2.1', 'E1', 'X3']",deimladrwydd,deimladrwydd,unk,['Z99']
+teimlad,teimlad,E,"['X2.1', 'E1', 'X3']",hymdeimlad,ymdeimlad,E,"['X3', 'X5.2+']"
+teimlad,teimlad,E,"['X2.1', 'E1', 'X3']",teimladol,teimladol,unk,['Z99']
+heol,heol,E,"['M3', 'X4.2']",stryd,stryd,E,['M3/H3']
+heol,heol,E,"['M3', 'X4.2']",gyffordd,gyffordd,unk,['Z99']
+heol,heol,E,"['M3', 'X4.2']",heolyfelin,heolyfelin,unk,['Z99']
+heol,heol,E,"['M3', 'X4.2']",porthyrhyd,porthyrhyd,unk,['Z99']
+heol,heol,E,"['M3', 'X4.2']",senni,sennu,B,['Q2.2/S1.2.4-']
+heol,heol,E,"['M3', 'X4.2']",road,road,unk,['Z99']
+heol,heol,E,"['M3', 'X4.2']",pumsaint,pumsaint,unk,['Z99']
+heol,heol,E,"['M3', 'X4.2']",ger,ger,Ar,['Z5']
+heol,heol,E,"['M3', 'X4.2']",pantyffynnon,pantyffynnon,unk,['Z99']
+heol,heol,E,"['M3', 'X4.2']",cyffordd,cyffordd,unk,['Z99']
+pennod,pennod,E,"['Q4.1', 'T1.3', 'S9/S5c', 'S5+c']",pennodau,pennodau,unk,['Z99']
+pennod,pennod,E,"['Q4.1', 'T1.3', 'S9/S5c', 'S5+c']",bennod,pennod,E,"['Q4.1', 'T1.3', 'S9/S5c', 'S5+c']"
+pennod,pennod,E,"['Q4.1', 'T1.3', 'S9/S5c', 'S5+c']",phennod,pennod,E,"['Q4.1', 'T1.3', 'S9/S5c', 'S5+c']"
+pennod,pennod,E,"['Q4.1', 'T1.3', 'S9/S5c', 'S5+c']",pennodd,pennu,B,"['A2.2', 'A7+', 'X6+']"
+pennod,pennod,E,"['Q4.1', 'T1.3', 'S9/S5c', 'S5+c']",pennodol,pennodol,unk,['Z99']
+pennod,pennod,E,"['Q4.1', 'T1.3', 'S9/S5c', 'S5+c']",mhennod,pennod,E,"['Q4.1', 'T1.3', 'S9/S5c', 'S5+c']"
+pennod,pennod,E,"['Q4.1', 'T1.3', 'S9/S5c', 'S5+c']",beiblllyfr,beiblllyfr,unk,['Z99']
+pennod,pennod,E,"['Q4.1', 'T1.3', 'S9/S5c', 'S5+c']",penodau,pennod,E,"['Q4.1', 'T1.3', 'S9/S5c', 'S5+c']"
+pennod,pennod,E,"['Q4.1', 'T1.3', 'S9/S5c', 'S5+c']",pridwerthanrheg,pridwerthanrheg,unk,['Z99']
+pennod,pennod,E,"['Q4.1', 'T1.3', 'S9/S5c', 'S5+c']",penod,penod,unk,['Z99']
+egwyddor,egwyddor,E,"['X4.1', 'G2.2+']",egwyddori,egwyddori,unk,['Z99']
+egwyddor,egwyddor,E,"['X4.1', 'G2.2+']",egwyddorion,egwyddor,E,"['G2.2', 'X4.1']"
+egwyddor,egwyddor,E,"['X4.1', 'G2.2+']",egwyddor,egwyddor,E,"['X4.1', 'G2.2+']"
+egwyddor,egwyddor,E,"['X4.1', 'G2.2+']",egwyddorol,egwyddorol,unk,['Z99']
+egwyddor,egwyddor,E,"['X4.1', 'G2.2+']",hegwyddor,egwyddor,E,"['X4.1', 'G2.2+']"
+egwyddor,egwyddor,E,"['X4.1', 'G2.2+']",egwyddorion,egwyddor,E,"['G2.2', 'X4.1']"
+egwyddor,egwyddor,E,"['X4.1', 'G2.2+']",rhesymwaith,rhesymwaith,unk,['Z99']
+egwyddor,egwyddor,E,"['X4.1', 'G2.2+']",athrawiaeth,athrawiaeth,unk,['Z99']
+egwyddor,egwyddor,E,"['X4.1', 'G2.2+']",elfen,elfen,E,"['A4.1', 'N5', 'S5+c', 'O1', 'O3', 'O2', 'W4']"
+egwyddor,egwyddor,E,"['X4.1', 'G2.2+']",rhagdyb,rhagdyb | rhagdybio | rhagdybied | rhagdybied | rhagdybio,E | B | B | B | B,"['X2.1', 'S9%']"
+elusen,elusen,E,"['S8+/S5+c', 'S8+', 'S1.2.2-']",helusen,elusen,E,"['S8+/S5+c', 'S8+', 'S1.2.2-']"
+elusen,elusen,E,"['S8+/S5+c', 'S8+', 'S1.2.2-']",elusenol,elusenol,unk,['Z99']
+elusen,elusen,E,"['S8+/S5+c', 'S8+', 'S1.2.2-']",elusennau,elusen,E,['S8+/S5+']
+elusen,elusen,E,"['S8+/S5+c', 'S8+', 'S1.2.2-']",elusendy,elusendy,unk,['Z99']
+elusen,elusen,E,"['S8+/S5+c', 'S8+', 'S1.2.2-']",elusengar,elusengar,unk,['Z99']
+elusen,elusen,E,"['S8+/S5+c', 'S8+', 'S1.2.2-']",elusennol,elusennol,Ans,"['S8+', 'S1.2.2-']"
+elusen,elusen,E,"['S8+/S5+c', 'S8+', 'S1.2.2-']",elusenau,elusenau,unk,['Z99']
+elusen,elusen,E,"['S8+/S5+c', 'S8+', 'S1.2.2-']",nspcc,nspcc,unk,['Z99']
+elusen,elusen,E,"['S8+/S5+c', 'S8+', 'S1.2.2-']",cancer,cancer,unk,['Z99']
+elusen,elusen,E,"['S8+/S5+c', 'S8+', 'S1.2.2-']",ymddiriedolaeth,ymddiriedolaeth,E,"['X2.1', 'A9-', 'E6+', 'X2.6']"
+maint,maint,E,"['N3.2', 'N3.1']",faint,maint,E,"['N3.2', 'N3.1']"
+maint,maint,E,"['N3.2', 'N3.1']",maintioli,maintioli,E,"['N3.7', 'A11.1+']"
+maint,maint,E,"['N3.2', 'N3.1']",chanolig,canolig,Ans,"['Q4', 'X4.2', 'O1', 'S9/S2mf']"
+maint,maint,E,"['N3.2', 'N3.1']",canolig,canolig,Ans,"['Q4', 'X4.2', 'O1', 'S9/S2mf']"
+maint,maint,E,"['N3.2', 'N3.1']",ganolig,canolig,Ans,"['Q4', 'X4.2', 'O1', 'S9/S2mf']"
+maint,maint,E,"['N3.2', 'N3.1']",safonola,safonola,unk,['Z99']
+maint,maint,E,"['N3.2', 'N3.1']",ffont,ffont,E,"['Q1.2', 'S9/H5']"
+maint,maint,E,"['N3.2', 'N3.1']",dwysedd,dwysedd,E,"['N5', 'Y1', 'A12-']"
+maint,maint,E,"['N3.2', 'N3.1']",arwynebedd,arwynebedd,E,"['M7', 'A4.1', 'N3.6']"
+maint,maint,E,"['N3.2', 'N3.1']",lleihau,lleihau,B,['N5-/A2.1']
+tafarn,tafarn,E,['F2/H1c'],tafarn,tafarn,E,['F2/H1c']
+tafarn,tafarn,E,['F2/H1c'],tafarndy,tafarndy,unk,['Z99']
+tafarn,tafarn,E,['F2/H1c'],dafarn,tafarn,E,['F2/H1c']
+tafarn,tafarn,E,['F2/H1c'],nhafarn,tafarn,E,['F2/H1c']
+tafarn,tafarn,E,['F2/H1c'],tafarnwr,tafarnwr,unk,['Z99']
+tafarn,tafarn,E,['F2/H1c'],thafarn,tafarn,E,['F2/H1c']
+tafarn,tafarn,E,['F2/H1c'],tafarnyfic,tafarnyfic,unk,['Z99']
+tafarn,tafarn,E,['F2/H1c'],tafarnau,tafarn,E,['F2/H1c']
+tafarn,tafarn,E,['F2/H1c'],tafari,tafari,unk,['Z99']
+tafarn,tafarn,E,['F2/H1c'],gwesty,gwesty,E,['H4/H1']
+nodwedd,nodwedd,E,['A10+'],nodweddol,nodweddol,unk,['Z99']
+nodwedd,nodwedd,E,['A10+'],nodwedda,nodweddu | nodweddu,B | B,"['A4.1', 'Q2.2']"
+nodwedd,nodwedd,E,['A10+'],nodweddau,nodweddau,unk,['Z99']
+nodwedd,nodwedd,E,['A10+'],nodweddai,nodweddu,B,"['A4.1', 'Q2.2']"
+nodwedd,nodwedd,E,['A10+'],nodweddi,nodweddu,B,"['A4.1', 'Q2.2']"
+nodwedd,nodwedd,E,['A10+'],nodweddu,nodweddu,B,"['A4.1', 'Q2.2']"
+nodwedd,nodwedd,E,['A10+'],nodweddiad,nodweddiad,unk,['Z99']
+nodwedd,nodwedd,E,['A10+'],elfen,elfen,E,"['A4.1', 'N5', 'S5+c', 'O1', 'O3', 'O2', 'W4']"
+nodwedd,nodwedd,E,['A10+'],nodweddid,nodweddu,B,"['A4.1', 'Q2.2']"
+nodwedd,nodwedd,E,['A10+'],briodwedd,priodwedd,E,"['A9+', 'H1/H3', 'O4.1']"
+comisiwn,comisiwn,E,"['I2.2', 'G3/S7.1+']",gomisiwn,comisiwn,E,"['I2.2', 'G3/S7.1+']"
+comisiwn,comisiwn,E,"['I2.2', 'G3/S7.1+']",chomisiwn,comisiwn,E,"['I2.2', 'G3/S7.1+']"
+comisiwn,comisiwn,E,"['I2.2', 'G3/S7.1+']",nghomisiwn,comisiwn,E,"['I2.2', 'G3/S7.1+']"
+comisiwn,comisiwn,E,"['I2.2', 'G3/S7.1+']",comiswn,comiswn,unk,['Z99']
+comisiwn,comisiwn,E,"['I2.2', 'G3/S7.1+']",comisiynau,comisiwn,E,"['A1.1.1', 'I1.1/I2.2', 'G1.1', 'G3/S7.1+']"
+comisiwn,comisiwn,E,"['I2.2', 'G3/S7.1+']",comisiynnydd,comisiynnydd,unk,['Z99']
+comisiwn,comisiwn,E,"['I2.2', 'G3/S7.1+']",comisiynwyr,comisiynwr,E,['Z99']
+comisiwn,comisiwn,E,"['I2.2', 'G3/S7.1+']",cydraddoldeb,cydraddoldeb,E,['A6.1+']
+comisiwn,comisiwn,E,"['I2.2', 'G3/S7.1+']",comisiynnu,comisiynnu,unk,['Z99']
+comisiwn,comisiwn,E,"['I2.2', 'G3/S7.1+']",comisiynydd,comisiynydd,unk,['Z99']
+bod,bod,B,"['A3+', 'Z5']",fod,bod,B,"['A3+', 'Z5']"
+bod,bod,B,"['A3+', 'Z5']",nad,na | naddu,Rha | B,"['A1.1.1', 'F1']"
+bod,bod,B,"['A3+', 'Z5']",mae,bod,B,"['A3+', 'Z5']"
+bod,bod,B,"['A3+', 'Z5']",byddai,bod,B,"['A3+', 'Z5']"
+bod,bod,B,"['A3+', 'Z5']",bydd,bod,B,"['A3+', 'Z5']"
+bod,bod,B,"['A3+', 'Z5']",roedd,bod,B,"['A3+', 'Z5']"
+bod,bod,B,"['A3+', 'Z5']",mod,bod,B,"['A3+', 'Z5']"
+bod,bod,B,"['A3+', 'Z5']",roedd,bod,B,"['A3+', 'Z5']"
+bod,bod,B,"['A3+', 'Z5']",wedi,wedi,U,['Z5']
+bod,bod,B,"['A3+', 'Z5']",byddan,bod,B,"['A3+', 'Z5']"
+bod,bod,B,"['A3+', 'Z5']",fod,bod,B,"['A3+', 'Z5']"
+bod,bod,B,"['A3+', 'Z5']",nad,na | naddu,Rha | B,"['A1.1.1', 'F1']"
+bod,bod,B,"['A3+', 'Z5']",mae,bod,B,"['A3+', 'Z5']"
+bod,bod,B,"['A3+', 'Z5']",byddai,bod,B,"['A3+', 'Z5']"
+bod,bod,B,"['A3+', 'Z5']",bydd,bod,B,"['A3+', 'Z5']"
+bod,bod,B,"['A3+', 'Z5']",roedd,bod,B,"['A3+', 'Z5']"
+bod,bod,B,"['A3+', 'Z5']",mod,bod,B,"['A3+', 'Z5']"
+bod,bod,B,"['A3+', 'Z5']",roedd,bod,B,"['A3+', 'Z5']"
+bod,bod,B,"['A3+', 'Z5']",wedi,wedi,U,['Z5']
+bod,bod,B,"['A3+', 'Z5']",byddan,bod,B,"['A3+', 'Z5']"
+bod,bod,B,"['A3+', 'Z5']",fod,bod,B,"['A3+', 'Z5']"
+bod,bod,B,"['A3+', 'Z5']",nad,na | naddu,Rha | B,"['A1.1.1', 'F1']"
+bod,bod,B,"['A3+', 'Z5']",mae,bod,B,"['A3+', 'Z5']"
+bod,bod,B,"['A3+', 'Z5']",byddai,bod,B,"['A3+', 'Z5']"
+bod,bod,B,"['A3+', 'Z5']",bydd,bod,B,"['A3+', 'Z5']"
+bod,bod,B,"['A3+', 'Z5']",roedd,bod,B,"['A3+', 'Z5']"
+bod,bod,B,"['A3+', 'Z5']",mod,bod,B,"['A3+', 'Z5']"
+bod,bod,B,"['A3+', 'Z5']",roedd,bod,B,"['A3+', 'Z5']"
+bod,bod,B,"['A3+', 'Z5']",wedi,wedi,U,['Z5']
+bod,bod,B,"['A3+', 'Z5']",byddan,bod,B,"['A3+', 'Z5']"
+cael,cael,B,"['A9+', 'Z5', 'X9.2+', 'A2.1+', 'A2.2', 'M1', 'M2', 'X2.5+', 'E4.1-']",gael,cael,B,"['A9+', 'Z5', 'X9.2+', 'A2.1+', 'A2.2', 'M1', 'M2', 'X2.5+', 'E4.1-']"
+cael,cael,B,"['A9+', 'Z5', 'X9.2+', 'A2.1+', 'A2.2', 'M1', 'M2', 'X2.5+', 'E4.1-']",gafodd,cael,B,"['A9+', 'Z5', 'X9.2+', 'A2.1+', 'A2.2', 'M1', 'M2', 'X2.5+', 'E4.1-']"
+cael,cael,B,"['A9+', 'Z5', 'X9.2+', 'A2.1+', 'A2.2', 'M1', 'M2', 'X2.5+', 'E4.1-']",cal,call,Ans,"['S1.2.6+', 'B2+/X1']"
+cael,cael,B,"['A9+', 'Z5', 'X9.2+', 'A2.1+', 'A2.2', 'M1', 'M2', 'X2.5+', 'E4.1-']",cafodd,cael,B,"['A9+', 'Z5', 'X9.2+', 'A2.1+', 'A2.2', 'M1', 'M2', 'X2.5+', 'E4.1-']"
+cael,cael,B,"['A9+', 'Z5', 'X9.2+', 'A2.1+', 'A2.2', 'M1', 'M2', 'X2.5+', 'E4.1-']",chael,cael,B,"['A9+', 'Z5', 'X9.2+', 'A2.1+', 'A2.2', 'M1', 'M2', 'X2.5+', 'E4.1-']"
+cael,cael,B,"['A9+', 'Z5', 'X9.2+', 'A2.1+', 'A2.2', 'M1', 'M2', 'X2.5+', 'E4.1-']",gafod,gafod,unk,['Z99']
+cael,cael,B,"['A9+', 'Z5', 'X9.2+', 'A2.1+', 'A2.2', 'M1', 'M2', 'X2.5+', 'E4.1-']",caiff,cael,B,"['A9+', 'Z5', 'X9.2+', 'A2.1+', 'A2.2', 'M1', 'M2', 'X2.5+', 'E4.1-']"
+cael,cael,B,"['A9+', 'Z5', 'X9.2+', 'A2.1+', 'A2.2', 'M1', 'M2', 'X2.5+', 'E4.1-']",gaiff,cael,B,"['A9+', 'Z5', 'X9.2+', 'A2.1+', 'A2.2', 'M1', 'M2', 'X2.5+', 'E4.1-']"
+cael,cael,B,"['A9+', 'Z5', 'X9.2+', 'A2.1+', 'A2.2', 'M1', 'M2', 'X2.5+', 'E4.1-']",gallu,gallu,E,['X9.1+']
+cael,cael,B,"['A9+', 'Z5', 'X9.2+', 'A2.1+', 'A2.2', 'M1', 'M2', 'X2.5+', 'E4.1-']",chafodd,cael,B,"['A9+', 'Z5', 'X9.2+', 'A2.1+', 'A2.2', 'M1', 'M2', 'X2.5+', 'E4.1-']"
+gwneud,gwneud,B,"['A1.1.1', 'A9+', 'A2.2', 'S6+', 'A3+', 'A9-', 'X9.2+', 'X6+']",wneud,gwneud,B,"['A1.1.1', 'A9+', 'A2.2', 'S6+', 'A3+', 'A9-', 'X9.2+', 'X6+']"
+gwneud,gwneud,B,"['A1.1.1', 'A9+', 'A2.2', 'S6+', 'A3+', 'A9-', 'X9.2+', 'X6+']",gneud,gneud,unk,['Z99']
+gwneud,gwneud,B,"['A1.1.1', 'A9+', 'A2.2', 'S6+', 'A3+', 'A9-', 'X9.2+', 'X6+']",gneud,gneud,unk,['Z99']
+gwneud,gwneud,B,"['A1.1.1', 'A9+', 'A2.2', 'S6+', 'A3+', 'A9-', 'X9.2+', 'X6+']",neud,dweud,B,"['Q2.1', 'Z4%']"
+gwneud,gwneud,B,"['A1.1.1', 'A9+', 'A2.2', 'S6+', 'A3+', 'A9-', 'X9.2+', 'X6+']",neud,dweud,B,"['Q2.1', 'Z4%']"
+gwneud,gwneud,B,"['A1.1.1', 'A9+', 'A2.2', 'S6+', 'A3+', 'A9-', 'X9.2+', 'X6+']",gwneu,gwneu,unk,['Z99']
+gwneud,gwneud,B,"['A1.1.1', 'A9+', 'A2.2', 'S6+', 'A3+', 'A9-', 'X9.2+', 'X6+']",wneud,gwneud,B,"['A1.1.1', 'A9+', 'A2.2', 'S6+', 'A3+', 'A9-', 'X9.2+', 'X6+']"
+gwneud,gwneud,B,"['A1.1.1', 'A9+', 'A2.2', 'S6+', 'A3+', 'A9-', 'X9.2+', 'X6+']",gwneud,gwneud,B,"['A1.1.1', 'A9+', 'A2.2', 'S6+', 'A3+', 'A9-', 'X9.2+', 'X6+']"
+gwneud,gwneud,B,"['A1.1.1', 'A9+', 'A2.2', 'S6+', 'A3+', 'A9-', 'X9.2+', 'X6+']",gorwneud,gwneud,B,['N5.2+']
+gwneud,gwneud,B,"['A1.1.1', 'A9+', 'A2.2', 'S6+', 'A3+', 'A9-', 'X9.2+', 'X6+']",cyflawni,cyflawni,B,['X9.2+']
+gwneud,gwneud,B,"['A1.1.1', 'A9+', 'A2.2', 'S6+', 'A3+', 'A9-', 'X9.2+', 'X6+']",wneud,gwneud,B,"['A1.1.1', 'A9+', 'A2.2', 'S6+', 'A3+', 'A9-', 'X9.2+', 'X6+']"
+gwneud,gwneud,B,"['A1.1.1', 'A9+', 'A2.2', 'S6+', 'A3+', 'A9-', 'X9.2+', 'X6+']",gneud,gneud,unk,['Z99']
+gwneud,gwneud,B,"['A1.1.1', 'A9+', 'A2.2', 'S6+', 'A3+', 'A9-', 'X9.2+', 'X6+']",gneud,gneud,unk,['Z99']
+gwneud,gwneud,B,"['A1.1.1', 'A9+', 'A2.2', 'S6+', 'A3+', 'A9-', 'X9.2+', 'X6+']",neud,dweud,B,"['Q2.1', 'Z4%']"
+gwneud,gwneud,B,"['A1.1.1', 'A9+', 'A2.2', 'S6+', 'A3+', 'A9-', 'X9.2+', 'X6+']",neud,dweud,B,"['Q2.1', 'Z4%']"
+gwneud,gwneud,B,"['A1.1.1', 'A9+', 'A2.2', 'S6+', 'A3+', 'A9-', 'X9.2+', 'X6+']",gwneu,gwneu,unk,['Z99']
+gwneud,gwneud,B,"['A1.1.1', 'A9+', 'A2.2', 'S6+', 'A3+', 'A9-', 'X9.2+', 'X6+']",wneud,gwneud,B,"['A1.1.1', 'A9+', 'A2.2', 'S6+', 'A3+', 'A9-', 'X9.2+', 'X6+']"
+gwneud,gwneud,B,"['A1.1.1', 'A9+', 'A2.2', 'S6+', 'A3+', 'A9-', 'X9.2+', 'X6+']",gwneud,gwneud,B,"['A1.1.1', 'A9+', 'A2.2', 'S6+', 'A3+', 'A9-', 'X9.2+', 'X6+']"
+gwneud,gwneud,B,"['A1.1.1', 'A9+', 'A2.2', 'S6+', 'A3+', 'A9-', 'X9.2+', 'X6+']",gorwneud,gwneud,B,['N5.2+']
+gwneud,gwneud,B,"['A1.1.1', 'A9+', 'A2.2', 'S6+', 'A3+', 'A9-', 'X9.2+', 'X6+']",cyflawni,cyflawni,B,['X9.2+']
+mynd,mynd,B,"['M1', 'A2.1+', 'A1.1.1', 'A9-', 'A1.8+', 'Q2.1', 'N6+', 'I2.2', 'A1.1.2', 'T2-', 'S3.2', 'A6.3+', 'B2-/X1%', 'B1%']",fynd,mynd,B,"['M1', 'A2.1+', 'A1.1.1', 'A9-', 'A1.8+', 'Q2.1', 'N6+', 'I2.2', 'A1.1.2', 'T2-', 'S3.2', 'A6.3+', 'B2-/X1%', 'B1%']"
+mynd,mynd,B,"['M1', 'A2.1+', 'A1.1.1', 'A9-', 'A1.8+', 'Q2.1', 'N6+', 'I2.2', 'A1.1.2', 'T2-', 'S3.2', 'A6.3+', 'B2-/X1%', 'B1%']",rhuthro,rhuthro,B,"['N3.8+', 'M1/N3.8+', 'M2/N3.8+']"
+mynd,mynd,B,"['M1', 'A2.1+', 'A1.1.1', 'A9-', 'A1.8+', 'Q2.1', 'N6+', 'I2.2', 'A1.1.2', 'T2-', 'S3.2', 'A6.3+', 'B2-/X1%', 'B1%']",dod,dod,B,"['M1', 'N3.1', 'A2.2', 'A3+', 'X2.1', 'A9+', 'S4', 'N4', 'S3.2']"
+mynd,mynd,B,"['M1', 'A2.1+', 'A1.1.1', 'A9-', 'A1.8+', 'Q2.1', 'N6+', 'I2.2', 'A1.1.2', 'T2-', 'S3.2', 'A6.3+', 'B2-/X1%', 'B1%']",aetho,aetho,unk,['Z99']
+mynd,mynd,B,"['M1', 'A2.1+', 'A1.1.1', 'A9-', 'A1.8+', 'Q2.1', 'N6+', 'I2.2', 'A1.1.2', 'T2-', 'S3.2', 'A6.3+', 'B2-/X1%', 'B1%']",aeth,mynd,B,"['M1', 'A2.1+', 'A1.1.1', 'A9-', 'A1.8+', 'Q2.1', 'N6+', 'I2.2', 'A1.1.2', 'T2-', 'S3.2', 'A6.3+', 'B2-/X1%', 'B1%']"
+mynd,mynd,B,"['M1', 'A2.1+', 'A1.1.1', 'A9-', 'A1.8+', 'Q2.1', 'N6+', 'I2.2', 'A1.1.2', 'T2-', 'S3.2', 'A6.3+', 'B2-/X1%', 'B1%']",brysio,brysio,B,['N3.8+']
+mynd,mynd,B,"['M1', 'A2.1+', 'A1.1.1', 'A9-', 'A1.8+', 'Q2.1', 'N6+', 'I2.2', 'A1.1.2', 'T2-', 'S3.2', 'A6.3+', 'B2-/X1%', 'B1%']",aethon,mynd,B,"['M1', 'A2.1+', 'A1.1.1', 'A9-', 'A1.8+', 'Q2.1', 'N6+', 'I2.2', 'A1.1.2', 'T2-', 'S3.2', 'A6.3+', 'B2-/X1%', 'B1%']"
+mynd,mynd,B,"['M1', 'A2.1+', 'A1.1.1', 'A9-', 'A1.8+', 'Q2.1', 'N6+', 'I2.2', 'A1.1.2', 'T2-', 'S3.2', 'A6.3+', 'B2-/X1%', 'B1%']",troi,troi,B,"['M2', 'M1', 'O4.4', 'A1.1.1', 'A2.1+', 'O4.2-']"
+mynd,mynd,B,"['M1', 'A2.1+', 'A1.1.1', 'A9-', 'A1.8+', 'Q2.1', 'N6+', 'I2.2', 'A1.1.2', 'T2-', 'S3.2', 'A6.3+', 'B2-/X1%', 'B1%']",dal,dal,B,['T2++']
+mynd,mynd,B,"['M1', 'A2.1+', 'A1.1.1', 'A9-', 'A1.8+', 'Q2.1', 'N6+', 'I2.2', 'A1.1.2', 'T2-', 'S3.2', 'A6.3+', 'B2-/X1%', 'B1%']",symud,symud,B,"['M2', 'M1', 'A2.1+', 'E1', 'H4/A2.1']"
+dod,dod,B,"['M1', 'N3.1', 'A2.2', 'A3+', 'X2.1', 'A9+', 'S4', 'N4', 'S3.2']",ddod,dod,B,"['M1', 'N3.1', 'A2.2', 'A3+', 'X2.1', 'A9+', 'S4', 'N4', 'S3.2']"
+dod,dod,B,"['M1', 'N3.1', 'A2.2', 'A3+', 'X2.1', 'A9+', 'S4', 'N4', 'S3.2']",ddaeth,dod,B,"['M1', 'N3.1', 'A2.2', 'A3+', 'X2.1', 'A9+', 'S4', 'N4', 'S3.2']"
+dod,dod,B,"['M1', 'N3.1', 'A2.2', 'A3+', 'X2.1', 'A9+', 'S4', 'N4', 'S3.2']",mynd,mynd,B,"['M1', 'A2.1+', 'A1.1.1', 'A9-', 'A1.8+', 'Q2.1', 'N6+', 'I2.2', 'A1.1.2', 'T2-', 'S3.2', 'A6.3+', 'B2-/X1%', 'B1%']"
+dod,dod,B,"['M1', 'N3.1', 'A2.2', 'A3+', 'X2.1', 'A9+', 'S4', 'N4', 'S3.2']",daeth,dod,B,"['M1', 'N3.1', 'A2.2', 'A3+', 'X2.1', 'A9+', 'S4', 'N4', 'S3.2']"
+dod,dod,B,"['M1', 'N3.1', 'A2.2', 'A3+', 'X2.1', 'A9+', 'S4', 'N4', 'S3.2']",ddaw,dod,B,"['M1', 'N3.1', 'A2.2', 'A3+', 'X2.1', 'A9+', 'S4', 'N4', 'S3.2']"
+dod,dod,B,"['M1', 'N3.1', 'A2.2', 'A3+', 'X2.1', 'A9+', 'S4', 'N4', 'S3.2']",ddaethon,dod,B,"['M1', 'N3.1', 'A2.2', 'A3+', 'X2.1', 'A9+', 'S4', 'N4', 'S3.2']"
+dod,dod,B,"['M1', 'N3.1', 'A2.2', 'A3+', 'X2.1', 'A9+', 'S4', 'N4', 'S3.2']",daw,dod,B,"['M1', 'N3.1', 'A2.2', 'A3+', 'X2.1', 'A9+', 'S4', 'N4', 'S3.2']"
+dod,dod,B,"['M1', 'N3.1', 'A2.2', 'A3+', 'X2.1', 'A9+', 'S4', 'N4', 'S3.2']",daethon,dod,B,"['M1', 'N3.1', 'A2.2', 'A3+', 'X2.1', 'A9+', 'S4', 'N4', 'S3.2']"
+dod,dod,B,"['M1', 'N3.1', 'A2.2', 'A3+', 'X2.1', 'A9+', 'S4', 'N4', 'S3.2']",daethant,dod,B,"['M1', 'N3.1', 'A2.2', 'A3+', 'X2.1', 'A9+', 'S4', 'N4', 'S3.2']"
+dod,dod,B,"['M1', 'N3.1', 'A2.2', 'A3+', 'X2.1', 'A9+', 'S4', 'N4', 'S3.2']",ddaethom,dod,B,"['M1', 'N3.1', 'A2.2', 'A3+', 'X2.1', 'A9+', 'S4', 'N4', 'S3.2']"
+gweld,gweld,B,"['X3.4', 'X2.1', 'S1.1.1', 'X2.5+', 'X2.3+', 'X3', 'A7+', 'Z4', 'S3.2']",weld,gweld,B,"['X3.4', 'X2.1', 'S1.1.1', 'X2.5+', 'X2.3+', 'X3', 'A7+', 'Z4', 'S3.2']"
+gweld,gweld,B,"['X3.4', 'X2.1', 'S1.1.1', 'X2.5+', 'X2.3+', 'X3', 'A7+', 'Z4', 'S3.2']",clywed,clywed,B,"['X3.2', 'X2.3+', 'G2.1@']"
+gweld,gweld,B,"['X3.4', 'X2.1', 'S1.1.1', 'X2.5+', 'X2.3+', 'X3', 'A7+', 'Z4', 'S3.2']",canfod,canfod,B,"['A10+', 'X2.1', 'X6+']"
+gweld,gweld,B,"['X3.4', 'X2.1', 'S1.1.1', 'X2.5+', 'X2.3+', 'X3', 'A7+', 'Z4', 'S3.2']",dangos,dangos,B,"['A10+', 'S1.1.1']"
+gweld,gweld,B,"['X3.4', 'X2.1', 'S1.1.1', 'X2.5+', 'X2.3+', 'X3', 'A7+', 'Z4', 'S3.2']",sylwi,sylwi,B,"['X3.4+', 'A11.2+', 'Q2.2', 'X2.2+', 'S1.2.4+', 'G2.1']"
+gweld,gweld,B,"['X3.4', 'X2.1', 'S1.1.1', 'X2.5+', 'X2.3+', 'X3', 'A7+', 'Z4', 'S3.2']",rhagweld,rhagweld,B,['X2.6+']
+gweld,gweld,B,"['X3.4', 'X2.1', 'S1.1.1', 'X2.5+', 'X2.3+', 'X3', 'A7+', 'Z4', 'S3.2']",dychmygu,dychmygu,B,['X2.1']
+gweld,gweld,B,"['X3.4', 'X2.1', 'S1.1.1', 'X2.5+', 'X2.3+', 'X3', 'A7+', 'Z4', 'S3.2']",chlywed,clywed,B,"['X3.2', 'X2.3+', 'G2.1@']"
+gweld,gweld,B,"['X3.4', 'X2.1', 'S1.1.1', 'X2.5+', 'X2.3+', 'X3', 'A7+', 'Z4', 'S3.2']",sylweddoli,sylweddoli,B,"['X2.5+', 'X9.2+']"
+gweld,gweld,B,"['X3.4', 'X2.1', 'S1.1.1', 'X2.5+', 'X2.3+', 'X3', 'A7+', 'Z4', 'S3.2']",gwneud,gwneud,B,"['A1.1.1', 'A9+', 'A2.2', 'S6+', 'A3+', 'A9-', 'X9.2+', 'X6+']"
+dweud,dweud,B,"['Q2.1', 'Z4%']",ddweud,dweud,B,"['Q2.1', 'Z4%']"
+dweud,dweud,B,"['Q2.1', 'Z4%']",honni,honni,B,"['Q2.2', 'A9+']"
+dweud,dweud,B,"['Q2.1', 'Z4%']",dywed,dweud | dweud | dywedyd | dywedyd,B | B | B | B,"['Q2.1', 'Z4%']"
+dweud,dweud,B,"['Q2.1', 'Z4%']",ddywedodd,dweud,B,"['Q2.1', 'Z4%']"
+dweud,dweud,B,"['Q2.1', 'Z4%']",dwedodd,dweud,B,"['Q2.1', 'Z4%']"
+dweud,dweud,B,"['Q2.1', 'Z4%']",mynnu,mynnu,B,['S7.1+/Q2.2']
+dweud,dweud,B,"['Q2.1', 'Z4%']",ddwedodd,dweud,B,"['Q2.1', 'Z4%']"
+dweud,dweud,B,"['Q2.1', 'Z4%']",deud,dweud,B,"['Q2.1', 'Z4%']"
+dweud,dweud,B,"['Q2.1', 'Z4%']",dywedodd,dweud,B,"['Q2.1', 'Z4%']"
+dweud,dweud,B,"['Q2.1', 'Z4%']",gweud,dweud,B,"['Q2.1', 'Z4%']"
+gallu,gallu,E,['X9.1+'],medru,medru,B,['Z99']
+gallu,gallu,B,['X9.1+'],allu,gallu,E,['X9.1+']
+gallu,gallu,E,['X9.1+'],gorfod,gorfod,B,['Z99']
+gallu,gallu,B,['X9.1+'],ceisio,ceisio,B,"['X8+', 'X2.4', 'Q2.2', 'G2.1', 'A12-']"
+gallu,gallu,E,['X9.1+'],fodlon,bodlon,Ans,['E4.2+']
+gallu,gallu,B,['X9.1+'],methu,methu,B,"['X9.2-', 'A5.1-/A2.1']"
+gallu,gallu,E,['X9.1+'],trio,trio,B,"['X8+', 'X2.4', 'Q2.2', 'G2.1', 'A12-']"
+gallu,gallu,B,['X9.1+'],bwriadu,bwriadu,B,['X7+']
+gallu,gallu,E,['X9.1+'],llwyddo,llwyddo,B,"['X9.2+', 'N4']"
+gallu,gallu,B,['X9.1+'],fedru,medru,B,['Z99']
+gallu,gallu,E,['X9.1+'],medru,medru,B,['Z99']
+gallu,gallu,B,['X9.1+'],allu,gallu,E,['X9.1+']
+gallu,gallu,E,['X9.1+'],gorfod,gorfod,B,['Z99']
+gallu,gallu,B,['X9.1+'],ceisio,ceisio,B,"['X8+', 'X2.4', 'Q2.2', 'G2.1', 'A12-']"
+gallu,gallu,E,['X9.1+'],fodlon,bodlon,Ans,['E4.2+']
+gallu,gallu,B,['X9.1+'],methu,methu,B,"['X9.2-', 'A5.1-/A2.1']"
+gallu,gallu,E,['X9.1+'],trio,trio,B,"['X8+', 'X2.4', 'Q2.2', 'G2.1', 'A12-']"
+gallu,gallu,B,['X9.1+'],bwriadu,bwriadu,B,['X7+']
+gallu,gallu,E,['X9.1+'],llwyddo,llwyddo,B,"['X9.2+', 'N4']"
+gallu,gallu,B,['X9.1+'],fedru,medru,B,['Z99']
+rhoi,rhoi,B,"['A9-', 'A1.1.1']",roi,rhoi,B,"['A9-', 'A1.1.1']"
+rhoi,rhoi,B,"['A9-', 'A1.1.1']",rhoddi,rhoddi,B,"['A9-', 'A1.1.1']"
+rhoi,rhoi,B,"['A9-', 'A1.1.1']",rhoddod,rhoddod,unk,['Z99']
+rhoi,rhoi,B,"['A9-', 'A1.1.1']",rhois,rhoi,B,"['A9-', 'A1.1.1']"
+rhoi,rhoi,B,"['A9-', 'A1.1.1']",roddodd,rhoddi,B,"['A9-', 'A1.1.1']"
+rhoi,rhoi,B,"['A9-', 'A1.1.1']",rhoid,rhoi,B,"['A9-', 'A1.1.1']"
+rhoi,rhoi,B,"['A9-', 'A1.1.1']",rhoddodd,rhoddi,B,"['A9-', 'A1.1.1']"
+rhoi,rhoi,B,"['A9-', 'A1.1.1']",rhoir,rhoi,B,"['A9-', 'A1.1.1']"
+rhoi,rhoi,B,"['A9-', 'A1.1.1']",cynnig,cynnig,E,"['Q2.2', 'X7+', 'S3.2/Q2.2']"
+rhoi,rhoi,B,"['A9-', 'A1.1.1']",rhoddai,rhoddi,B,"['A9-', 'A1.1.1']"
+defnyddio,defnyddio,B,"['A1.5.1', 'S7.1+']",ddefnyddio,defnyddio,B,"['A1.5.1', 'S7.1+']"
+defnyddio,defnyddio,B,"['A1.5.1', 'S7.1+']",defnyddi,defnyddio,B,"['A1.5.1', 'S7.1+']"
+defnyddio,defnyddio,B,"['A1.5.1', 'S7.1+']",defnyddio,defnyddio,B,"['A1.5.1', 'S7.1+']"
+defnyddio,defnyddio,B,"['A1.5.1', 'S7.1+']",ddefnyddi,defnyddio,B,"['A1.5.1', 'S7.1+']"
+defnyddio,defnyddio,B,"['A1.5.1', 'S7.1+']",defnyddion,defnyddio | defnyddio,B | B,"['A1.5.1', 'S7.1+']"
+defnyddio,defnyddio,B,"['A1.5.1', 'S7.1+']",tanddefnyddio,tanddefnyddio,unk,['Z99']
+defnyddio,defnyddio,B,"['A1.5.1', 'S7.1+']",ddefnyddion,defnyddio | defnyddio,B | B,['Z99']
+defnyddio,defnyddio,B,"['A1.5.1', 'S7.1+']",gorddefnyddio,gorddefnyddio,B,['A1.5.1/N5.2+']
+defnyddio,defnyddio,B,"['A1.5.1', 'S7.1+']",orddefnyddio,gorddefnyddio,B,['A1.5.1/N5.2+']
+defnyddio,defnyddio,B,"['A1.5.1', 'S7.1+']",ddefnyddia,defnyddio,B,"['A1.5.1', 'S7.1+']"
+gwybod,gwybod,B,"['X2.2+', 'S3.2/B1%']",wybod,gwybod,B,"['X2.2+', 'S3.2/B1%']"
+gwybod,gwybod,B,"['X2.2+', 'S3.2/B1%']",gwbod,gwybod,B,"['X2.2+', 'S3.2/B1%']"
+gwybod,gwybod,B,"['X2.2+', 'S3.2/B1%']",gwybod,gwybod,B,"['X2.2+', 'S3.2/B1%']"
+gwybod,gwybod,B,"['X2.2+', 'S3.2/B1%']",siŵr,siŵr,Ans,['Z4']
+gwybod,gwybod,B,"['X2.2+', 'S3.2/B1%']",gwbod,gwybod,B,"['X2.2+', 'S3.2/B1%']"
+gwybod,gwybod,B,"['X2.2+', 'S3.2/B1%']",sylweddoli,sylweddoli,B,"['X2.5+', 'X9.2+']"
+gwybod,gwybod,B,"['X2.2+', 'S3.2/B1%']",wbod,gwybod,B,"['X2.2+', 'S3.2/B1%']"
+gwybod,gwybod,B,"['X2.2+', 'S3.2/B1%']",clywed,clywed,B,"['X3.2', 'X2.3+', 'G2.1@']"
+gwybod,gwybod,B,"['X2.2+', 'S3.2/B1%']",siwr,siwr,Ans,['Z4']
+gwybod,gwybod,B,"['X2.2+', 'S3.2/B1%']",ymwybodol,ymwybodol,Ans,"['X2.2+', 'X5.1+', 'X7+', 'B1']"
+siarad,siarad,B,['Q2.1'],siara,siara,unk,['Z99']
+siarad,siarad,B,['Q2.1'],siaradom,siarad,B,['Q2.1']
+siarad,siarad,B,['Q2.1'],siarada,siarad | siarad,B | B,['Q2.1']
+siarad,siarad,B,['Q2.1'],siaradach,siaradach,unk,['Z99']
+siarad,siarad,B,['Q2.1'],siaradant,siarad,B,['Q2.1']
+siarad,siarad,B,['Q2.1'],siarad,siarad,B,['Q2.1']
+siarad,siarad,B,['Q2.1'],siaradon,siarad | siarad,B | B,['Q2.1']
+siarad,siarad,B,['Q2.1'],siaradem,siarad,B,['Q2.1']
+siarad,siarad,B,['Q2.1'],siaradai,siarad,B,['Q2.1']
+siarad,siarad,B,['Q2.1'],siaradais,siarad,B,['Q2.1']
+edrych,edrych,B,"['A8', 'X3.4', 'X2.4', 'X7+', 'Z4']",edrychmlaen,edrychmlaen,unk,['Z99']
+edrych,edrych,B,"['A8', 'X3.4', 'X2.4', 'X7+', 'Z4']",edrycho,edrych,B,"['A8', 'X3.4', 'X2.4', 'X7+', 'Z4']"
+edrych,edrych,B,"['A8', 'X3.4', 'X2.4', 'X7+', 'Z4']",edrychymlaen,edrychymlaen,unk,['Z99']
+edrych,edrych,B,"['A8', 'X3.4', 'X2.4', 'X7+', 'Z4']",edrychom,edrych,B,"['A8', 'X3.4', 'X2.4', 'X7+', 'Z4']"
+edrych,edrych,B,"['A8', 'X3.4', 'X2.4', 'X7+', 'Z4']",edrycher,edrychyd,B,"['A8', 'X3.4', 'X2.4', 'X7+', 'Z4']"
+edrych,edrych,B,"['A8', 'X3.4', 'X2.4', 'X7+', 'Z4']",edrychant,edrych,B,"['A8', 'X3.4', 'X2.4', 'X7+', 'Z4']"
+edrych,edrych,B,"['A8', 'X3.4', 'X2.4', 'X7+', 'Z4']",edrych,edrych,B,"['A8', 'X3.4', 'X2.4', 'X7+', 'Z4']"
+edrych,edrych,B,"['A8', 'X3.4', 'X2.4', 'X7+', 'Z4']",edrycha,edrychyd | edrychyd,B | B,"['A8', 'X3.4', 'X2.4', 'X7+', 'Z4']"
+edrych,edrych,B,"['A8', 'X3.4', 'X2.4', 'X7+', 'Z4']",edrychont,edrych,B,"['A8', 'X3.4', 'X2.4', 'X7+', 'Z4']"
+edrych,edrych,B,"['A8', 'X3.4', 'X2.4', 'X7+', 'Z4']",edrychon,edrych | edrychyd | edrych | edrychyd,B | B | B | B,"['A8', 'X3.4', 'X2.4', 'X7+', 'Z4']"
+gweithio,gweithio,B,"['I3.1', 'A1.1.1', 'X9.2+', 'A2.1+', 'A2.2']",weithio,gweithio,B,"['I3.1', 'A1.1.1', 'X9.2+', 'A2.1+', 'A2.2']"
+gweithio,gweithio,B,"['I3.1', 'A1.1.1', 'X9.2+', 'A2.1+', 'A2.2']",gweithio,gweithio,B,"['I3.1', 'A1.1.1', 'X9.2+', 'A2.1+', 'A2.2']"
+gweithio,gweithio,B,"['I3.1', 'A1.1.1', 'X9.2+', 'A2.1+', 'A2.2']",gweithiodd,gweithio,B,"['I3.1', 'A1.1.1', 'X9.2+', 'A2.1+', 'A2.2']"
+gweithio,gweithio,B,"['I3.1', 'A1.1.1', 'X9.2+', 'A2.1+', 'A2.2']",cydweithio,cydweithio,B,['Z99']
+gweithio,gweithio,B,"['I3.1', 'A1.1.1', 'X9.2+', 'A2.1+', 'A2.2']",gweithiwn,gweithio,B,"['I3.1', 'A1.1.1', 'X9.2+', 'A2.1+', 'A2.2']"
+gweithio,gweithio,B,"['I3.1', 'A1.1.1', 'X9.2+', 'A2.1+', 'A2.2']",gweithia,gweithio | gweithio,B | B,"['I3.1', 'A1.1.1', 'X9.2+', 'A2.1+', 'A2.2']"
+gweithio,gweithio,B,"['I3.1', 'A1.1.1', 'X9.2+', 'A2.1+', 'A2.2']",gweithi,gweithio,B,"['I3.1', 'A1.1.1', 'X9.2+', 'A2.1+', 'A2.2']"
+gweithio,gweithio,B,"['I3.1', 'A1.1.1', 'X9.2+', 'A2.1+', 'A2.2']",weithiodd,gweithio,B,"['I3.1', 'A1.1.1', 'X9.2+', 'A2.1+', 'A2.2']"
+gweithio,gweithio,B,"['I3.1', 'A1.1.1', 'X9.2+', 'A2.1+', 'A2.2']",gweithiai,gweithio,B,"['I3.1', 'A1.1.1', 'X9.2+', 'A2.1+', 'A2.2']"
+gweithio,gweithio,B,"['I3.1', 'A1.1.1', 'X9.2+', 'A2.1+', 'A2.2']",gweithioâ,gweithioâ,unk,['Z99']
+codi,codi,B,"['M2', 'A5.1+/A2.1', 'E4.1+/A2.1', 'G2.1']",godi,codi,B,"['M2', 'A5.1+/A2.1', 'E4.1+/A2.1', 'G2.1']"
+codi,codi,B,"['M2', 'A5.1+/A2.1', 'E4.1+/A2.1', 'G2.1']",chodi,codi,B,"['M2', 'A5.1+/A2.1', 'E4.1+/A2.1', 'G2.1']"
+codi,codi,B,"['M2', 'A5.1+/A2.1', 'E4.1+/A2.1', 'G2.1']",cododd,codi,B,"['M2', 'A5.1+/A2.1', 'E4.1+/A2.1', 'G2.1']"
+codi,codi,B,"['M2', 'A5.1+/A2.1', 'E4.1+/A2.1', 'G2.1']",cynyddu,cynyddu,B,['N5+/A2.1']
+codi,codi,B,"['M2', 'A5.1+/A2.1', 'E4.1+/A2.1', 'G2.1']",disgyn,disgyn,B,"['M1', 'S4', 'N5-/A2.1']"
+codi,codi,B,"['M2', 'A5.1+/A2.1', 'E4.1+/A2.1', 'G2.1']",codiâ,codiâ,unk,['Z99']
+codi,codi,B,"['M2', 'A5.1+/A2.1', 'E4.1+/A2.1', 'G2.1']",codwyd,codi,B,"['M2', 'A5.1+/A2.1', 'E4.1+/A2.1', 'G2.1']"
+codi,codi,B,"['M2', 'A5.1+/A2.1', 'E4.1+/A2.1', 'G2.1']",gostwng,gostwng | gostwng | gostwng | gostwng,B | B | B | B,"['M2', 'N5-/A2.1', 'S7.1-/A2.1', 'A11.1-/A2.1', 'X3.2-/A2.1']"
+codi,codi,B,"['M2', 'A5.1+/A2.1', 'E4.1+/A2.1', 'G2.1']",codir,codi,B,"['M2', 'A5.1+/A2.1', 'E4.1+/A2.1', 'G2.1']"
+codi,codi,B,"['M2', 'A5.1+/A2.1', 'E4.1+/A2.1', 'G2.1']",codid,codi,B,"['A10-/Q1.1', 'A4.1', 'Y2@', 'B1%']"
+dysgu,dysgu,B,['P1'],ddysgu,dysgu,B,['P1']
+dysgu,dysgu,B,['P1'],addysgu,addysgu,B,['P1']
+dysgu,dysgu,B,['P1'],dysgu,dysgu,B,['P1']
+dysgu,dysgu,B,['P1'],dysgu,dysgu,B,['P1']
+dysgu,dysgu,B,['P1'],dysgu,dysgu,B,['P1']
+dysgu,dysgu,B,['P1'],dysguâ,dysguâ,unk,['Z99']
+dysgu,dysgu,B,['P1'],dysgir,dysgu,B,['P1']
+dysgu,dysgu,B,['P1'],meistroli,meistroli | meistroli,B | B,['X9.1+']
+dysgu,dysgu,B,['P1'],dysgo,dysgu,B,['P1']
+dysgu,dysgu,B,['P1'],ddysgo,dysgu,B,['P1']
+gofyn,gofyn,B,"['X7+', 'S6+']",ofyn,gofyn | gofyn,B | B,['Z99']
+gofyn,gofyn,B,"['X7+', 'S6+']",gofynna,gofyn,B,['Q2.2']
+gofyn,gofyn,B,"['X7+', 'S6+']",gofynnwyd,gofyn,B,['Q2.2']
+gofyn,gofyn,B,"['X7+', 'S6+']",gofynnodd,gofyn,B,['Q2.2']
+gofyn,gofyn,B,"['X7+', 'S6+']",gofynnai,gofyn,B,['Q2.2']
+gofyn,gofyn,B,"['X7+', 'S6+']",gofynnais,gofyn,B,['Q2.2']
+gofyn,gofyn,B,"['X7+', 'S6+']",ngofyn,gofyn | gofyn | gofyn,B | B | B,['Z99']
+gofyn,gofyn,B,"['X7+', 'S6+']",galw,galw,E,"['Q2.2', 'S1.1.1', 'Q1.3', 'S9%']"
+gofyn,gofyn,B,"['X7+', 'S6+']",ofynna,gofyn,B,"['X7+', 'S6+']"
+gofyn,gofyn,B,"['X7+', 'S6+']",gofyna,gofyna,unk,['Z99']
+gofyn,gofyn,B,"['X7+', 'S6+']",ofyn,gofyn | gofyn,B | B,['Z99']
+gofyn,gofyn,B,"['X7+', 'S6+']",gofynna,gofyn,B,['Q2.2']
+gofyn,gofyn,B,"['X7+', 'S6+']",gofynnwyd,gofyn,B,['Q2.2']
+gofyn,gofyn,B,"['X7+', 'S6+']",gofynnodd,gofyn,B,['Q2.2']
+gofyn,gofyn,B,"['X7+', 'S6+']",gofynnai,gofyn,B,['Q2.2']
+gofyn,gofyn,B,"['X7+', 'S6+']",gofynnais,gofyn,B,['Q2.2']
+gofyn,gofyn,B,"['X7+', 'S6+']",ngofyn,gofyn | gofyn | gofyn,B | B | B,['Z99']
+gofyn,gofyn,B,"['X7+', 'S6+']",galw,galw,E,"['Q2.2', 'S1.1.1', 'Q1.3', 'S9%']"
+gofyn,gofyn,B,"['X7+', 'S6+']",ofynna,gofyn,B,"['X7+', 'S6+']"
+gofyn,gofyn,B,"['X7+', 'S6+']",gofyna,gofyna,unk,['Z99']
+byw,byw,B,"['H4', 'L1+', 'A3']",fyw,byw,B,"['H4', 'L1+', 'A3']"
+byw,byw,B,"['H4', 'L1+', 'A3']",gweithio,gweithio,B,"['I3.1', 'A1.1.1', 'X9.2+', 'A2.1+', 'A2.2']"
+byw,byw,B,"['H4', 'L1+', 'A3']",preswylio,preswylio,B,['H4']
+byw,byw,B,"['H4', 'L1+', 'A3']",ymgartrefu,ymgartrefu,B,['Z99']
+byw,byw,B,"['H4', 'L1+', 'A3']",ymgartrefi,ymgartrefu,B,['Z99']
+byw,byw,B,"['H4', 'L1+', 'A3']",trigo,trigo,B,"['L1-', 'T2-']"
+byw,byw,B,"['H4', 'L1+', 'A3']",trigai,trigo,B,"['L1-', 'T2-']"
+byw,byw,B,"['H4', 'L1+', 'A3']",preswyliad,preswyliad,unk,['Z99']
+byw,byw,B,"['H4', 'L1+', 'A3']",ymgartrefodd,ymgartrefu,B,['Z99']
+byw,byw,B,"['H4', 'L1+', 'A3']",breswylio,preswylio,B,['H4']
+byw,byw,B,"['H4', 'L1+', 'A3']",fyw,byw,B,"['H4', 'L1+', 'A3']"
+byw,byw,B,"['H4', 'L1+', 'A3']",gweithio,gweithio,B,"['I3.1', 'A1.1.1', 'X9.2+', 'A2.1+', 'A2.2']"
+byw,byw,B,"['H4', 'L1+', 'A3']",preswylio,preswylio,B,['H4']
+byw,byw,B,"['H4', 'L1+', 'A3']",ymgartrefu,ymgartrefu,B,['Z99']
+byw,byw,B,"['H4', 'L1+', 'A3']",ymgartrefi,ymgartrefu,B,['Z99']
+byw,byw,B,"['H4', 'L1+', 'A3']",trigo,trigo,B,"['L1-', 'T2-']"
+byw,byw,B,"['H4', 'L1+', 'A3']",trigai,trigo,B,"['L1-', 'T2-']"
+byw,byw,B,"['H4', 'L1+', 'A3']",preswyliad,preswyliad,unk,['Z99']
+byw,byw,B,"['H4', 'L1+', 'A3']",ymgartrefodd,ymgartrefu,B,['Z99']
+byw,byw,B,"['H4', 'L1+', 'A3']",breswylio,preswylio,B,['H4']
+darllen,darllen,B,"['Q3', 'Q1.2', 'X3.2+', 'X2.5+', 'P1', 'A10+']",darllen,darllen,B,"['Q3', 'Q1.2', 'X3.2+', 'X2.5+', 'P1', 'A10+']"
+darllen,darllen,B,"['Q3', 'Q1.2', 'X3.2+', 'X2.5+', 'P1', 'A10+']",gweddarllen,gweddarllen,unk,['Z99']
+darllen,darllen,B,"['Q3', 'Q1.2', 'X3.2+', 'X2.5+', 'P1', 'A10+']",darllenai,darllen,B,"['Q3', 'Q1.2', 'X3.2+', 'X2.5+', 'P1', 'A10+']"
+darllen,darllen,B,"['Q3', 'Q1.2', 'X3.2+', 'X2.5+', 'P1', 'A10+']",ddarllen,darllen,B,"['Q3', 'Q1.2', 'X3.2+', 'X2.5+', 'P1', 'A10+']"
+darllen,darllen,B,"['Q3', 'Q1.2', 'X3.2+', 'X2.5+', 'P1', 'A10+']",dathludarllen,dathludarllen,unk,['Z99']
+darllen,darllen,B,"['Q3', 'Q1.2', 'X3.2+', 'X2.5+', 'P1', 'A10+']",darllener,darllen,B,"['Q3', 'Q1.2', 'X3.2+', 'X2.5+', 'P1', 'A10+']"
+darllen,darllen,B,"['Q3', 'Q1.2', 'X3.2+', 'X2.5+', 'P1', 'A10+']",darllenaf,darllen,B,"['Q3', 'Q1.2', 'X3.2+', 'X2.5+', 'P1', 'A10+']"
+darllen,darllen,B,"['Q3', 'Q1.2', 'X3.2+', 'X2.5+', 'P1', 'A10+']",ailddarllen,ailddarllen,B,['Q1.2/N6']
+darllen,darllen,B,"['Q3', 'Q1.2', 'X3.2+', 'X2.5+', 'P1', 'A10+']",darllenid,darllen,B,"['Q3', 'Q1.2', 'X3.2+', 'X2.5+', 'P1', 'A10+']"
+darllen,darllen,B,"['Q3', 'Q1.2', 'X3.2+', 'X2.5+', 'P1', 'A10+']",darllena,darllen | darllen,B | B,"['Q3', 'Q1.2', 'X3.2+', 'X2.5+', 'P1', 'A10+']"
+cofio,cofio,B,['X2.2+'],gofio,cofio,B,['X2.2+']
+cofio,cofio,B,['X2.2+'],atgofio,cofio,B,['X2.2+']
+cofio,cofio,B,['X2.2+'],angofio,angofio,unk,['Z99']
+cofio,cofio,B,['X2.2+'],cofio,cofio,B,['X2.2+']
+cofio,cofio,B,['X2.2+'],chofio,cofio,B,['X2.2+']
+cofio,cofio,B,['X2.2+'],hatgofio,cofio,B,['X2.2+']
+cofio,cofio,B,['X2.2+'],anghofio,anghofio,B,['X2.2-']
+cofio,cofio,B,['X2.2+'],hofio,hofio,B,['F4/O2']
+cofio,cofio,B,['X2.2+'],cofio,cofio,B,['X2.2+']
+cofio,cofio,B,['X2.2+'],meddwl,meddwl,E,['X2.1']
+dal,dal,B,['T2++'],parhau,parhau,B,['T2++']
+dal,dal,B,['T2++'],ddal,dal,B,['T2++']
+dal,dal,B,['T2++'],mynd,mynd,B,"['M1', 'A2.1+', 'A1.1.1', 'A9-', 'A1.8+', 'Q2.1', 'N6+', 'I2.2', 'A1.1.2', 'T2-', 'S3.2', 'A6.3+', 'B2-/X1%', 'B1%']"
+dal,dal,B,['T2++'],barod,parod,Ans,['A1.1.1']
+dal,dal,B,['T2++'],llwyddo,llwyddo,B,"['X9.2+', 'N4']"
+dal,dal,B,['T2++'],tueddu,tueddu,B,['Z99']
+dal,dal,B,['T2++'],gallu,gallu,E,['X9.1+']
+dal,dal,B,['T2++'],nes,agos,Ans,['N3.3--']
+dal,dal,B,['T2++'],gwn,gwybod,B,"['X2.2+', 'S3.2/B1%']"
+dal,dal,B,['T2++'],dueddol,tueddol,Ans,['A2.2/E2++']
+clywed,clywed,B,"['X3.2', 'X2.3+', 'G2.1@']",glywed,clywed,B,"['X3.2', 'X2.3+', 'G2.1@']"
+clywed,clywed,B,"['X3.2', 'X2.3+', 'G2.1@']",chlywed,clywed,B,"['X3.2', 'X2.3+', 'G2.1@']"
+clywed,clywed,B,"['X3.2', 'X2.3+', 'G2.1@']",gweld,gweld,B,"['X3.4', 'X2.1', 'S1.1.1', 'X2.5+', 'X2.3+', 'X3', 'A7+', 'Z4', 'S3.2']"
+clywed,clywed,B,"['X3.2', 'X2.3+', 'G2.1@']",nghlywed,clywed,B,"['X3.2', 'X2.3+', 'G2.1@']"
+clywed,clywed,B,"['X3.2', 'X2.3+', 'G2.1@']",clywad,clywad,unk,['Z99']
+clywed,clywed,B,"['X3.2', 'X2.3+', 'G2.1@']",gwrando,gwrando,B,['X3.2']
+clywed,clywed,B,"['X3.2', 'X2.3+', 'G2.1@']",glywad,glywad,unk,['Z99']
+clywed,clywed,B,"['X3.2', 'X2.3+', 'G2.1@']",glywais,clywed,B,"['X3.2', 'X2.3+', 'G2.1@']"
+clywed,clywed,B,"['X3.2', 'X2.3+', 'G2.1@']",clywais,clywed,B,"['X3.2', 'X2.3+', 'G2.1@']"
+clywed,clywed,B,"['X3.2', 'X2.3+', 'G2.1@']",gwybod,gwybod,B,"['X2.2+', 'S3.2/B1%']"
+cymryd,cymryd,B,"['A9+', 'T1.3', 'C1', 'A1.1.1', 'M2', 'S7.1-', 'A2.1+', 'X2.4', 'S6+', 'S7.4+', 'N3', 'A2.1+', 'P1', 'M1', 'X2.5+', 'F1@', 'F2@', 'Q1.2@', 'B3@']",gymryd,cymryd,B,"['A9+', 'T1.3', 'C1', 'A1.1.1', 'M2', 'S7.1-', 'A2.1+', 'X2.4', 'S6+', 'S7.4+', 'N3', 'A2.1+', 'P1', 'M1', 'X2.5+', 'F1@', 'F2@', 'Q1.2@', 'B3@']"
+cymryd,cymryd,B,"['A9+', 'T1.3', 'C1', 'A1.1.1', 'M2', 'S7.1-', 'A2.1+', 'X2.4', 'S6+', 'S7.4+', 'N3', 'A2.1+', 'P1', 'M1', 'X2.5+', 'F1@', 'F2@', 'Q1.2@', 'B3@']",cymeryd,cymryd,B,"['A9+', 'T1.3', 'C1', 'A1.1.1', 'M2', 'S7.1-', 'A2.1+', 'X2.4', 'S6+', 'S7.4+', 'N3', 'A2.1+', 'P1', 'M1', 'X2.5+', 'F1@', 'F2@', 'Q1.2@', 'B3@']"
+cymryd,cymryd,B,"['A9+', 'T1.3', 'C1', 'A1.1.1', 'M2', 'S7.1-', 'A2.1+', 'X2.4', 'S6+', 'S7.4+', 'N3', 'A2.1+', 'P1', 'M1', 'X2.5+', 'F1@', 'F2@', 'Q1.2@', 'B3@']",chymryd,cymryd,B,"['A9+', 'T1.3', 'C1', 'A1.1.1', 'M2', 'S7.1-', 'A2.1+', 'X2.4', 'S6+', 'S7.4+', 'N3', 'A2.1+', 'P1', 'M1', 'X2.5+', 'F1@', 'F2@', 'Q1.2@', 'B3@']"
+cymryd,cymryd,B,"['A9+', 'T1.3', 'C1', 'A1.1.1', 'M2', 'S7.1-', 'A2.1+', 'X2.4', 'S6+', 'S7.4+', 'N3', 'A2.1+', 'P1', 'M1', 'X2.5+', 'F1@', 'F2@', 'Q1.2@', 'B3@']",cymryd,cymryd,B,"['A9+', 'T1.3', 'C1', 'A1.1.1', 'M2', 'S7.1-', 'A2.1+', 'X2.4', 'S6+', 'S7.4+', 'N3', 'A2.1+', 'P1', 'M1', 'X2.5+', 'F1@', 'F2@', 'Q1.2@', 'B3@']"
+cymryd,cymryd,B,"['A9+', 'T1.3', 'C1', 'A1.1.1', 'M2', 'S7.1-', 'A2.1+', 'X2.4', 'S6+', 'S7.4+', 'N3', 'A2.1+', 'P1', 'M1', 'X2.5+', 'F1@', 'F2@', 'Q1.2@', 'B3@']",nghymryd,cymryd,B,"['A9+', 'T1.3', 'C1', 'A1.1.1', 'M2', 'S7.1-', 'A2.1+', 'X2.4', 'S6+', 'S7.4+', 'N3', 'A2.1+', 'P1', 'M1', 'X2.5+', 'F1@', 'F2@', 'Q1.2@', 'B3@']"
+cymryd,cymryd,B,"['A9+', 'T1.3', 'C1', 'A1.1.1', 'M2', 'S7.1-', 'A2.1+', 'X2.4', 'S6+', 'S7.4+', 'N3', 'A2.1+', 'P1', 'M1', 'X2.5+', 'F1@', 'F2@', 'Q1.2@', 'B3@']",gymeryd,cymryd,B,"['A9+', 'T1.3', 'C1', 'A1.1.1', 'M2', 'S7.1-', 'A2.1+', 'X2.4', 'S6+', 'S7.4+', 'N3', 'A2.1+', 'P1', 'M1', 'X2.5+', 'F1@', 'F2@', 'Q1.2@', 'B3@']"
+cymryd,cymryd,B,"['A9+', 'T1.3', 'C1', 'A1.1.1', 'M2', 'S7.1-', 'A2.1+', 'X2.4', 'S6+', 'S7.4+', 'N3', 'A2.1+', 'P1', 'M1', 'X2.5+', 'F1@', 'F2@', 'Q1.2@', 'B3@']",gymerodd,cymryd,B,"['A9+', 'T1.3', 'C1', 'A1.1.1', 'M2', 'S7.1-', 'A2.1+', 'X2.4', 'S6+', 'S7.4+', 'N3', 'A2.1+', 'P1', 'M1', 'X2.5+', 'F1@', 'F2@', 'Q1.2@', 'B3@']"
+cymryd,cymryd,B,"['A9+', 'T1.3', 'C1', 'A1.1.1', 'M2', 'S7.1-', 'A2.1+', 'X2.4', 'S6+', 'S7.4+', 'N3', 'A2.1+', 'P1', 'M1', 'X2.5+', 'F1@', 'F2@', 'Q1.2@', 'B3@']",cymerir,cymryd,B,"['A9+', 'T1.3', 'C1', 'A1.1.1', 'M2', 'S7.1-', 'A2.1+', 'X2.4', 'S6+', 'S7.4+', 'N3', 'A2.1+', 'P1', 'M1', 'X2.5+', 'F1@', 'F2@', 'Q1.2@', 'B3@']"
+cymryd,cymryd,B,"['A9+', 'T1.3', 'C1', 'A1.1.1', 'M2', 'S7.1-', 'A2.1+', 'X2.4', 'S6+', 'S7.4+', 'N3', 'A2.1+', 'P1', 'M1', 'X2.5+', 'F1@', 'F2@', 'Q1.2@', 'B3@']",cymerai,cymryd,B,"['A9+', 'T1.3', 'C1', 'A1.1.1', 'M2', 'S7.1-', 'A2.1+', 'X2.4', 'S6+', 'S7.4+', 'N3', 'A2.1+', 'P1', 'M1', 'X2.5+', 'F1@', 'F2@', 'Q1.2@', 'B3@']"
+cymryd,cymryd,B,"['A9+', 'T1.3', 'C1', 'A1.1.1', 'M2', 'S7.1-', 'A2.1+', 'X2.4', 'S6+', 'S7.4+', 'N3', 'A2.1+', 'P1', 'M1', 'X2.5+', 'F1@', 'F2@', 'Q1.2@', 'B3@']",gymeri,cymryd,B,"['A9+', 'T1.3', 'C1', 'A1.1.1', 'M2', 'S7.1-', 'A2.1+', 'X2.4', 'S6+', 'S7.4+', 'N3', 'A2.1+', 'P1', 'M1', 'X2.5+', 'F1@', 'F2@', 'Q1.2@', 'B3@']"
+digwydd,digwydd,B,"['A2.1+', 'A3+', 'X7-']",ddigwydd,digwydd,B,"['A2.1+', 'A3+', 'X7-']"
+digwydd,digwydd,B,"['A2.1+', 'A3+', 'X7-']",digwyddo,digwydd,B,"['A2.1+', 'A3+', 'X7-']"
+digwydd,digwydd,B,"['A2.1+', 'A3+', 'X7-']",digwydda,digwydd,B,"['A2.1+', 'A3+', 'X7-']"
+digwydd,digwydd,B,"['A2.1+', 'A3+', 'X7-']",ddigwyddo,digwydd,B,"['A2.1+', 'A3+', 'X7-']"
+digwydd,digwydd,B,"['A2.1+', 'A3+', 'X7-']",ddigwyddod,ddigwyddod,unk,['Z99']
+digwydd,digwydd,B,"['A2.1+', 'A3+', 'X7-']",digwyddant,digwydd,B,"['A2.1+', 'A3+', 'X7-']"
+digwydd,digwydd,B,"['A2.1+', 'A3+', 'X7-']",ddigwyddai,digwydd,B,"['A2.1+', 'A3+', 'X7-']"
+digwydd,digwydd,B,"['A2.1+', 'A3+', 'X7-']",digwyd,digwyd,unk,['Z99']
+digwydd,digwydd,B,"['A2.1+', 'A3+', 'X7-']",digwyddai,digwydd,B,"['A2.1+', 'A3+', 'X7-']"
+digwydd,digwydd,B,"['A2.1+', 'A3+', 'X7-']",ddigwyddodd,digwydd,B,"['A2.1+', 'A3+', 'X7-']"
+digwydd,digwydd,B,"['A2.1+', 'A3+', 'X7-']",ddigwydd,digwydd,B,"['A2.1+', 'A3+', 'X7-']"
+digwydd,digwydd,B,"['A2.1+', 'A3+', 'X7-']",digwyddo,digwydd,B,"['A2.1+', 'A3+', 'X7-']"
+digwydd,digwydd,B,"['A2.1+', 'A3+', 'X7-']",digwydda,digwydd,B,"['A2.1+', 'A3+', 'X7-']"
+digwydd,digwydd,B,"['A2.1+', 'A3+', 'X7-']",ddigwyddo,digwydd,B,"['A2.1+', 'A3+', 'X7-']"
+digwydd,digwydd,B,"['A2.1+', 'A3+', 'X7-']",ddigwyddod,ddigwyddod,unk,['Z99']
+digwydd,digwydd,B,"['A2.1+', 'A3+', 'X7-']",digwyddant,digwydd,B,"['A2.1+', 'A3+', 'X7-']"
+digwydd,digwydd,B,"['A2.1+', 'A3+', 'X7-']",ddigwyddai,digwydd,B,"['A2.1+', 'A3+', 'X7-']"
+digwydd,digwydd,B,"['A2.1+', 'A3+', 'X7-']",digwyd,digwyd,unk,['Z99']
+digwydd,digwydd,B,"['A2.1+', 'A3+', 'X7-']",digwyddai,digwydd,B,"['A2.1+', 'A3+', 'X7-']"
+digwydd,digwydd,B,"['A2.1+', 'A3+', 'X7-']",ddigwyddodd,digwydd,B,"['A2.1+', 'A3+', 'X7-']"
+creu,creu,B,"['A1.1.1', 'A2.2', 'E1']",greu,creu,B,"['A1.1.1', 'A2.2', 'E1']"
+creu,creu,B,"['A1.1.1', 'A2.2', 'E1']",chreu,creu,B,"['A1.1.1', 'A2.2', 'E1']"
+creu,creu,B,"['A1.1.1', 'A2.2', 'E1']",llunio,llunio,B,['A1.1.1']
+creu,creu,B,"['A1.1.1', 'A2.2', 'E1']",darparu,darparu,B,"['A9-', 'S6+']"
+creu,creu,B,"['A1.1.1', 'A2.2', 'E1']",adeiladu,adeiladu,B,"['H1', 'A1.1.1', 'A5.1+/A2.1', 'N3.2+/A2.1']"
+creu,creu,B,"['A1.1.1', 'A2.2', 'E1']",cynhyrchu,cynhyrchu,B,"['A2.2', 'A1.1.1', 'A10+', 'K4', 'K3', 'Q4.3', 'F4']"
+creu,creu,B,"['A1.1.1', 'A2.2', 'E1']",crewyr,crewyr,unk,['Z99']
+creu,creu,B,"['A1.1.1', 'A2.2', 'E1']",gosod,gosod,B,"['M2', 'X2.2+', 'I3.1', 'Q2.2']"
+creu,creu,B,"['A1.1.1', 'A2.2', 'E1']",cydadeiladu,cydadeiladu,unk,['Z99']
+creu,creu,B,"['A1.1.1', 'A2.2', 'E1']",datblygu,datblygu,B,"['A2.1+', 'T2+', 'A5.1+/A2.1', 'N3.2+/A2.1', 'H1', 'A9+', 'C1']"
+newid,newid,B,"['A2.1+', 'I1', 'B5']",newidiau,newidiau,unk,['Z99']
+newid,newid,B,"['A2.1+', 'I1', 'B5']",newidion,newid | newid,B | B,"['A2.1+', 'I1', 'B5']"
+newid,newid,B,"['A2.1+', 'I1', 'B5']",newidiadau,newidiad,E,"['A2.1+', 'I1', 'B5']"
+newid,newid,B,"['A2.1+', 'I1', 'B5']",newidia,newid | newid,B | B,"['A2.1+', 'I1', 'B5']"
+newid,newid,B,"['A2.1+', 'I1', 'B5']",newidiad,newidiad,E,"['A2.1+', 'I1', 'B5']"
+newid,newid,B,"['A2.1+', 'I1', 'B5']",newidiwn,newid,B,"['A2.1+', 'I1', 'B5']"
+newid,newid,B,"['A2.1+', 'I1', 'B5']",newidadau,newidadau,unk,['Z99']
+newid,newid,B,"['A2.1+', 'I1', 'B5']",newidith,newid,B,"['A2.1+', 'I1', 'B5']"
+newid,newid,B,"['A2.1+', 'I1', 'B5']",newidiol,newidiol,Ans,"['A6.3+', 'N2']"
+newid,newid,B,"['A2.1+', 'I1', 'B5']",newid,newid,B,"['A2.1+', 'I1', 'B5']"
+newid,newid,B,"['A2.1+', 'I1', 'B5']",newidiau,newidiau,unk,['Z99']
+newid,newid,B,"['A2.1+', 'I1', 'B5']",newidion,newid | newid,B | B,"['A2.1+', 'I1', 'B5']"
+newid,newid,B,"['A2.1+', 'I1', 'B5']",newidiadau,newidiad,E,"['A2.1+', 'I1', 'B5']"
+newid,newid,B,"['A2.1+', 'I1', 'B5']",newidia,newid | newid,B | B,"['A2.1+', 'I1', 'B5']"
+newid,newid,B,"['A2.1+', 'I1', 'B5']",newidiad,newidiad,E,"['A2.1+', 'I1', 'B5']"
+newid,newid,B,"['A2.1+', 'I1', 'B5']",newidiwn,newid,B,"['A2.1+', 'I1', 'B5']"
+newid,newid,B,"['A2.1+', 'I1', 'B5']",newidadau,newidadau,unk,['Z99']
+newid,newid,B,"['A2.1+', 'I1', 'B5']",newidith,newid,B,"['A2.1+', 'I1', 'B5']"
+newid,newid,B,"['A2.1+', 'I1', 'B5']",newidiol,newidiol,Ans,"['A6.3+', 'N2']"
+newid,newid,B,"['A2.1+', 'I1', 'B5']",newid,newid,B,"['A2.1+', 'I1', 'B5']"
+gadael,gadael,B,"['M1', 'M2', 'A1.1.1', 'A1.9', 'A9-', 'T2-']",adael,gadael,B,"['M1', 'M2', 'A1.1.1', 'A1.9', 'A9-', 'T2-']"
+gadael,gadael,B,"['M1', 'M2', 'A1.1.1', 'A1.9', 'A9-', 'T2-']",gadael,gadael,B,"['M1', 'M2', 'A1.1.1', 'A1.9', 'A9-', 'T2-']"
+gadael,gadael,B,"['M1', 'M2', 'A1.1.1', 'A1.9', 'A9-', 'T2-']",ngadael,gadael,B,"['M1', 'M2', 'A1.1.1', 'A1.9', 'A9-', 'T2-']"
+gadael,gadael,B,"['M1', 'M2', 'A1.1.1', 'A1.9', 'A9-', 'T2-']",madael,madael,unk,['Z99']
+gadael,gadael,B,"['M1', 'M2', 'A1.1.1', 'A1.9', 'A9-', 'T2-']",gadaw,gadaw,unk,['Z99']
+gadael,gadael,B,"['M1', 'M2', 'A1.1.1', 'A1.9', 'A9-', 'T2-']",ymadael,ymadael,B,['M1']
+gadael,gadael,B,"['M1', 'M2', 'A1.1.1', 'A1.9', 'A9-', 'T2-']",gadawodd,gadael,B,"['M1', 'M2', 'A1.1.1', 'A1.9', 'A9-', 'T2-']"
+gadael,gadael,B,"['M1', 'M2', 'A1.1.1', 'A1.9', 'A9-', 'T2-']",gadal,gadal,unk,['Z99']
+gadael,gadael,B,"['M1', 'M2', 'A1.1.1', 'A1.9', 'A9-', 'T2-']",gadel,gadel,unk,['Z99']
+gadael,gadael,B,"['M1', 'M2', 'A1.1.1', 'A1.9', 'A9-', 'T2-']",adawodd,gadael,B,"['M1', 'M2', 'A1.1.1', 'A1.9', 'A9-', 'T2-']"
+cadw,cadw,B,"['A9+', 'N6+', 'T2++', 'A1.7+', 'A2.2', 'F4', 'S8+', 'H4']",gadw,cadw,B,"['A9+', 'N6+', 'T2++', 'A1.7+', 'A2.2', 'F4', 'S8+', 'H4']"
+cadw,cadw,B,"['A9+', 'N6+', 'T2++', 'A1.7+', 'A2.2', 'F4', 'S8+', 'H4']",chadw,cadw,B,"['A9+', 'N6+', 'T2++', 'A1.7+', 'A2.2', 'F4', 'S8+', 'H4']"
+cadw,cadw,B,"['A9+', 'N6+', 'T2++', 'A1.7+', 'A2.2', 'F4', 'S8+', 'H4']",cadwont,cadw,B,"['A9+', 'N6+', 'T2++', 'A1.7+', 'A2.2', 'F4', 'S8+', 'H4']"
+cadw,cadw,B,"['A9+', 'N6+', 'T2++', 'A1.7+', 'A2.2', 'F4', 'S8+', 'H4']",cadwa,cadw | cadw,B | B,"['A9+', 'N6+', 'T2++', 'A1.7+', 'A2.2', 'F4', 'S8+', 'H4']"
+cadw,cadw,B,"['A9+', 'N6+', 'T2++', 'A1.7+', 'A2.2', 'F4', 'S8+', 'H4']",cadwai,cadw,B,"['A9+', 'N6+', 'T2++', 'A1.7+', 'A2.2', 'F4', 'S8+', 'H4']"
+cadw,cadw,B,"['A9+', 'N6+', 'T2++', 'A1.7+', 'A2.2', 'F4', 'S8+', 'H4']",cadwodd,cadw,B,"['A9+', 'N6+', 'T2++', 'A1.7+', 'A2.2', 'F4', 'S8+', 'H4']"
+cadw,cadw,B,"['A9+', 'N6+', 'T2++', 'A1.7+', 'A2.2', 'F4', 'S8+', 'H4']",cadwaf,cadw,B,"['A9+', 'N6+', 'T2++', 'A1.7+', 'A2.2', 'F4', 'S8+', 'H4']"
+cadw,cadw,B,"['A9+', 'N6+', 'T2++', 'A1.7+', 'A2.2', 'F4', 'S8+', 'H4']",cadwn,cadw,B,"['A9+', 'N6+', 'T2++', 'A1.7+', 'A2.2', 'F4', 'S8+', 'H4']"
+cadw,cadw,B,"['A9+', 'N6+', 'T2++', 'A1.7+', 'A2.2', 'F4', 'S8+', 'H4']",gwarchod,gwarchod,B,"['S8+/A15+', 'A10-']"
+cadw,cadw,B,"['A9+', 'N6+', 'T2++', 'A1.7+', 'A2.2', 'F4', 'S8+', 'H4']",cadw,cadw,B,"['A9+', 'N6+', 'T2++', 'A1.7+', 'A2.2', 'F4', 'S8+', 'H4']"
+dangos,dangos,B,"['A10+', 'S1.1.1']",ddangos,dangos,B,"['A10+', 'S1.1.1']"
+dangos,dangos,B,"['A10+', 'S1.1.1']",dangosodd,dangos,B,"['A10+', 'S1.1.1']"
+dangos,dangos,B,"['A10+', 'S1.1.1']",dangoswn,dangos,B,"['A10+', 'S1.1.1']"
+dangos,dangos,B,"['A10+', 'S1.1.1']",ddangosodd,dangos,B,"['A10+', 'S1.1.1']"
+dangos,dangos,B,"['A10+', 'S1.1.1']",dangoswyd,dangos,B,"['A10+', 'S1.1.1']"
+dangos,dangos,B,"['A10+', 'S1.1.1']",dengys,dangos,B,"['A10+', 'S1.1.1']"
+dangos,dangos,B,"['A10+', 'S1.1.1']",ddangoson,dangos | dangos,B | B,['Z99']
+dangos,dangos,B,"['A10+', 'S1.1.1']",dangosir,dangos,B,"['A10+', 'S1.1.1']"
+dangos,dangos,B,"['A10+', 'S1.1.1']",arddangos,arddangos,B,"['G1.2', 'A10+']"
+dangos,dangos,B,"['A10+', 'S1.1.1']",pwysleisio,pwysleisio,B,['A11.1+']
+cynnal,cynnal,B,"['S8+', 'A1.1.1', 'K5.1', 'I1.1', 'A10+']",gynnal,cynnal,B,"['S8+', 'A1.1.1', 'K5.1', 'I1.1', 'A10+']"
+cynnal,cynnal,B,"['S8+', 'A1.1.1', 'K5.1', 'I1.1', 'A10+']",chynnal,cynnal,B,"['S8+', 'A1.1.1', 'K5.1', 'I1.1', 'A10+']"
+cynnal,cynnal,B,"['S8+', 'A1.1.1', 'K5.1', 'I1.1', 'A10+']",trefnu,trefnu,B,"['S7.1+', 'A1.1.1']"
+cynnal,cynnal,B,"['S8+', 'A1.1.1', 'K5.1', 'I1.1', 'A10+']",cynhelir,cynnal,B,"['S8+', 'A1.1.1', 'K5.1', 'I1.1', 'A10+']"
+cynnal,cynnal,B,"['S8+', 'A1.1.1', 'K5.1', 'I1.1', 'A10+']",cynhaliwyd,cynnal,B,"['S8+', 'A1.1.1', 'K5.1', 'I1.1', 'A10+']"
+cynnal,cynnal,B,"['S8+', 'A1.1.1', 'K5.1', 'I1.1', 'A10+']",gynhelir,cynnal,B,"['S8+', 'A1.1.1', 'K5.1', 'I1.1', 'A10+']"
+cynnal,cynnal,B,"['S8+', 'A1.1.1', 'K5.1', 'I1.1', 'A10+']",cynhaliwn,cynnal,B,"['S8+', 'A1.1.1', 'K5.1', 'I1.1', 'A10+']"
+cynnal,cynnal,B,"['S8+', 'A1.1.1', 'K5.1', 'I1.1', 'A10+']",ymgynnal,ymgynnal,unk,['Z99']
+cynnal,cynnal,B,"['S8+', 'A1.1.1', 'K5.1', 'I1.1', 'A10+']",chynhelir,cynnal,B,"['S8+', 'A1.1.1', 'K5.1', 'I1.1', 'A10+']"
+cynnal,cynnal,B,"['S8+', 'A1.1.1', 'K5.1', 'I1.1', 'A10+']",cynnaliaeth,cynnaliaeth,unk,['Z99']
+credu,credu,B,"['X2.1', 'S9%']",gredu,credu,B,"['X2.1', 'S9%']"
+credu,credu,B,"['X2.1', 'S9%']",credwn,credu,B,"['X2.1', 'S9%']"
+credu,credu,B,"['X2.1', 'S9%']",cred,cred,E,"['X2.1', 'S9%']"
+credu,credu,B,"['X2.1', 'S9%']",credaf,credu,B,"['X2.1', 'S9%']"
+credu,credu,B,"['X2.1', 'S9%']",amau,amau,E,"['X2.1/A5.1-', 'A7', 'N5---']"
+credu,credu,B,"['X2.1', 'S9%']",argyhoeddedig,argyhoeddedig,unk,['Z99']
+credu,credu,B,"['X2.1', 'S9%']",siwr,siwr,Ans,['Z4']
+credu,credu,B,"['X2.1', 'S9%']",teimlo,teimlo,B,"['X2.1', 'E1', 'X3']"
+credu,credu,B,"['X2.1', 'S9%']",sylweddoli,sylweddoli,B,"['X2.5+', 'X9.2+']"
+credu,credu,B,"['X2.1', 'S9%']",tybio,tybio,B,"['X2.1', 'X7+']"
+dilyn,dilyn,B,"['M1', 'N4', 'S7.1-', 'X2.4', 'X2.5+', 'A6.1+', 'A1.1.1', 'A2.2', 'K5.1', 'X3.4']",sgil,sgil,E,['Z99']
+dilyn,dilyn,B,"['M1', 'N4', 'S7.1-', 'X2.4', 'X2.5+', 'A6.1+', 'A1.1.1', 'A2.2', 'K5.1', 'X3.4']",ddilyn,dilyn,B,"['M1', 'N4', 'S7.1-', 'X2.4', 'X2.5+', 'A6.1+', 'A1.1.1', 'A2.2', 'K5.1', 'X3.4']"
+dilyn,dilyn,B,"['M1', 'N4', 'S7.1-', 'X2.4', 'X2.5+', 'A6.1+', 'A1.1.1', 'A2.2', 'K5.1', 'X3.4']",ddilynodd,dilyn,B,"['M1', 'N4', 'S7.1-', 'X2.4', 'X2.5+', 'A6.1+', 'A1.1.1', 'A2.2', 'K5.1', 'X3.4']"
+dilyn,dilyn,B,"['M1', 'N4', 'S7.1-', 'X2.4', 'X2.5+', 'A6.1+', 'A1.1.1', 'A2.2', 'K5.1', 'X3.4']",dilynodd,dilyn,B,"['M1', 'N4', 'S7.1-', 'X2.4', 'X2.5+', 'A6.1+', 'A1.1.1', 'A2.2', 'K5.1', 'X3.4']"
+dilyn,dilyn,B,"['M1', 'N4', 'S7.1-', 'X2.4', 'X2.5+', 'A6.1+', 'A1.1.1', 'A2.2', 'K5.1', 'X3.4']",dilynnol,dilynnol,unk,['Z99']
+dilyn,dilyn,B,"['M1', 'N4', 'S7.1-', 'X2.4', 'X2.5+', 'A6.1+', 'A1.1.1', 'A2.2', 'K5.1', 'X3.4']",ddilynnodd,ddilynnodd,unk,['Z99']
+dilyn,dilyn,B,"['M1', 'N4', 'S7.1-', 'X2.4', 'X2.5+', 'A6.1+', 'A1.1.1', 'A2.2', 'K5.1', 'X3.4']",ystod,ystod,E,"['A1.8+', 'T1.3', 'N3.3', 'N3.7']"
+dilyn,dilyn,B,"['M1', 'N4', 'S7.1-', 'X2.4', 'X2.5+', 'A6.1+', 'A1.1.1', 'A2.2', 'K5.1', 'X3.4']",dilynid,dilyn,B,"['M1', 'N4', 'S7.1-', 'X2.4', 'X2.5+', 'A6.1+', 'A1.1.1', 'A2.2', 'K5.1', 'X3.4']"
+dilyn,dilyn,B,"['M1', 'N4', 'S7.1-', 'X2.4', 'X2.5+', 'A6.1+', 'A1.1.1', 'A2.2', 'K5.1', 'X3.4']",ddiweddarach,diweddar,Ans,['T3-']
+dilyn,dilyn,B,"['M1', 'N4', 'S7.1-', 'X2.4', 'X2.5+', 'A6.1+', 'A1.1.1', 'A2.2', 'K5.1', 'X3.4']",dilynir,dilyn,B,"['M1', 'N4', 'S7.1-', 'X2.4', 'X2.5+', 'A6.1+', 'A1.1.1', 'A2.2', 'K5.1', 'X3.4']"
+derbyn,derbyn,B,"['A9+', 'X2.5+', 'S1.2.1+', 'S7.4+']",dderbyn,derbyn,B,"['A9+', 'X2.5+', 'S1.2.1+', 'S7.4+']"
+derbyn,derbyn,B,"['A9+', 'X2.5+', 'S1.2.1+', 'S7.4+']",derbynio,derbynio,B,"['A9+', 'S5+']"
+derbyn,derbyn,B,"['A9+', 'X2.5+', 'S1.2.1+', 'S7.4+']",derbynia,derbynio | derbyn | derbyn | derbynio,B | B | B | B,"['A9+', 'S5+']"
+derbyn,derbyn,B,"['A9+', 'X2.5+', 'S1.2.1+', 'S7.4+']",dderbynio,derbynio,B,"['A9+', 'S5+']"
+derbyn,derbyn,B,"['A9+', 'X2.5+', 'S1.2.1+', 'S7.4+']",derbyniant,derbynio,B,"['A9+', 'S5+']"
+derbyn,derbyn,B,"['A9+', 'X2.5+', 'S1.2.1+', 'S7.4+']",derbynai,derbynai,unk,['Z99']
+derbyn,derbyn,B,"['A9+', 'X2.5+', 'S1.2.1+', 'S7.4+']",dderbynion,derbyn | derbynio | derbynio | derbyn,B | B | B | B,['Z99']
+derbyn,derbyn,B,"['A9+', 'X2.5+', 'S1.2.1+', 'S7.4+']",dderbynia,derbyn,B,"['A9+', 'X2.5+', 'S1.2.1+', 'S7.4+']"
+derbyn,derbyn,B,"['A9+', 'X2.5+', 'S1.2.1+', 'S7.4+']",dderbyniodd,derbynio,B,"['A9+', 'S5+']"
+derbyn,derbyn,B,"['A9+', 'X2.5+', 'S1.2.1+', 'S7.4+']",dderbyniant,derbynio,B,"['A9+', 'S5+']"
+eisiau,eisiau,E,"['X7+', 'S6+', 'A7+', 'S3.2', 'A9-']",eisio,eisio,E,"['X7+', 'S6+', 'A7+', 'S3.2', 'A9-']"
+eisiau,eisiau,E,"['X7+', 'S6+', 'A7+', 'S3.2', 'A9-']",isio,eisiau,E,"['X7+', 'S6+', 'A7+', 'S3.2', 'A9-']"
+eisiau,eisiau,E,"['X7+', 'S6+', 'A7+', 'S3.2', 'A9-']",angen,angen,E,['S6+']
+eisiau,eisiau,E,"['X7+', 'S6+', 'A7+', 'S3.2', 'A9-']",wedi,wedi,U,['Z5']
+eisiau,eisiau,E,"['X7+', 'S6+', 'A7+', 'S3.2', 'A9-']",dymuno,dymuno,B,['Z99']
+eisiau,eisiau,E,"['X7+', 'S6+', 'A7+', 'S3.2', 'A9-']",bwriadu,bwriadu,B,['X7+']
+eisiau,eisiau,E,"['X7+', 'S6+', 'A7+', 'S3.2', 'A9-']",eisie,eisie,unk,['Z99']
+eisiau,eisiau,E,"['X7+', 'S6+', 'A7+', 'S3.2', 'A9-']",heisiau,eisiau,E,"['X7+', 'S6+', 'A7+', 'S3.2', 'A9-']"
+eisiau,eisiau,E,"['X7+', 'S6+', 'A7+', 'S3.2', 'A9-']",ceisio,ceisio,B,"['X8+', 'X2.4', 'Q2.2', 'G2.1', 'A12-']"
+eisiau,eisiau,E,"['X7+', 'S6+', 'A7+', 'S3.2', 'A9-']",ishe,ishe,unk,['Z99']
+teimlo,teimlo,B,"['X2.1', 'E1', 'X3']",teimlo,teimlo,B,"['X2.1', 'E1', 'X3']"
+teimlo,teimlo,B,"['X2.1', 'E1', 'X3']",deimlo,teimlo,B,"['X2.1', 'E1', 'X3']"
+teimlo,teimlo,B,"['X2.1', 'E1', 'X3']",teimlon,teimlo | teimlo,B | B,"['X2.1', 'E1', 'X3']"
+teimlo,teimlo,B,"['X2.1', 'E1', 'X3']",deimlon,teimlo | teimlo,B | B,['Z99']
+teimlo,teimlo,B,"['X2.1', 'E1', 'X3']",theimlo,teimlo,B,"['X2.1', 'E1', 'X3']"
+teimlo,teimlo,B,"['X2.1', 'E1', 'X3']",teimla,teimlo | teimlo,B | B,"['X2.1', 'E1', 'X3']"
+teimlo,teimlo,B,"['X2.1', 'E1', 'X3']",timlo,timlo,unk,['Z99']
+teimlo,teimlo,B,"['X2.1', 'E1', 'X3']",teimlaf,teimlo,B,"['X2.1', 'E1', 'X3']"
+teimlo,teimlo,B,"['X2.1', 'E1', 'X3']",teimloâeur,teimloâeur,unk,['Z99']
+teimlo,teimlo,B,"['X2.1', 'E1', 'X3']",teimlant,teimlo,B,"['X2.1', 'E1', 'X3']"
+tynnu,tynnu,B,"['C1', 'M2', 'A9+', 'X5.1+', 'I1.2', 'O4.2+', 'X2.1', 'K5.1']",dynnu,tynnu,B,"['C1', 'M2', 'A9+', 'X5.1+', 'I1.2', 'O4.2+', 'X2.1', 'K5.1']"
+tynnu,tynnu,B,"['C1', 'M2', 'A9+', 'X5.1+', 'I1.2', 'O4.2+', 'X2.1', 'K5.1']",thynnu,tynnu,B,"['C1', 'M2', 'A9+', 'X5.1+', 'I1.2', 'O4.2+', 'X2.1', 'K5.1']"
+tynnu,tynnu,B,"['C1', 'M2', 'A9+', 'X5.1+', 'I1.2', 'O4.2+', 'X2.1', 'K5.1']",tynny,tynny,unk,['Z99']
+tynnu,tynnu,B,"['C1', 'M2', 'A9+', 'X5.1+', 'I1.2', 'O4.2+', 'X2.1', 'K5.1']",tynnodd,tynnu,B,"['C1', 'M2', 'A9+', 'X5.1+', 'I1.2', 'O4.2+', 'X2.1', 'K5.1']"
+tynnu,tynnu,B,"['C1', 'M2', 'A9+', 'X5.1+', 'I1.2', 'O4.2+', 'X2.1', 'K5.1']",tynna,tynnu,B,"['C1', 'M2', 'A9+', 'X5.1+', 'I1.2', 'O4.2+', 'X2.1', 'K5.1']"
+tynnu,tynnu,B,"['C1', 'M2', 'A9+', 'X5.1+', 'I1.2', 'O4.2+', 'X2.1', 'K5.1']",tynnu,tynnu,B,"['C1', 'M2', 'A9+', 'X5.1+', 'I1.2', 'O4.2+', 'X2.1', 'K5.1']"
+tynnu,tynnu,B,"['C1', 'M2', 'A9+', 'X5.1+', 'I1.2', 'O4.2+', 'X2.1', 'K5.1']",tynni,tynnu,B,"['C1', 'M2', 'A9+', 'X5.1+', 'I1.2', 'O4.2+', 'X2.1', 'K5.1']"
+tynnu,tynnu,B,"['C1', 'M2', 'A9+', 'X5.1+', 'I1.2', 'O4.2+', 'X2.1', 'K5.1']",dynnodd,tynnu,B,"['C1', 'M2', 'A9+', 'X5.1+', 'I1.2', 'O4.2+', 'X2.1', 'K5.1']"
+tynnu,tynnu,B,"['C1', 'M2', 'A9+', 'X5.1+', 'I1.2', 'O4.2+', 'X2.1', 'K5.1']",hoelio,hoelio,B,['A1.1.1']
+tynnu,tynnu,B,"['C1', 'M2', 'A9+', 'X5.1+', 'I1.2', 'O4.2+', 'X2.1', 'K5.1']",cyfeirio,cyfeirio,B,"['M6', 'Q2.2', 'S7.1+', 'K4']"
+troi,troi,B,"['M2', 'M1', 'O4.4', 'A1.1.1', 'A2.1+', 'O4.2-']",droi,troi | troi,B | B,['Z99']
+troi,troi,B,"['M2', 'M1', 'O4.4', 'A1.1.1', 'A2.1+', 'O4.2-']",throi,troi,B,"['M2', 'M1', 'O4.4', 'A1.1.1', 'A2.1+', 'O4.2-']"
+troi,troi,B,"['M2', 'M1', 'O4.4', 'A1.1.1', 'A2.1+', 'O4.2-']",mynd,mynd,B,"['M1', 'A2.1+', 'A1.1.1', 'A9-', 'A1.8+', 'Q2.1', 'N6+', 'I2.2', 'A1.1.2', 'T2-', 'S3.2', 'A6.3+', 'B2-/X1%', 'B1%']"
+troi,troi,B,"['M2', 'M1', 'O4.4', 'A1.1.1', 'A2.1+', 'O4.2-']",tynnu,tynnu,B,"['C1', 'M2', 'A9+', 'X5.1+', 'I1.2', 'O4.2+', 'X2.1', 'K5.1']"
+troi,troi,B,"['M2', 'M1', 'O4.4', 'A1.1.1', 'A2.1+', 'O4.2-']",symud,symud,B,"['M2', 'M1', 'A2.1+', 'E1', 'H4/A2.1']"
+troi,troi,B,"['M2', 'M1', 'O4.4', 'A1.1.1', 'A2.1+', 'O4.2-']",taflu,taflu,B,"['M2', 'A2.2', 'Q2.2', 'A1.1.1', 'X2.5-']"
+troi,troi,B,"['M2', 'M1', 'O4.4', 'A1.1.1', 'A2.1+', 'O4.2-']",trodd,troi,B,"['M2', 'M1', 'O4.4', 'A1.1.1', 'A2.1+', 'O4.2-']"
+troi,troi,B,"['M2', 'M1', 'O4.4', 'A1.1.1', 'A2.1+', 'O4.2-']",cefnau,cefn,E,"['S8+', 'K5.1/I1', 'M1', 'M6']"
+troi,troi,B,"['M2', 'M1', 'O4.4', 'A1.1.1', 'A2.1+', 'O4.2-']",drodd,troi,B,"['M2', 'M1', 'O4.4', 'A1.1.1', 'A2.1+', 'O4.2-']"
+troi,troi,B,"['M2', 'M1', 'O4.4', 'A1.1.1', 'A2.1+', 'O4.2-']",uuchio,uuchio,unk,['Z99']
+cyrraedd,cyrraedd,B,"['M1', 'N3.3', 'Q2.1', 'X9.2+']",cyrraed,cyrraed,unk,['Z99']
+cyrraedd,cyrraedd,B,"['M1', 'N3.3', 'Q2.1', 'X9.2+']",cyrraeddodd,cyrraeddodd,unk,['Z99']
+cyrraedd,cyrraedd,B,"['M1', 'N3.3', 'Q2.1', 'X9.2+']",gyrraedd,cyrraedd,B,"['M1', 'N3.3', 'Q2.1', 'X9.2+']"
+cyrraedd,cyrraedd,B,"['M1', 'N3.3', 'Q2.1', 'X9.2+']",cyrraedd,cyrraedd,B,"['M1', 'N3.3', 'Q2.1', 'X9.2+']"
+cyrraedd,cyrraedd,B,"['M1', 'N3.3', 'Q2.1', 'X9.2+']",chyrraedd,cyrraedd,B,"['M1', 'N3.3', 'Q2.1', 'X9.2+']"
+cyrraedd,cyrraedd,B,"['M1', 'N3.3', 'Q2.1', 'X9.2+']",cyrradd,cyrradd,unk,['Z99']
+cyrraedd,cyrraedd,B,"['M1', 'N3.3', 'Q2.1', 'X9.2+']",cyrhaeddod,cyrhaeddod,unk,['Z99']
+cyrraedd,cyrraedd,B,"['M1', 'N3.3', 'Q2.1', 'X9.2+']",gyrraed,gyrraed,unk,['Z99']
+cyrraedd,cyrraedd,B,"['M1', 'N3.3', 'Q2.1', 'X9.2+']",gyraedd,gyraedd,unk,['Z99']
+cyrraedd,cyrraedd,B,"['M1', 'N3.3', 'Q2.1', 'X9.2+']",nghyrraedd,cyrraedd | cyrraedd | cyrraedd | cyrraedd,B | B | B | B,['Z99']
+cyhoeddi,cyhoeddi,B,['Q4'],gyhoeddi,cyhoeddi,B,['Q4']
+cyhoeddi,cyhoeddi,B,['Q4'],chyhoeddi,cyhoeddi,B,['Q4']
+cyhoeddi,cyhoeddi,B,['Q4'],cyhoeddid,cyhoeddi,B,['Q4']
+cyhoeddi,cyhoeddi,B,['Q4'],cyhoedda,cyhoeddi | cyhoeddi,B | B,['Q4']
+cyhoeddi,cyhoeddi,B,['Q4'],cyhoeddwn,cyhoeddi,B,['Q4']
+cyhoeddi,cyhoeddi,B,['Q4'],cyhoeddoedd,cyhoeddoedd,unk,['Z99']
+cyhoeddi,cyhoeddi,B,['Q4'],cyhoeddir,cyhoeddi,B,['Q4']
+cyhoeddi,cyhoeddi,B,['Q4'],cyhoeddedig,cyhoeddedig,Ans,['Q4']
+cyhoeddi,cyhoeddi,B,['Q4'],cyhoeddu,cyhoeddu,unk,['Z99']
+cyhoeddi,cyhoeddi,B,['Q4'],cyhoeddiad,cyhoeddiad,E,['Q4']
+ceisio,ceisio,B,"['X8+', 'X2.4', 'Q2.2', 'G2.1', 'A12-']",geisio,ceisio,B,"['X8+', 'X2.4', 'Q2.2', 'G2.1', 'A12-']"
+ceisio,ceisio,B,"['X8+', 'X2.4', 'Q2.2', 'G2.1', 'A12-']",cheisio,ceisio,B,"['X8+', 'X2.4', 'Q2.2', 'G2.1', 'A12-']"
+ceisio,ceisio,B,"['X8+', 'X2.4', 'Q2.2', 'G2.1', 'A12-']",trio,trio,B,"['X8+', 'X2.4', 'Q2.2', 'G2.1', 'A12-']"
+ceisio,ceisio,B,"['X8+', 'X2.4', 'Q2.2', 'G2.1', 'A12-']",ceisio,ceisio,B,"['X8+', 'X2.4', 'Q2.2', 'G2.1', 'A12-']"
+ceisio,ceisio,B,"['X8+', 'X2.4', 'Q2.2', 'G2.1', 'A12-']",bwriadu,bwriadu,B,['X7+']
+ceisio,ceisio,B,"['X8+', 'X2.4', 'Q2.2', 'G2.1', 'A12-']",gallu,gallu,E,['X9.1+']
+ceisio,ceisio,B,"['X8+', 'X2.4', 'Q2.2', 'G2.1', 'A12-']",gorfod,gorfod,B,['Z99']
+ceisio,ceisio,B,"['X8+', 'X2.4', 'Q2.2', 'G2.1', 'A12-']",ceisiwyr,ceisiwyr,unk,['Z99']
+ceisio,ceisio,B,"['X8+', 'X2.4', 'Q2.2', 'G2.1', 'A12-']",medru,medru,B,['Z99']
+ceisio,ceisio,B,"['X8+', 'X2.4', 'Q2.2', 'G2.1', 'A12-']",fwriadu,bwriadu,B,['X7+']
+dechrau,dechrau,E,['T2+'],ddechrau,dechrau,E,['T2+']
+dechrau,dechrau,B,['T2+'],cychwyn,cychwyn,B,['E3-']
+dechrau,dechrau,E,['T2+'],gychwyn,cychwyn,B,['E3-']
+dechrau,dechrau,B,['T2+'],dechrau,dechrau,E,['T2+']
+dechrau,dechrau,E,['T2+'],gorffen,gorffen,B,"['T2-', 'Q1.2']"
+dechrau,dechrau,B,['T2+'],dechreuo,dechrau,B,['T2+']
+dechrau,dechrau,E,['T2+'],dechre,dechre,unk,['Z99']
+dechrau,dechrau,B,['T2+'],dechre,dechre,unk,['Z99']
+dechrau,dechrau,E,['T2+'],dechrauodd,dechrauodd,unk,['Z99']
+dechrau,dechrau,B,['T2+'],diwedd,diwedd,E,['T2-']
+dechrau,dechrau,E,['T2+'],ddechrau,dechrau,E,['T2+']
+dechrau,dechrau,B,['T2+'],cychwyn,cychwyn,B,['E3-']
+dechrau,dechrau,E,['T2+'],gychwyn,cychwyn,B,['E3-']
+dechrau,dechrau,B,['T2+'],dechrau,dechrau,E,['T2+']
+dechrau,dechrau,E,['T2+'],gorffen,gorffen,B,"['T2-', 'Q1.2']"
+dechrau,dechrau,B,['T2+'],dechreuo,dechrau,B,['T2+']
+dechrau,dechrau,E,['T2+'],dechre,dechre,unk,['Z99']
+dechrau,dechrau,B,['T2+'],dechre,dechre,unk,['Z99']
+dechrau,dechrau,E,['T2+'],dechrauodd,dechrauodd,unk,['Z99']
+dechrau,dechrau,B,['T2+'],diwedd,diwedd,E,['T2-']
+chwilio,chwilio,B,['X2.4'],chwilid,chwilio,B,['X2.4']
+chwilio,chwilio,B,['X2.4'],chwiliodd,chwilio,B,['X2.4']
+chwilio,chwilio,B,['X2.4'],chwilia,chwilio | chwilio,B | B,['X2.4']
+chwilio,chwilio,B,['X2.4'],chwiliwn,chwilio,B,['X2.4']
+chwilio,chwilio,B,['X2.4'],chwiliai,chwilio,B,['X2.4']
+chwilio,chwilio,B,['X2.4'],metachwilio,metachwilio,unk,['Z99']
+chwilio,chwilio,B,['X2.4'],rhagchwilio,rhagchwilio,B,['Z99']
+chwilio,chwilio,B,['X2.4'],chwiliant,chwilio,B,['X2.4']
+chwilio,chwilio,B,['X2.4'],chwil,chwil,Ans,['Z99']
+chwilio,chwilio,B,['X2.4'],chwiliadau,chwiliad,E,['X2.4']
+cyflwyno,cyflwyno,B,"['S1.1.1', 'T2+']",cyflwyn,cyflwyn,unk,['Z99']
+cyflwyno,cyflwyno,B,"['S1.1.1', 'T2+']",gyflwyno,cyflwyno,B,"['S1.1.1', 'T2+']"
+cyflwyno,cyflwyno,B,"['S1.1.1', 'T2+']",chyflwyno,cyflwyno,B,"['S1.1.1', 'T2+']"
+cyflwyno,cyflwyno,B,"['S1.1.1', 'T2+']",gyflwynon,cyflwyno | cyflwyno,B | B,['Z99']
+cyflwyno,cyflwyno,B,"['S1.1.1', 'T2+']",cyflwynedig,cyflwynedig,unk,['Z99']
+cyflwyno,cyflwyno,B,"['S1.1.1', 'T2+']",llunio,llunio,B,['A1.1.1']
+cyflwyno,cyflwyno,B,"['S1.1.1', 'T2+']",cyflwynai,cyflwyno,B,"['S1.1.1', 'T2+']"
+cyflwyno,cyflwyno,B,"['S1.1.1', 'T2+']",cyflwynir,cyflwyno,B,"['S1.1.1', 'T2+']"
+cyflwyno,cyflwyno,B,"['S1.1.1', 'T2+']",cyflwynant,cyflwyno,B,"['S1.1.1', 'T2+']"
+cyflwyno,cyflwyno,B,"['S1.1.1', 'T2+']",cydgyflwyno,cydgyflwyno,unk,['Z99']
+cysylltu,cysylltu,B,"['A2.2', 'S5+', 'A1.1.1']",cysylltu,cysylltu,B,"['A2.2', 'S5+', 'A1.1.1']"
+cysylltu,cysylltu,B,"['A2.2', 'S5+', 'A1.1.1']",chysylltu,cysylltu,B,"['A2.2', 'S5+', 'A1.1.1']"
+cysylltu,cysylltu,B,"['A2.2', 'S5+', 'A1.1.1']",cysyllt,cysyllt,unk,['Z99']
+cysylltu,cysylltu,B,"['A2.2', 'S5+', 'A1.1.1']",gysylltu,cysylltu,B,"['A2.2', 'S5+', 'A1.1.1']"
+cysylltu,cysylltu,B,"['A2.2', 'S5+', 'A1.1.1']",cysylltu,cysylltu,B,"['A2.2', 'S5+', 'A1.1.1']"
+cysylltu,cysylltu,B,"['A2.2', 'S5+', 'A1.1.1']",cysyllter,cysylltu,B,"['A2.2', 'S5+', 'A1.1.1']"
+cysylltu,cysylltu,B,"['A2.2', 'S5+', 'A1.1.1']",ailgysylltu,ailgysylltu,B,['Z99']
+cysylltu,cysylltu,B,"['A2.2', 'S5+', 'A1.1.1']",cysylltodd,cysylltu,B,"['A2.2', 'S5+', 'A1.1.1']"
+cysylltu,cysylltu,B,"['A2.2', 'S5+', 'A1.1.1']",cysylltwyr,cysylltwyr,unk,['Z99']
+cysylltu,cysylltu,B,"['A2.2', 'S5+', 'A1.1.1']",cysylltid,cysylltu,B,"['A2.2', 'S5+', 'A1.1.1']"
+helpu,helpu,B,['S8+'],cynorthwyo,cynorthwyo,B,"['S8+', 'A1.1.1', 'K5.1', 'I1.1', 'A10+']"
+helpu,helpu,B,['S8+'],gynorthwyo,cynorthwyo,B,"['S8+', 'A1.1.1', 'K5.1', 'I1.1', 'A10+']"
+helpu,helpu,B,['S8+'],helpu,helpu,B,['S8+']
+helpu,helpu,B,['S8+'],galluogi,galluogi,B,['S8+']
+helpu,helpu,B,['S8+'],nghynorthwyo,cynorthwyo,B,"['S8+', 'A1.1.1', 'K5.1', 'I1.1', 'A10+']"
+helpu,helpu,B,['S8+'],annog,annog,B,['Q2.2']
+helpu,helpu,B,['S8+'],chynorthwyo,cynorthwyo,B,"['S8+', 'A1.1.1', 'K5.1', 'I1.1', 'A10+']"
+helpu,helpu,B,['S8+'],gynnorthwyo,gynnorthwyo,unk,['Z99']
+helpu,helpu,B,['S8+'],llwyddo,llwyddo,B,"['X9.2+', 'N4']"
+helpu,helpu,B,['S8+'],cynnorthwyo,cynnorthwyo,unk,['Z99']
+sicrhau,sicrhau,B,['A7+'],sicrhau,sicrhau,B,['A7+']
+sicrhau,sicrhau,B,['A7+'],sichrau,sichrau,unk,['Z99']
+sicrhau,sicrhau,B,['A7+'],sicrha,sicrhau | sicrhau,B | B,['A7+']
+sicrhau,sicrhau,B,['A7+'],sicrhawn,sicrhau,B,['A7+']
+sicrhau,sicrhau,B,['A7+'],sicrhad,sicrhad,unk,['Z99']
+sicrhau,sicrhau,B,['A7+'],gwarantu,gwarantu,B,['A7+/Q2.2']
+sicrhau,sicrhau,B,['A7+'],ddarparu,darparu,B,"['A9-', 'S6+']"
+sicrhau,sicrhau,B,['A7+'],fynnu,mynnu,B,['S7.1+/Q2.2']
+sicrhau,sicrhau,B,['A7+'],sicrhawyd,sicrhau,B,['A7+']
+sicrhau,sicrhau,B,['A7+'],hanfodol,hanfodol,Ans,"['S6+', 'A4.2+']"
+symud,symud,B,"['M2', 'M1', 'A2.1+', 'E1', 'H4/A2.1']",ddychwelyd,dychwelyd,B,"['M1', 'A9-', 'N6']"
+symud,symud,B,"['M2', 'M1', 'A2.1+', 'E1', 'H4/A2.1']",dychwelyd,dychwelyd,B,"['M1', 'A9-', 'N6']"
+symud,symud,B,"['M2', 'M1', 'A2.1+', 'E1', 'H4/A2.1']",symyd,symyd,unk,['Z99']
+symud,symud,B,"['M2', 'M1', 'A2.1+', 'E1', 'H4/A2.1']",symudodd,symud,B,"['M2', 'M1', 'A2.1+', 'E1', 'H4/A2.1']"
+symud,symud,B,"['M2', 'M1', 'A2.1+', 'E1', 'H4/A2.1']",symuda,symud | symud,B | B,"['M2', 'M1', 'A2.1+', 'E1', 'H4/A2.1']"
+symud,symud,B,"['M2', 'M1', 'A2.1+', 'E1', 'H4/A2.1']",mynd,mynd,B,"['M1', 'A2.1+', 'A1.1.1', 'A9-', 'A1.8+', 'Q2.1', 'N6+', 'I2.2', 'A1.1.2', 'T2-', 'S3.2', 'A6.3+', 'B2-/X1%', 'B1%']"
+symud,symud,B,"['M2', 'M1', 'A2.1+', 'E1', 'H4/A2.1']",symudir,symud,B,"['M2', 'M1', 'A2.1+', 'E1', 'H4/A2.1']"
+symud,symud,B,"['M2', 'M1', 'A2.1+', 'E1', 'H4/A2.1']",symudid,symud,B,"['M2', 'M1', 'A2.1+', 'E1', 'H4/A2.1']"
+symud,symud,B,"['M2', 'M1', 'A2.1+', 'E1', 'H4/A2.1']",camu,camu,B,"['M1', 'S1.1.3+']"
+symud,symud,B,"['M2', 'M1', 'A2.1+', 'E1', 'H4/A2.1']",adleoli,adleoli,B,['M6/A2.1+']
+meithrin,meithrin,B,"['S1.1.1', 'A1.1.1', 'E1', 'S8+']",meithrinedig,meithrinedig,unk,['Z99']
+meithrin,meithrin,B,"['S1.1.1', 'A1.1.1', 'E1', 'S8+']",meithrinir,meithrin,B,"['S1.1.1', 'A1.1.1', 'E1', 'S8+']"
+meithrin,meithrin,B,"['S1.1.1', 'A1.1.1', 'E1', 'S8+']",meithriniad,meithriniad,unk,['Z99']
+meithrin,meithrin,B,"['S1.1.1', 'A1.1.1', 'E1', 'S8+']",mudiadmeithrin,mudiadmeithrin,unk,['Z99']
+meithrin,meithrin,B,"['S1.1.1', 'A1.1.1', 'E1', 'S8+']",meithrinwyd,meithrin,B,"['S1.1.1', 'A1.1.1', 'E1', 'S8+']"
+meithrin,meithrin,B,"['S1.1.1', 'A1.1.1', 'E1', 'S8+']",meith,meith,unk,['Z99']
+meithrin,meithrin,B,"['S1.1.1', 'A1.1.1', 'E1', 'S8+']",mudiad,mudiad,E,"['S5+c', 'S7.1+']"
+meithrin,meithrin,B,"['S1.1.1', 'A1.1.1', 'E1', 'S8+']",cylch,cylch,E,['M1']
+meithrin,meithrin,B,"['S1.1.1', 'A1.1.1', 'E1', 'S8+']",meithrinlluniau,meithrinlluniau,unk,['Z99']
+meithrin,meithrin,B,"['S1.1.1', 'A1.1.1', 'E1', 'S8+']",feithrin,meithrin,B,"['S1.1.1', 'A1.1.1', 'E1', 'S8+']"
+hoffi,hoffi,B,['E2+'],hoffi,hoffi,B,['E2+']
+hoffi,hoffi,B,['E2+'],licio,licio,B,['E2+']
+hoffi,hoffi,B,['E2+'],hoffi,hoffi,B,['E2+']
+hoffi,hoffi,B,['E2+'],ymhoffi,ymhoffi,unk,['Z99']
+hoffi,hoffi,B,['E2+'],ads,ads,unk,['Z99']
+hoffi,hoffi,B,['E2+'],dymuno,dymuno,B,['Z99']
+hoffi,hoffi,B,['E2+'],dwli,dwli,Ans,"['S1.2.6-', 'X9.1-']"
+hoffi,hoffi,B,['E2+'],caru,caru,B,['E2+']
+hoffi,hoffi,B,['E2+'],gwerthfawrogi,gwerthfawrogi,B,"['E2+', 'X2.5+', 'S1.1.1', 'I1.1++']"
+hoffi,hoffi,B,['E2+'],fodlon,bodlon,Ans,['E4.2+']
+datblygu,datblygu,B,"['A2.1+', 'T2+', 'A5.1+/A2.1', 'N3.2+/A2.1', 'H1', 'A9+', 'C1']",datblygu,datblygu,B,"['A2.1+', 'T2+', 'A5.1+/A2.1', 'N3.2+/A2.1', 'H1', 'A9+', 'C1']"
+datblygu,datblygu,B,"['A2.1+', 'T2+', 'A5.1+/A2.1', 'N3.2+/A2.1', 'H1', 'A9+', 'C1']",ddatblygu,datblygu,B,"['A2.1+', 'T2+', 'A5.1+/A2.1', 'N3.2+/A2.1', 'H1', 'A9+', 'C1']"
+datblygu,datblygu,B,"['A2.1+', 'T2+', 'A5.1+/A2.1', 'N3.2+/A2.1', 'H1', 'A9+', 'C1']",patblygu,patblygu,unk,['Z99']
+datblygu,datblygu,B,"['A2.1+', 'T2+', 'A5.1+/A2.1', 'N3.2+/A2.1', 'H1', 'A9+', 'C1']",datblyguâ,datblyguâ,unk,['Z99']
+datblygu,datblygu,B,"['A2.1+', 'T2+', 'A5.1+/A2.1', 'N3.2+/A2.1', 'H1', 'A9+', 'C1']",ddatblyguâ,ddatblyguâ,unk,['Z99']
+datblygu,datblygu,B,"['A2.1+', 'T2+', 'A5.1+/A2.1', 'N3.2+/A2.1', 'H1', 'A9+', 'C1']",datblygus,datblygus,unk,['Z99']
+datblygu,datblygu,B,"['A2.1+', 'T2+', 'A5.1+/A2.1', 'N3.2+/A2.1', 'H1', 'A9+', 'C1']",ddatblyg,ddatblyg,unk,['Z99']
+datblygu,datblygu,B,"['A2.1+', 'T2+', 'A5.1+/A2.1', 'N3.2+/A2.1', 'H1', 'A9+', 'C1']",datblygiad,datblygiad,E,"['A2.1+', 'A5.1+/A2.1', 'H1']"
+datblygu,datblygu,B,"['A2.1+', 'T2+', 'A5.1+/A2.1', 'N3.2+/A2.1', 'H1', 'A9+', 'C1']",datblygwn,datblygu,B,"['A2.1+', 'T2+', 'A5.1+/A2.1', 'N3.2+/A2.1', 'H1', 'A9+', 'C1']"
+datblygu,datblygu,B,"['A2.1+', 'T2+', 'A5.1+/A2.1', 'N3.2+/A2.1', 'H1', 'A9+', 'C1']",datblygai,datblygu,B,"['A2.1+', 'T2+', 'A5.1+/A2.1', 'N3.2+/A2.1', 'H1', 'A9+', 'C1']"
+teipio,teipio,B,['Q1.2'],gwelwch,gweld | gweld | gwelwi | gwelwi,B | B | B | B,['O4.3/A2.1']
+teipio,teipio,B,['Q1.2'],meddyliwch,meddwl | meddwl,B | B,['X2.1']
+teipio,teipio,B,['Q1.2'],genoteipio,genoteipio,unk,['Z99']
+teipio,teipio,B,['Q1.2'],teipiau,teip,E,['Q1.2']
+teipio,teipio,B,['Q1.2'],feddyliwch,meddwl,B,['X2.1']
+teipio,teipio,B,['Q1.2'],theipio,teipio,B,['Q1.2']
+teipio,teipio,B,['Q1.2'],teipiadur,teipiadur,E,['Q1.2/O2']
+teipio,teipio,B,['Q1.2'],meddyliwyd,meddwl,B,['X2.1']
+teipio,teipio,B,['Q1.2'],teipiwch,teipio | teipio,B | B,['Q1.2']
+teipio,teipio,B,['Q1.2'],deipio,teipio,B,['Q1.2']
+brifo,brifo,B,"['B2-', 'E4.1-', 'A1.1.2']",mrifo,brifo,B,"['B2-', 'E4.1-', 'A1.1.2']"
+brifo,brifo,B,"['B2-', 'E4.1-', 'A1.1.2']",frifo,brifo,B,"['B2-', 'E4.1-', 'A1.1.2']"
+brifo,brifo,B,"['B2-', 'E4.1-', 'A1.1.2']",ypsetio,ypsetio,B,['Z99']
+brifo,brifo,B,"['B2-', 'E4.1-', 'A1.1.2']",brathu,brathu,B,"['B1', 'A12-']"
+brifo,brifo,B,"['B2-', 'E4.1-', 'A1.1.2']",mygwth,bygwth,E,"['E3-/Q2.2', 'A15-', 'X2.6+/O4.2-', 'A7+']"
+brifo,brifo,B,"['B2-', 'E4.1-', 'A1.1.2']",anafu,anafu,B,"['B2-', 'A1.1.1', 'E4.1-']"
+brifo,brifo,B,"['B2-', 'E4.1-', 'A1.1.2']",blino,blino,B,"['B1', 'B2-', 'X5.2-']"
+brifo,brifo,B,"['B2-', 'E4.1-', 'A1.1.2']",slapio,slapio,unk,['Z99']
+brifo,brifo,B,"['B2-', 'E4.1-', 'A1.1.2']",chrio,crio,B,"['E4.1-', 'Q2.2']"
+brifo,brifo,B,"['B2-', 'E4.1-', 'A1.1.2']",uuchio,uuchio,unk,['Z99']
+crynhoi,crynhoi,B,['Q2.2'],crynhoir,crynhoi,B,['Q2.2']
+crynhoi,crynhoi,B,['Q2.2'],grynhoi,crynhoi | crynhoi,B | B,['Z99']
+crynhoi,crynhoi,B,['Q2.2'],chrynhoi,crynhoi,B,['Q2.2']
+crynhoi,crynhoi,B,['Q2.2'],crynhoaf,crynhoaf,unk,['Z99']
+crynhoi,crynhoi,B,['Q2.2'],crynhowyd,crynhoi,B,['Q2.2']
+crynhoi,crynhoi,B,['Q2.2'],dadansoddi,dadansoddi,B,"['X2.4', 'Y1']"
+crynhoi,crynhoi,B,['Q2.2'],amlinellu,amlinellu,B,"['Q2.1', 'O4.4']"
+crynhoi,crynhoi,B,['Q2.2'],crynhodd,crynhoi,B,['Q2.2']
+crynhoi,crynhoi,B,['Q2.2'],disgrifio,disgrifio,B,['Q2.2']
+crynhoi,crynhoi,B,['Q2.2'],crisialu,crisialu,B,['Z99']
+gwahodd,gwahodd,B,['Q2.2'],wahodd,gwahodd,B,['Q2.2']
+gwahodd,gwahodd,B,['Q2.2'],gwahoddiad,gwahoddiad,E,['Q2.2']
+gwahodd,gwahodd,B,['Q2.2'],gwahoddodd,gwahodd,B,['Q2.2']
+gwahodd,gwahodd,B,['Q2.2'],gwahoddiadau,gwahoddiad,E,['Q2.2']
+gwahodd,gwahodd,B,['Q2.2'],ngwahodd,gwahodd,B,['Q2.2']
+gwahodd,gwahodd,B,['Q2.2'],gwahoddais,gwahodd,B,['Q2.2']
+gwahodd,gwahodd,B,['Q2.2'],gwahoddwyd,gwahodd,B,['Q2.2']
+gwahodd,gwahodd,B,['Q2.2'],gwahoddaf,gwahodd,B,['Q2.2']
+gwahodd,gwahodd,B,['Q2.2'],gwahoddir,gwahodd,B,['Q2.2']
+gwahodd,gwahodd,B,['Q2.2'],gwahoddwn,gwahodd,B,['Q2.2']
+cyfnewid,cyfnewid,B,"['A9/S1.1.2+', 'A2.1+']",cyfnewidir,cyfnewid,B,"['A9/S1.1.2+', 'A2.1+']"
+cyfnewid,cyfnewid,B,"['A9/S1.1.2+', 'A2.1+']",cyfnewidiadau,cyfnewidiadau,unk,['Z99']
+cyfnewid,cyfnewid,B,"['A9/S1.1.2+', 'A2.1+']",cyfnewidwyr,cyfnewidwyr,unk,['Z99']
+cyfnewid,cyfnewid,B,"['A9/S1.1.2+', 'A2.1+']",cyfnewidiwyd,cyfnewid,B,"['A9/S1.1.2+', 'A2.1+']"
+cyfnewid,cyfnewid,B,"['A9/S1.1.2+', 'A2.1+']",cyfnewidiad,cyfnewidiad,unk,['Z99']
+cyfnewid,cyfnewid,B,"['A9/S1.1.2+', 'A2.1+']",cyfnewidiodd,cyfnewid,B,"['A9/S1.1.2+', 'A2.1+']"
+cyfnewid,cyfnewid,B,"['A9/S1.1.2+', 'A2.1+']",cyfnewidcymru,cyfnewidcymru,unk,['Z99']
+cyfnewid,cyfnewid,B,"['A9/S1.1.2+', 'A2.1+']",gyfnewid,cyfnewid,B,"['A9/S1.1.2+', 'A2.1+']"
+cyfnewid,cyfnewid,B,"['A9/S1.1.2+', 'A2.1+']",cyfnewidiog,cyfnewidiog,unk,['Z99']
+cyfnewid,cyfnewid,B,"['A9/S1.1.2+', 'A2.1+']",cyfnewidiol,cyfnewidiol,Ans,"['A6.3+', 'N2']"
+anadlu,anadlu,B,['B1'],hanadlu,anadlu,B,['B1']
+anadlu,anadlu,B,['B1'],anadla,anadlu | anadlu,B | B,['B1']
+anadlu,anadlu,B,['B1'],anadlol,anadlol,unk,['Z99']
+anadlu,anadlu,B,['B1'],anadlwn,anadlu,B,['B1']
+anadlu,anadlu,B,['B1'],anadl,anadl,E,"['B1', 'N5-@']"
+anadlu,anadlu,B,['B1'],anadlog,anadlog,unk,['Z99']
+anadlu,anadlu,B,['B1'],hysgyfaint,ysgyfaint,E,['B1']
+anadlu,anadlu,B,['B1'],gastroberfeddol,gastroberfeddol,unk,['Z99']
+anadlu,anadlu,B,['B1'],anadlydd,anadlydd,unk,['Z99']
+anadlu,anadlu,B,['B1'],ysgyfaint,ysgyfaint,E,['B1']
+llefaru,llefaru,B,['Q2.1'],lefaru,llefaru,B,['Q2.1']
+llefaru,llefaru,B,['Q2.1'],unawd,unawd,E,['S5-']
+llefaru,llefaru,B,['Q2.1'],llefaraf,llefaru,B,['Q2.1']
+llefaru,llefaru,B,['Q2.1'],offerynnol,offeryn,Ans,"['O2', 'K2', 'X4.2', 'B3', 'Y1']"
+llefaru,llefaru,B,['Q2.1'],llefarai,llefaru,B,['Q2.1']
+llefaru,llefaru,B,['Q2.1'],llefara,llefaru | llefaru,B | B,['Q2.1']
+llefaru,llefaru,B,['Q2.1'],llefaredd,llefaredd,unk,['Z99']
+llefaru,llefaru,B,['Q2.1'],chwythbrennau,chwythbrennau,unk,['Z99']
+llefaru,llefaru,B,['Q2.1'],llefarwr,llefarwr,E,"['Q2.1/S2mf', 'G1.1/S2mf', 'O3']"
+llefaru,llefaru,B,['Q2.1'],stepio,stepio,unk,['Z99']
+chwythu,chwythu,B,"['A1.1.1', 'X9.2-', 'B1', 'W4', 'I1.2', 'A1.5.1/N5.1+', 'E5-', 'O3', 'A2.1+']",chwythai,chwythu,B,"['A1.1.1', 'X9.2-', 'B1', 'W4', 'I1.2', 'A1.5.1/N5.1+', 'E5-', 'O3', 'A2.1+']"
+chwythu,chwythu,B,"['A1.1.1', 'X9.2-', 'B1', 'W4', 'I1.2', 'A1.5.1/N5.1+', 'E5-', 'O3', 'A2.1+']",chwythodd,chwythu,B,"['A1.1.1', 'X9.2-', 'B1', 'W4', 'I1.2', 'A1.5.1/N5.1+', 'E5-', 'O3', 'A2.1+']"
+chwythu,chwythu,B,"['A1.1.1', 'X9.2-', 'B1', 'W4', 'I1.2', 'A1.5.1/N5.1+', 'E5-', 'O3', 'A2.1+']",chwytha,chwythu | chwythu,B | B,"['A1.1.1', 'X9.2-', 'B1', 'W4', 'I1.2', 'A1.5.1/N5.1+', 'E5-', 'O3', 'A2.1+']"
+chwythu,chwythu,B,"['A1.1.1', 'X9.2-', 'B1', 'W4', 'I1.2', 'A1.5.1/N5.1+', 'E5-', 'O3', 'A2.1+']",chwythaf,chwythu,B,"['A1.1.1', 'X9.2-', 'B1', 'W4', 'I1.2', 'A1.5.1/N5.1+', 'E5-', 'O3', 'A2.1+']"
+chwythu,chwythu,B,"['A1.1.1', 'X9.2-', 'B1', 'W4', 'I1.2', 'A1.5.1/N5.1+', 'E5-', 'O3', 'A2.1+']",chwibanu,chwibanu,B,['X3.2+']
+chwythu,chwythu,B,"['A1.1.1', 'X9.2-', 'B1', 'W4', 'I1.2', 'A1.5.1/N5.1+', 'E5-', 'O3', 'A2.1+']",chwythwr,chwythwr,unk,['Z99']
+chwythu,chwythu,B,"['A1.1.1', 'X9.2-', 'B1', 'W4', 'I1.2', 'A1.5.1/N5.1+', 'E5-', 'O3', 'A2.1+']",gwynt,gwynt,E,"['M2', 'M1', 'B1', 'O4.4']"
+chwythu,chwythu,B,"['A1.1.1', 'X9.2-', 'B1', 'W4', 'I1.2', 'A1.5.1/N5.1+', 'E5-', 'O3', 'A2.1+']",chwyth,chwyth,unk,['Z99']
+chwythu,chwythu,B,"['A1.1.1', 'X9.2-', 'B1', 'W4', 'I1.2', 'A1.5.1/N5.1+', 'E5-', 'O3', 'A2.1+']",waeddu,waeddu,unk,['Z99']
+chwythu,chwythu,B,"['A1.1.1', 'X9.2-', 'B1', 'W4', 'I1.2', 'A1.5.1/N5.1+', 'E5-', 'O3', 'A2.1+']",gyrbibion,gyrbibion,unk,['Z99']
+tybio,tybio,B,"['X2.1', 'X7+']",tybied,tybied | tybio | tybied,B | B | B,"['X2.1', 'X7+']"
+tybio,tybio,B,"['X2.1', 'X7+']",rhagdybio,rhagdybio,B,"['X2.1', 'S1.2.3+']"
+tybio,tybio,B,"['X2.1', 'X7+']",dybio,tybio,B,"['X2.1', 'X7+']"
+tybio,tybio,B,"['X2.1', 'X7+']",credu,credu,B,"['X2.1', 'S9%']"
+tybio,tybio,B,"['X2.1', 'X7+']",amau,amau,E,"['X2.1/A5.1-', 'A7', 'N5---']"
+tybio,tybio,B,"['X2.1', 'X7+']",awgrymu,awgrymu,B,"['Q2.2', 'Q1.1']"
+tybio,tybio,B,"['X2.1', 'X7+']",honni,honni,B,"['Q2.2', 'A9+']"
+tybio,tybio,B,"['X2.1', 'X7+']",gredu,credu,B,"['X2.1', 'S9%']"
+tybio,tybio,B,"['X2.1', 'X7+']",argyhoeddedig,argyhoeddedig,unk,['Z99']
+tybio,tybio,B,"['X2.1', 'X7+']",rhagweld,rhagweld,B,['X2.6+']
+mesur,mesur,E,['N3.1'],fesur,mesur,E,['N3.1']
+mesur,mesur,B,['N3.1'],arfaethedig,arfaethedig,Ans,"['C1', 'X7+']"
+mesur,mesur,E,['N3.1'],mesuro,mesuro,B,['N3.1']
+mesur,mesur,B,['N3.1'],mesurau,mesur,E,['N3.1']
+mesur,mesur,E,['N3.1'],neddfwriaeth,deddfwriaeth,E,['G2.1']
+mesur,mesur,B,['N3.1'],darpariaethau,darpariaeth,E,"['O2', 'G2.1']"
+mesur,mesur,E,['N3.1'],deddf,deddf,E,"['A1.1.1', 'T1.1.2', 'A8', 'K4']"
+mesur,mesur,B,['N3.1'],mesura,mesuro | mesuro,B | B,['N3.1']
+mesur,mesur,E,['N3.1'],cynddeddfwriaethol,cynddeddfwriaethol,unk,['Z99']
+mesur,mesur,B,['N3.1'],ddeddf,deddf,E,"['A1.1.1', 'T1.1.2', 'A8', 'K4']"
+mesur,mesur,E,['N3.1'],fesur,mesur | mesur,E | B,['Z99']
+mesur,mesur,B,['N3.1'],arfaethedig,arfaethedig,Ans,"['C1', 'X7+']"
+mesur,mesur,E,['N3.1'],mesuro,mesuro,B,['N3.1']
+mesur,mesur,B,['N3.1'],mesurau,mesur,E,['N3.1']
+mesur,mesur,E,['N3.1'],neddfwriaeth,deddfwriaeth,E,['G2.1']
+mesur,mesur,B,['N3.1'],darpariaethau,darpariaeth,E,"['O2', 'G2.1']"
+mesur,mesur,E,['N3.1'],deddf,deddf,E,"['A1.1.1', 'T1.1.2', 'A8', 'K4']"
+mesur,mesur,B,['N3.1'],mesura,mesuro | mesuro,B | B,['N3.1']
+mesur,mesur,E,['N3.1'],cynddeddfwriaethol,cynddeddfwriaethol,unk,['Z99']
+mesur,mesur | mesur,E | B,['N3.1'],ddeddf,deddf,E,"['A1.1.1', 'T1.1.2', 'A8', 'K4']"
+dynodi,dynodi,B,['Q1.1'],ddynodi,dynodi,B,['Q1.1']
+dynodi,dynodi,B,['Q1.1'],dynodir,dynodi,B,['Q1.1']
+dynodi,dynodi,B,['Q1.1'],dynodai,dynodi,B,['Q1.1']
+dynodi,dynodi,B,['Q1.1'],hynodi,hynodi | hynodi,B | B,"['A6.1-', 'X3', 'A5.1+']"
+dynodi,dynodi,B,['Q1.1'],dynodiad,dynodiad,E,['Z99']
+dynodi,dynodi,B,['Q1.1'],dynodiadau,dynodiad,E,['Z99']
+dynodi,dynodi,B,['Q1.1'],dynoda,dynodi | dynodi,B | B,['Q1.1']
+dynodi,dynodi,B,['Q1.1'],ddynodiad,dynodiad,E,['Z99']
+dynodi,dynodi,B,['Q1.1'],ddynodai,dynodi,B,['Q1.1']
+dynodi,dynodi,B,['Q1.1'],diffinio,diffinio,B,"['Q2.2', 'A2.2']"
+llywio,llywio,B,"['M2', 'A2.2']",llywiwr,llywiwr,E,"['M6/S2mf', 'M4/S2mf']"
+llywio,llywio,B,"['M2', 'A2.2']",lywio,llywio,B,"['M2', 'A2.2']"
+llywio,llywio,B,"['M2', 'A2.2']",llywiodd,llywio,B,"['M2', 'A2.2']"
+llywio,llywio,B,"['M2', 'A2.2']",gwelywiwr,gwelywiwr,unk,['Z99']
+llywio,llywio,B,"['M2', 'A2.2']",llywir,llywio,B,"['M2', 'A2.2']"
+llywio,llywio,B,"['M2', 'A2.2']",llywiwyd,llywio,B,"['M2', 'A2.2']"
+llywio,llywio,B,"['M2', 'A2.2']",lywiwr,llywiwr,E,"['M6/S2mf', 'M4/S2mf']"
+llywio,llywio,B,"['M2', 'A2.2']",goruchwylio,goruchwylio,B,['S7.1+']
+llywio,llywio,B,"['M2', 'A2.2']",cydlynu,cydlynu,B,"['S5+', 'A6.1+']"
+llywio,llywio,B,"['M2', 'A2.2']",gorchwylio,gorchwylio,unk,['Z99']
+cwestiynu,cwestiynu,B,['Q2.2'],gwestiynu,cwestiynu,B,['Q2.2']
+cwestiynu,cwestiynu,B,['Q2.2'],chwestiynu,cwestiynu,B,['Q2.2']
+cwestiynu,cwestiynu,B,['Q2.2'],cwestiynir,cwestiynu,B,['Q2.2']
+cwestiynu,cwestiynu,B,['Q2.2'],cwestiynodd,cwestiynu,B,['Q2.2']
+cwestiynu,cwestiynu,B,['Q2.2'],cwestiynnu,cwestiynnu,unk,['Z99']
+cwestiynu,cwestiynu,B,['Q2.2'],cwestiyna,cwestiynu | cwestiynu,B | B,['Q2.2']
+cwestiynu,cwestiynu,B,['Q2.2'],cwestiynwyd,cwestiynu,B,['Q2.2']
+cwestiynu,cwestiynu,B,['Q2.2'],amau,amau,E,"['X2.1/A5.1-', 'A7', 'N5---']"
+cwestiynu,cwestiynu,B,['Q2.2'],pwysleisio,pwysleisio,B,['A11.1+']
+cwestiynu,cwestiynu,B,['Q2.2'],gwestiynodd,cwestiynu,B,['Q2.2']
+cyfiawnhau,cyfiawnhau,B,"['G2.2+', 'A2.2', 'O4.1']",gyfiawnhau,cyfiawnhau,B,"['G2.2+', 'A2.2', 'O4.1']"
+cyfiawnhau,cyfiawnhau,B,"['G2.2+', 'A2.2', 'O4.1']",chyfiawnhau,cyfiawnhau,B,"['G2.2+', 'A2.2', 'O4.1']"
+cyfiawnhau,cyfiawnhau,B,"['G2.2+', 'A2.2', 'O4.1']",cyfiawnhad,cyfiawnhad,E,"['G2.2+', 'A2.2', 'O4.1']"
+cyfiawnhau,cyfiawnhau,B,"['G2.2+', 'A2.2', 'O4.1']",cyfiawnhawyd,cyfiawnhau,B,"['G2.2+', 'A2.2', 'O4.1']"
+cyfiawnhau,cyfiawnhau,B,"['G2.2+', 'A2.2', 'O4.1']",cyfiawnheir,cyfiawnhau,B,"['G2.2+', 'A2.2', 'O4.1']"
+cyfiawnhau,cyfiawnhau,B,"['G2.2+', 'A2.2', 'O4.1']",cyfiawnhâd,cyfiawnhâd,unk,['Z99']
+cyfiawnhau,cyfiawnhau,B,"['G2.2+', 'A2.2', 'O4.1']",gyfiawnhad,cyfiawnhad,E,"['G2.2+', 'A2.2', 'O4.1']"
+cyfiawnhau,cyfiawnhau,B,"['G2.2+', 'A2.2', 'O4.1']",diystyru,diystyru,B,['E2-']
+cyfiawnhau,cyfiawnhau,B,"['G2.2+', 'A2.2', 'O4.1']",diystyried,diystyried,B,['E2-']
+cyfiawnhau,cyfiawnhau,B,"['G2.2+', 'A2.2', 'O4.1']",ystyried,ystyried,B,"['X2.1', 'X2.4', 'X6']"
+crafu,crafu,B,"['B2-', 'A1.1.1', 'A1.1.2']",chrafu,crafu,B,"['B2-', 'A1.1.1', 'A1.1.2']"
+crafu,crafu,B,"['B2-', 'A1.1.1', 'A1.1.2']",crafangu,crafangu,B,"['E3-', 'A9+']"
+crafu,crafu,B,"['B2-', 'A1.1.1', 'A1.1.2']",grafu,crafu,B,"['B2-', 'A1.1.1', 'A1.1.2']"
+crafu,crafu,B,"['B2-', 'A1.1.1', 'A1.1.2']",tynny,tynny,unk,['Z99']
+crafu,crafu,B,"['B2-', 'A1.1.1', 'A1.1.2']",brathu,brathu,B,"['B1', 'A12-']"
+crafu,crafu,B,"['B2-', 'A1.1.1', 'A1.1.2']",baeddu,baeddu,B,['O4.2-']
+crafu,crafu,B,"['B2-', 'A1.1.1', 'A1.1.2']",cnocio,cnocio,B,"['X3.2', 'A1.1.1', 'E3-', 'Q2.2', 'S3.2@']"
+crafu,crafu,B,"['B2-', 'A1.1.1', 'A1.1.2']",gwasgu,gwasgu,B,"['M2', 'M2/O1.2', 'N5-', 'A9+/S7.1+', 'F1']"
+crafu,crafu,B,"['B2-', 'A1.1.1', 'A1.1.2']",sowndio,sowndio,B,['Z99']
+crafu,crafu,B,"['B2-', 'A1.1.1', 'A1.1.2']",pilio,pilio,B,"['F1/L3', 'A1.1.1', 'B1']"
+crafu,crafu,B,"['B2-', 'A1.1.1', 'A1.1.2']",chrafu,crafu,B,"['B2-', 'A1.1.1', 'A1.1.2']"
+crafu,crafu,B,"['B2-', 'A1.1.1', 'A1.1.2']",crafangu,crafangu,B,"['E3-', 'A9+']"
+crafu,crafu,B,"['B2-', 'A1.1.1', 'A1.1.2']",grafu,crafu,B,"['B2-', 'A1.1.1', 'A1.1.2']"
+crafu,crafu,B,"['B2-', 'A1.1.1', 'A1.1.2']",tynny,tynny,unk,['Z99']
+crafu,crafu,B,"['B2-', 'A1.1.1', 'A1.1.2']",brathu,brathu,B,"['B1', 'A12-']"
+crafu,crafu,B,"['B2-', 'A1.1.1', 'A1.1.2']",baeddu,baeddu,B,['O4.2-']
+crafu,crafu,B,"['B2-', 'A1.1.1', 'A1.1.2']",cnocio,cnocio,B,"['X3.2', 'A1.1.1', 'E3-', 'Q2.2', 'S3.2@']"
+crafu,crafu,B,"['B2-', 'A1.1.1', 'A1.1.2']",gwasgu,gwasgu,B,"['M2', 'M2/O1.2', 'N5-', 'A9+/S7.1+', 'F1']"
+crafu,crafu,B,"['B2-', 'A1.1.1', 'A1.1.2']",sowndio,sowndio,B,['Z99']
+crafu,crafu,B,"['B2-', 'A1.1.1', 'A1.1.2']",pilio,pilio,B,"['F1/L3', 'A1.1.1', 'B1']"
+recriwtio,recriwtio,B,['I3.1/A9+'],recriwtiono,recriwtiono,unk,['Z99']
+recriwtio,recriwtio,B,['I3.1/A9+'],ricriwtio,ricriwtio,unk,['Z99']
+recriwtio,recriwtio,B,['I3.1/A9+'],recriwtiwyd,recriwtiwyd,unk,['Z99']
+recriwtio,recriwtio,B,['I3.1/A9+'],recriwtiaid,recriwtiaid,unk,['Z99']
+recriwtio,recriwtio,B,['I3.1/A9+'],hyfforddi,hyfforddi | hyfforddi,B | B,"['P1', 'K5.1']"
+recriwtio,recriwtio,B,['I3.1/A9+'],recrwtio,recrwtio,unk,['Z99']
+recriwtio,recriwtio,B,['I3.1/A9+'],chyflogi,cyflogi | cyflogi,B | B,['Z99']
+recriwtio,recriwtio,B,['I3.1/A9+'],staffio,staffio,B,['I3.1']
+recriwtio,recriwtio,B,['I3.1/A9+'],meddygon,meddyg,E,"['B3/I3.2/S2mf', 'P1/S2mf']"
+recriwtio,recriwtio,B,['I3.1/A9+'],prentisiaethau,prentisiaethau,unk,['Z99']
+dinistrio,dinistrio,B,['A1.1.2'],ddinistrio,dinistrio,B,['A1.1.2']
+dinistrio,dinistrio,B,['A1.1.2'],dinistro,dinistro,unk,['Z99']
+dinistrio,dinistrio,B,['A1.1.2'],dinistriodd,dinistrio,B,['A1.1.2']
+dinistrio,dinistrio,B,['A1.1.2'],difetha,difetha | difethu | difetha,B | B | B,"['A1.1.2', 'I1.1---']"
+dinistrio,dinistrio,B,['A1.1.2'],dinistria,dinistrio | dinistrio,B | B,['A1.1.2']
+dinistrio,dinistrio,B,['A1.1.2'],dinistrid,dinistrio,B,['A1.1.2']
+dinistrio,dinistrio,B,['A1.1.2'],difrodi,difrodi | difrodi,B | B,['Z99']
+dinistrio,dinistrio,B,['A1.1.2'],dinistriwr,dinistriwr,unk,['Z99']
+dinistrio,dinistrio,B,['A1.1.2'],ddinistri,dinistrio,B,['A1.1.2']
+dinistrio,dinistrio,B,['A1.1.2'],ddinistriodd,dinistrio,B,['A1.1.2']
+llusgo,llusgo,B,"['M2', 'T1.3']",llusgodd,llusgo,B,"['M2', 'T1.3']"
+llusgo,llusgo,B,"['M2', 'T1.3']",lusgo,llusgo,B,"['M2', 'T1.3']"
+llusgo,llusgo,B,"['M2', 'T1.3']",llusgol,llusgol,unk,['Z99']
+llusgo,llusgo,B,"['M2', 'T1.3']",wthio,gwthio,B,['M2']
+llusgo,llusgo,B,"['M2', 'T1.3']",gwthio,gwthio,B,['M2']
+llusgo,llusgo,B,"['M2', 'T1.3']",nhynnu,tynnu,B,"['C1', 'M2', 'A9+', 'X5.1+', 'I1.2', 'O4.2+', 'X2.1', 'K5.1']"
+llusgo,llusgo,B,"['M2', 'T1.3']",llusgwyd,llusgo,B,"['M2', 'T1.3']"
+llusgo,llusgo,B,"['M2', 'T1.3']",gwasgu,gwasgu,B,"['M2', 'M2/O1.2', 'N5-', 'A9+/S7.1+', 'F1']"
+llusgo,llusgo,B,"['M2', 'T1.3']",sgubo,ysgubo,B,"['B4', 'M2', 'M1', 'N3.6+/A2.1', 'X3.4', 'X9.2+']"
+llusgo,llusgo,B,"['M2', 'T1.3']",hysgubo,ysgubo,B,"['B4', 'M2', 'M1', 'N3.6+/A2.1', 'X3.4', 'X9.2+']"
+llyncu,llyncu,B,"['B1', 'X2.1/A7+', 'A10-/E1']",traflyncu,traflyncu,B,['F1']
+llyncu,llyncu,B,"['B1', 'X2.1/A7+', 'A10-/E1']",lyncu,llyncu,B,"['B1', 'X2.1/A7+', 'A10-/E1']"
+llyncu,llyncu,B,"['B1', 'X2.1/A7+', 'A10-/E1']",draflyncu,traflyncu,B,['F1']
+llyncu,llyncu,B,"['B1', 'X2.1/A7+', 'A10-/E1']",amlyncu,amlyncu,unk,['Z99']
+llyncu,llyncu,B,"['B1', 'X2.1/A7+', 'A10-/E1']",thraflyncu,traflyncu,B,['F1']
+llyncu,llyncu,B,"['B1', 'X2.1/A7+', 'A10-/E1']",rhwygo,rhwygo,B,"['A1.1.1', 'A1.1.2']"
+llyncu,llyncu,B,"['B1', 'X2.1/A7+', 'A10-/E1']",llyncwyd,llyncu,B,"['B1', 'X2.1/A7+', 'A10-/E1']"
+llyncu,llyncu,B,"['B1', 'X2.1/A7+', 'A10-/E1']",llethu,llethu,B,['E3-']
+llyncu,llyncu,B,"['B1', 'X2.1/A7+', 'A10-/E1']",difetha,difetha,B,"['A1.1.2', 'I1.1---']"
+llyncu,llyncu,B,"['B1', 'X2.1/A7+', 'A10-/E1']",gwastraffu,gwastraffu,B,"['N5.2+', 'X9.2-', 'N3.2-/A2.1']"
+rasio,rasio,B,"['S7.3+', 'M1/N3.8+']",rasiwr,rasiwr,unk,['Z99']
+rasio,rasio,B,"['S7.3+', 'M1/N3.8+']",cylchffordd,cylchffordd,unk,['Z99']
+rasio,rasio,B,"['S7.3+', 'M1/N3.8+']",gylchffordd,gylchffordd,unk,['Z99']
+rasio,rasio,B,"['S7.3+', 'M1/N3.8+']",beicio,beicio,B,"['M3', 'N6']"
+rasio,rasio,B,"['S7.3+', 'M1/N3.8+']",seiclo,seiclo,B,"['M3', 'N6']"
+rasio,rasio,B,"['S7.3+', 'M1/N3.8+']",athletau,athletau,E,['K5.1']
+rasio,rasio,B,"['S7.3+', 'M1/N3.8+']",treiathlon,treiathlon,unk,['Z99']
+rasio,rasio,B,"['S7.3+', 'M1/N3.8+']",seiclwr,seiclwr,unk,['Z99']
+rasio,rasio,B,"['S7.3+', 'M1/N3.8+']",rasys,ras,E,['Z99']
+rasio,rasio,B,"['S7.3+', 'M1/N3.8+']",ras,ras,E,['Z99']
+craffu,craffu,B,"['A9+', 'X2.5+']",graffu,craffu,B,"['A9+', 'X2.5+']"
+craffu,craffu,B,"['A9+', 'X2.5+']",chraffu,craffu,B,"['A9+', 'X2.5+']"
+craffu,craffu,B,"['A9+', 'X2.5+']",pwyllgorau,pwyllgor,E,['S7.1+/S5+c']
+craffu,craffu,B,"['A9+', 'X2.5+']",pwyllgora,pwyllgora,unk,['Z99']
+craffu,craffu,B,"['A9+', 'X2.5+']",pwyllgo,pwyllgo,unk,['Z99']
+craffu,craffu,B,"['A9+', 'X2.5+']",pwyllgor,pwyllgor,E,['S7.1+/S5+c']
+craffu,craffu,B,"['A9+', 'X2.5+']",bwyllgorau,pwyllgor,E,['S7.1+/S5+c']
+craffu,craffu,B,"['A9+', 'X2.5+']",craffir,craffu,B,"['A9+', 'X2.5+']"
+craffu,craffu,B,"['A9+', 'X2.5+']",bwyllgora,bwyllgora,unk,['Z99']
+craffu,craffu,B,"['A9+', 'X2.5+']",mhwyllgorau,pwyllgor,E,['S7.1+/S5+c']
+cynilo,cynilo,B,"['I1.1', 'B3', 'A9+', 'S8+', 'A1.9', 'K5.1', 'S9']",gynilo,cynilo,B,"['I1.1', 'B3', 'A9+', 'S8+', 'A1.9', 'K5.1', 'S9']"
+cynilo,cynilo,B,"['I1.1', 'B3', 'A9+', 'S8+', 'A1.9', 'K5.1', 'S9']",chynilo,cynilo,B,"['I1.1', 'B3', 'A9+', 'S8+', 'A1.9', 'K5.1', 'S9']"
+cynilo,cynilo,B,"['I1.1', 'B3', 'A9+', 'S8+', 'A1.9', 'K5.1', 'S9']",cynilwch,cynilo | cynilo,B | B,"['I1.1', 'B3', 'A9+', 'S8+', 'A1.9', 'K5.1', 'S9']"
+cynilo,cynilo,B,"['I1.1', 'B3', 'A9+', 'S8+', 'A1.9', 'K5.1', 'S9']",cynilion,cynilion,unk,['Z99']
+cynilo,cynilo,B,"['I1.1', 'B3', 'A9+', 'S8+', 'A1.9', 'K5.1', 'S9']",credyd,credyd,E,"['I1.1', 'X2.1']"
+cynilo,cynilo,B,"['I1.1', 'B3', 'A9+', 'S8+', 'A1.9', 'K5.1', 'S9']",cynildeb,cynildeb,unk,['Z99']
+cynilo,cynilo,B,"['I1.1', 'B3', 'A9+', 'S8+', 'A1.9', 'K5.1', 'S9']",danilo,danilo,unk,['Z99']
+cynilo,cynilo,B,"['I1.1', 'B3', 'A9+', 'S8+', 'A1.9', 'K5.1', 'S9']",brandio,brandio,B,['Q1.1']
+cynilo,cynilo,B,"['I1.1', 'B3', 'A9+', 'S8+', 'A1.9', 'K5.1', 'S9']",logos,logo,E,"['C1/Q1.1', 'Q1.2']"
+cynilo,cynilo,B,"['I1.1', 'B3', 'A9+', 'S8+', 'A1.9', 'K5.1', 'S9']",isas,isas,unk,['Z99']
+ildio,ildio,B,"['S7.1-', 'A2.1+', 'A1.1.1', 'A9-']",ildion,ildio | ildio,B | B,"['S7.1-', 'A2.1+', 'A1.1.1', 'A9-']"
+ildio,ildio,B,"['S7.1-', 'A2.1+', 'A1.1.1', 'A9-']",ildi,ildio,B,"['S7.1-', 'A2.1+', 'A1.1.1', 'A9-']"
+ildio,ildio,B,"['S7.1-', 'A2.1+', 'A1.1.1', 'A9-']",hildio,ildio,B,"['S7.1-', 'A2.1+', 'A1.1.1', 'A9-']"
+ildio,ildio,B,"['S7.1-', 'A2.1+', 'A1.1.1', 'A9-']",ildiwn,ildio,B,"['S7.1-', 'A2.1+', 'A1.1.1', 'A9-']"
+ildio,ildio,B,"['S7.1-', 'A2.1+', 'A1.1.1', 'A9-']",ildiodd,ildio,B,"['S7.1-', 'A2.1+', 'A1.1.1', 'A9-']"
+ildio,ildio,B,"['S7.1-', 'A2.1+', 'A1.1.1', 'A9-']",ildia,ildio | ildio,B | B,"['S7.1-', 'A2.1+', 'A1.1.1', 'A9-']"
+ildio,ildio,B,"['S7.1-', 'A2.1+', 'A1.1.1', 'A9-']",gildio,gildio,unk,['Z99']
+ildio,ildio,B,"['S7.1-', 'A2.1+', 'A1.1.1', 'A9-']",ildiai,ildio,B,"['S7.1-', 'A2.1+', 'A1.1.1', 'A9-']"
+ildio,ildio,B,"['S7.1-', 'A2.1+', 'A1.1.1', 'A9-']",ildiaf,ildio,B,"['S7.1-', 'A2.1+', 'A1.1.1', 'A9-']"
+ildio,ildio,B,"['S7.1-', 'A2.1+', 'A1.1.1', 'A9-']",ildiwyd,ildio,B,"['S7.1-', 'A2.1+', 'A1.1.1', 'A9-']"
+pennu,pennu,B,"['A2.2', 'A7+', 'X6+']",bennu,bennu,B,['Z99']
+pennu,pennu,B,"['A2.2', 'A7+', 'X6+']",phennu,pennu,B,"['A2.2', 'A7+', 'X6+']"
+pennu,pennu,B,"['A2.2', 'A7+', 'X6+']",gosod,gosod,B,"['M2', 'X2.2+', 'I3.1', 'Q2.2']"
+pennu,pennu,B,"['A2.2', 'A7+', 'X6+']",diffinio,diffinio,B,"['Q2.2', 'A2.2']"
+pennu,pennu,B,"['A2.2', 'A7+', 'X6+']",pennwyd,pennu,B,"['A2.2', 'A7+', 'X6+']"
+pennu,pennu,B,"['A2.2', 'A7+', 'X6+']",penderfynu,penderfynu,B,['X6+']
+pennu,pennu,B,"['A2.2', 'A7+', 'X6+']",llunio,llunio,B,['A1.1.1']
+pennu,pennu,B,"['A2.2', 'A7+', 'X6+']",dynodi,dynodi,B,['Q1.1']
+pennu,pennu,B,"['A2.2', 'A7+', 'X6+']",bennwyd,pennu,B,"['A2.2', 'A7+', 'X6+']"
+pennu,pennu,B,"['A2.2', 'A7+', 'X6+']",cyflawni,cyflawni,B,['X9.2+']
+da,da,Ans,"['A5.1+', 'G2.2+', 'O4.2+']",gwych,gwych,Ans,['A5.1++']
+da,da,Ans,"['A5.1+', 'G2.2+', 'O4.2+']",drwg,drwg,Ans,"['A5.1-', 'G2.2-', 'O4.2-', 'B2-']"
+da,da,Ans,"['A5.1+', 'G2.2+', 'O4.2+']",gwael,gwael,Ans,['A5.1-']
+da,da,Ans,"['A5.1+', 'G2.2+', 'O4.2+']",rhagorol,rhagorol,Ans,['A5.1+++']
+da,da,Ans,"['A5.1+', 'G2.2+', 'O4.2+']",da,da,Ans,"['A5.1+', 'G2.2+', 'O4.2+']"
+da,da,Ans,"['A5.1+', 'G2.2+', 'O4.2+']",dda,da,Ans,"['A5.1+', 'G2.2+', 'O4.2+']"
+da,da,Ans,"['A5.1+', 'G2.2+', 'O4.2+']",gwell,da,Ans,['A5.1++']
+da,da,Ans,"['A5.1+', 'G2.2+', 'O4.2+']",ma,yma,Adf,"['M6', 'T1.1.2', 'T1.2']"
+da,da,Ans,"['A5.1+', 'G2.2+', 'O4.2+']",ardderchog,ardderchog,Ans,['A5.1+++']
+da,da,Ans,"['A5.1+', 'G2.2+', 'O4.2+']",rhagorol,rhagorol,Ans,['A5.1+++']
+da,da,Ans,"['A5.1+', 'G2.2+', 'O4.2+']",gwych,gwych,Ans,['A5.1++']
+da,da,Ans,"['A5.1+', 'G2.2+', 'O4.2+']",drwg,drwg,Ans,"['A5.1-', 'G2.2-', 'O4.2-', 'B2-']"
+da,da,Ans,"['A5.1+', 'G2.2+', 'O4.2+']",gwael,gwael,Ans,['A5.1-']
+da,da,Ans,"['A5.1+', 'G2.2+', 'O4.2+']",rhagorol,rhagorol,Ans,['A5.1+++']
+da,da,Ans,"['A5.1+', 'G2.2+', 'O4.2+']",da,da,Ans,"['A5.1+', 'G2.2+', 'O4.2+']"
+da,da,Ans,"['A5.1+', 'G2.2+', 'O4.2+']",dda,da,Ans,"['A5.1+', 'G2.2+', 'O4.2+']"
+da,da,Ans,"['A5.1+', 'G2.2+', 'O4.2+']",gwell,da,Ans,['A5.1++']
+da,da,Ans,"['A5.1+', 'G2.2+', 'O4.2+']",ma,yma,Adf,"['M6', 'T1.1.2', 'T1.2']"
+da,da,Ans,"['A5.1+', 'G2.2+', 'O4.2+']",ardderchog,ardderchog,Ans,['A5.1+++']
+da,da,Ans,"['A5.1+', 'G2.2+', 'O4.2+']",rhagorol,rhagorol,Ans,['A5.1+++']
+mawr,mawr,Ans,['N3.2+'],enfawr,enfawr,Ans,['N3.2+++']
+mawr,mawr,Ans,['N3.2+'],anferth,anferth,Ans,['N3.2+++']
+mawr,mawr,Ans,['N3.2+'],anferthol,anferthol,Ans,['Z99']
+mawr,mawr,Ans,['N3.2+'],sylweddol,sylweddol,Ans,"['N3.2+', 'O4.1%']"
+mawr,mawr,Ans,['N3.2+'],aruthrol,aruthrol,Ans,"['O4.2+', 'E5-']"
+mawr,mawr,Ans,['N3.2+'],gwirioneddol,gwirioneddol,Ans,['A13.3']
+mawr,mawr,Ans,['N3.2+'],bach,bach,Ans,['N3.2-']
+mawr,mawr,Ans,['N3.2+'],cynyddol,cynyddol,Ans,['N5+/A2.1']
+mawr,mawr,Ans,['N3.2+'],mawrion,mawrion,Ans,['A5.1+']
+mawr,mawr,Ans,['N3.2+'],fawr,mawr,Ans,['N3.2+']
+arall,arall,Ans,['A6.1-/Z8'],arallu,arallu,unk,['Z99']
+arall,arall,Ans,['A6.1-/Z8'],dau,dau,Rhi,"['N1', 'T3', 'T1.2']"
+arall,arall,Ans,['A6.1-/Z8'],arall,arall,Ans,['A6.1-/Z8']
+arall,arall,Ans,['A6.1-/Z8'],llall,llall,unk,['A6.1-/Z8']
+arall,arall,Ans,['A6.1-/Z8'],aral,arall,Ans,['A6.1-/Z8']
+arall,arall,Ans,['A6.1-/Z8'],aralliad,aralliad,unk,['Z99']
+arall,arall,Ans,['A6.1-/Z8'],ddau,dau,Rhi,"['N1', 'T3', 'T1.2']"
+arall,arall,Ans,['A6.1-/Z8'],sawl,sawl,Ans,['N5']
+arall,arall,Ans,['A6.1-/Z8'],unig,unig,Ans,['S5-']
+arall,arall,Ans,['A6.1-/Z8'],arall,arall,Ans,['A6.1-/Z8']
+newydd,newydd,Ans,['T3-'],newyd,newyd,unk,['Z99']
+newydd,newydd,Ans,['T3-'],newydd,newydd,Ans,['T3-']
+newydd,newydd,Ans,['T3-'],newydd,newydd,Ans,['T3-']
+newydd,newydd,Ans,['T3-'],sbon,sbon,Adf,['A13.2']
+newydd,newydd,Ans,['T3-'],newyddu,newyddu,B,['T2+/A2.1']
+newydd,newydd,Ans,['T3-'],newydd,newydd,Ans,['T3-']
+newydd,newydd,Ans,['T3-'],newyddiadurydd,newyddiadurydd,unk,['Z99']
+newydd,newydd,Ans,['T3-'],danlli,danlli,unk,['Z99']
+newydd,newydd,Ans,['T3-'],newyddian,newyddian,unk,['Z99']
+newydd,newydd,Ans,['T3-'],newy,newy,unk,['Z99']
+bach,bach,Ans,['N3.2-'],chanolig,canolig,Ans,"['Q4', 'X4.2', 'O1', 'S9/S2mf']"
+bach,bach,Ans,['N3.2-'],mawr,mawr,Ans,['N3.2+']
+bach,bach,Ans,['N3.2-'],twtty,twtty,unk,['Z99']
+bach,bach,Ans,['N3.2-'],bach,bach,Ans,['N3.2-']
+bach,bach,Ans,['N3.2-'],fach,bach,Ans,['N3.2-']
+bach,bach,Ans,['N3.2-'],bychan,bychan,Ans,['N3.2-']
+bach,bach,Ans,['N3.2-'],stablestroed,stablestroed,unk,['Z99']
+bach,bach,Ans,['N3.2-'],blawdty,blawdty,unk,['Z99']
+bach,bach,Ans,['N3.2-'],bychain,bychan,Ans,['N3.2-']
+bach,bach,Ans,['N3.2-'],chydig,chydig,unk,['Z99']
+agos,agos,Ans,['M1/N3.3-'],agosach,agos,Ans,"['A1.1.1', 'A10-', 'T2-']"
+agos,agos,Ans,['M1/N3.3-'],agosa,agos,Ans,"['A1.1.1', 'A10-', 'T2-']"
+agos,agos,Ans,['M1/N3.3-'],agosa,agos,Ans,"['A1.1.1', 'A10-', 'T2-']"
+agos,agos,Ans,['M1/N3.3-'],glos,glos,E,['Z99']
+agos,agos,Ans,['M1/N3.3-'],agosed,agosed,unk,['Z99']
+agos,agos,Ans,['M1/N3.3-'],agosau,agosau,unk,['Z99']
+agos,agos,Ans,['M1/N3.3-'],glòs,glòs,unk,['Z99']
+agos,agos,Ans,['M1/N3.3-'],agosa,agos,Ans,"['A1.1.1', 'A10-', 'T2-']"
+agos,agos,Ans,['M1/N3.3-'],agosá,agosá,unk,['Z99']
+agos,agos,Ans,['M1/N3.3-'],galonnau,calon,E,"['B1', 'M6', 'A11.1+', 'E1', 'X5.2+']"
+hen,hen,Ans,"['T3+', 'Z4']",golwyn,golwyn,unk,['Z99']
+hen,hen,Ans,"['T3+', 'Z4']",traddodiadol,traddodiadol,Ans,"['S1.1.1', 'A6.2+', 'T3++']"
+hen,hen,Ans,"['T3+', 'Z4']",benillion,pennill,E,['Q3']
+hen,hen,Ans,"['T3+', 'Z4']",nhadau,tad,E,['S4/B1']
+hen,hen,Ans,"['T3+', 'Z4']",glydyr,glydyr,unk,['Z99']
+hen,hen,Ans,"['T3+', 'Z4']",gynt,gynt,Adf,['Z99']
+hen,hen,Ans,"['T3+', 'Z4']",thraddodiadol,traddodiadol,Ans,"['S1.1.1', 'A6.2+', 'T3++']"
+hen,hen,Ans,"['T3+', 'Z4']",stejars,stejars,unk,['Z99']
+hen,hen,Ans,"['T3+', 'Z4']",dau,dau,Rhi,"['N1', 'T3', 'T1.2']"
+hen,hen,Ans,"['T3+', 'Z4']",gymreigaidd,gymreigaidd,unk,['Z99']
+cyntaf,un,Rhi,"['N4', 'P1@']",cynta,un,Rhi,"['N4', 'P1@']"
+cyntaf,un,Rhi,"['N4', 'P1@']",cynta,un,Rhi,"['N4', 'P1@']"
+cyntaf,un,Rhi,"['N4', 'P1@']",cynta,un,Rhi,"['N4', 'P1@']"
+cyntaf,un,Rhi,"['N4', 'P1@']",tro,tro,E,"['M2', 'M1', 'O4.4', 'A1.1.1', 'A2.1+', 'O4.2-']"
+cyntaf,un,Rhi,"['N4', 'P1@']",olaf,olaf,Ans,"['T2++', 'T1.3']"
+cyntaf,un,Rhi,"['N4', 'P1@']",cyntaf,un,Rhi,"['N4', 'P1@']"
+cyntaf,un,Rhi,"['N4', 'P1@']",gyntaf,un,Rhi,['Z8']
+cyntaf,un,Rhi,"['N4', 'P1@']",pedwerydd,pedwar,Rhi,['N4']
+cyntaf,un,Rhi,"['N4', 'P1@']",pedwerdydd,pedwerdydd,unk,['Z99']
+cyntaf,un,Rhi,"['N4', 'P1@']",trydydd,tri,Rhi,"['N4', 'N5', 'N1']"
+gwahanol,gwahanol,Ans,['A6.1-'],wahanol,gwahanol,Ans,['A6.1-']
+gwahanol,gwahanol,Ans,['A6.1-'],wahanol,gwahanol,Ans,['A6.1-']
+gwahanol,gwahanol,Ans,['A6.1-'],gwahanol,gwahanol,Ans,['A6.1-']
+gwahanol,gwahanol,Ans,['A6.1-'],gwahanol,gwahanol,Ans,['A6.1-']
+gwahanol,gwahanol,Ans,['A6.1-'],fathau,bath,E,['H5/B4']
+gwahanol,gwahanol,Ans,['A6.1-'],ngwahanol,gwahanol,Ans,['A6.1-']
+gwahanol,gwahanol,Ans,['A6.1-'],gwahanol,gwahanol,Ans,['A6.1-']
+gwahanol,gwahanol,Ans,['A6.1-'],gwhanol,gwhanol,unk,['Z99']
+gwahanol,gwahanol,Ans,['A6.1-'],amrywiol,amrywiol,Ans,['A6.3+']
+gwahanol,gwahanol,Ans,['A6.1-'],arwahanol,arwahanol,Ans,"['A6.1-', 'A11.2+', 'A4.2+']"
+ifanc,ifanc,Ans,['T3-'],ifainc,ifainc,Ans,['T3-']
+ifanc,ifanc,Ans,['T3-'],harddegau,arddegau,E,"['T3-', 'N1', 'T3-/S2mf']"
+ifanc,ifanc,Ans,['T3-'],talentog,talentog,Ans,['X9.1+']
+ifanc,ifanc,Ans,['T3-'],ifanc,ifanc,Ans,['T3-']
+ifanc,ifanc,Ans,['T3-'],phobl,pobl,E,['S2']
+ifanc,ifanc,Ans,['T3-'],dalentog,talentog,Ans,['X9.1+']
+ifanc,ifanc,Ans,['T3-'],ifanc,ifanc,Ans,['T3-']
+ifanc,ifanc,Ans,['T3-'],thalentog,talentog,Ans,['X9.1+']
+ifanc,ifanc,Ans,['T3-'],phlant,plentyn,E,"['S2mf/T3-', 'S4mf']"
+ifanc,ifanc,Ans,['T3-'],blant,plentyn,E,"['S2mf/T3-', 'S4mf']"
+pwysig,pwysig,Ans,['A11.1+'],pwysig,pwysig,Ans,['A11.1+']
+pwysig,pwysig,Ans,['A11.1+'],arwyddocaol,arwyddocaol,Ans,"['A11.1+', 'N5+']"
+pwysig,pwysig,Ans,['A11.1+'],hollbwysig,hollbwysig,Ans,['Z99']
+pwysig,pwysig,Ans,['A11.1+'],pwysig,pwysig,Ans,['A11.1+']
+pwysig,pwysig,Ans,['A11.1+'],pwysicaf,pwysicaf,Ans,['Z99']
+pwysig,pwysig,Ans,['A11.1+'],bwysig,pwysig,Ans,['A11.1+']
+pwysig,pwysig,Ans,['A11.1+'],gwerthfawr,gwerthfawr,Ans,['I1.3+/A9+']
+pwysig,pwysig,Ans,['A11.1+'],pwysica,pwysicaf,Ans,['Z99']
+pwysig,pwysig,Ans,['A11.1+'],pwysica,pwysicaf,Ans,['Z99']
+pwysig,pwysig,Ans,['A11.1+'],allweddol,allweddol,Ans,['A1.1.1']
+llawn,llawn,Ans,['N5.1+'],llawn,llawn,Ans,['N5.1+']
+llawn,llawn,Ans,['N5.1+'],lawn,llawn,Ans,['N5.1+']
+llawn,llawn,Ans,['N5.1+'],llawnach,llawn,Ans,['N5.1+']
+llawn,llawn,Ans,['N5.1+'],llawnion,llawnion,unk,['Z99']
+llawn,llawn,Ans,['N5.1+'],llawn,llawn,Ans,['N5.1+']
+llawn,llawn,Ans,['N5.1+'],llawnaf,llawnaf,Ans,['Z99']
+llawn,llawn,Ans,['N5.1+'],ilawn,ilawn,unk,['Z99']
+llawn,llawn,Ans,['N5.1+'],cyflawn,cyflawn,Ans,"['T2-', 'Q1.2']"
+llawn,llawn,Ans,['N5.1+'],llawnder,llawn,E,['N5+']
+llawn,llawn,Ans,['N5.1+'],cyffro,cyffro | cyffroi | cyffroi,E | B | B,['X5.2+']
+arbennig,arbennig,Ans,"['A4.2+', 'G2.1/S2mf']",arbennig,arbennig,Ans,"['A4.2+', 'G2.1/S2mf']"
+arbennig,arbennig,Ans,"['A4.2+', 'G2.1/S2mf']",arbenni,arbenni,unk,['Z99']
+arbennig,arbennig,Ans,"['A4.2+', 'G2.1/S2mf']",neilltuol,neilltuol,Ans,['A4.2+']
+arbennig,arbennig,Ans,"['A4.2+', 'G2.1/S2mf']",arbennig,arbennig,Ans,"['A4.2+', 'G2.1/S2mf']"
+arbennig,arbennig,Ans,"['A4.2+', 'G2.1/S2mf']",arbennig,arbennig,Ans,"['A4.2+', 'G2.1/S2mf']"
+arbennig,arbennig,Ans,"['A4.2+', 'G2.1/S2mf']",eithriadol,eithriadol,Ans,['A6.2-']
+arbennig,arbennig,Ans,"['A4.2+', 'G2.1/S2mf']",arbennigedd,arbennigedd,unk,['Z99']
+arbennig,arbennig,Ans,"['A4.2+', 'G2.1/S2mf']",eithriadol,eithriadol,Ans,['A6.2-']
+arbennig,arbennig,Ans,"['A4.2+', 'G2.1/S2mf']",arbennigol,arbennigol,unk,['Z99']
+arbennig,arbennig,Ans,"['A4.2+', 'G2.1/S2mf']",rbennig,rbennig,unk,['Z99']
+prif,prif,unk,['S7.1+/S2mf'],brif,brif,unk,['Z99']
+prif,prif,unk,['S7.1+/S2mf'],phrif,phrif,unk,['Z99']
+prif,prif,unk,['S7.1+/S2mf'],weithredwr,gweithredwr,E,"['I2.1/S2mf', 'G1.1c', 'S7.1+/S5+c']"
+prif,prif,unk,['S7.1+/S2mf'],prifweithredwr,prifweithredwr,unk,['Z99']
+prif,prif,unk,['S7.1+/S2mf'],cynbrif,cynbrif,unk,['Z99']
+prif,prif,unk,['S7.1+/S2mf'],gweithredwr,gweithredwr,E,"['I2.1/S2mf', 'G1.1c', 'S7.1+/S5+c']"
+prif,prif,unk,['S7.1+/S2mf'],weinidog,gweinidog,E,"['G1.1/S2mf', 'S9/S2mf']"
+prif,prif,unk,['S7.1+/S2mf'],gweithredwraig,gweithredwraig,E,"['I2.1/S2mf', 'G1.1c', 'S7.1+/S5+c']"
+prif,prif,unk,['S7.1+/S2mf'],weithredwraig,gweithredwraig,E,"['I2.1/S2mf', 'G1.1c', 'S7.1+/S5+c']"
+prif,prif,unk,['S7.1+/S2mf'],gweithredol,gweithredol,Ans,['A1.1.1']
+lleol,lleol,Ans,"['H3/S2mf', 'F2/H1c']",awdurdodau,awdurdod,E,"['G1.1', 'S7.1+', 'S7.4+', 'X2.2+']"
+lleol,lleol,Ans,"['H3/S2mf', 'F2/H1c']",lleo,lleo,unk,['Z99']
+lleol,lleol,Ans,"['H3/S2mf', 'F2/H1c']",chenedlaethol,cenedlaethol,Ans,['M7/S2mf']
+lleol,lleol,Ans,"['H3/S2mf', 'F2/H1c']",leol,lleol,Ans,"['H3/S2mf', 'F2/H1c']"
+lleol,lleol,Ans,"['H3/S2mf', 'F2/H1c']",hawdurdodau,awdurdod,E,"['G1.1c', 'S7.1+', 'S7.4+', 'X2.2+']"
+lleol,lleol,Ans,"['H3/S2mf', 'F2/H1c']",lleol,lleol,Ans,"['H3/S2mf', 'F2/H1c']"
+lleol,lleol,Ans,"['H3/S2mf', 'F2/H1c']",awdurdol,awdurdol,unk,['Z99']
+lleol,lleol,Ans,"['H3/S2mf', 'F2/H1c']",awdurodau,awdurodau,unk,['Z99']
+lleol,lleol,Ans,"['H3/S2mf', 'F2/H1c']",cymunedol,cymunedol,Ans,['S5+c']
+lleol,lleol,Ans,"['H3/S2mf', 'F2/H1c']",rhanbarthol,rhanbarthol,Ans,['M7']
+cenedlaethol,cenedlaethol,Ans,['M7/S2mf'],cenedlaetho,cenedlaetho,unk,['Z99']
+cenedlaethol,cenedlaethol,Ans,['M7/S2mf'],cenedlaetholi,cenedlaetholi | cenedlaetholi,B | B,['G1.1']
+cenedlaethol,cenedlaethol,Ans,['M7/S2mf'],cenedlaetholwyd,cenedlaetholi,B,['G1.1']
+cenedlaethol,cenedlaethol,Ans,['M7/S2mf'],cenedlaethol,cenedlaethol,Ans,['M7/S2mf']
+cenedlaethol,cenedlaethol,Ans,['M7/S2mf'],cenedlaethol,cenedlaethol,Ans,['M7/S2mf']
+cenedlaethol,cenedlaethol,Ans,['M7/S2mf'],cenedlathol,cenedlathol,unk,['Z99']
+cenedlaethol,cenedlaethol,Ans,['M7/S2mf'],cenedlaethol,cenedlaethol,Ans,['M7/S2mf']
+cenedlaethol,cenedlaethol,Ans,['M7/S2mf'],cenedlaeth,cenedlaeth,unk,['Z99']
+cenedlaethol,cenedlaethol,Ans,['M7/S2mf'],cenedlaetholaidd,cenedlaetholaidd,unk,['Z99']
+cenedlaethol,cenedlaethol,Ans,['M7/S2mf'],cendlaethol,cendlaethol,unk,['Z99']
+iawn,iawn,Adf,['A13.3'],go,go,Adf,"['Z4', 'E2++']"
+iawn,iawn,Adf,['A13.3'],hynod,hynod,Ans,['A6.2-']
+iawn,iawn,Adf,['A13.3'],rhy,rhoi,B,"['A9-', 'A1.1.1']"
+iawn,iawn,Adf,['A13.3'],mor,mor,Adf,"['Z5', 'A13.3']"
+iawn,iawn,Adf,['A13.3'],eitha,eithaf,Adf,"['A13.4', 'G2.2+']"
+iawn,iawn,Adf,['A13.3'],weddol,gweddol,Ans,"['A13.4', 'G2.2+']"
+iawn,iawn,Adf,['A13.3'],eithaf,eithaf | eithaf,Adf | Ans,"['A13.4', 'G2.2+']"
+iawn,iawn,Adf,['A13.3'],eithriadol,eithriadol,Ans,['A6.2-']
+iawn,iawn,Adf,['A13.3'],ddigon,ddigon,unk,['Z99']
+iawn,iawn,Adf,['A13.3'],reit,reit,Adf,"['A13.5', 'A13.6', 'A13.2']"
+iawn,iawn,Adf,['A13.3'],go,go,Adf,"['Z4', 'E2++']"
+iawn,iawn,Adf,['A13.3'],hynod,hynod,Ans,['A6.2-']
+iawn,iawn,Adf,['A13.3'],rhy,rhoi,B,"['A9-', 'A1.1.1']"
+iawn,iawn,Adf,['A13.3'],mor,mor,Adf,"['Z5', 'A13.3']"
+iawn,iawn,Adf,['A13.3'],eitha,eithaf,Adf,"['A13.4', 'G2.2+']"
+iawn,iawn,Adf,['A13.3'],weddol,gweddol,Ans,"['A13.4', 'G2.2+']"
+iawn,iawn,Adf,['A13.3'],eithaf,eithaf | eithaf,Adf | Ans,"['A13.4', 'G2.2+']"
+iawn,iawn,Adf,['A13.3'],eithriadol,eithriadol,Ans,['A6.2-']
+iawn,iawn,Adf,['A13.3'],ddigon,ddigon,unk,['Z99']
+iawn,iawn,Adf,['A13.3'],reit,reit,Adf,"['A13.5', 'A13.6', 'A13.2']"
+iawn,iawn,Adf,['A13.3'],go,go,Adf,"['Z4', 'E2++']"
+iawn,iawn,Adf,['A13.3'],hynod,hynod,Ans,['A6.2-']
+iawn,iawn,Adf,['A13.3'],rhy,rhoi,B,"['A9-', 'A1.1.1']"
+iawn,iawn,Adf,['A13.3'],mor,mor,Adf,"['Z5', 'A13.3']"
+iawn,iawn,Adf,['A13.3'],eitha,eithaf,Adf,"['A13.4', 'G2.2+']"
+iawn,iawn,Adf,['A13.3'],weddol,gweddol,Ans,"['A13.4', 'G2.2+']"
+iawn,iawn,Adf,['A13.3'],eithaf,eithaf | eithaf,Adf | Ans,"['A13.4', 'G2.2+']"
+iawn,iawn,Adf,['A13.3'],eithriadol,eithriadol,Ans,['A6.2-']
+iawn,iawn,Adf,['A13.3'],ddigon,ddigon,unk,['Z99']
+iawn,iawn,Adf,['A13.3'],reit,reit,Adf,"['A13.5', 'A13.6', 'A13.2']"
+siŵr,siŵr,Ans,['Z4'],siwr,siwr,Ans,['Z4']
+siŵr,siŵr,Ans,['Z4'],sicr,sicr,Ans,"['A4.2+', 'A7+']"
+siŵr,siŵr,Ans,['Z4'],ffyddiog,ffyddiog,unk,['Z99']
+siŵr,siŵr,Ans,['Z4'],credu,credu,B,"['X2.1', 'S9%']"
+siŵr,siŵr,Ans,['Z4'],gobeithio,gobeithio,B,"['X2.6+', 'E4.1+', 'X9.2+', 'A5.1+']"
+siŵr,siŵr,Ans,['Z4'],gwybod,gwybod,B,"['X2.2+', 'S3.2/B1%']"
+siŵr,siŵr,Ans,['Z4'],gwbod,gwybod,B,"['X2.2+', 'S3.2/B1%']"
+siŵr,siŵr,Ans,['Z4'],sylweddoli,sylweddoli,B,"['X2.5+', 'X9.2+']"
+siŵr,siŵr,Ans,['Z4'],amau,amau,E,"['X2.1/A5.1-', 'A7', 'N5---']"
+siŵr,siŵr,Ans,['Z4'],siþr,siþr,unk,['Z99']
+diweddar,diweddar,Ans,['T3-'],niweddar,diweddar,Ans,['T3-']
+diweddar,diweddar,Ans,['T3-'],lledddiweddar,lledddiweddar,unk,['Z99']
+diweddar,diweddar,Ans,['T3-'],cofnodion,cofnod,E,"['Q1.2', 'K3', 'T1.1.1', 'N5+']"
+diweddar,diweddar,Ans,['T3-'],ddiweddar,diweddar,Ans,['T3-']
+diweddar,diweddar,Ans,['T3-'],diweddara,diweddaru | diweddaru,B | B,['T1.1.2']
+diweddar,diweddar,Ans,['T3-'],diweddarach,diweddar,Ans,['T3-']
+diweddar,diweddar,Ans,['T3-'],cyson,cyson,Ans,"['A2.1-', 'N2']"
+diweddar,diweddar,Ans,['T3-'],diweddara,diweddaru | diweddaru,B | B,['T1.1.2']
+diweddar,diweddar,Ans,['T3-'],hynodion,hynodion,unk,['Z99']
+diweddar,diweddar,Ans,['T3-'],gofalus,gofalus,Ans,"['A1.3+', 'E6-']"
+tebyg,tebyg,Ans,['A6.1+'],cyffelyb,cyffelyb,Ans,['A6.1+']
+tebyg,tebyg,Ans,['A6.1+'],anghyffelyb,anghyffelyb,unk,['Z99']
+tebyg,tebyg,Ans,['A6.1+'],tebygu,tebygu,B,['A6.1+']
+tebyg,tebyg,Ans,['A6.1+'],debyg,tebyg,Ans,['A6.1+']
+tebyg,tebyg,Ans,['A6.1+'],wahanol,gwahanol,Ans,['A6.1-']
+tebyg,tebyg,Ans,['A6.1+'],gwahanol,gwahanol,Ans,['A6.1-']
+tebyg,tebyg,Ans,['A6.1+'],fath,bath | math,E | E,['Z99']
+tebyg,tebyg,Ans,['A6.1+'],cyffelybaf,cyffelybu,B,"['A6.1', 'A5.1', 'Q3']"
+tebyg,tebyg,Ans,['A6.1+'],penodol,penodol,Ans,['A4.2+']
+tebyg,tebyg,Ans,['A6.1+'],efelychu,efelychu,B,['A6.1+']
+unig,unig,Ans,['S5-'],ychwaith,ychwaith,Adf,['Z5']
+unig,unig,Ans,['S5-'],hunig,unig,Ans,['S5-']
+unig,unig,Ans,['S5-'],arall,arall,Ans,['A6.1-/Z8']
+unig,unig,Ans,['S5-'],eithriad,eithriad,E,['A6.1-']
+unig,unig,Ans,['S5-'],ail,dau,Rhi,['S8+']
+unig,unig,Ans,['S5-'],union,union,Ans,['A9+']
+unig,unig,Ans,['S5-'],gyntaf,un,Rhi,['Z8']
+unig,unig,Ans,['S5-'],cyntaf,un,Rhi,"['N4', 'P1@']"
+unig,unig,Ans,['S5-'],hytrach,hytrach,Adf,"['Z4', 'E2++']"
+unig,unig,Ans,['S5-'],dyna,dyna,Adf,['Z99']
+amlwg,amlwg,Ans,['A11.2+'],sicr,sicr,Ans,"['A4.2+', 'A7+']"
+amlwg,amlwg,Ans,['A11.2+'],eglur,eglur,Ans,"['M2', 'A7+', 'A10+', 'I1.1', 'B4', 'O4.1']"
+amlwg,amlwg,Ans,['A11.2+'],glir,clir,Ans,"['M2', 'A7+', 'A10+', 'I1.1', 'B4', 'O4.1']"
+amlwg,amlwg,Ans,['A11.2+'],debyg,tebyg,Ans,['A6.1+']
+amlwg,amlwg,Ans,['A11.2+'],cydnabyddus,cydnabyddus,unk,['Z99']
+amlwg,amlwg,Ans,['A11.2+'],bwysleisiol,bwysleisiol,unk,['Z99']
+amlwg,amlwg,Ans,['A11.2+'],anamlwg,anamlwg,unk,['Z99']
+amlwg,amlwg,Ans,['A11.2+'],arwyddocaol,arwyddocaol,Ans,"['A11.1+', 'N5+']"
+amlwg,amlwg,Ans,['A11.2+'],amlycach,amlwg,Ans,['A11.2+']
+amlwg,amlwg,Ans,['A11.2+'],sylweddoli,sylweddoli | sylweddoli,B | B,"['X2.5+', 'X9.2+']"
+hir,hir,Ans,['X7+'],byr,byr,Ans,['O3']
+hir,hir,Ans,['X7+'],dymor,tymor,E,['F1']
+hir,hir,Ans,['X7+'],hirfaith,hirfaith,Ans,['Z99']
+hir,hir,Ans,['X7+'],hirach,hir,Ans,['X7+']
+hir,hir,Ans,['X7+'],ddisgwyliedig,disgwyliedig,Ans,['X2.6+']
+hir,hir,Ans,['X7+'],tymor,tymor,E,['F1']
+hir,hir,Ans,['X7+'],gyfnod,cyfnod,E,"['T1.3', 'B1', 'Q3', 'P1/T1.3']"
+hir,hir,Ans,['X7+'],hir,hir,Ans,['X7+']
+hir,hir,Ans,['X7+'],fyr,byr,Ans,['O3']
+hir,hir,Ans,['X7+'],maith,maith,Ans,"['N5+', 'N3.6+']"
+drwg,drwg,Ans,"['A5.1-', 'G2.2-', 'O4.2-', 'B2-']",da,da,Ans,"['A5.1+', 'G2.2+', 'O4.2+']"
+drwg,drwg,Ans,"['A5.1-', 'G2.2-', 'O4.2-', 'B2-']",diddrwg,diddrwg,unk,['Z99']
+drwg,drwg,Ans,"['A5.1-', 'G2.2-', 'O4.2-', 'B2-']",hyll,hyll,Ans,['O4.2-']
+drwg,drwg,Ans,"['A5.1-', 'G2.2-', 'O4.2-', 'B2-']",ddrwg,drwg,Ans,"['A5.1-', 'G2.2-', 'O4.2-', 'B2-']"
+drwg,drwg,Ans,"['A5.1-', 'G2.2-', 'O4.2-', 'B2-']",gwael,gwael,Ans,['A5.1-']
+drwg,drwg,Ans,"['A5.1-', 'G2.2-', 'O4.2-', 'B2-']",ddiddrwg,ddiddrwg,unk,['Z99']
+drwg,drwg,Ans,"['A5.1-', 'G2.2-', 'O4.2-', 'B2-']",drwg,drwg,Ans,"['A5.1-', 'G2.2-', 'O4.2-', 'B2-']"
+drwg,drwg,Ans,"['A5.1-', 'G2.2-', 'O4.2-', 'B2-']",drygioni,drygioni,E,"['G2.1-', 'G2.2-']"
+drwg,drwg,Ans,"['A5.1-', 'G2.2-', 'O4.2-', 'B2-']",ysbrydion,ysbryd,E,"['S9', 'O1.2', 'F2', 'X5.2+', 'E4.1+', 'S6+', 'E1', 'X7+']"
+drwg,drwg,Ans,"['A5.1-', 'G2.2-', 'O4.2-', 'B2-']",drygionus,drygionus,unk,['Z99']
+drwg,drwg,Ans,"['A5.1-', 'G2.2-', 'O4.2-', 'B2-']",da,da,Ans,"['A5.1+', 'G2.2+', 'O4.2+']"
+drwg,drwg,Ans,"['A5.1-', 'G2.2-', 'O4.2-', 'B2-']",diddrwg,diddrwg,unk,['Z99']
+drwg,drwg,Ans,"['A5.1-', 'G2.2-', 'O4.2-', 'B2-']",hyll,hyll,Ans,['O4.2-']
+drwg,drwg,Ans,"['A5.1-', 'G2.2-', 'O4.2-', 'B2-']",ddrwg,drwg,Ans,"['A5.1-', 'G2.2-', 'O4.2-', 'B2-']"
+drwg,drwg,Ans,"['A5.1-', 'G2.2-', 'O4.2-', 'B2-']",gwael,gwael,Ans,['A5.1-']
+drwg,drwg,Ans,"['A5.1-', 'G2.2-', 'O4.2-', 'B2-']",ddiddrwg,ddiddrwg,unk,['Z99']
+drwg,drwg,Ans,"['A5.1-', 'G2.2-', 'O4.2-', 'B2-']",drwg,drwg,Ans,"['A5.1-', 'G2.2-', 'O4.2-', 'B2-']"
+drwg,drwg,Ans,"['A5.1-', 'G2.2-', 'O4.2-', 'B2-']",drygioni,drygioni,E,"['G2.1-', 'G2.2-']"
+drwg,drwg,Ans,"['A5.1-', 'G2.2-', 'O4.2-', 'B2-']",ysbrydion,ysbryd,E,"['S9', 'O1.2', 'F2', 'X5.2+', 'E4.1+', 'S6+', 'E1', 'X7+']"
+drwg,drwg,Ans,"['A5.1-', 'G2.2-', 'O4.2-', 'B2-']",drygionus,drygionus,unk,['Z99']
+parod,parod,Ans,['A1.1.1'],arod,arod,unk,['Z99']
+parod,parod,Ans,['A1.1.1'],barod,parod,Ans,['A1.1.1']
+parod,parod,Ans,['A1.1.1'],pharod,parod,Ans,['A1.1.1']
+parod,parod,Ans,['A1.1.1'],parodrwydd,parodrwydd,E,"['X7+', 'X5.2+', 'S8+']"
+parod,parod,Ans,['A1.1.1'],derbynebau,derbynneb,E,"['Q1.2/I1', 'I1.1', 'A9+']"
+parod,parod,Ans,['A1.1.1'],dderbynebau,derbynneb,E,"['Q1.2/I1', 'I1.1', 'A9+']"
+parod,parod,Ans,['A1.1.1'],phrydau,pryd,E,"['X7+/T1', 'N3.1/T1']"
+parod,parod,Ans,['A1.1.1'],bodlon,bodlon,Ans,['E4.2+']
+parod,parod,Ans,['A1.1.1'],tueddol,tueddol,Ans,['A2.2/E2++']
+parod,parod,Ans,['A1.1.1'],amharod,amharod,Ans,"['O4.1', 'X2.6-', 'X7-']"
+anodd,anodd,Ans,['A12-'],hawdd,hawdd,Ans,['A12+']
+anodd,anodd,Ans,['A12-'],anoddach,anodd,Ans,['A12-']
+anodd,anodd,Ans,['A12-'],anos,anos,Ans,['Z99']
+anodd,anodd,Ans,['A12-'],heriol,heriol,Ans,"['A12-', 'A6.1-', 'S7.3+']"
+anodd,anodd,Ans,['A12-'],anodda,anoddaf,Ans,['Z99']
+anodd,anodd,Ans,['A12-'],amhosib,amhosib,Ans,"['A7-', 'A12-']"
+anodd,anodd,Ans,['A12-'],amhosibl,amhosibl,Ans,"['A7-', 'A12-']"
+anodd,anodd,Ans,['A12-'],anodda,anoddaf,Ans,['Z99']
+anodd,anodd,Ans,['A12-'],haws,hawdd,Ans,['A12++']
+anodd,anodd,Ans,['A12-'],anodd,anodd,Ans,['A12-']
+aneglur,aneglur,Ans,"['A7-', 'A10-', 'O4.3', 'O4.1']",aneglurder,aneglurder,unk,['Z99']
+aneglur,aneglur,Ans,"['A7-', 'A10-', 'O4.3', 'O4.1']",ddryslyd,dryslyd,Ans,['X2.5-']
+aneglur,aneglur,Ans,"['A7-', 'A10-', 'O4.3', 'O4.1']",anghyson,anghyson,Ans,['A6.1-']
+aneglur,aneglur,Ans,"['A7-', 'A10-', 'O4.3', 'O4.1']",eglur,eglur,Ans,"['M2', 'A7+', 'A10+', 'I1.1', 'B4', 'O4.1']"
+aneglur,aneglur,Ans,"['A7-', 'A10-', 'O4.3', 'O4.1']",anegni,anegni,unk,['Z99']
+aneglur,aneglur,Ans,"['A7-', 'A10-', 'O4.3', 'O4.1']",amwys,amwys,Ans,"['Q3', 'A7-']"
+aneglur,aneglur,Ans,"['A7-', 'A10-', 'O4.3', 'O4.1']",annelwig,annelwig,unk,['Z99']
+aneglur,aneglur,Ans,"['A7-', 'A10-', 'O4.3', 'O4.1']",niwlog,niwlog,unk,['Z99']
+aneglur,aneglur,Ans,"['A7-', 'A10-', 'O4.3', 'O4.1']",dryslyd,dryslyd,Ans,['X2.5-']
+aneglur,aneglur,Ans,"['A7-', 'A10-', 'O4.3', 'O4.1']",gymysglyd,cymysglyd,Ans,"['O4.2-', 'X2.5-']"
+diwethaf,diwethaf,Ans,"['T2++', 'T1.3']",diwetha,diwetha,Ans,"['T2++', 'T1.3']"
+diwethaf,diwethaf,Ans,"['T2++', 'T1.3']",diwetha,diwetha,Ans,"['T2++', 'T1.3']"
+diwethaf,diwethaf,Ans,"['T2++', 'T1.3']",diwethar,diwethar,unk,['Z99']
+diwethaf,diwethaf,Ans,"['T2++', 'T1.3']",ddiwethaf,diwethaf,Ans,"['T2++', 'T1.3']"
+diwethaf,diwethaf,Ans,"['T2++', 'T1.3']",diwetha,diwetha,Ans,"['T2++', 'T1.3']"
+diwethaf,diwethaf,Ans,"['T2++', 'T1.3']",ddwethaf,ddwethaf,unk,['Z99']
+diwethaf,diwethaf,Ans,"['T2++', 'T1.3']",ddiwetha,diwetha,Ans,"['T2++', 'T1.3']"
+diwethaf,diwethaf,Ans,"['T2++', 'T1.3']",dwethaf,dwethaf,unk,['Z99']
+diwethaf,diwethaf,Ans,"['T2++', 'T1.3']",nesaf,agos,Ans,['N4']
+diwethaf,diwethaf,Ans,"['T2++', 'T1.3']",ddiwetha,diwetha,Ans,"['T2++', 'T1.3']"
+cymaint,cymaint | cymaint,Ans | Ans,['Z99'],gymaint,cymaint | cymaint,Ans | Ans,['Z99']
+cymaint,cymaint | cymaint,Ans | Ans,['Z99'],lleied,bach,Ans,['N3.2-']
+cymaint,cymaint | cymaint,Ans | Ans,['Z99'],cynifer,cynifer,Ans,['Z99']
+cymaint,cymaint | cymaint,Ans | Ans,['Z99'],ogymaint,ogymaint,unk,['Z99']
+cymaint,cymaint | cymaint,Ans | Ans,['Z99'],chymaint,cymaint | cymaint,Ans | Ans,['Z99']
+cymaint,cymaint | cymaint,Ans | Ans,['Z99'],cynlleied,cynlleied,unk,['Z99']
+cymaint,cymaint | cymaint,Ans | Ans,['Z99'],llawer,llawer,unk,['N5+']
+cymaint,cymaint | cymaint,Ans | Ans,['Z99'],leied,bach,Ans,['N3.2-']
+cymaint,cymaint | cymaint,Ans | Ans,['Z99'],gynifer,cynifer,Ans,['Z99']
+cymaint,cymaint | cymaint,Ans | Ans,['Z99'],gormod,gormod,unk,['Z99']
+cyffredinol,cyffredinol,Ans,"['G3/S7.1+/S2mf', 'B3/H1']",cyffredino,cyffredino,unk,['Z99']
+cyffredinol,cyffredinol,Ans,"['G3/S7.1+/S2mf', 'B3/H1']",cyffredinol,cyffredinol,Ans,"['G3/S7.1+/S2mf', 'B3/H1']"
+cyffredinol,cyffredinol,Ans,"['G3/S7.1+/S2mf', 'B3/H1']",cyffredinol,cyffredinol,Ans,"['G3/S7.1+/S2mf', 'B3/H1']"
+cyffredinol,cyffredinol,Ans,"['G3/S7.1+/S2mf', 'B3/H1']",cyffredinolrwydd,cyffredinolrwydd,unk,['Z99']
+cyffredinol,cyffredinol,Ans,"['G3/S7.1+/S2mf', 'B3/H1']",cyffredinnol,cyffredinnol,unk,['Z99']
+cyffredinol,cyffredinol,Ans,"['G3/S7.1+/S2mf', 'B3/H1']",chyffredinol,cyffredinol,Ans,"['G3/S7.1+/S2mf', 'B3/H1']"
+cyffredinol,cyffredinol,Ans,"['G3/S7.1+/S2mf', 'B3/H1']",cyffred,cyffred,unk,['Z99']
+cyffredinol,cyffredinol,Ans,"['G3/S7.1+/S2mf', 'B3/H1']",cyffredinoliad,cyffredinoliad,E,['A4.2-']
+cyffredinol,cyffredinol,Ans,"['G3/S7.1+/S2mf', 'B3/H1']",cyffredinolion,cyffredinolion,unk,['Z99']
+cyffredinol,cyffredinol,Ans,"['G3/S7.1+/S2mf', 'B3/H1']",cyffredin,cyffredin,Ans,['M7']
+gwych,gwych,Ans,['A5.1++'],rhagorol,rhagorol,Ans,['A5.1+++']
+gwych,gwych,Ans,['A5.1++'],ardderchog,ardderchog,Ans,['A5.1+++']
+gwych,gwych,Ans,['A5.1++'],gwych,gwych,Ans,['A5.1++']
+gwych,gwych,Ans,['A5.1++'],ffantastig,ffantastig,Ans,"['A5.1+', 'N5++', 'A6.2-', 'A5.2-']"
+gwych,gwych,Ans,['A5.1++'],wych,gwych,Ans,['A5.1++']
+gwych,gwych,Ans,['A5.1++'],anhygoel,anhygoel,Ans,"['A6.2-', 'A5.1+', 'A5.2-']"
+gwych,gwych,Ans,['A5.1++'],da,da,Ans,"['A5.1+', 'G2.2+', 'O4.2+']"
+gwych,gwych,Ans,['A5.1++'],rhagorol,rhagorol,Ans,['A5.1+++']
+gwych,gwych,Ans,['A5.1++'],cyffrous,cyffrous,Ans,['X5.2+']
+gwych,gwych,Ans,['A5.1++'],gwychion,gwychion,unk,['Z99']
+olaf,olaf,Ans,"['T2++', 'T1.3']",ola,olaf,Ans,"['T2++', 'T1.3']"
+olaf,olaf,Ans,"['T2++', 'T1.3']",cyntaf,un,Rhi,"['N4', 'P1@']"
+olaf,olaf,Ans,"['T2++', 'T1.3']",ola,olaf,Ans,"['T2++', 'T1.3']"
+olaf,olaf,Ans,"['T2++', 'T1.3']",gyntaf,un,Rhi,['Z8']
+olaf,olaf,Ans,"['T2++', 'T1.3']",agoriadol,agoriadol,Ans,"['A1.1.1', 'T2+']"
+olaf,olaf,Ans,"['T2++', 'T1.3']",ola,olaf,Ans,"['T2++', 'T1.3']"
+olaf,olaf,Ans,"['T2++', 'T1.3']",pumed,pump,Rhi,['N1']
+olaf,olaf,Ans,"['T2++', 'T1.3']",seithfed,saith,Rhi,['N1']
+olaf,olaf,Ans,"['T2++', 'T1.3']",gynta,un,Rhi,['Z8']
+olaf,olaf,Ans,"['T2++', 'T1.3']",cynta,un,Rhi,"['N4', 'P1@']"
+cymdeithasol,cymdeithasol,Ans,"['S1.1.1', 'I1.1/G1.1']",cymdeithasoli,cymdeithasoli,unk,['Z99']
+cymdeithasol,cymdeithasol,Ans,"['S1.1.1', 'I1.1/G1.1']",cymdeithaso,cymdeithasu,B,"['A6.1+/X2.1', 'S3.1']"
+cymdeithasol,cymdeithasol,Ans,"['S1.1.1', 'I1.1/G1.1']",cymdeithasol,cymdeithasol,Ans,"['S1.1.1', 'I1.1/G1.1']"
+cymdeithasol,cymdeithasol,Ans,"['S1.1.1', 'I1.1/G1.1']",cymdethasol,cymdethasol,unk,['Z99']
+cymdeithasol,cymdeithasol,Ans,"['S1.1.1', 'I1.1/G1.1']",cymdeithasol,cymdeithasol,Ans,"['S1.1.1', 'I1.1/G1.1']"
+cymdeithasol,cymdeithasol,Ans,"['S1.1.1', 'I1.1/G1.1']",chymdeithasol,cymdeithasol,Ans,"['S1.1.1', 'I1.1/G1.1']"
+cymdeithasol,cymdeithasol,Ans,"['S1.1.1', 'I1.1/G1.1']",economaiddgymdeithasol,economaiddgymdeithasol,unk,['Z99']
+cymdeithasol,cymdeithasol,Ans,"['S1.1.1', 'I1.1/G1.1']",seicogymdeithasol,seicogymdeithasol,unk,['Z99']
+cymdeithasol,cymdeithasol,Ans,"['S1.1.1', 'I1.1/G1.1']",anghymdeithasol,anghymdeithasol,unk,['Z99']
+cymdeithasol,cymdeithasol,Ans,"['S1.1.1', 'I1.1/G1.1']",gymdeithasol,cymdeithasol,Ans,"['S1.1.1', 'I1.1/G1.1']"
+pell,pell,Ans,"['A13.3', 'N3.3+', 'X9.2+']",bell,pell,Ans,"['A13.3', 'N3.3+', 'X9.2+']"
+pell,pell,Ans,"['A13.3', 'N3.3+', 'X9.2+']",dwyrain,dwyrain,E,['M6']
+pell,pell,Ans,"['A13.3', 'N3.3+', 'X9.2+']",cefnforoedd,cefnforoedd,unk,['Z99']
+pell,pell,Ans,"['A13.3', 'N3.3+', 'X9.2+']",gorffennol,gorffennol,E,['M6']
+pell,pell,Ans,"['A13.3', 'N3.3+', 'X9.2+']",gwareiddianol,gwareiddianol,unk,['Z99']
+pell,pell,Ans,"['A13.3', 'N3.3+', 'X9.2+']",pellen,pellen,unk,['Z99']
+pell,pell,Ans,"['A13.3', 'N3.3+', 'X9.2+']",gefnforoedd,gefnforoedd,unk,['Z99']
+pell,pell,Ans,"['A13.3', 'N3.3+', 'X9.2+']",palaearctig,palaearctig,unk,['Z99']
+pell,pell,Ans,"['A13.3', 'N3.3+', 'X9.2+']",canol,canol,E,"['M6', 'N5', 'N4', 'T1.2']"
+pell,pell,Ans,"['A13.3', 'N3.3+', 'X9.2+']",culforoedd,culforoedd,unk,['Z99']
+aml,aml,Ans,['M1/N6+'],fynych,mynych,Ans,['M1/N6+']
+aml,aml,Ans,['M1/N6+'],rheolaidd,rheolaidd,Ans,"['N6+/S2mf', 'G3/S2mf']"
+aml,aml,Ans,['M1/N6+'],anaml,anaml,Ans,['N6-']
+aml,aml,Ans,['M1/N6+'],achlysurol,achlysurol,Ans,['N6-']
+aml,aml,Ans,['M1/N6+'],weithiau,weithiau,Adf,['N6']
+aml,aml,Ans,['M1/N6+'],anfynych,anfynych,unk,['Z99']
+aml,aml,Ans,['M1/N6+'],anffodus,anffodus,Ans,['A1.4-/S2mf']
+aml,aml,Ans,['M1/N6+'],amlach,aml,Ans,['N6+']
+aml,aml,Ans,['M1/N6+'],arfer,arfer,B,"['A1.5.1', 'S7.1+']"
+aml,aml,Ans,['M1/N6+'],sicr,sicr,Ans,"['A4.2+', 'A7+']"
+posib,posib,Ans,['A7+'],posibl,posibl,Ans,['A7+']
+posib,posib,Ans,['A7+'],posib,posib,Ans,['A7+']
+posib,posib,Ans,['A7+'],posibilrwydd,posibilrwydd,E,['A7+']
+posib,posib,Ans,['A7+'],posibiliad,posibiliad,E,['A7+']
+posib,posib,Ans,['A7+'],posibliadau,posibliadau,unk,['Z99']
+posib,posib,Ans,['A7+'],dichonol,dichonol,unk,['Z99']
+posib,posib,Ans,['A7+'],bosibl,posibl,Ans,['A7+']
+posib,posib,Ans,['A7+'],posio,posio,B,['Z99']
+posib,posib,Ans,['A7+'],bosib,posib,Ans,['A7+']
+posib,posib,Ans,['A7+'],posibiliadau,posibiliad,E,['A7+']
+coch,coch,Ans,"['O4.3', 'G1.2/S2mf']",gwyn,gwyn,Ans,"['O4.3', 'O4.3/S2mf', 'F2', 'F1', 'B1']"
+coch,coch,Ans,"['O4.3', 'G1.2/S2mf']",cnwch,cnwch,unk,['Z99']
+coch,coch,Ans,"['O4.3', 'G1.2/S2mf']",gwyrdd,gwyrdd,Ans,['W5']
+coch,coch,Ans,"['O4.3', 'G1.2/S2mf']",cig,cig,E,"['F1', 'A4.2+']"
+coch,coch,Ans,"['O4.3', 'G1.2/S2mf']",dugoch,dugoch,unk,['Z99']
+coch,coch,Ans,"['O4.3', 'G1.2/S2mf']",comins,comin,E,['M7']
+coch,coch,Ans,"['O4.3', 'G1.2/S2mf']",smotiau,smotyn,E,"['O4.4', 'O2', 'B2-', 'N5-', 'Q4.3', 'M7']"
+coch,coch,Ans,"['O4.3', 'G1.2/S2mf']",lliwiau,lliw,E,"['O4.3', 'A2.1+']"
+coch,coch,Ans,"['O4.3', 'G1.2/S2mf']",caergeiliog,caergeiliog,unk,['Z99']
+coch,coch,Ans,"['O4.3', 'G1.2/S2mf']",cochi,cochi | cochi,B | B,['E1/B1']
+coch,coch,Ans,"['O4.3', 'G1.2/S2mf']",gwyn,gwyn,Ans,"['O4.3', 'O4.3/S2mf', 'F2', 'F1', 'B1']"
+coch,coch,Ans,"['O4.3', 'G1.2/S2mf']",cnwch,cnwch,unk,['Z99']
+coch,coch,Ans,"['O4.3', 'G1.2/S2mf']",gwyrdd,gwyrdd,Ans,['W5']
+coch,coch,Ans,"['O4.3', 'G1.2/S2mf']",cig,cig,E,"['F1', 'A4.2+']"
+coch,coch,Ans,"['O4.3', 'G1.2/S2mf']",dugoch,dugoch,unk,['Z99']
+coch,coch,Ans,"['O4.3', 'G1.2/S2mf']",comins,comin,E,['M7']
+coch,coch,Ans,"['O4.3', 'G1.2/S2mf']",smotiau,smotyn,E,"['O4.4', 'O2', 'B2-', 'N5-', 'Q4.3', 'M7']"
+coch,coch,Ans,"['O4.3', 'G1.2/S2mf']",lliwiau,lliw,E,"['O4.3', 'A2.1+']"
+coch,coch,Ans,"['O4.3', 'G1.2/S2mf']",caergeiliog,caergeiliog,unk,['Z99']
+coch,coch,Ans,"['O4.3', 'G1.2/S2mf']",cochi,cochi | cochi,B | B,['E1/B1']
+is,is,Ans,"['M2', 'N5-/A2.1', 'S7.1-/A2.1', 'A11.1-/A2.1', 'X3.2-/A2.1']",thereby,thereby,unk,['Z99']
+is,is,Ans,"['M2', 'N5-/A2.1', 'S7.1-/A2.1', 'A11.1-/A2.1', 'X3.2-/A2.1']",that,that,unk,['Z99']
+is,is,Ans,"['M2', 'N5-/A2.1', 'S7.1-/A2.1', 'A11.1-/A2.1', 'X3.2-/A2.1']",itll,itll,unk,['Z99']
+is,is,Ans,"['M2', 'N5-/A2.1', 'S7.1-/A2.1', 'A11.1-/A2.1', 'X3.2-/A2.1']",than,tan,Ar,['Z5']
+is,is,Ans,"['M2', 'N5-/A2.1', 'S7.1-/A2.1', 'A11.1-/A2.1', 'X3.2-/A2.1']",weakened,weakened,unk,['Z99']
+is,is,Ans,"['M2', 'N5-/A2.1', 'S7.1-/A2.1', 'A11.1-/A2.1', 'X3.2-/A2.1']",deity,deity,unk,['Z99']
+is,is,Ans,"['M2', 'N5-/A2.1', 'S7.1-/A2.1', 'A11.1-/A2.1', 'X3.2-/A2.1']",has,has,unk,['Z99']
+is,is,Ans,"['M2', 'N5-/A2.1', 'S7.1-/A2.1', 'A11.1-/A2.1', 'X3.2-/A2.1']",gods,gods,unk,['Z99']
+is,is,Ans,"['M2', 'N5-/A2.1', 'S7.1-/A2.1', 'A11.1-/A2.1', 'X3.2-/A2.1']",primarily,primarily,unk,['Z99']
+is,is,Ans,"['M2', 'N5-/A2.1', 'S7.1-/A2.1', 'A11.1-/A2.1', 'X3.2-/A2.1']",evident,evident,unk,['Z99']
+ariannol,ariannol,Ans,['I1'],arianno,ariannu,B,['I1']
+ariannol,ariannol,Ans,['I1'],anariannol,anariannol,unk,['Z99']
+ariannol,ariannol,Ans,['I1'],ariannol,ariannol,Ans,['I1']
+ariannol,ariannol,Ans,['I1'],ariannol,ariannol,Ans,['I1']
+ariannol,ariannol,Ans,['I1'],chymorth,cymorth,E,['S8+']
+ariannol,ariannol,Ans,['I1'],ariannog,ariannog,unk,['Z99']
+ariannol,ariannol,Ans,['I1'],ariannodd,ariannu,B,['I1']
+ariannol,ariannol,Ans,['I1'],iannol,iannol,unk,['Z99']
+ariannol,ariannol,Ans,['I1'],beiriannol,beiriannol,unk,['Z99']
+ariannol,ariannol,Ans,['I1'],peiriannol,peiriannol,unk,['Z99']
+penodol,penodol,Ans,['A4.2+'],benodol,penodol,Ans,['A4.2+']
+penodol,penodol,Ans,['A4.2+'],penodoli,penodoli,unk,['Z99']
+penodol,penodol,Ans,['A4.2+'],priodol,priodol,Ans,['S9']
+penodol,penodol,Ans,['A4.2+'],phenodol,penodol,Ans,['A4.2+']
+penodol,penodol,Ans,['A4.2+'],nodol,nodol,unk,['Z99']
+penodol,penodol,Ans,['A4.2+'],gwahanol,gwahanol,Ans,['A6.1-']
+penodol,penodol,Ans,['A4.2+'],neilltuol,neilltuol,Ans,['A4.2+']
+penodol,penodol,Ans,['A4.2+'],pendant,pendant,Ans,['A7+++']
+penodol,penodol,Ans,['A4.2+'],blaenoriaethol,blaenoriaethol,Ans,['A11.1+']
+penodol,penodol,Ans,['A4.2+'],cyfyngiadol,cyfyngiadol,unk,['Z99']
+diddorol,diddorol,Ans,['X5.2+'],difyr,difyr,Ans,['E4.1+']
+diddorol,diddorol,Ans,['X5.2+'],ddiddorol,diddorol,Ans,['X5.2+']
+diddorol,diddorol,Ans,['X5.2+'],rhyfedd,rhyfedd,Ans,['A6.2-']
+diddorol,diddorol,Ans,['X5.2+'],anniddorol,anniddorol,unk,['Z99']
+diddorol,diddorol,Ans,['X5.2+'],ddifyr,difyr,Ans,['E4.1+']
+diddorol,diddorol,Ans,['X5.2+'],buddiol,buddiol,Ans,['S8+']
+diddorol,diddorol,Ans,['X5.2+'],cyffrous,cyffrous,Ans,['X5.2+']
+diddorol,diddorol,Ans,['X5.2+'],pwysig,pwysig,Ans,['A11.1+']
+diddorol,diddorol,Ans,['X5.2+'],bwydydddiddorol,bwydydddiddorol,unk,['Z99']
+diddorol,diddorol,Ans,['X5.2+'],dadlennol,dadlennol,unk,['Z99']
+cyhoeddus,cyhoeddus,Ans,['A10+'],cyhoeddus,cyhoeddus,Ans,['A10+']
+cyhoeddus,cyhoeddus,Ans,['A10+'],chyhoeddus,cyhoeddus,Ans,['A10+']
+cyhoeddus,cyhoeddus,Ans,['A10+'],cyhoeddu,cyhoeddu,unk,['Z99']
+cyhoeddus,cyhoeddus,Ans,['A10+'],gyhoeddus,cyhoeddus,Ans,['A10+']
+cyhoeddus,cyhoeddus,Ans,['A10+'],phreifat,preifat,Ans,"['G3/S2mf', 'B1']"
+cyhoeddus,cyhoeddus,Ans,['A10+'],cyhoeddusarddangos,cyhoeddusarddangos,unk,['Z99']
+cyhoeddus,cyhoeddus,Ans,['A10+'],gyhoeddu,gyhoeddu,unk,['Z99']
+cyhoeddus,cyhoeddus,Ans,['A10+'],preifat,preifat,Ans,"['G3/S2mf', 'B1']"
+cyhoeddus,cyhoeddus,Ans,['A10+'],cyhoed,cyhoed,unk,['Z99']
+cyhoeddus,cyhoeddus,Ans,['A10+'],sector,sector,E,"['A4.1', 'S5+', 'M7', 'N2@']"
+hawdd,hawdd,Ans,['A12+'],rhwydd,rhwydd,Ans,['A12+']
+hawdd,hawdd,Ans,['A12+'],anodd,anodd,Ans,['A12-']
+hawdd,hawdd,Ans,['A12+'],haws,hawdd,Ans,['A12++']
+hawdd,hawdd,Ans,['A12+'],syml,syml,Ans,"['A12+', 'A6.2+', 'O4.1', 'X9.1-']"
+hawdd,hawdd,Ans,['A12+'],anhawdd,anhawdd,unk,['Z99']
+hawdd,hawdd,Ans,['A12+'],rhwyddaf,rhwyddaf,unk,['Z99']
+hawdd,hawdd,Ans,['A12+'],rhwyddach,rhwyddach,unk,['Z99']
+hawdd,hawdd,Ans,['A12+'],anos,anos,Ans,['Z99']
+hawdd,hawdd,Ans,['A12+'],amhosib,amhosib,Ans,"['A7-', 'A12-']"
+hawdd,hawdd,Ans,['A12+'],anoddach,anodd,Ans,['A12-']
+cynnar,cynnar,Ans,['T4+'],cynnar,cynnar,Ans,['T4+']
+cynnar,cynnar,Ans,['T4+'],cynnar,cynnar,Ans,['T4+']
+cynnar,cynnar,Ans,['T4+'],chynnar,cynnar,Ans,['T4+']
+cynnar,cynnar,Ans,['T4+'],diweddarach,diweddar,Ans,['T3-']
+cynnar,cynnar,Ans,['T4+'],gynnar,cynnar,Ans,['T4+']
+cynnar,cynnar,Ans,['T4+'],plentyndod,plentyndod,E,['T1.3/T3-']
+cynnar,cynnar,Ans,['T4+'],cynharach,cynnar,Ans,['T4+']
+cynnar,cynnar,Ans,['T4+'],cyfnod,cyfnod,E,"['T1.3', 'B1', 'Q3', 'P1/T1.3']"
+cynnar,cynnar,Ans,['T4+'],1970au,1970au,unk,['Z99']
+cynnar,cynnar,Ans,['T4+'],cynna,cynnu | cynnu,B | B,"['W2', 'O4.6+']"
+gwreiddiol,gwreiddiol,Ans,['A5.4+'],gwreiddiodd,gwreiddio,B,"['L3', 'X2.4']"
+gwreiddiol,gwreiddiol,Ans,['A5.4+'],wreiddiol,gwreiddiol,Ans,['A5.4+']
+gwreiddiol,gwreiddiol,Ans,['A5.4+'],gwreiddol,gwreiddol,unk,['Z99']
+gwreiddiol,gwreiddiol,Ans,['A5.4+'],reiddiol,reiddiol,unk,['Z99']
+gwreiddiol,gwreiddiol,Ans,['A5.4+'],gwreiddiad,gwreiddiad,unk,['Z99']
+gwreiddiol,gwreiddiol,Ans,['A5.4+'],gwreiddioldeb,gwreiddioldeb,E,['A6.2-']
+gwreiddiol,gwreiddiol,Ans,['A5.4+'],cynharach,cynnar,Ans,['T4+']
+gwreiddiol,gwreiddiol,Ans,['A5.4+'],gwreiddiwyd,gwreiddio,B,"['L3', 'X2.4']"
+gwreiddiol,gwreiddiol,Ans,['A5.4+'],gwreddiol,gwreddiol,unk,['Z99']
+gwreiddiol,gwreiddiol,Ans,['A5.4+'],wreiddiol,gwreiddiol,Ans,['A5.4+']
+gwreiddiol,gwreiddiol,Ans,['A5.4+'],gwreiddiodd,gwreiddio,B,"['L3', 'X2.4']"
+gwreiddiol,gwreiddiol,Ans,['A5.4+'],wreiddiol,gwreiddiol,Ans,['A5.4+']
+gwreiddiol,gwreiddiol,Ans,['A5.4+'],gwreiddol,gwreiddol,unk,['Z99']
+gwreiddiol,gwreiddiol,Ans,['A5.4+'],reiddiol,reiddiol,unk,['Z99']
+gwreiddiol,gwreiddiol,Ans,['A5.4+'],gwreiddiad,gwreiddiad,unk,['Z99']
+gwreiddiol,gwreiddiol,Ans,['A5.4+'],gwreiddioldeb,gwreiddioldeb,E,['A6.2-']
+gwreiddiol,gwreiddiol,Ans,['A5.4+'],cynharach,cynnar,Ans,['T4+']
+gwreiddiol,gwreiddiol,Ans,['A5.4+'],gwreiddiwyd,gwreiddio,B,"['L3', 'X2.4']"
+gwreiddiol,gwreiddiol,Ans,['A5.4+'],gwreddiol,gwreddiol,unk,['Z99']
+gwreiddiol,gwreiddiol,Ans,['A5.4+'],wreiddiol,gwreiddiol,Ans,['A5.4+']
+hapus,hapus,Ans,"['E4.1+', 'E4.2+']",hapus,hapus,Ans,"['E4.1+', 'E4.2+']"
+hapus,hapus,Ans,"['E4.1+', 'E4.2+']",hapusa,hapus,Ans,"['E4.1+', 'E4.2+']"
+hapus,hapus,Ans,"['E4.1+', 'E4.2+']",penblwydd,penblwydd,E,['T1.2/T3']
+hapus,hapus,Ans,"['E4.1+', 'E4.2+']",falch,balch,Ans,"['E4.2+/S1.2', 'S1.2.3+']"
+hapus,hapus,Ans,"['E4.1+', 'E4.2+']",hapus,hapus,Ans,"['E4.1+', 'E4.2+']"
+hapus,hapus,Ans,"['E4.1+', 'E4.2+']",hapus,hapus,Ans,"['E4.1+', 'E4.2+']"
+hapus,hapus,Ans,"['E4.1+', 'E4.2+']",awyddus,awyddus,Ans,['X5.2+']
+hapus,hapus,Ans,"['E4.1+', 'E4.2+']",diolchgar,diolchgar,Ans,"['S1.2.4+', 'E4.2+']"
+hapus,hapus,Ans,"['E4.1+', 'E4.2+']",ffodus,ffodus,Ans,['A1.4+']
+hapus,hapus,Ans,"['E4.1+', 'E4.2+']",lwcus,lwcus,Ans,['A1.4+']
+uchel,uchel,Ans,"['N3.7+', 'N5+']",isel,isel,Ans,['L2/Q2.1']
+uchel,uchel,Ans,"['N3.7+', 'N5+']",lefelau,lefel,E,"['O4.4', 'Q2.2', 'M2']"
+uchel,uchel,Ans,"['N3.7+', 'N5+']",safon,safon | sefyll | sefyll,E | B | B,"['A5.1', 'G2.2', 'Q1.1', 'O2@']"
+uchel,uchel,Ans,"['N3.7+', 'N5+']",uchaf,uchaf,Ans,"['N3.7+++', 'N5+++']"
+uchel,uchel,Ans,"['N3.7+', 'N5+']",uchel,uchel,Ans,"['N3.7+', 'N5+']"
+uchel,uchel,Ans,"['N3.7+', 'N5+']",ansawdd,ansawdd,E,"['A5.1', 'A5.1+', 'O4.1']"
+uchel,uchel,Ans,"['N3.7+', 'N5+']",uwch,uwch,Ans,"['N3.7++', 'N5++']"
+uchel,uchel,Ans,"['N3.7+', 'N5+']",huchel,uchel,Ans,"['N3.7+', 'N5+']"
+uchel,uchel,Ans,"['N3.7+', 'N5+']",uche,uche,unk,['Z99']
+uchel,uchel,Ans,"['N3.7+', 'N5+']",cynyddol,cynyddol,Ans,['N5+/A2.1']
+union,union,Ans,['A9+'],hunion,union,Ans,['A9+']
+union,union,Ans,['A9+'],unig,unig,Ans,['S5-']
+union,union,Ans,['A9+'],ddigwyddodd,digwydd,B,"['A2.1+', 'A3+', 'X7-']"
+union,union,Ans,['A9+'],beth,peth,Rha,"['Z8', 'Z5']"
+union,union,Ans,['A9+'],dyna,dyna,Adf,['Z99']
+union,union,Ans,['A9+'],wyddus,wyddus,unk,['Z99']
+union,union,Ans,['A9+'],fath,bath | math,E | E,['Z99']
+union,union,Ans,['A9+'],pryd,pryd,E,"['X7+/T1', 'N3.1/T1']"
+union,union,Ans,['A9+'],glir,clir,Ans,"['M2', 'A7+', 'A10+', 'I1.1', 'B4', 'O4.1']"
+union,union,Ans,['A9+'],ystyr,ystyr,E,"['X2.1', 'A11.1+', 'Q3', 'X7+']"
+neis,neis,Ans,"['O4.2+', 'S1.2.1+']",lyfli,lyfli,Ans,['S3.2']
+neis,neis,Ans,"['O4.2+', 'S1.2.1+']",braf,braf,Ans,['G2.1']
+neis,neis,Ans,"['O4.2+', 'S1.2.1+']",neisneis,neisneis,unk,['Z99']
+neis,neis,Ans,"['O4.2+', 'S1.2.1+']",hyfryd,hyfryd,Ans,['O4.2+']
+neis,neis,Ans,"['O4.2+', 'S1.2.1+']",grêt,grêt,Adf,['Z99']
+neis,neis,Ans,"['O4.2+', 'S1.2.1+']",gret,gret,unk,['Z99']
+neis,neis,Ans,"['O4.2+', 'S1.2.1+']",lyfyyyyfli,lyfyyyyfli,unk,['Z99']
+neis,neis,Ans,"['O4.2+', 'S1.2.1+']",neisiach,neis,Ans,"['O4.2+', 'S1.2.1+']"
+neis,neis,Ans,"['O4.2+', 'S1.2.1+']",hapus,hapus,Ans,"['E4.1+', 'E4.2+']"
+neis,neis,Ans,"['O4.2+', 'S1.2.1+']",ffantastig,ffantastig,Ans,"['A5.1+', 'N5++', 'A6.2-', 'A5.2-']"
+personol,personol,Ans,"['S5-', 'S1.2.1+']",bersonol,personol,Ans,"['S5-', 'S1.2.1+']"
+personol,personol,Ans,"['S5-', 'S1.2.1+']",phersonol,personol,Ans,"['S5-', 'S1.2.1+']"
+personol,personol,Ans,"['S5-', 'S1.2.1+']",personoleiddio,personoleiddio,B,['A1.2/S5-']
+personol,personol,Ans,"['S5-', 'S1.2.1+']",personoli,personoli,B,['A10+']
+personol,personol,Ans,"['S5-', 'S1.2.1+']",rhyngbersonol,rhyngbersonol,unk,['Z99']
+personol,personol,Ans,"['S5-', 'S1.2.1+']",bersono,bersono,unk,['Z99']
+personol,personol,Ans,"['S5-', 'S1.2.1+']",bersonoleiddio,personoleiddio,B,['A1.2/S5-']
+personol,personol,Ans,"['S5-', 'S1.2.1+']",amhersonol,amhersonol,unk,['Z99']
+personol,personol,Ans,"['S5-', 'S1.2.1+']",diriaethol,diriaethol,Ans,"['A1.1.1', 'A7+/A2.1']"
+personol,personol,Ans,"['S5-', 'S1.2.1+']",corfforol,corfforol,Ans,['B3']
+sych,sych | sychu | sychu,Ans | B | B,['O1.2-'],sychach,sych,Ans,['O1.2-']
+sych,sych | sychu | sychu,Ans | B | B,['O1.2-'],gwlyb,gwlyb,Ans,['O1.2']
+sych,sych | sychu | sychu,Ans | B | B,['O1.2-'],llaith,llaith,Ans,['O1.2']
+sych,sych | sychu | sychu,Ans | B | B,['O1.2-'],wlyb,gwlyb,Ans,['O1.2']
+sych,sych | sychu | sychu,Ans | B | B,['O1.2-'],gawodlyd,gawodlyd,unk,['Z99']
+sych,sych | sychu | sychu,Ans | B | B,['O1.2-'],gwyntog,gwynt,Ans,['W4']
+sych,sych | sychu | sychu,Ans | B | B,['O1.2-'],poeth,poeth,Ans,"['O4.6+', 'X9.1+', 'O4.2+', 'X5.2+', 'G2.1-', 'A12-', 'S7.3+', 'E6-', 'A7+++']"
+sych,sych | sychu | sychu,Ans | B | B,['O1.2-'],oer,oer,Ans,"['B2-', 'O4.6-']"
+sych,sych | sychu | sychu,Ans | B | B,['O1.2-'],sychaf,sychu,B,['O1.2-']
+sych,sych | sychu | sychu,Ans | B | B,['O1.2-'],gwynto,gwynto,unk,['Z99']
+sych,sych | sychu | sychu,Ans | B | B,['O1.2-'],sychach,sych,Ans,['O1.2-']
+sych,sych | sychu | sychu,Ans | B | B,['O1.2-'],gwlyb,gwlyb,Ans,['O1.2']
+sych,sych | sychu | sychu,Ans | B | B,['O1.2-'],llaith,llaith,Ans,['O1.2']
+sych,sych | sychu | sychu,Ans | B | B,['O1.2-'],wlyb,gwlyb,Ans,['O1.2']
+sych,sych | sychu | sychu,Ans | B | B,['O1.2-'],gawodlyd,gawodlyd,unk,['Z99']
+sych,sych | sychu | sychu,Ans | B | B,['O1.2-'],gwyntog,gwynt,Ans,['W4']
+sych,sych | sychu | sychu,Ans | B | B,['O1.2-'],poeth,poeth,Ans,"['O4.6+', 'X9.1+', 'O4.2+', 'X5.2+', 'G2.1-', 'A12-', 'S7.3+', 'E6-', 'A7+++']"
+sych,sych | sychu | sychu,Ans | B | B,['O1.2-'],oer,oer,Ans,"['B2-', 'O4.6-']"
+sych,sych | sychu | sychu,Ans | B | B,['O1.2-'],sychaf,sychu,B,['O1.2-']
+sych,sych | sychu | sychu,Ans | B | B,['O1.2-'],gwynto,gwynto,unk,['Z99']
+prydferth,prydferth,Ans,['O4.2+'],prydferthaf,prydferthu,B,['O4.2+']
+prydferth,prydferth,Ans,['O4.2+'],phrydferth,prydferth,Ans,['O4.2+']
+prydferth,prydferth,Ans,['O4.2+'],prydferthwch,prydferthu | prydferthu,B | B,['O4.2+']
+prydferth,prydferth,Ans,['O4.2+'],brydferth,prydferth,Ans,['O4.2+']
+prydferth,prydferth,Ans,['O4.2+'],hardd,hardd,Ans,['O4.2+']
+prydferth,prydferth,Ans,['O4.2+'],brydferthaf,prydferthu,B,['O4.2+']
+prydferth,prydferth,Ans,['O4.2+'],brydferthach,brydferthach,unk,['Z99']
+prydferth,prydferth,Ans,['O4.2+'],mhrydferthwch,prydferthu | prydferthu,B | B,['Z99']
+prydferth,prydferth,Ans,['O4.2+'],phrydferthwch,prydferthu | prydferthu,B | B,['Z99']
+prydferth,prydferth,Ans,['O4.2+'],hyfryd,hyfryd,Ans,['O4.2+']
+hyll,hyll,Ans,['O4.2-'],drwg,drwg,Ans,"['A5.1-', 'G2.2-', 'O4.2-', 'B2-']"
+hyll,hyll,Ans,['O4.2-'],hyllaf,hyllaf,unk,['Z99']
+hyll,hyll,Ans,['O4.2-'],trythyll,trythyll,unk,['Z99']
+hyll,hyll,Ans,['O4.2-'],hyllni,hyllni,unk,['Z99']
+hyll,hyll,Ans,['O4.2-'],cloriau,clawr,E,"['A10-', 'M1', 'N3.6', 'S8+', 'I1.1', 'A1.8+', 'N5', 'Q2.1', 'A1.1.1']"
+hyll,hyll,Ans,['O4.2-'],rhynllyd,rhynllyd,unk,['Z99']
+hyll,hyll,Ans,['O4.2-'],gwenwynllyd,gwenwynllyd,unk,['Z99']
+hyll,hyll,Ans,['O4.2-'],diddrwg,diddrwg,unk,['Z99']
+hyll,hyll,Ans,['O4.2-'],anghall,anghall,unk,['Z99']
+hyll,hyll,Ans,['O4.2-'],erchyll,erchyll,Ans,['O4.2-']
+hwylus,hwylus,Ans,"['A12+', 'S8+']",hwylusach,hwylusach,unk,['Z99']
+hwylus,hwylus,Ans,"['A12+', 'S8+']",hwylusaf,hwyluso,B,['S8+']
+hwylus,hwylus,Ans,"['A12+', 'S8+']",cyfleus,cyfleus,Ans,"['A12+', 'S8+']"
+hwylus,hwylus,Ans,"['A12+', 'S8+']",hygyrch,hygyrch,Ans,"['S1.2.1+', 'A9+', 'A12+', 'M6']"
+hwylus,hwylus,Ans,"['A12+', 'S8+']",hwylu,hwylu,unk,['Z99']
+hwylus,hwylus,Ans,"['A12+', 'S8+']",chyfleus,cyfleus,Ans,"['A12+', 'S8+']"
+hwylus,hwylus,Ans,"['A12+', 'S8+']",ddidrafferth,didrafferth,Ans,['Z99']
+hwylus,hwylus,Ans,"['A12+', 'S8+']",gyfleus,cyfleus,Ans,"['A12+', 'S8+']"
+hwylus,hwylus,Ans,"['A12+', 'S8+']",rhwydd,rhwydd,Ans,['A12+']
+hwylus,hwylus,Ans,"['A12+', 'S8+']",drefnus,trefn,Ans,"['S7.1+/Q2.2', 'I2.2/Q2.2']"
+hwylus,hwylus,Ans,"['A12+', 'S8+']",hwylusach,hwylusach,unk,['Z99']
+hwylus,hwylus,Ans,"['A12+', 'S8+']",hwylusaf,hwyluso,B,['S8+']
+hwylus,hwylus,Ans,"['A12+', 'S8+']",cyfleus,cyfleus,Ans,"['A12+', 'S8+']"
+hwylus,hwylus,Ans,"['A12+', 'S8+']",hygyrch,hygyrch,Ans,"['S1.2.1+', 'A9+', 'A12+', 'M6']"
+hwylus,hwylus,Ans,"['A12+', 'S8+']",hwylu,hwylu,unk,['Z99']
+hwylus,hwylus,Ans,"['A12+', 'S8+']",chyfleus,cyfleus,Ans,"['A12+', 'S8+']"
+hwylus,hwylus,Ans,"['A12+', 'S8+']",ddidrafferth,didrafferth,Ans,['Z99']
+hwylus,hwylus,Ans,"['A12+', 'S8+']",gyfleus,cyfleus,Ans,"['A12+', 'S8+']"
+hwylus,hwylus,Ans,"['A12+', 'S8+']",rhwydd,rhwydd,Ans,['A12+']
+hwylus,hwylus,Ans,"['A12+', 'S8+']",drefnus,trefn,Ans,"['S7.1+/Q2.2', 'I2.2/Q2.2']"
+hwylus,hwylus,Ans,"['A12+', 'S8+']",hwylusach,hwylusach,unk,['Z99']
+hwylus,hwylus,Ans,"['A12+', 'S8+']",hwylusaf,hwyluso,B,['S8+']
+hwylus,hwylus,Ans,"['A12+', 'S8+']",cyfleus,cyfleus,Ans,"['A12+', 'S8+']"
+hwylus,hwylus,Ans,"['A12+', 'S8+']",hygyrch,hygyrch,Ans,"['S1.2.1+', 'A9+', 'A12+', 'M6']"
+hwylus,hwylus,Ans,"['A12+', 'S8+']",hwylu,hwylu,unk,['Z99']
+hwylus,hwylus,Ans,"['A12+', 'S8+']",chyfleus,cyfleus,Ans,"['A12+', 'S8+']"
+hwylus,hwylus,Ans,"['A12+', 'S8+']",ddidrafferth,didrafferth,Ans,['Z99']
+hwylus,hwylus,Ans,"['A12+', 'S8+']",gyfleus,cyfleus,Ans,"['A12+', 'S8+']"
+hwylus,hwylus,Ans,"['A12+', 'S8+']",rhwydd,rhwydd,Ans,['A12+']
+hwylus,hwylus,Ans,"['A12+', 'S8+']",drefnus,trefn,Ans,"['S7.1+/Q2.2', 'I2.2/Q2.2']"
+buddugol,buddugol,unk,['Z99'],fuddugol,fuddugol,unk,['Z99']
+buddugol,buddugol,unk,['Z99'],caddugol,caddugol,unk,['Z99']
+buddugol,buddugol,unk,['Z99'],anfuddugol,anfuddugol,unk,['Z99']
+buddugol,buddugol,unk,['Z99'],buddugwyr,buddugwyr,unk,['Z99']
+buddugol,buddugol,unk,['Z99'],buddugwr,buddugwr,unk,['Z99']
+buddugol,buddugol,unk,['Z99'],buddugre,buddugre,unk,['Z99']
+buddugol,buddugol,unk,['Z99'],enillydd,enillydd,E,"['X9.2+/S7.3/S2mf', 'X9.2+/G3/S2mf']"
+buddugol,buddugol,unk,['Z99'],nghystadleuaeth,cystadleuaeth,E,"['K1', 'S7.3+']"
+buddugol,buddugol,unk,['Z99'],enillwyr,enillwr,E,"['X9.2+/S7.3/S2mf', 'X9.2+/G3/S2mf']"
+buddugol,buddugol,unk,['Z99'],fuddugolaeth,fuddugolaeth,unk,['Z99']
+amheus,amheus,Ans,"['X2.1/A5.1-', 'G2.1-']",amheus,amheus,Ans,"['X2.1/A5.1-', 'G2.1-']"
+amheus,amheus,Ans,"['X2.1/A5.1-', 'G2.1-']",amheus,amheus,Ans,"['X2.1/A5.1-', 'G2.1-']"
+amheus,amheus,Ans,"['X2.1/A5.1-', 'G2.1-']",amheu,amheu,unk,['Z99']
+amheus,amheus,Ans,"['X2.1/A5.1-', 'G2.1-']",amheuid,amau,B,['A7-']
+amheus,amheus,Ans,"['X2.1/A5.1-', 'G2.1-']",amheuol,amheuol,unk,['Z99']
+amheus,amheus,Ans,"['X2.1/A5.1-', 'G2.1-']",anesboniadwy,anesboniadwy,unk,['Z99']
+amheus,amheus,Ans,"['X2.1/A5.1-', 'G2.1-']",amheuai,amau,B,['A7-']
+amheus,amheus,Ans,"['X2.1/A5.1-', 'G2.1-']",amheuwn,amau,B,['A7-']
+amheus,amheus,Ans,"['X2.1/A5.1-', 'G2.1-']",bryderus,pryderus,Ans,"['E6-', 'A1.8+', 'A2.2', 'S1.1.3+']"
+amheus,amheus,Ans,"['X2.1/A5.1-', 'G2.1-']",amheugar,amheugar,unk,['Z99']
+llym,llym,Ans,"['N3.8+', 'T4']",llymach,llymach,unk,['Z99']
+llym,llym,Ans,"['N3.8+', 'T4']",llymdra,llymdra,unk,['Z99']
+llym,llym,Ans,"['N3.8+', 'T4']",cyfyngol,cyfyngol,unk,['Z99']
+llym,llym,Ans,"['N3.8+', 'T4']",haearnaidd,haearn,Ans,['B4']
+llym,llym,Ans,"['N3.8+', 'T4']",llymder,llymder,E,"['A5.1-', 'S1.2.5+', 'S1.2.1-', 'E4.1-', 'O4.2-']"
+llym,llym,Ans,"['N3.8+', 'T4']",eithafol,eithafol,Ans,['G1.2/S2mf']
+llym,llym,Ans,"['N3.8+', 'T4']",llymhau,llymhau,B,"['A1.1.1', 'A5.1+/A2.1']"
+llym,llym,Ans,"['N3.8+', 'T4']",creulon,creulon,Ans,['E3-']
+llym,llym,Ans,"['N3.8+', 'T4']",cadarn,cadarn,Ans,['O4.5']
+llym,llym,Ans,"['N3.8+', 'T4']",hunanfeirniadol,hunanfeirniadol,unk,['Z99']
+llym,llym,Ans,"['N3.8+', 'T4']",llymach,llymach,unk,['Z99']
+llym,llym,Ans,"['N3.8+', 'T4']",llymdra,llymdra,unk,['Z99']
+llym,llym,Ans,"['N3.8+', 'T4']",cyfyngol,cyfyngol,unk,['Z99']
+llym,llym,Ans,"['N3.8+', 'T4']",haearnaidd,haearn,Ans,['B4']
+llym,llym,Ans,"['N3.8+', 'T4']",llymder,llymder,E,"['A5.1-', 'S1.2.5+', 'S1.2.1-', 'E4.1-', 'O4.2-']"
+llym,llym,Ans,"['N3.8+', 'T4']",eithafol,eithafol,Ans,['G1.2/S2mf']
+llym,llym,Ans,"['N3.8+', 'T4']",llymhau,llymhau,B,"['A1.1.1', 'A5.1+/A2.1']"
+llym,llym,Ans,"['N3.8+', 'T4']",creulon,creulon,Ans,['E3-']
+llym,llym,Ans,"['N3.8+', 'T4']",cadarn,cadarn,Ans,['O4.5']
+llym,llym,Ans,"['N3.8+', 'T4']",hunanfeirniadol,hunanfeirniadol,unk,['Z99']
+serth,serth,Ans,"['A1.1.1', 'X2.3+']",llethrau,llethr,E,['O4.4']
+serth,serth,Ans,"['A1.1.1', 'X2.3+']",llethr,llethr,E,['O4.4']
+serth,serth,Ans,"['A1.1.1', 'X2.3+']",choediog,choediog,unk,['Z99']
+serth,serth,Ans,"['A1.1.1', 'X2.3+']",serthaf,serthaf,unk,['Z99']
+serth,serth,Ans,"['A1.1.1', 'X2.3+']",llechweddau,llechweddau,unk,['Z99']
+serth,serth,Ans,"['A1.1.1', 'X2.3+']",oediog,oediog,unk,['Z99']
+serth,serth,Ans,"['A1.1.1', 'X2.3+']",geunentydd,geunentydd,unk,['Z99']
+serth,serth,Ans,"['A1.1.1', 'X2.3+']",lethr,llethr,E,['O4.4']
+serth,serth,Ans,"['A1.1.1', 'X2.3+']",coediog,coediog,unk,['Z99']
+serth,serth,Ans,"['A1.1.1', 'X2.3+']",chorsiog,cors,Ans,['Z99']
+poen,poen,E,"['B2-', 'E4.1-']",poenau,poen,E,"['B2-', 'E4.1-']"
+poen,poen,E,"['B2-', 'E4.1-']",boen,poen,E,"['B2-', 'E4.1-']"
+poen,poen,E,"['B2-', 'E4.1-']",boenau,poen,E,"['B2-', 'E4.1-']"
+poen,poen,E,"['B2-', 'E4.1-']",phoenau,poen,E,"['B2-', 'E4.1-']"
+poen,poen,E,"['B2-', 'E4.1-']",phoen,poen,E,"['B2-', 'E4.1-']"
+poen,poen,E,"['B2-', 'E4.1-']",gorbryder,gorbryder,unk,['Z99']
+poen,poen,E,"['B2-', 'E4.1-']",poendod,poendod,unk,['Z99']
+poen,poen,E,"['B2-', 'E4.1-']",angina,angina,unk,['Z99']
+poen,poen,E,"['B2-', 'E4.1-']",orbryder,orbryder,unk,['Z99']
+poen,poen,E,"['B2-', 'E4.1-']",poenaf,poeni,B,['E6-']
+poen,poen,E,"['B2-', 'E4.1-']",poenau,poen,E,"['B2-', 'E4.1-']"
+poen,poen,E,"['B2-', 'E4.1-']",boen,poen,E,"['B2-', 'E4.1-']"
+poen,poen,E,"['B2-', 'E4.1-']",boenau,poen,E,"['B2-', 'E4.1-']"
+poen,poen,E,"['B2-', 'E4.1-']",phoenau,poen,E,"['B2-', 'E4.1-']"
+poen,poen,E,"['B2-', 'E4.1-']",phoen,poen,E,"['B2-', 'E4.1-']"
+poen,poen,E,"['B2-', 'E4.1-']",gorbryder,gorbryder,unk,['Z99']
+poen,poen,E,"['B2-', 'E4.1-']",poendod,poendod,unk,['Z99']
+poen,poen,E,"['B2-', 'E4.1-']",angina,angina,unk,['Z99']
+poen,poen,E,"['B2-', 'E4.1-']",orbryder,orbryder,unk,['Z99']
+poen,poen,E,"['B2-', 'E4.1-']",poenaf,poeni,B,['E6-']
+poen,poen,E,"['B2-', 'E4.1-']",poenau,poen,E,"['B2-', 'E4.1-']"
+poen,poen,E,"['B2-', 'E4.1-']",boen,poen,E,"['B2-', 'E4.1-']"
+poen,poen,E,"['B2-', 'E4.1-']",boenau,poen,E,"['B2-', 'E4.1-']"
+poen,poen,E,"['B2-', 'E4.1-']",phoenau,poen,E,"['B2-', 'E4.1-']"
+poen,poen,E,"['B2-', 'E4.1-']",phoen,poen,E,"['B2-', 'E4.1-']"
+poen,poen,E,"['B2-', 'E4.1-']",gorbryder,gorbryder,unk,['Z99']
+poen,poen,E,"['B2-', 'E4.1-']",poendod,poendod,unk,['Z99']
+poen,poen,E,"['B2-', 'E4.1-']",angina,angina,unk,['Z99']
+poen,poen,E,"['B2-', 'E4.1-']",orbryder,orbryder,unk,['Z99']
+poen,poen,E,"['B2-', 'E4.1-']",poenaf,poeni,B,['E6-']
+nerfus,nerfus,Ans,['E6-'],gynhyrfus,cynhyrfus,Ans,['X5.2+']
+nerfus,nerfus,Ans,['E6-'],anghyfforddus,cyfforddus,Ans,"['O4.2-', 'E1']"
+nerfus,nerfus,Ans,['E6-'],cynhyrfus,cynhyrfus,Ans,['X5.2+']
+nerfus,nerfus,Ans,['E6-'],rhwystredig,rhwystredig,Ans,['E4.2-']
+nerfus,nerfus,Ans,['E6-'],angyfforddus,angyfforddus,unk,['Z99']
+nerfus,nerfus,Ans,['E6-'],nerfusrwydd,nerfusrwydd,unk,['Z99']
+nerfus,nerfus,Ans,['E6-'],ffyslyd,ffyslyd,unk,['Z99']
+nerfus,nerfus,Ans,['E6-'],sâl,sâl,Ans,"['B2-', 'A5.1-']"
+nerfus,nerfus,Ans,['E6-'],swil,swil,Ans,"['E5-', 'S1.2.1-']"
+nerfus,nerfus,Ans,['E6-'],teimlo,teimlo,B,"['X2.1', 'E1', 'X3']"
+cefnogol,cefnogol,Ans,['S8+'],chefnogol,cefnogol,Ans,['S8+']
+cefnogol,cefnogol,Ans,['S8+'],gefnogol,cefnogol,Ans,['S8+']
+cefnogol,cefnogol,Ans,['S8+'],cefnogant,cefnogi,B,"['S8+', 'A1.1.1', 'K5.1', 'I1.1', 'A10+']"
+cefnogol,cefnogol,Ans,['S8+'],cefnoga,cefnogi | cefnogi,B | B,"['S8+', 'A1.1.1', 'K5.1', 'I1.1', 'A10+']"
+cefnogol,cefnogol,Ans,['S8+'],cydweithiol,cydweithiol,unk,['Z99']
+cefnogol,cefnogol,Ans,['S8+'],gwerthfawrogol,gwerthfawrogol,unk,['Z99']
+cefnogol,cefnogol,Ans,['S8+'],gweithgar,gweithgar,Ans,['X8+']
+cefnogol,cefnogol,Ans,['S8+'],cadarnhaol,cadarnhaol,Ans,"['A7+', 'Q3']"
+cefnogol,cefnogol,Ans,['S8+'],cefnogaeth,cefnogaeth,E,"['S8+', 'A1.1.1', 'K5.1', 'I1.1', 'A10+']"
+cefnogol,cefnogol,Ans,['S8+'],caredig,caredig,Ans,['A4.1']
+disglair,disglair,Ans,"['O4.3', 'X9.1+', 'E4.1+']",ddisglair,disglair,Ans,"['O4.3', 'X9.1+', 'E4.1+']"
+disglair,disglair,Ans,"['O4.3', 'X9.1+', 'E4.1+']",dyfodoldisglair,dyfodoldisglair,unk,['Z99']
+disglair,disglair,Ans,"['O4.3', 'X9.1+', 'E4.1+']",disglaer,disglaer,unk,['Z99']
+disglair,disglair,Ans,"['O4.3', 'X9.1+', 'E4.1+']",disgleiriach,disgleiriach,unk,['Z99']
+disglair,disglair,Ans,"['O4.3', 'X9.1+', 'E4.1+']",disgleiriaf,disgleirio,B,"['W2', 'O4.2+', 'E4.1+', 'X9.1+', 'B4', 'W4/A5.1+']"
+disglair,disglair,Ans,"['O4.3', 'X9.1+', 'E4.1+']",disgleiria,disgleirio | disgleirio,B | B,"['W2', 'O4.2+', 'E4.1+', 'X9.1+', 'B4', 'W4/A5.1+']"
+disglair,disglair,Ans,"['O4.3', 'X9.1+', 'E4.1+']",disgleiriai,disgleirio,B,"['W2', 'O4.2+', 'E4.1+', 'X9.1+', 'B4', 'W4/A5.1+']"
+disglair,disglair,Ans,"['O4.3', 'X9.1+', 'E4.1+']",disgled,disgled,unk,['Z99']
+disglair,disglair,Ans,"['O4.3', 'X9.1+', 'E4.1+']",llewyrchus,llewyrchus,Ans,['I1.1+']
+disglair,disglair,Ans,"['O4.3', 'X9.1+', 'E4.1+']",llachar,llachar,Ans,"['O4.3', 'X9.1+', 'E4.1+']"
+disglair,disglair,Ans,"['O4.3', 'X9.1+', 'E4.1+']",ddisglair,disglair,Ans,"['O4.3', 'X9.1+', 'E4.1+']"
+disglair,disglair,Ans,"['O4.3', 'X9.1+', 'E4.1+']",dyfodoldisglair,dyfodoldisglair,unk,['Z99']
+disglair,disglair,Ans,"['O4.3', 'X9.1+', 'E4.1+']",disglaer,disglaer,unk,['Z99']
+disglair,disglair,Ans,"['O4.3', 'X9.1+', 'E4.1+']",disgleiriach,disgleiriach,unk,['Z99']
+disglair,disglair,Ans,"['O4.3', 'X9.1+', 'E4.1+']",disgleiriaf,disgleirio,B,"['W2', 'O4.2+', 'E4.1+', 'X9.1+', 'B4', 'W4/A5.1+']"
+disglair,disglair,Ans,"['O4.3', 'X9.1+', 'E4.1+']",disgleiria,disgleirio | disgleirio,B | B,"['W2', 'O4.2+', 'E4.1+', 'X9.1+', 'B4', 'W4/A5.1+']"
+disglair,disglair,Ans,"['O4.3', 'X9.1+', 'E4.1+']",disgleiriai,disgleirio,B,"['W2', 'O4.2+', 'E4.1+', 'X9.1+', 'B4', 'W4/A5.1+']"
+disglair,disglair,Ans,"['O4.3', 'X9.1+', 'E4.1+']",disgled,disgled,unk,['Z99']
+disglair,disglair,Ans,"['O4.3', 'X9.1+', 'E4.1+']",llewyrchus,llewyrchus,Ans,['I1.1+']
+disglair,disglair,Ans,"['O4.3', 'X9.1+', 'E4.1+']",llachar,llachar,Ans,"['O4.3', 'X9.1+', 'E4.1+']"
+creulon,creulon,Ans,['E3-'],creulonaf,creuloni,B,['Z99']
+creulon,creulon,Ans,['E3-'],chreulon,creulon,Ans,['E3-']
+creulon,creulon,Ans,['E3-'],creulon,creulon,Ans,['E3-']
+creulon,creulon,Ans,['E3-'],greulon,creulon,Ans,['E3-']
+creulon,creulon,Ans,['E3-'],creulondeb,creulon,E,['E3-']
+creulon,creulon,Ans,['E3-'],erchyll,erchyll,Ans,['O4.2-']
+creulon,creulon,Ans,['E3-'],creulawn,creulawn,unk,['Z99']
+creulon,creulon,Ans,['E3-'],dychrynllyd,dychryn,Ans,['O4.2-']
+creulon,creulon,Ans,['E3-'],chreulondeb,creulon,E,['E3-']
+creulon,creulon,Ans,['E3-'],milain,milain,unk,['Z99']
+normal,normal,Ans,['A6.2+'],normal,normal,Ans,['A6.2+']
+normal,normal,Ans,['A6.2+'],normal,normal,Ans,['A6.2+']
+normal,normal,Ans,['A6.2+'],normally,normally,unk,['Z99']
+normal,normal,Ans,['A6.2+'],normal,normal,Ans,['A6.2+']
+normal,normal,Ans,['A6.2+'],abnormal,abnormal,unk,['Z99']
+normal,normal,Ans,['A6.2+'],normale,normale,unk,['Z99']
+normal,normal,Ans,['A6.2+'],paranormal,paranormal,unk,['Z99']
+normal,normal,Ans,['A6.2+'],formal,formal,unk,['Z99']
+normal,normal,Ans,['A6.2+'],annormal,annormal,unk,['Z99']
+normal,normal,Ans,['A6.2+'],normalrwydd,normalrwydd,unk,['Z99']
+coll,coll | colli | coll,Ans | B | Ans,"['A5.3-', 'X3.4-', 'A11.2-', 'X2.5-', 'X9.2-', 'E4.1-', 'T4-', 'S1.1.3-']",coll,coll | colli | coll,Ans | B | Ans,"['A5.3-', 'X3.4-', 'A11.2-', 'X2.5-', 'X9.2-', 'E4.1-', 'T4-', 'S1.1.3-']"
+coll,coll | colli | coll,Ans | B | Ans,"['A5.3-', 'X3.4-', 'A11.2-', 'X2.5-', 'X9.2-', 'E4.1-', 'T4-', 'S1.1.3-']",coll,coll | colli | coll,Ans | B | Ans,"['A5.3-', 'X3.4-', 'A11.2-', 'X2.5-', 'X9.2-', 'E4.1-', 'T4-', 'S1.1.3-']"
+coll,coll | colli | coll,Ans | B | Ans,"['A5.3-', 'X3.4-', 'A11.2-', 'X2.5-', 'X9.2-', 'E4.1-', 'T4-', 'S1.1.3-']",goll,coll,Ans,"['A5.3-', 'X3.4-', 'A11.2-', 'X2.5-', 'X9.2-', 'E4.1-', 'T4-', 'S1.1.3-']"
+coll,coll | colli | coll,Ans | B | Ans,"['A5.3-', 'X3.4-', 'A11.2-', 'X2.5-', 'X9.2-', 'E4.1-', 'T4-', 'S1.1.3-']",ganfyddir,ganfyddir,unk,['Z99']
+coll,coll | colli | coll,Ans | B | Ans,"['A5.3-', 'X3.4-', 'A11.2-', 'X2.5-', 'X9.2-', 'E4.1-', 'T4-', 'S1.1.3-']",coll,coll | colli | coll,Ans | B | Ans,"['A5.3-', 'X3.4-', 'A11.2-', 'X2.5-', 'X9.2-', 'E4.1-', 'T4-', 'S1.1.3-']"
+coll,coll | colli | coll,Ans | B | Ans,"['A5.3-', 'X3.4-', 'A11.2-', 'X2.5-', 'X9.2-', 'E4.1-', 'T4-', 'S1.1.3-']",archwilio,archwilio,B,"['X2.4', 'A1.1.1']"
+coll,coll | colli | coll,Ans | B | Ans,"['A5.3-', 'X3.4-', 'A11.2-', 'X2.5-', 'X9.2-', 'E4.1-', 'T4-', 'S1.1.3-']",llusernwr,llusernwr,unk,['Z99']
+coll,coll | colli | coll,Ans | B | Ans,"['A5.3-', 'X3.4-', 'A11.2-', 'X2.5-', 'X9.2-', 'E4.1-', 'T4-', 'S1.1.3-']",difancoll,difancoll,E,['Z99']
+coll,coll | colli | coll,Ans | B | Ans,"['A5.3-', 'X3.4-', 'A11.2-', 'X2.5-', 'X9.2-', 'E4.1-', 'T4-', 'S1.1.3-']",colledig,colledig,Ans,"['X9.2-', 'A9-', 'M6/A5.3-', 'L1-']"
+coll,coll | colli | coll,Ans | B | Ans,"['A5.3-', 'X3.4-', 'A11.2-', 'X2.5-', 'X9.2-', 'E4.1-', 'T4-', 'S1.1.3-']",achubent,achub | achub,B | B,"['I1.1', 'B3', 'A9+', 'S8+', 'A1.9', 'K5.1', 'S9']"
+coll,coll | colli | coll,Ans | B | Ans,"['A5.3-', 'X3.4-', 'A11.2-', 'X2.5-', 'X9.2-', 'E4.1-', 'T4-', 'S1.1.3-']",coll,coll | colli | coll,Ans | B | Ans,"['A5.3-', 'X3.4-', 'A11.2-', 'X2.5-', 'X9.2-', 'E4.1-', 'T4-', 'S1.1.3-']"
+coll,coll | colli | coll,Ans | B | Ans,"['A5.3-', 'X3.4-', 'A11.2-', 'X2.5-', 'X9.2-', 'E4.1-', 'T4-', 'S1.1.3-']",coll,coll | colli | coll,Ans | B | Ans,"['A5.3-', 'X3.4-', 'A11.2-', 'X2.5-', 'X9.2-', 'E4.1-', 'T4-', 'S1.1.3-']"
+coll,coll | colli | coll,Ans | B | Ans,"['A5.3-', 'X3.4-', 'A11.2-', 'X2.5-', 'X9.2-', 'E4.1-', 'T4-', 'S1.1.3-']",goll,coll,Ans,"['A5.3-', 'X3.4-', 'A11.2-', 'X2.5-', 'X9.2-', 'E4.1-', 'T4-', 'S1.1.3-']"
+coll,coll | colli | coll,Ans | B | Ans,"['A5.3-', 'X3.4-', 'A11.2-', 'X2.5-', 'X9.2-', 'E4.1-', 'T4-', 'S1.1.3-']",ganfyddir,ganfyddir,unk,['Z99']
+coll,coll | colli | coll,Ans | B | Ans,"['A5.3-', 'X3.4-', 'A11.2-', 'X2.5-', 'X9.2-', 'E4.1-', 'T4-', 'S1.1.3-']",coll,coll | colli | coll,Ans | B | Ans,"['A5.3-', 'X3.4-', 'A11.2-', 'X2.5-', 'X9.2-', 'E4.1-', 'T4-', 'S1.1.3-']"
+coll,coll | colli | coll,Ans | B | Ans,"['A5.3-', 'X3.4-', 'A11.2-', 'X2.5-', 'X9.2-', 'E4.1-', 'T4-', 'S1.1.3-']",archwilio,archwilio,B,"['X2.4', 'A1.1.1']"
+coll,coll | colli | coll,Ans | B | Ans,"['A5.3-', 'X3.4-', 'A11.2-', 'X2.5-', 'X9.2-', 'E4.1-', 'T4-', 'S1.1.3-']",llusernwr,llusernwr,unk,['Z99']
+coll,coll | colli | coll,Ans | B | Ans,"['A5.3-', 'X3.4-', 'A11.2-', 'X2.5-', 'X9.2-', 'E4.1-', 'T4-', 'S1.1.3-']",difancoll,difancoll,E,['Z99']
+coll,coll | colli | coll,Ans | B | Ans,"['A5.3-', 'X3.4-', 'A11.2-', 'X2.5-', 'X9.2-', 'E4.1-', 'T4-', 'S1.1.3-']",colledig,colledig,Ans,"['X9.2-', 'A9-', 'M6/A5.3-', 'L1-']"
+coll,coll | colli | coll,Ans | B | Ans,"['A5.3-', 'X3.4-', 'A11.2-', 'X2.5-', 'X9.2-', 'E4.1-', 'T4-', 'S1.1.3-']",achubent,achub | achub,B | B,"['I1.1', 'B3', 'A9+', 'S8+', 'A1.9', 'K5.1', 'S9']"
+syfrdanol,syfrdanol,Ans,"['E5-', 'B2-@']",syfrdanodd,syfrdanu,B,['X2.6-']
+syfrdanol,syfrdanol,Ans,"['E5-', 'B2-@']",syfrdannol,syfrdannol,unk,['Z99']
+syfrdanol,syfrdanol,Ans,"['E5-', 'B2-@']",rhyfeddol,rhyfeddol,Ans,['A5.1+']
+syfrdanol,syfrdanol,Ans,"['E5-', 'B2-@']",syfrdannu,syfrdannu,unk,['Z99']
+syfrdanol,syfrdanol,Ans,"['E5-', 'B2-@']",anhygoel,anhygoel,Ans,"['A6.2-', 'A5.1+', 'A5.2-']"
+syfrdanol,syfrdanol,Ans,"['E5-', 'B2-@']",syfrdan,syfrdan,unk,['Z99']
+syfrdanol,syfrdanol,Ans,"['E5-', 'B2-@']",annisgwyl,annisgwyl,Ans,['X2.6-']
+syfrdanol,syfrdanol,Ans,"['E5-', 'B2-@']",frawychus,brawychus,Ans,['Z99']
+syfrdanol,syfrdanol,Ans,"['E5-', 'B2-@']",anhygoel,anhygoel,Ans,"['A6.2-', 'A5.1+', 'A5.2-']"
+syfrdanol,syfrdanol,Ans,"['E5-', 'B2-@']",ryfeddol,rhyfeddol,Ans,['A5.1+']

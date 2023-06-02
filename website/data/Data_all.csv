@@ -1,0 +1,6954 @@
+﻿word,sense,synset
+pobl,people,bodau dynol
+pobl,people,gwerin
+pobl,people,person
+pobl,people,cenedl
+pobl,people,cyhoedd
+pobl,people,dynes
+pobl,people,cymuned
+pobl,people,cymdeithas
+pobl,people,unigolion
+pobl,people,grŵp o bobl
+pobl,people,poblogaeth
+pobl,people,dynion
+pobl,people,pobloedd
+pobl,people,bod dynol
+pobl,people,dyn
+pobl,people,torf
+pobl,people,merched
+pobl,people,enaidiau
+pobl,people,eneidiau
+pobl,people,personau
+pobl,people,pawb
+pobl,people,pobl hen
+pobl,people,dynolryw
+pobl,people,poblog
+pobl,people,trigolion
+pobl,people,person (capel)
+pobl,people,pobl ifanc
+pobl,people,y ddynoliaeth
+pobl,people,plant
+pobl,people,dynoliaeth
+pobl,people,grwp
+gwaith,work,llafur
+gwaith,work,swydd
+gwaith,work,bywoliaeth
+gwaith,work,tasg
+gwaith,work,galwedigaeth
+gwaith,work,gorchwyl
+gwaith,work,dyletswydd
+gwaith,work,masnach
+gwaith,work,gweithio
+gwaith,work,cyflogaeth
+gwaith,work,labro
+gwaith,work,gyrfa
+gwaith,work,gweithiwr
+gwaith,work,llafurio
+gwaith,work,gweithwyr
+gwaith,work,ymdrech
+gwaith,work,gweithle
+gwaith,work,swyddogaeth
+gwaith,work,baich
+gwaith,work,gweithred
+gwaith,work,gweithfan
+gwaith,work,gweithdy
+gwaith,work,gweithgaredd
+gwaith,work,proffesiwn
+gwaith,work,cynhaliaeth
+gwaith,work,busnes
+gwaith,work,crefft
+blwyddyn,year,blwydd
+blwyddyn,year,blynedd
+blwyddyn,year,deuddeng mis
+blwyddyn,year,amser
+blwyddyn,year,cyfnod
+blwyddyn,year,blwyddyn academaidd
+blwyddyn,year,eleni
+blwyddyn,year,amser hir
+blwyddyn,year,oes
+blwyddyn,year,llynedd
+blwyddyn,year,deuddeg mis
+blwyddyn,year,blwyddyn nesaf
+blwyddyn,year,oed
+blwyddyn,year,calendr
+blwyddyn,year,oesoedd
+blwyddyn,year,adeg
+blwyddyn,year,blwyddyn naid
+blwyddyn,year,blwyddyn ysgol
+blwyddyn,year,misol
+blwyddyn,year,blynyddoedd
+blwyddyn,year,blwyddyn newydd
+blwyddyn,year,blwyddyn diwethaf
+blwyddyn,year,awr
+blwyddyn,year,munud
+blwyddyn,year,tro
+blwyddyn,year,diwrnod
+blwyddyn,year,hoedl
+blwyddyn,year,blwyddyn ariannol
+blwyddyn,year,blwyddiadur
+blwyddyn,year,wythnos
+blwyddyn,year,blwyddyn cyhoeddi
+iaith,language,mynegiant
+iaith,language,ieithwedd
+iaith,language,cyfathrebu
+iaith,language,mamiaith
+iaith,language,siarad
+iaith,language,iaith arwyddion
+iaith,language,cyfrwng
+iaith,language,parabl
+iaith,language,tafod
+iaith,language,lleferydd
+iaith,language,geiriau
+iaith,language,tafodiaeth
+iaith,language,acen
+iaith,language,llafar
+iaith,language,cyffes
+iaith,language,diwylliant
+iaith,language,rhyddiaith
+iaith,language,cyfiaith
+iaith,language,cymdeithas
+iaith,language,tafodiaith
+iaith,language,jargon
+iaith,language,cyfuno geiriau
+iaith,language,sgwrsio
+iaith,language,iaith gorfforol
+iaith,language,terminoleg
+iaith,language,mynegiad
+iaith,language,araith
+iaith,language,hunaniaeth
+iaith,language,llais
+iaith,language,ymadrodd
+iaith,language,gwladgarol
+iaith,language,ar lafar
+iaith,language,ieithoedd
+iaith,language,sgwrs
+iaith,language,dwyieithrwydd
+plentyn,child,mab
+plentyn,child,merch
+plentyn,child,ifanc
+plentyn,child,plentynnaidd
+plentyn,child,disgynnydd
+plentyn,child,bychan
+plentyn,child,plentyndod
+plentyn,child,crwt
+plentyn,child,ieuenctid
+plentyn,child,crwtyn
+plentyn,child,pobl ieuainc
+plentyn,child,plant
+plentyn,child,crotes
+plentyn,child,personau ieuainc
+plentyn,child,anaeddfed
+plentyn,child,babi
+plentyn,child,genedigaeth
+plentyn,child,epil
+plentyn,child,plentyn y fam
+plentyn,child,hogyn
+plentyn,child,ieuanc
+plentyn,child,babanod
+plentyn,child,magu
+plentyn,child,person bach
+plentyn,child,hogen
+plentyn,child,disgybl
+plentyn,child,croten
+plentyn,child,etifedd
+plentyn,child,bachgen
+plentyn,child,y fechan
+plentyn,child,y bychan
+ysgol,school,ysgol gynradd
+ysgol,school,ysgol uwchradd
+ysgol,school,ysgol feithrin
+ysgol,school,ysgol gyfun
+ysgol,school,sefydliad addysgol
+ysgol,school,academi
+ysgol,school,ysgol breifat
+ysgol,school,ysgol sul
+ysgol,school,sefydliad addysg
+ysgol,school,prifysgol
+ysgol,school,ysgol breswyl
+ysgol,school,dosbarth
+ysgol,school,coleg
+ysgol,school,addysg
+ysgol,school,ysgol ramadeg
+ysgol,school,ysgol briefat
+ysgol,school,ysgolion
+ysgol,school,sefydiad addysgiadol
+ysgol,school,sefydliad addysgiadol
+byd,world,y ddaear
+byd,world,planed
+byd,world,natur
+byd,world,byd-eang
+byd,world,bydysawd
+byd,world,bydoedd
+byd,world,bywyd
+byd,world,hollfyd
+byd,world,glob
+byd,world,y glob
+byd,world,maes
+byd,world,glôb
+byd,world,grŵp
+byd,world,bydau
+byd,world,daearen
+byd,world,cread
+byd,world,henfyd
+byd,world,creadigaeth
+byd,world,hoedl
+byd,world,cysawd yr haul
+byd,world,bydol
+byd,world,y trydydd byd
+byd,world,gofod
+dydd,day,diwrnod
+dydd,day,undydd
+dydd,day,pedair awr ar hugain
+dydd,day,cyfnod
+dydd,day,amser
+dydd,day,dwthwn
+dydd,day,adeg
+dydd,day,dyddgwaith
+dydd,day,golau haul
+dydd,day,ddoe
+dydd,day,yfory
+dydd,day,dydd gwaith
+dydd,day,deuddydd
+dydd,day,beunydd
+dydd,day,dyddiad
+dydd,day,echddoe
+dydd,day,eilddydd
+dydd,day,dyddio
+dydd,day,trennydd
+dydd,day,dyddiau
+dydd,day,canol dydd
+dydd,day,trannoeth
+dydd,day,bore
+dydd,day,prynhawn
+dydd,day,drannoeth
+dydd,day,dechrau'r dydd
+dydd,day,heddiw
+dydd,day,diwedd y dydd
+dydd,day,24 awr
+rhaid,necessity/obligation,angen
+rhaid,necessity/obligation,angenrhaid
+rhaid,necessity/obligation,gorfodaeth
+rhaid,necessity/obligation,rhwymedigaeth
+rhaid,necessity/obligation,gorfod
+rhaid,necessity/obligation,rheidrwydd
+rhaid,necessity/obligation,anghenraid
+rhaid,necessity/obligation,cyfrifoldeb
+rhaid,necessity/obligation,angenrheidiol
+rhaid,necessity/obligation,eisiau
+rhaid,necessity/obligation,dyled
+rhaid,necessity/obligation,hanfodol
+rhaid,necessity/obligation,gorfodol
+rhaid,necessity/obligation,atebolrwydd
+rhaid,necessity/obligation,galwad
+rhaid,necessity/obligation,gofynnol
+rhaid,necessity/obligation,dyletswydd
+rhaid,necessity/obligation,gwerthfawrogiad
+rhaid,necessity/obligation,gofyniad
+rhaid,necessity/obligation,hollbwysig
+rhaid,necessity/obligation,dylestwydd
+rhaid,necessity/obligation,cymhelliad
+rhaid,necessity/obligation,dymuno
+rhaid,necessity/obligation,gorchymyn
+rhaid,necessity/obligation,anocheledd
+rhaid,necessity/obligation,rhwymo
+rhaid,necessity/obligation,boddio
+tŷ,house,cartref
+tŷ,house,aelwyd
+tŷ,house,adeilad
+tŷ,house,preswylfa
+tŷ,house,tafarndy
+tŷ,house,tŷ
+tŷ,house,fflat
+tŷ,house,anheddfa
+tŷ,house,bwthyn
+tŷ,house,tŷ bach
+tŷ,house,adref
+tŷ,house,cynefin
+tŷ,house,trigfan
+tŷ,house,tŷ cyffredin
+tŷ,house,llety
+tŷ,house,llys
+tŷ,house,ty sengl
+tŷ,house,byngalo
+tŷ,house,cyfannedd
+tŷ,house,ty teras
+tŷ,house,mebyd
+tŷ,house,plasdy
+tŷ,house,plas
+tŷ,house,annedd
+tŷ,house,lloches
+tŷ,house,ty haf
+tŷ,house,cwmni
+tŷ,house,bwythyn
+tŷ,house,senedd
+tŷ,house,ty'r meirw
+tŷ,house,tyddyn
+tŷ,house,tŷ sengl
+tŷ,house,teulu
+tŷ,house,ty gwydr
+tŷ,house,ffermdy
+tŷ,house,corff
+angen,need,eisiau
+angen,need,rhaid
+angen,need,anghenraid
+angen,need,angenrheidiol
+angen,need,anghenion
+angen,need,angenrhaid
+angen,need,gofyniad
+angen,need,isio
+angen,need,yn gorfod cael
+angen,need,dymuno
+angen,need,hawl
+angen,need,gofyn
+angen,need,diffyg
+angen,need,gorfodaeth
+angen,need,brys
+angen,need,erfyn
+angen,need,ceisio
+angen,need,awydd
+angen,need,rheidrwydd
+amser,time,adeg
+amser,time,achlysur
+amser,time,pryd
+amser,time,cyfnod
+amser,time,oes
+amser,time,tro
+amser,time,awr
+amser,time,amseriad
+amser,time,cloc
+amser,time,blwyddyn
+amser,time,oriawr
+amser,time,munud
+amser,time,eiliad
+amser,time,pan
+amser,time,term
+amser,time,amserlen
+amser,time,hyd
+amser,time,canrif
+amser,time,amseru
+amser,time,amserol
+amser,time,mesuriad
+amser,time,epoc
+amser,time,tymor
+ffordd,road,heol
+ffordd,road,lôn
+ffordd,road,priffordd
+ffordd,road,llwybr
+ffordd,road,lon
+ffordd,road,stryd
+ffordd,road,cwrs
+ffordd,road,traffordd
+ffordd,road,wtra
+ffordd,road,angorfa
+ffordd,road,lon gefn
+ffordd,road,beidr
+ffordd,road,mynedfa
+ffordd,road,rhewl
+ffordd,road,ffurf
+ffordd,road,dwyffordd
+ffordd,road,tramwyfa
+ffordd,road,taith
+ffordd,road,trac
+ffordd,road,cyfeiriad
+ffordd,road,dull
+ffordd,road,modd
+ffordd,road,siwrne
+ffordd,road,pellter
+ffordd,road,medir
+ffordd,manner,modd
+ffordd,manner,dull
+ffordd,manner,agwedd
+ffordd,manner,arfer
+ffordd,manner,ffurf
+ffordd,manner,osgo
+ffordd,manner,ymarweddiad
+ffordd,manner,arferiad
+ffordd,manner,cynllun
+ffordd,manner,arddull
+ffordd,manner,proses
+ffordd,manner,ymarferiad
+ffordd,manner,ymddygiad
+ffordd,manner,diwyg
+ffordd,manner,gwedd
+ffordd,manner,ffordd o fod
+ffordd,manner,trefn
+ffordd,manner,cyfle
+ffordd,manner,cyfarwyddiadau
+ffordd,manner,cyfrwng
+ffordd,manner,ymagweddiad
+ffordd,manner,ymddangosiad
+ffordd,manner,moesau
+ffordd,manner,patrwm
+ffordd,manner,hunaniaeth
+ffordd,manner,person
+enw,name,cyfenw
+enw,name,galw
+enw,name,enw cyntaf
+enw,name,llysenw
+enw,name,enwi
+enw,name,teitl
+enw,name,term
+enw,name,rhywbeth
+enw,name,enwad
+enw,name,dodi enw ar
+enw,name,cydnabod
+enw,name,hunaniaeth
+enw,name,person
+enw,name,ffugenw
+enw,name,ail enw
+enw,name,unigryw
+enw,name,gwreiddiol
+enw,name,adnabod
+enw,name,ffug enw
+enw,name,enw olaf
+enw,name,rhywun
+enw,name,enw bedydd
+enw,name,bedyddio
+enw,name,dyfynnu
+enw,name,canfod
+enw,name,bedydd
+enw,name,unigoliaeth
+enw,name,dodi enw
+enw,name,enwebu
+pen,head,penglog
+pen,head,corun
+pen,head,pennaeth
+pen,head,prif
+pen,head,pwysicaf
+pen,head,diwedd
+pen,head,ymenydd
+pen,head,ymennydd
+pen,head,pennog
+pen,head,blaen
+pen,head,cneuen
+pen,head,meddwl
+pen,head,sgalp
+pen,head,pennaf
+pen,head,wynebyn
+pen,head,prifathro
+pen,head,rheolwr
+pen,head,llywydd
+pen,head,meistr
+pen,head,prifathrawes
+pen,head,top
+pen,head,blaenori
+pen,head,yn benuchel
+pen,head,arwain
+pen,head,arweinydd
+pen,head,yn benysgafn
+pen,head,tarddle
+pen,head,arweinyddes
+pen,head,copa
+pen,head,blaeor
+pen,head,pennyn
+pen,head,uchafbwynt
+pen,biro,beiro
+pen,biro,ysgrifbin
+pen,biro,ysgrifennu
+pen,biro,pensil
+pen,biro,inc
+pen,biro,marciwr
+pen,biro,ygrifbin
+pen,biro,llifbin
+pen,biro,mynegi
+pen,biro,llawysgrifen
+pen,biro,cyfleu
+pen,biro,ysgfrifennu
+pen,biro,sillafu
+pen,biro,stilws
+pen,biro,uwcholeuydd
+pen,biro,crefft
+pen,biro,ysgrifen
+pen,biro,amlygwr
+pen,biro,offer
+pen,biro,cwilsen
+pen,biro,creadigrwydd
+pen,biro,papur
+pen,biro,llyfr
+lle,location,lleoliad
+lle,location,safle
+lle,location,ardal
+lle,location,man
+lle,location,llecyn
+lle,location,bro
+lle,location,rhywle
+lle,location,mangre
+lle,location,parth
+lle,location,cymdogaeth
+lle,location,pwynt
+lle,location,rhanbarth
+lle,location,gosodiad
+lle,location,golygfa
+lle,location,maes
+lle,location,ble
+lle,location,lleoli
+lle,location,gofod
+lle,location,amgylchedd
+lle,location,lleoliadol
+lle,location,cynefin
+lle,location,lleol
+lle,location,talaith
+lle,location,cefndir
+lle,location,bwlch
+mis,month,cyfnod
+mis,month,misol
+mis,month,amser
+mis,month,adeg
+mis,month,blwyddyn
+mis,month,tymor
+mis,month,mai
+mis,month,pedair wythnos
+mis,month,calendr
+mis,month,tymhorol
+mis,month,dyddiad
+mis,month,mis lleuad
+mis,month,bob mis
+mis,month,oes
+mis,month,tro
+mis,month,misoedd
+mis,month,mislif
+mis,month,rhan o flwyddyn
+mis,month,unwaith y mis
+mis,month,mis lloerol
+mis,month,misglwyf
+mis,month,newid
+mis,month,dwywaith y mis
+mis,month,diwrnod
+mis,month,cyfnod o amser
+mis,month,ionawr
+mis,month,presennol
+mis,month,sbel
+mis,month,deufis
+mis,month,dyfodol
+mis,month,chwefror
+mis,month,mis mêl
+mis,month,gorffennol
+mis,month,mawrth
+mis,month,ebrill
+tro,rotation,cylchdro
+tro,rotation,troad
+tro,rotation,cylch
+tro,rotation,troi
+tro,rotation,cylchdroad
+tro,rotation,cylchdroi
+tro,rotation,cylchred
+tro,rotation,plygiad
+tro,rotation,troadau
+tro,rotation,newid
+tro,rotation,cornel
+tro,rotation,gwyriad
+tro,rotation,trosi
+tro,rotation,troelli
+tro,rotation,gwyrdroad
+tro,rotation,cyfle
+tro,rotation,trofa
+tro,rotation,cwmpas
+tro,rotation,dirdro
+tro,rotation,amgylchynnu
+tro,rotation,troell
+llyfr,book,nofel
+llyfr,book,cyfrol
+llyfr,book,stori
+llyfr,book,cyhoeddiad
+llyfr,book,ffuglen
+llyfr,book,gwerslyfr
+llyfr,book,tudalennau
+llyfr,book,copi
+llyfr,book,cylchgrawn
+llyfr,book,testun
+llyfr,book,darllen
+llyfr,book,llyfryn
+llyfr,book,pamffled
+llyfr,book,llyfr testun
+llyfr,book,traethawd
+llyfr,book,stori fer
+llyfr,book,llyfr gweddi
+llyfr,book,argraffiad
+llyfr,book,ysgrifen
+llyfr,book,llyfr gosod
+llyfr,book,rhifyn
+llyfr,book,llogi
+llyfr,book,hurio
+llyfr,book,llyfrgell
+llyfr,book,llyfrau gleision
+llyfr,book,archebu
+llyfr,book,dehongli
+llyfr,book,adroddiad
+llyfr,book,cofnod
+llyfr,book,nodyn
+llyfr,book,llyfr cyfrifon
+cwrs,course,rhaglen
+cwrs,course,cyfeiriad
+cwrs,course,cwricwlwm
+cwrs,course,llwybr
+cwrs,course,gyrfa
+cwrs,course,rhediad
+cwrs,course,cwrsio
+cwrs,course,gwersi
+cwrs,course,cwrs anrhydedd
+cwrs,course,cwrs addysg
+cwrs,course,system
+cwrs,course,cwrs ôl-raddedig
+cwrs,course,cynllun
+cwrs,course,gwers
+cwrs,course,cwrs golff
+cwrs,course,astudio
+cwrs,course,cwrs o fwyd
+cwrs,course,polisi
+cwrs,course,gradd
+cwrs,course,cwrs israddedig
+cwrs,course,maes astudiaeth
+cwrs,course,cwrs interniaeth
+cwrs,course,lle rasio
+cwrs,course,cyfres
+cwrs,course,astudiaeth
+cwrs,course,datblygiad
+cwrs,course,ehediad
+cwrs,course,cwrs antur
+cwrs,course,trywydd
+cwrs,course,pryd
+cwrs,course,ffordd
+cwrs,course,cyfnod
+cwrs,corrupt,llygru
+cwrs,corrupt,anonest
+cwrs,corrupt,diegwyddor
+cwrs,corrupt,llwgr
+cwrs,corrupt,llygredig
+cwrs,corrupt,amhûr
+cwrs,corrupt,drwg
+cwrs,corrupt,twyllordus
+cwrs,corrupt,amhur
+cwrs,corrupt,dirywiedig
+cwrs,corrupt,difetha
+cwrs,corrupt,pyrdu
+cwrs,corrupt,madru
+cwrs,corrupt,twyllodrus
+cwrs,corrupt,pydredig
+cwrs,corrupt,pwdr
+cwrs,corrupt,aflan
+cwrs,corrupt,braenu
+cwrs,corrupt,halogi
+cwrs,corrupt,braenllyd
+cwrs,corrupt,anfoesegol
+cwrs,corrupt,camarweiniol
+cwrs,corrupt,madreddog
+cwrs,corrupt,amheus
+cwrs,corrupt,caled
+cwrs,corrupt,garw
+cwrs,corrupt,anonestrwydd
+rhaglen,programme,amserlen
+rhaglen,programme,rhaglen deledu
+rhaglen,programme,cwrs
+rhaglen,programme,cynllun
+rhaglen,programme,agenda
+rhaglen,programme,rhestr
+rhaglen,programme,sianel
+rhaglen,programme,maes llafur
+rhaglen,programme,trefniadau
+rhaglen,programme,rhaglen weithio
+rhaglen,programme,rhaglen waith
+rhaglen,programme,trefniant
+rhaglen,programme,darllediad teledu
+rhaglen,programme,rhaglen gyfrifiadur
+rhaglen,programme,system
+rhaglen,programme,polisi
+rhaglen,programme,darlleniad
+rhaglen,programme,cynlluniau
+rhaglen,programme,trefn
+rhaglen,programme,cyfres
+rhaglen,programme,cwricwlwm
+rhaglen,programme,atodlen
+rhaglen,programme,strategaeth
+rhaglen,programme,taflen
+rhaglen,programme,prosbectws
+rhaglen,programme,arweinlyfr
+rhaglen,programme,rhaglennu
+rhaglen,programme,llawlyfr
+diolch,thanks,diolchgarwch
+diolch,thanks,gwerthfawrogiad
+diolch,thanks,cydnabyddiaeth
+diolch,thanks,bendith
+diolch,thanks,gwerthfawrogi
+diolch,thanks,canmoliaeth
+diolch,thanks,cwrtais
+diolch,thanks,cariad
+diolch,thanks,diolch yn fawr
+diolch,thanks,diolchgar
+diolch,thanks,mawl
+diolch,thanks,adnabyddiaeth
+diolch,thanks,canmol
+diolch,thanks,cyndabyddiaeth
+diolch,thanks,dyledus
+diolch,thanks,parchu
+diolch,thanks,arbrisio
+diolch,thanks,clod
+diolch,thanks,mynegiant
+diolch,thanks,parch
+diolch,thanks,cymeradwyo
+diolch,thanks,edmygedd
+diolch,thanks,gwynfydedig
+aelod,member,aelod seneddol
+aelod,member,cynrychiolydd
+aelod,member,cymrawd
+aelod,member,cydymaith
+aelod,member,perthyn
+aelod,member,rhan
+aelod,member,aelod o dîm
+aelod,member,aelodaeth
+aelod,member,aelod o gynghrair
+aelod,member,dadogi
+aelod,member,aelod o deulu
+aelod,member,cydweithredwr
+aelod,member,dilynwyr
+aelod,member,unigolyn
+aelod,member,grwp
+aelod,member,rhan o dîm
+aelod,member,uned
+aelod,member,darn
+aelod,member,rhan o grŵp
+aelod,member,rhan o'r corff
+aelod,member,adran
+aelod,member,arweinydd
+aelod,member,aelod o glwb
+aelod,member,safle
+aelod,member,sefydliad
+aelod,member,cyfundrefn
+gair,word,neges
+gair,word,sgwrs
+gair,word,addewid
+gair,word,geiryn
+gair,word,siarad
+gair,word,geirio
+gair,word,rhan o frawddeg
+gair,word,araith
+gair,word,cyfarchiad
+gair,word,brawddeg
+gair,word,sain
+gair,word,llw
+gair,word,ymddiddan
+gair,word,gair benthyg
+gair,word,enw
+gair,word,adduned
+gair,word,dywediad
+gair,word,term
+gair,word,gair gorchmynnol
+gair,word,newydd
+gair,word,addo
+gair,word,tafodiaith
+gair,word,gwarantu
+gair,word,iaith
+gair,word,cyhoeddiad
+gair,word,annerchiad
+gair,word,trafodaeth
+gair,word,acen
+gair,word,mynegiant
+oed,age,oedran
+oed,age,aeddfedu
+oed,age,einioes
+oed,age,oes
+oed,age,henaint
+oed,age,cyfnod
+oed,age,hyd oes
+oed,age,hyd bywyd
+oed,age,heneiddio
+oed,age,cenhedlaeth
+oed,age,ieuenctid
+oed,age,adeg
+oed,age,rhif
+oed,age,henoed
+oed,age,canol oed
+oed,age,bywyd
+oed,age,aeddfedrwydd
+oed,age,ienectid
+oed,age,blwyddyn
+oed,age,amser
+oed,age,blynedd
+oed,age,ifanc
+oed,age,hen
+oed,age,cenedlaeth
+oed,age,iau
+oed,age,penblwydd
+oed,age,hŷn
+oed,age,oedrannus
+llywodraeth,government,gwladwriaeth
+llywodraeth,government,awdurdod
+llywodraeth,government,rheolaeth
+llywodraeth,government,gweinyddiaeth
+llywodraeth,government,awdurdodaeth
+llywodraeth,government,goruchwyliaeth
+llywodraeth,government,llywodraeth leol
+llywodraeth,government,awdurdodau
+llywodraeth,government,cyfraith
+llywodraeth,government,llywodraeth ganolog
+llywodraeth,government,grym
+llywodraeth,government,gwleidyddiaeth
+llywodraeth,government,llywodraeth gwlad
+llywodraeth,government,cyfundrefn
+llywodraeth,government,gweinyddol
+llywodraeth,government,rheoli
+llywodraeth,government,darpar lywodraeth
+llywodraeth,government,cyngor
+llywodraeth,government,dylanwad
+llywodraeth,government,undeb
+llywodraeth,government,goruchafiaeth
+llywodraeth,government,cenedl
+llywodraeth,government,plaid
+llywodraeth,government,pwer
+llywodraeth,government,arolygiaeth
+llywodraeth,government,trefn
+llywodraeth,government,arweiniad
+gwybodaeth,information,ffeithiau
+gwybodaeth,information,data
+gwybodaeth,information,manylion
+gwybodaeth,information,dealltwriaeth
+gwybodaeth,information,gwybodus
+gwybodaeth,information,ffaith
+gwybodaeth,information,cyngor
+gwybodaeth,information,amgyffrediad
+gwybodaeth,information,cyfarwyddiadau
+gwybodaeth,information,llenyddiaeth
+gwybodaeth,information,deallus
+gwybodaeth,information,tystiolaeth
+gwybodaeth,information,hysbysrwydd
+gwybodaeth,information,adroddiad
+gwybodaeth,information,dealltwraeth
+gwybodaeth,information,canfyddiad
+gwybodaeth,information,gwirionedd
+gwybodaeth,information,esboniadol
+gwybodaeth,information,neges
+gwybodaeth,information,canolfan wybodaeth
+gwybodaeth,information,adrodd
+gwybodaeth,information,synnwyr
+gwybodaeth,information,astudiaeth
+gwybodaeth,information,cywirdeb
+gwybodaeth,information,hysbysebiad
+gwybodaeth,information,adnabyddiaeth
+gwybodaeth,information,hysbysiad
+gwybodaeth,information,cyhoeddi
+gwybodaeth,information,swynnwyr
+gwybodaeth,information,amgyffred
+gwybodaeth,information,dysgu
+gwybodaeth,information,cydnabyddiaeth
+gwybodaeth,information,dirnad
+gwybodaeth,information,addysg
+gwybodaeth,information,addysgiadol
+cyfle,chance,siawns
+cyfle,chance,agoriad
+cyfle,chance,hap
+cyfle,chance,cynnig
+cyfle,chance,damwain
+cyfle,chance,tebygolrwydd
+cyfle,chance,achub ar gyfle
+cyfle,chance,damweiniol
+cyfle,chance,profiad
+cyfle,chance,dal ar gyfle
+cyfle,chance,annisgwyl
+cyfle,chance,amser
+cyfle,chance,ffawd
+cyfle,chance,bachu ar gyfle
+cyfle,chance,ar hap
+cyfle,chance,drws
+cyfle,chance,gobaith
+cyfle,chance,cyfleuster
+cyfle,chance,cyfle euraidd
+cyfle,chance,addas
+cyfle,chance,esgus
+cyfle,chance,ffliwc
+cyfle,chance,cyfleus
+cyfle,chance,lwcus
+cyfle,chance,adeg fanteisiol
+cyfle,chance,lwc
+cyfle,chance,digwyddiad
+cyfle,chance,ffodus
+cyfle,chance,anlwcus
+cyfle,chance,tynged
+cyfle,chance,mentro
+cyfle,chance,gamblo
+hanes,history,gorffennol
+hanes,history,chwedl
+hanes,history,stori
+hanes,history,cefndir
+hanes,history,cofnod
+hanes,history,hanes teuluol
+hanes,history,cyfnod
+hanes,history,hanesyddiaeth
+hanes,history,hanesydd
+hanes,history,hanes achos
+hanes,history,oes
+hanes,history,hanesyddol
+hanes,history,adroddiad
+hanes,history,cyfrif
+hanes,history,traddodiad
+hanes,history,hanes crefyddau
+hanes,history,erthygl
+hanes,history,crynodeb
+hanes,history,llyfr hanes
+hanes,history,hanes cymdeithasol
+hanes,history,portread
+hanes,history,perthynas
+hanes,history,cronicl
+hanes,history,hanes amaethyddiaeth
+hanes,history,digywddiad o'r gorffennol
+hanes,history,datganiad
+hanes,history,hanesyn
+hanes,history,hanes eglwysig
+hanes,history,cyfarwyddyd
+hanes,history,hanes sefydliadau
+hanes,history,hanes y gyfraith
+hanes,history,hanes ardal
+hanes,history,hanesiaeth
+hanes,history,digwyddiad
+hyd,length,pellter
+hyd,length,meithder
+hyd,length,mesuriad
+hyd,length,lled
+hyd,length,amser
+hyd,length,pwythyn
+hyd,length,hir
+hyd,length,meithni
+hyd,length,hydoedd
+hyd,length,hirder
+hyd,length,ystod
+hyd,length,cwmpas
+hyd,length,diamedr
+hyd,length,gwagle
+hyd,length,parhad
+hyd,length,mesur
+hyd,length,cyhyd
+hyd,length,ehangder
+hyd,length,bwlch
+hyd,length,gofod
+hyd,length,ymestyn
+hyd,length,maint
+hyd,length,parhau
+hyd,length,ffordd
+hyd,length,ysbaid
+hyd,length,dimensiwn
+hyd,length,hydion
+hyd,length,llaten
+hyd,length,estyniad
+hyd,length,byr
+hyd,length,ymerodrol
+hyd,length,metrig
+hyd,length,radiws
+llun,image,darlun
+llun,image,portread
+llun,image,ffotograff
+llun,image,lluniad
+llun,image,delwedd
+llun,image,adlewyrchiad
+llun,image,drych
+llun,image,delfryd
+llun,image,delw
+llun,image,braslun
+llun,image,murlun
+llun,image,symbol
+llun,image,celf
+llun,image,arwyddlun
+llun,image,pictiwr
+llun,image,cerflun
+llun,image,dyluniad
+llun,image,ffigwr
+llun,image,diagram
+llun,image,paentiad
+llun,image,ffurf
+llun,image,edrychiad
+llun,image,hunlun
+llun,image,ffigur
+llun,image,camera
+llun,image,eicon
+llun,image,gwedd
+llun,image,patrwm
+man,location,lle
+man,location,lleoliad
+man,location,safle
+man,location,ardal
+man,location,pwynt
+man,location,llecyn
+man,location,mangre
+man,location,rhywle
+man,location,rhanbarth
+man,location,maes
+man,location,gofod
+man,location,golygfa
+man,location,man argraffu
+man,location,lled
+man,location,man cyhoeddi
+man,location,rhan
+man,location,man cyfarfod
+man,location,cymdogaeth
+man,location,gosodiad
+man,location,bro
+man,location,man cychwyn
+man,spot / blemish,smotyn
+man,spot / blemish,marc
+man,spot / blemish,ploryn
+man,spot / blemish,brycheuyn
+man,spot / blemish,sbotyn
+man,spot / blemish,ysmotyn
+man,spot / blemish,pothell
+man,spot / blemish,toriad
+man,spot / blemish,mefl
+man,spot / blemish,llecyn
+man,spot / blemish,craith
+man,spot / blemish,nam
+man,spot / blemish,dot
+man,spot / blemish,staen
+man,spot / blemish,brycheun
+man,spot / blemish,tosau
+man,spot / blemish,amherffeithrwydd
+man,spot / blemish,afliwiad
+man,spot / blemish,llinorod
+man,spot / blemish,cramen
+man,spot / blemish,difwyno
+man,spot / blemish,croen
+man,spot / blemish,pothelli
+man,spot / blemish,chwydd
+man,spot / blemish,blotyn
+man,spot / blemish,casgliad
+man,spot / blemish,swigen
+man,spot / blemish,anaf
+man,spot / blemish,tosyn
+man,spot / blemish,llinoryn
+diwrnod,day,dydd
+diwrnod,day,cyfnod
+diwrnod,day,undydd
+diwrnod,day,adeg
+diwrnod,day,dwthwn
+diwrnod,day,dyddgwaith
+diwrnod,day,amser
+diwrnod,day,diwrnod
+diwrnod,day,bore
+diwrnod,day,pedair awr ar hugain
+diwrnod,day,nos
+diwrnod,day,deuddydd
+diwrnod,day,diwrnod gwaith
+diwrnod,day,hyd
+diwrnod,day,beunydd
+diwrnod,day,dyddiad
+diwrnod,day,diwrnod agored
+diwrnod,day,oes
+diwrnod,day,eilddydd
+diwrnod,day,dyddio
+diwrnod,day,dyddiol
+diwrnod,day,diwrnod haul
+diwrnod,day,dyddiau
+diwrnod,day,canol dydd
+diwrnod,day,diwrnod hyfforddi
+diwrnod,day,dechrau'r dydd
+diwrnod,day,drannoeth
+diwrnod,day,wythnos
+diwrnod,day,heddiw
+diwrnod,day,diwedd y dydd
+diwrnod,day,24 awr
+rhyw,sex (act),cyfathrach rywiol
+rhyw,sex (act),cysgu
+rhyw,sex (act),perthynas
+rhyw,sex (act),gweithred rywiol
+rhyw,sex (act),rhywiol
+rhyw,sex (act),atgenhedlu
+rhyw,sex (act),caru
+rhyw,sex (act),cyfathrach rhywiol
+rhyw,sex (act),cyfathrach
+rhyw,sex (act),carwr
+rhyw,sex (act),rhywioldeb
+rhyw,sex (act),rhywogaeth
+rhyw,sex (act),undeb
+rhyw,sex (act),godineb
+rhyw,sex (act),serch
+rhyw,sex (act),uniad
+rhyw,sex (act),atgenhedliad
+rhyw,sex (act),chwant
+rhyw,sex (act),cyplu
+rhyw,sex (act),cysylltiad
+rhyw,sex (act),atgynhyrchiad
+rhyw,sex (act),ymgydio
+rhyw,sex (act),epiliad
+rhyw,sex (act),angerdd
+rhyw,sex (act),carennydd
+rhyw,sex (act),rhwymiad
+rhyw,sex (act),canlyn
+rhyw,sex (act),rhyw geneuol
+rhyw,sex (act),agos
+rhyw,sex (act),cariad
+rhyw,sex (act),erotig
+rhyw,sex (act),atyniad rhywiol
+rhyw,"sex (kind, type)",math
+rhyw,"sex (kind, type)",rhywogaeth
+rhyw,"sex (kind, type)",dosbarth
+rhyw,"sex (kind, type)",teip
+rhyw,"sex (kind, type)",categori
+rhyw,"sex (kind, type)",cenedl
+rhyw,"sex (kind, type)",gwrywaidd
+rhyw,"sex (kind, type)",benywaidd
+rhyw,"sex (kind, type)",dosbarth rhywiol
+rhyw,"sex (kind, type)",natur rhywiol
+rhyw,"sex (kind, type)",hiliogaeth
+rhyw,"sex (kind, type)",gradd
+rhyw,"sex (kind, type)",hogyn
+rhyw,"sex (kind, type)",rhywioldeb
+rhyw,"sex (kind, type)",hogan
+rhyw,"sex (kind, type)",llinach rhywiol
+rhyw,"sex (kind, type)",natur
+rhyw,"sex (kind, type)",menyw
+rhyw,"sex (kind, type)",grwp
+rhyw,"sex (kind, type)",hwn
+rhyw,"sex (kind, type)",brîd
+rhyw,"sex (kind, type)",gwryw
+rhyw,"sex (kind, type)",hon
+rhyw,"sex (kind, type)",cromosom
+rhyw,"sex (kind, type)",safon
+rhyw,"sex (kind, type)",hynod
+rhyw,"sex (kind, type)",hil
+gwasanaeth,service,oedfa
+gwasanaeth,service,dyletswydd
+gwasanaeth,service,cymorth
+gwasanaeth,service,cynhaliaeth
+gwasanaeth,service,gwaith
+gwasanaeth,service,cwrdd
+gwasanaeth,service,swydd
+gwasanaeth,service,gwasanaeth meddygol
+gwasanaeth,service,cyfarfod
+gwasanaeth,service,gwasanaeth angladdol
+gwasanaeth,service,help
+gwasanaeth,service,gwasanaeth boreol
+gwasanaeth,service,cymwynas
+gwasanaeth,service,gwasanaeth caled
+gwasanaeth,service,darpariaeth
+gwasanaeth,service,cymanfa
+gwasanaeth,service,serfiad
+gwasanaeth,service,gwasanaethu
+gwasanaeth,service,gwasanaeth crefyddol
+gwasanaeth,service,ymgynnull
+gwasanaeth,service,busnes
+gwasanaeth,service,addoliad cyhoeddus
+gwasanaeth,service,gwasanaeth cyhoeddus
+gwasanaeth,service,pregeth
+gwasanaeth,service,defnydd
+gwasanaeth,service,gweini
+gwasanaeth,service,gwasanaeth cymdeithasol
+gwasanaeth,service,serf
+gwasanaeth,service,cynhorthwy
+gwasanaeth,service,addoliad
+gwasanaeth,service,gwybodaeth
+gwasanaeth,service,lles
+gwasanaeth,service,gwasanaeth darlledu
+gwasanaeth,service,cynulliad
+gwasanaeth,service,gwasanaeth gwladol
+gwasanaeth,service,adnodd
+gwasanaeth,service,gwasanaeth iechyd
+gwasanaeth,service,ufudd-dod
+gwlad,cournty,cenedl
+gwlad,cournty,gwladwriaeth
+gwlad,cournty,tir
+gwlad,cournty,teyrnas
+gwlad,cournty,tiriogaeth
+gwlad,cournty,bro
+gwlad,cournty,cartref
+gwlad,cournty,cefn gwlad
+gwlad,cournty,ardal
+gwlad,cournty,daear
+gwlad,cournty,brodir
+gwlad,cournty,talaith
+gwlad,cournty,cymuned
+gwlad,cournty,gwledig
+gwlad,cournty,pobl
+gwlad,cournty,mamwlad
+gwlad,cournty,gwladaidd
+gwlad,cournty,tud
+gwlad,cournty,gwladgarwch
+gwlad,cournty,hunaniaeth
+gwlad,cournty,sir
+gwlad,cournty,daearyddiaeth
+gwlad,cournty,diwylliant
+gwlad,cournty,cendlaeth
+gwlad,cournty,brenhiniaeth
+gwlad,cournty,tywysoageth
+gwlad,cournty,arglwyddiaeth
+gwlad,cournty,baner
+cyfnod,era,adeg
+cyfnod,era,oes
+cyfnod,era,amser
+cyfnod,era,gorgyfnod
+cyfnod,era,cenhedlaeth
+cyfnod,era,sesiwn
+cyfnod,era,ysbaid o amser
+cyfnod,era,gorffennol
+cyfnod,era,uned o flynyddoedd
+cyfnod,era,sbel
+cyfnod,era,hanes
+cyfnod,era,cyfnod o amser
+cyfnod,era,amser a fu
+cyfnod,era,pryd
+cyfnod,era,blynyddoedd
+cyfnod,era,presennol
+cyfnod,era,cyfnod byr
+cyfnod,era,cyfnod
+cyfnod,era,cylch
+cyfnod,era,epoc
+cyfnod,era,cyfnod hir
+cyfnod,era,misoedd
+cyfnod,era,bywyd
+cyfnod,era,dyfodol
+cyfnod,era,wythnosau
+cyfnod,era,dydd
+cyfnod,era,diwrnodiau
+cyfnod,era,tymor
+bywyd,life,bodolaeth
+bywyd,life,einioes
+bywyd,life,oes
+bywyd,life,byw
+bywyd,life,hoedl
+bywyd,life,amser
+bywyd,life,bod
+bywyd,life,enaid
+bywyd,life,bywiogrwydd
+bywyd,life,calon
+bywyd,life,buchedd
+bywyd,life,cyfnod
+bywyd,life,bodoli
+bywyd,life,cwrs
+bywyd,life,profiad
+bywyd,life,tyfiant
+bywyd,life,dynol
+bywyd,life,hanfod
+bywyd,life,cofiant
+bywyd,life,person
+bywyd,life,marwolaeth
+cig,meat,bwyd
+cig,meat,cnawd
+cig,meat,maeth
+cig,meat,cigach
+cig,meat,newyn
+cig,meat,cigwr
+cig,meat,cig coch
+cig,meat,cyw iâr
+cig,meat,briwgig
+cig,meat,cig a gwaed
+cig,meat,anifail
+cig,meat,cig amrwd
+cig,meat,bywyd
+cig,meat,cig gwyn
+cig,meat,cig oen
+cig,meat,cig berw
+cig,meat,corff
+cig,meat,bwyta
+cig,meat,lluniaeth
+cig,meat,cig bras
+cig,meat,bîff
+cig,meat,anifeiliaid
+cig,meat,porc
+cig,meat,cig byw
+cig,meat,cyhyr
+cig,meat,ymborth
+cig,meat,craidd
+cig,meat,cynhaliaeth
+cig,meat,maethlon
+cig,meat,twrci
+cig,meat,mater
+cig,meat,amrwd
+cig,meat,gwaed
+cig,meat,cig eidion
+cig,meat,coginio
+cig,meat,cig moch
+cig,meat,protein
+cig,meat,cignoeth
+cig,meat,cigog
+nifer,sum,swm
+nifer,sum,llawer
+nifer,sum,cyfanswm
+nifer,sum,rhif
+nifer,sum,maint
+nifer,sum,rhai
+nifer,sum,sawl
+nifer,sum,cynifer
+nifer,sum,digonedd
+nifer,sum,swmp
+nifer,sum,llwyth
+nifer,sum,gwerth
+nifer,sum,lot
+nifer,sum,faint
+nifer,sum,nifer
+nifer,sum,aml
+nifer,sum,rhifo
+nifer,sum,cyfanrif
+nifer,sum,criw
+nifer,sum,lluosog
+nifer,sum,ystadegyn
+nifer,sum,grŵp
+nifer,sum,niferus
+nifer,sum,eithaf
+nifer,sum,ambell
+gwefan,website,tudalen
+gwefan,website,rhwydwaith
+gwefan,website,gwybodaeth
+gwefan,website,rhyngrwyd
+gwefan,website,fforwm
+gwefan,website,tudalen we
+gwefan,website,cronfa data
+gwefan,website,safle wê
+gwefan,website,safle gwe
+gwefan,website,rhyngrhwyd
+gwefan,website,gwe
+gwefan,website,we fyd-eang
+gwefan,website,platfform cymdeithasol
+gwefan,website,gwefannau cymdeithasol
+gwefan,website,dolen
+gwefan,website,gweinydd
+gwefan,website,busnes
+gwefan,website,llwyfan cymdeithasol
+gwefan,website,peiriant chwilio
+gwefan,website,cyfryngau
+gwefan,website,porwr gwe
+gwefan,website,cysylltiad
+gwefan,website,cwmni
+gwefan,website,safle
+gwefan,website,ar-lein
+gwefan,website,cysylltu
+gwefan,website,gwefan bersonol
+gwefan,website,arbenigedd
+gwefan,website,archwilio
+gwefan,website,gwefan busnes
+gwefan,website,gwefan blog
+ystod,range,amrediad
+ystod,range,amrywiaeth
+ystod,range,amrywiad
+ystod,range,cwmpas
+ystod,range,casgliad
+ystod,range,dewis
+ystod,range,sbectrwm
+ystod,range,parhad
+ystod,range,detholiad
+ystod,range,graddfa
+ystod,range,ymestyn
+ystod,range,rhychwant
+ystod,range,arfod
+ystod,range,dewis eang o
+ystod,range,rhes
+ystod,range,cymysgedd
+ystod,range,lled
+ystod,range,mesuro
+ystod,range,ystod gwahanol o
+ystod,range,hyd
+ystod,range,eang
+ystod,range,cymysgedd gwahanol o
+ystod,range,ystod
+ystod,range,band
+ystod,range,cwrs
+ystod,range,cynhwysedd
+ystod,range,cyfnod
+newyddion,news,gwybodaeth
+newyddion,news,cyhoeddiad
+newyddion,news,hanes
+newyddion,news,newydd
+newyddion,news,neges
+newyddion,news,stori
+newyddion,news,gwybodaeth ffres
+newyddion,news,datguddiad
+newyddion,news,ffeithiau
+newyddion,news,newyddiadurwr
+newyddion,news,straeon
+newyddion,news,gwybodaeth annisgwyl
+newyddion,news,hanes diweddar
+newyddion,news,newyddlen
+newyddion,news,stori newydd
+newyddion,news,cyfrif
+newyddion,news,hanesion
+newyddion,news,datganiad
+newyddion,news,adroddiad
+newyddion,news,bwletin
+newyddion,news,hanesion cyfoes
+newyddion,news,dyddiol
+newyddion,news,gwybodaeth ddiweddar
+newyddion,news,gohebydd
+newyddion,news,cyfoes
+newyddion,news,newyddion caled
+newyddion,news,newyddion lleol
+newyddion,news,papur newyddion
+newyddion,news,darlleniad
+newyddion,news,cymuned
+newyddion,news,newyddiaduraeth
+newyddion,news,teledu
+newyddion,news,radio
+newyddion,news,rhaglen
+newyddion,news,gair
+wythnos,week,cyfnod
+wythnos,week,amser
+wythnos,week,wythnosol
+wythnos,week,adeg
+wythnos,week,dyddiau
+wythnos,week,dwywaith yr wythnos
+wythnos,week,dydd sadwrn
+wythnos,week,cyfres o ddiwrnodau
+wythnos,week,cyfnod o saith diwrnod
+wythnos,week,saith niwrnod
+wythnos,week,saith diwrnod
+wythnos,week,penwythnos
+wythnos,week,oes
+wythnos,week,pythefnos
+wythnos,week,achlysur
+wythnos,week,cyfnod o amser
+wythnos,week,dyddiad
+wythnos,week,diwrnodau
+wythnos,week,dydd llun
+wythnos,week,wythnos waith
+wythnos,week,wythnos y dioddefaint
+wythnos,week,gwyliau
+wythnos,week,dydd mawrth
+wythnos,week,wythnos y pasg
+wythnos,week,o wythnos i wythnos
+wythnos,week,dydd mercher
+wythnos,week,noswaith
+wythnos,week,bob wythnos
+wythnos,week,dydd iau
+wythnos,week,o fewn yr wythnos
+wythnos,week,dydd gwener
+teulu,family,llwyth
+teulu,family,perthnasau
+teulu,family,llinach
+teulu,family,gwehelyth
+teulu,family,tylwyth
+teulu,family,perthynas
+teulu,family,rhieni
+teulu,family,gwaedoliaeth
+teulu,family,grwp
+teulu,family,grŵp
+teulu,family,perthynasau
+teulu,family,perthyn
+teulu,family,llinach o bobl
+teulu,family,aelwyd
+teulu,family,tŷ
+teulu,family,cartref
+teulu,family,mam
+teulu,family,pobl sy'n perthyn
+teulu,family,tad
+teulu,family,hil
+teulu,family,adref
+teulu,family,teulu brenhinol
+teulu,family,teulu estynedig
+teulu,family,brodyr
+teulu,family,brawd
+teulu,family,tras
+teulu,family,teulu un rhiant
+teulu,family,ach
+teulu,family,plant
+teulu,family,chwiorydd
+teulu,family,chwaer
+teulu,family,ffrindiau
+teulu,family,teulu yng nghyfraith
+teulu,family,taid a nain
+teulu,family,cyndadau
+teulu,family,uned
+teulu,family,ceraint
+cwmni,company (being together),cwmpeini
+cwmni,company (being together),cyfeillgarwch
+cwmni,company (being together),criw
+cwmni,company (being together),cymdeithas
+cwmni,company (being together),cymuned
+cwmni,company (being together),cysylltiad
+cwmni,company (being together),ffrindiau
+cwmni,company (being together),cymdeithasu
+cwmni,company (being together),parti
+cwmni,company (being together),cwmniaeth
+cwmni,company (being together),cyfeillach
+cwmni,company (being together),cwmni da
+cwmni,company (being together),cwmnïaeth
+cwmni,company (being together),cydymaith
+cwmni,company (being together),cyfeillion
+cwmni,company (being together),cymar
+cwmni,company (being together),mintai
+cwmni,company (being together),cwmni drwg
+cwmni,company (being together),cwmni
+cwmni,company (being together),ffrind
+cwmni,company (being together),casgliad o bobl
+cwmni,company (being together),cwmni cymdeithasol
+cwmni,company (being together),sgwrsio
+cwmni,company (being together),clwb
+cwmni,company (being together),grwp
+cwmni,company (being together),treulio amser
+cwmni,company (being together),llu
+cwmni,company (being together),tîm
+cwmni,company (being together),cylch
+cwmni,company (being together),pobl
+cwmni,company (being together),cyngor
+cwmni,company (being together),corff
+cwmni,company (being together),agosrwydd
+cwmni,company (business),busnes
+cwmni,company (business),gwaith
+cwmni,company (business),masnach
+cwmni,company (business),menter
+cwmni,company (business),sefydliad
+cwmni,company (business),cymdeithas
+cwmni,company (business),cyflogwr
+cwmni,company (business),cwmni teithiol
+cwmni,company (business),gorfforaeth
+cwmni,company (business),corfflu
+cwmni,company (business),safle
+cwmni,company (business),crefft
+cwmni,company (business),cwmni cyd-ddaliannol
+cwmni,company (business),partneriaid
+cwmni,company (business),clwb
+cwmni,company (business),grŵp
+cwmni,company (business),mudiad
+cwmni,company (business),cwmni cydgyfalaf
+cwmni,company (business),criw
+cwmni,company (business),corffolaeth
+cwmni,company (business),corff
+cwmni,company (business),maes
+cwmni,company (business),gwasanaeth
+cwmni,company (business),bywoliaeth
+cwmni,company (business),corfforaeth
+cwmni,company (business),arbenigedd
+cwmni,company (business),cwmni cyfyngedig
+cwmni,company (business),cymuned
+cwmni,company (business),cwmni anghyfyngedig
+cwmni,company (business),corpws
+cwmni,company (business),cwmni cynorthwyol
+cwmni,company (business),cyngor
+cwmni,company (business),asiantaeth
+cwmni,company (business),cwmni canghennol
+meddwl,mind,ymennydd
+meddwl,mind,pen
+meddwl,mind,barn
+meddwl,mind,cred
+meddwl,mind,sylw
+meddwl,mind,meddylfryd
+meddwl,mind,ystyriaeth
+meddwl,mind,safbwynt
+meddwl,mind,meddwl agored
+meddwl,mind,ymwybyddiaeth
+meddwl,mind,coel
+meddwl,mind,doeth
+meddwl,mind,doethineb
+meddwl,mind,meddwl cyfartal
+meddwl,mind,deallusrwydd
+meddwl,mind,dychymyg
+meddwl,mind,bwriad
+meddwl,mind,deall
+meddwl,mind,deallusol
+meddwl,mind,meddwl gwan
+meddwl,mind,bryd
+meddwl,mind,teimlo
+meddwl,mind,trefnu syniadau
+meddwl,mind,gwybodaeth
+meddwl,mind,daliad
+meddwl,mind,rhagdybio
+meddwl,mind,synnwyr
+meddwl,mind,myfyrio
+meddwl,mind,cofio
+meddwl,mind,barnu
+meddwl,mind,adnabyddiaeth
+meddwl,to think,ystyried
+meddwl,to think,barn
+meddwl,to think,tybio
+meddwl,to think,rhagdybio
+meddwl,to think,myfyrio
+meddwl,to think,credu
+meddwl,to think,safbwynt
+meddwl,to think,amcanu
+meddwl,to think,barnu
+meddwl,to think,synfyfyrio
+meddwl,to think,dod i gasgliad
+meddwl,to think,meddyliau
+meddwl,to think,cred
+meddwl,to think,dychmygu
+meddwl,to think,penderfynu
+meddwl,to think,synio
+meddwl,to think,sylweddoli
+meddwl,to think,dod i benderfyniad
+meddwl,to think,breuddwydio
+meddwl,to think,syniad
+meddwl,to think,cael syniad
+meddwl,to think,bryd
+meddwl,to think,coel
+meddwl,to think,disgwyl am
+meddwl,to think,tebygu
+meddwl,to think,awgrymu
+meddwl,to think,golygu
+meddwl,to think,tyb
+meddwl,to think,amgyffred
+meddwl,to think,daliad
+meddwl,to think,bwriadu
+meddwl,to think,deall
+meddwl,to think,cyfleu
+meddwl,to think,teimlo
+pryd,occasion,achlysur
+pryd,occasion,adeg
+pryd,occasion,digwyddiad
+pryd,occasion,dathliad
+pryd,occasion,cyfnod
+pryd,occasion,amser
+pryd,occasion,pwynt
+pryd,occasion,achos
+pryd,occasion,rheswm
+pryd,occasion,amgylchiad
+pryd,occasion,sawl tro
+pryd,occasion,peri
+pryd,occasion,pwrpas
+pryd,occasion,gwaith
+pryd,occasion,sawl gwaith
+pryd,occasion,diwrnod
+pryd,occasion,dathlu
+pryd,occasion,ar adeg o'r fath
+pryd,occasion,galar
+pryd,occasion,profiad
+pryd,occasion,yr adeg honno
+pryd,occasion,parti
+pryd,occasion,bryd hynny
+pryd,occasion,ennyd
+pryd,meal,bwyd
+pryd,meal,cinio
+pryd,meal,brecwast
+pryd,meal,swper
+pryd,meal,bwyta
+pryd,meal,te
+pryd,meal,cynhaliaeth
+pryd,meal,pryd cinio
+pryd,meal,blawd
+pryd,meal,pryd bwyd
+pryd,meal,pryd cyllell a fforc
+pryd,meal,ymborth
+pryd,meal,byrbryd
+pryd,meal,cegin
+pryd,meal,bwrdd
+pryd,meal,cytleri
+pryd,meal,cwrs
+pryd,meal,maeth
+pryd,meal,amser te
+pryd,meal,lluniaeth
+pryd,appearance,golwg
+pryd,appearance,edrychiad
+pryd,appearance,gwedd
+pryd,appearance,ymddangosiad
+pryd,appearance,llun
+pryd,appearance,delwedd
+pryd,appearance,arwedd
+pryd,appearance,wyneb
+pryd,appearance,diwyg
+pryd,appearance,ymddangos
+pryd,appearance,cyflwyniad
+pryd,appearance,eiliw
+pryd,appearance,lliw
+pryd,appearance,ffurf
+pryd,appearance,delw
+arian,money,pres
+arian,money,cyfoeth
+arian,money,cyflog
+arian,money,ceiniog
+arian,money,darnau
+arian,money,incwm
+arian,money,cyfalaf
+arian,money,darn o arian
+arian,money,punt
+arian,money,arian parod
+arian,money,ceiniogau
+arian,money,pres papur
+arian,money,arian anarnewidiol
+arian,money,siec
+arian,money,efydd
+arian,money,arian
+arian,money,tâl
+arian,money,arian gleision
+arian,money,arian papur
+arian,money,taliad
+arian,money,darn
+arian,money,modd
+arian,money,papur
+arian,money,cyfoethog
+arian,money,punoedd
+arian,money,talu
+arian,money,busnes
+arian,money,enillion
+arian,money,cronfa
+arian,money,tlawd
+arian,money,banc
+arian,money,gwerth
+arian,money,bathdy brenhinol
+arian,money,mint brenhinol
+diwedd,the end,terfyn
+diwedd,the end,gorffen
+diwedd,the end,diweddglo
+diwedd,the end,diweddiad
+diwedd,the end,cwblhad
+diwedd,the end,diben
+diwedd,the end,gorffeniad
+diwedd,the end,pen
+diwedd,the end,man gorffen
+diwedd,the end,cwblhau
+diwedd,the end,man darfod
+diwedd,the end,casgliad
+diwedd,the end,pen draw
+diwedd,the end,cyrchfan
+diwedd,the end,canlyniad
+diwedd,the end,rhan olaf
+diwedd,the end,cau
+diwedd,the end,ymddeol
+diwedd,the end,clo
+diwedd,the end,terfyniad
+diwedd,the end,terfynol
+diwedd,the end,marwolaeth
+diwedd,the end,darfod
+diwedd,the end,nod
+diwedd,the end,darfyddiad
+diwedd,the end,tranc
+diwedd,the end,cyflawnaid
+diwedd,the end,tynged
+marwolaeth,death,angau
+marwolaeth,death,tranc
+marwolaeth,death,ymadawiad
+marwolaeth,death,diwedd bywyd
+marwolaeth,death,marw
+marwolaeth,death,diwedd
+marwolaeth,death,angladd
+marwolaeth,death,terfyn oes
+marwolaeth,death,dihenydd
+marwolaeth,death,darfod
+marwolaeth,death,symud ymlaen
+marwolaeth,death,wedi mynd
+marwolaeth,death,ymadawedig
+marwolaeth,death,pasio
+marwolaeth,death,profedigaeth
+marwolaeth,death,dioddefaint
+marwolaeth,death,gorffen
+marwolaeth,death,trallod
+marwolaeth,death,henaint
+marwolaeth,death,dinistr
+marwolaeth,death,profiad o boen
+marwolaeth,death,nefoedd
+marwolaeth,death,du
+marwolaeth,death,cymmanaeth
+marwolaeth,death,colled
+marwolaeth,death,uffern
+marwolaeth,death,cred
+marwolaeth,death,cynhebrwng
+to,roof,cronglwyd
+to,roof,nenfwd
+to,roof,nen
+to,roof,brig
+to,roof,gorchudd
+to,roof,cysgod
+to,roof,lloches
+to,roof,canopi
+to,roof,ty
+to,roof,mochel
+to,roof,to gwastad
+to,roof,tŷ
+to,roof,cysgodi
+to,roof,cysgod ar adeilad
+to,roof,to helm
+to,roof,toi
+to,roof,adeilad
+to,roof,to gwellt
+to,roof,cysgodfa
+to,roof,rhan o adeilad
+to,roof,to cribog
+to,roof,to llechi
+to,roof,haen
+to,roof,cartref
+to,generation,cenhedlaeth
+to,generation,cyfoedion
+to,generation,creadigaeth
+to,generation,pobl
+to,generation,ieuenctid
+to,generation,cyfnod
+to,generation,oes
+to,generation,cenhedliad
+to,generation,llinach
+to,generation,to hŷn
+to,generation,cenedl
+to,generation,to o bobl
+to,generation,yr hen do
+to,generation,generediad
+to,generation,ffurfiant
+to,generation,henoed
+to,generation,y to hŷn
+to,generation,teulu
+to,generation,hunaniaeth
+to,generation,y to iau
+to,generation,teuluoedd
+to,generation,tarddiad
+to,generation,cenhedlu
+to,generation,perthyn
+to,generation,y to ifanc
+to,generation,atgenhedlu
+to,generation,poblogaeth
+to,generation,oed
+to,generation,epiliad
+to,generation,cymdeithas
+to,generation,siliad
+llu,multitude,llawer
+llu,multitude,torf
+llu,multitude,criw
+llu,multitude,haid
+llu,multitude,tyrfa
+llu,multitude,catrawd
+llu,multitude,lliaws
+llu,multitude,lluosogrwydd
+llu,multitude,bagad
+llu,multitude,byddin
+llu,multitude,cwmwl
+llu,multitude,llwyth
+llu,multitude,nifer
+llu,multitude,niferus
+llu,multitude,nifer mawr
+llu,multitude,amryw
+llu,multitude,lleng
+llu,multitude,ystod
+llu,multitude,llu
+llu,multitude,sawl
+llu,multitude,gang
+llu,multitude,myrdd
+llu,multitude,mintai
+llu,multitude,swp
+teledu,television,rhaglen
+teledu,television,fideo
+teledu,television,set deledu
+teledu,television,sgrin
+teledu,television,adloniant
+teledu,television,sianel deledu
+teledu,television,llun
+teledu,television,difyrrwch
+teledu,television,darlledu
+teledu,television,adloniant gweledol a chlywedol
+teledu,television,sgrinio
+teledu,television,rhaglen deledu
+teledu,television,teledydd
+teledu,television,teledu cêbl
+teledu,television,ffilm
+teledu,television,rhaglenni
+teledu,television,gwylio'r teledu
+teledu,television,teledu digidol
+teledu,television,gwylio
+teledu,television,edrych ar y teledu
+teledu,television,drama deledu
+teledu,television,pictiwr
+teledu,television,ffuglen
+teledu,television,cyfryngau
+teledu,television,gwasanaethau ffrydio
+teledu,television,sain
+teledu,television,ffeithiol
+teledu,television,telediad
+teledu,television,derbynnydd
+teledu,television,actorion
+teledu,television,cyflwyno
+aderyn,bird,anifail
+aderyn,bird,edn
+aderyn,bird,hediad
+aderyn,bird,hedfan
+aderyn,bird,aderyn mudlais
+aderyn,bird,adar
+aderyn,bird,fertebrat
+aderyn,bird,natur
+aderyn,bird,ysglyfaeth
+aderyn,bird,aderyn pensidan
+aderyn,bird,brân
+aderyn,bird,fertebra
+aderyn,bird,iâr
+aderyn,bird,ysglyfaethwr
+aderyn,bird,cywion
+aderyn,bird,rhywogaeth
+aderyn,bird,aderyn y frochell
+aderyn,bird,diadell
+aderyn,bird,bwncath
+aderyn,bird,plu
+aderyn,bird,aderyn canu
+aderyn,bird,cyw
+aderyn,bird,nyth
+aderyn,bird,pioden
+aderyn,bird,adain
+aderyn,bird,bilidowcar
+aderyn,bird,aderyn bach y si
+aderyn,bird,nythu
+aderyn,bird,barcut
+aderyn,bird,wŷ
+aderyn,bird,gwylan
+aderyn,bird,ehediad
+bryd,will,ewyllys
+bryd,will,dymuniad
+bryd,will,bwriad
+bryd,will,penderfyniad
+bryd,will,meddwl
+bryd,will,amcan
+bryd,will,bwriadu
+bryd,will,tuedd
+bryd,will,awyddus
+bryd,will,pwrpas
+bryd,will,tyb
+bryd,will,nerth
+bryd,will,diben
+bryd,will,dyfal
+bryd,will,gobeithion
+bryd,will,grym
+bryd,will,awydd
+bryd,will,nod
+bryd,will,dyhead
+bryd,will,angerdd
+bryd,will,ewyllys haearnaidd
+bryd,will,gobeithio
+bryd,will,mynnu
+bryd,will,ewyllys ddurol
+bryd,will,disgyblaeth
+bryd,will,barn
+oedfa,religious meeting,gwasanaeth
+oedfa,religious meeting,cymanfa
+oedfa,religious meeting,cynulliad
+oedfa,religious meeting,cwrdd
+oedfa,religious meeting,cyfarfod
+oedfa,religious meeting,addoliad
+oedfa,religious meeting,cyngres
+oedfa,religious meeting,crefydd
+oedfa,religious meeting,cyfarfod crefyddol
+oedfa,religious meeting,gwasanaeth crefyddol
+oedfa,religious meeting,serfiad
+oedfa,religious meeting,cynulliad crefyddol
+oedfa,religious meeting,gweddi
+oedfa,religious meeting,cynhadledd crefyddol
+oedfa,religious meeting,pregeth
+oedfa,religious meeting,seremoni
+oedfa,religious meeting,crynwyr
+oedfa,religious meeting,darlith
+oedfa,religious meeting,casgliad crefyddol
+oedfa,religious meeting,heddwch
+oedfa,religious meeting,ysbaid
+oedfa,religious meeting,cymun
+oedfa,religious meeting,grwp o bobl
+oedfa,religious meeting,ffydd
+oedfa,religious meeting,boreol weddi
+oedfa,religious meeting,achlysur
+oedfa,religious meeting,harddwch
+oedfa,religious meeting,mass
+oedfa,religious meeting,sefydliad crefyddol
+cyfaill,friend,ffrind
+cyfaill,friend,cydymaith
+cyfaill,friend,cymar
+cyfaill,friend,perthynas
+cyfaill,friend,mêt
+cyfaill,friend,cyfaill
+cyfaill,friend,partner
+cyfaill,friend,anwylyd
+cyfaill,friend,cwmni
+cyfaill,friend,cymwynaswr
+cyfaill,friend,cyfeilles
+cyfaill,friend,cyfoed
+cyfaill,friend,cyd-weithiwr
+cyfaill,friend,ffrind gorau
+cyfaill,friend,ffrind da
+cyfaill,friend,met
+cyfaill,friend,cwmniwr
+cyfaill,friend,brawd
+cyfaill,friend,cyplysu
+cyfaill,friend,cyfeillgarwch
+cyfaill,friend,cyfarwydd
+cyfaill,friend,ymddiriedolaeth
+priodas,marriage,seremoni
+priodas,marriage,uniad
+priodas,marriage,cariad
+priodas,marriage,defod
+priodas,marriage,undeb
+priodas,marriage,cwlwm
+priodas,marriage,ymrwymiad
+priodas,marriage,uniad ffurfiol
+priodas,marriage,cyplu
+priodas,marriage,seromoni
+priodas,marriage,cytundeb
+priodas,marriage,gwasanaeth
+priodas,marriage,priodas aur
+priodas,marriage,cyfuniad
+priodas,marriage,partneriaid
+priodas,marriage,dathliad
+priodas,marriage,addewid
+priodas,marriage,priodas arian
+priodas,marriage,ffrindiau
+priodas,marriage,cydsoddiad
+priodas,marriage,priodas ddeimwnt
+priodas,marriage,perthynas
+priodas,marriage,teulu
+priodas,marriage,uno
+priodas,marriage,priod
+priodas,marriage,traddodiad
+priodas,marriage,rhwymiad
+priodas,marriage,cynghrair
+priodas,marriage,crefyddol
+priodas,marriage,priodas ddirprwyol
+priodas,marriage,priodas gyfunrywiol
+brwydr,battle,rhyfel
+brwydr,battle,gornest
+brwydr,battle,ymladd
+brwydr,battle,gwrthdaro
+brwydr,battle,ymladdfa
+brwydr,battle,cad
+brwydr,battle,gwrthdrawiad
+brwydr,battle,terfysg
+brwydr,battle,cwffio
+brwydr,battle,ymosodiad
+brwydr,battle,ymryson
+brwydr,battle,ffraeo
+brwydr,battle,lladdfa
+brwydr,battle,helynt
+brwydr,battle,trin
+brwydr,battle,trais
+brwydr,battle,anghydfod
+brwydr,battle,ymrafael
+brwydr,battle,rhyfela
+brwydr,battle,anghytundeb
+brwydr,battle,ymgyrch
+brwydr,battle,cyrch
+brwydr,battle,cyflafan
+brwydr,battle,maes
+brwydr,battle,cweryl
+brwydr,battle,gwrthryfel
+brwydr,battle,cystadleuaeth
+brwydr,battle,gwaed
+brwydr,battle,ysgarmes
+pwll,puddle,llyn
+pwll,puddle,twll
+pwll,puddle,dŵr
+pwll,puddle,pydew
+pwll,puddle,ffynnon
+pwll,puddle,pwdel
+pwll,puddle,pwdlac
+pwll,puddle,twll â dŵr ynddo
+pwll,puddle,cronfa ddŵr
+pwll,puddle,afon
+pwll,puddle,pant
+pwll,puddle,corff o ddwr
+pwll,puddle,pwdlo
+pwll,puddle,patsh gwlyb
+pwll,puddle,pwll nofio
+pwll,puddle,llynwen
+pwll,puddle,cronfa
+pwll,puddle,rhwystr
+pwll,puddle,ceubwll
+pwll,puddle,dwr
+pwll,puddle,pwll glo
+pwll,puddle,croniad o ddŵr
+pwll,puddle,casgliad o ddŵr
+pwll,puddle,nofio
+pwll,puddle,twll yn y tir
+pwll,puddle,dwr glaw
+pwll,puddle,hylif
+pwll,puddle,gwlyb
+pwll,puddle,glaw
+banc,bank (river),glan
+banc,bank (river),llethr
+banc,bank (river),gorglawdd
+banc,bank (river),clawdd
+banc,bank (river),ochr
+banc,bank (river),afon
+banc,bank (river),codiad tîr mewn môr
+banc,bank (river),cronfa
+banc,bank (river),torlan
+banc,bank (river),ymyl
+banc,bank (river),bryncyn
+banc,bank (river),ponc
+banc,bank (river),aber
+banc,bank (river),bryncyn mewn môr neu afon
+banc,bank (river),llechwedd
+banc,bank (river),ucheldir mewn môr neu afon
+banc,bank (river),min
+banc,bank (river),nant
+banc,bank (river),traeth
+banc,bank (river),ffynnon
+banc,bank (river),ffridd mewn môr neu afon
+banc,bank (river),codiad tir
+banc,bank (river),twmpath
+banc,bank (river),trum mewn môr neu afon
+banc,bank (river),ystlys
+banc,bank (river),terfyn
+banc,bank (river),llednant
+banc,bank (river),tir sych
+banc,bank (river),tarddiad
+banc,bank (river),twyn
+banc,bank (river),llethr mewn môr neu afon
+banc,bank (river),dyddodiad mewn môr neu afon
+banc,bank (river),bryn
+banc,bank (river),tyle
+banc,bank (river),ochr bryn
+banc,bank (money),arian
+banc,bank (money),pres
+banc,bank (money),ariandy
+banc,bank (money),cronfa
+banc,bank (money),cyfrif
+banc,bank (money),cyfriflen
+banc,bank (money),trysorlys
+banc,bank (money),storfa
+banc,bank (money),balans banc
+banc,bank (money),canolfanc
+banc,bank (money),cronfa arian
+banc,bank (money),stoc
+banc,bank (money),treuliau banc
+banc,bank (money),gorglawdd
+banc,bank (money),cangen banc
+banc,bank (money),cyfoeth
+banc,bank (money),trysorfa
+banc,bank (money),cwmni
+banc,bank (money),twyll bancio
+banc,bank (money),banc canolog
+banc,bank (money),buddiannu
+banc,bank (money),benthyciad banc
+banc,bank (money),banc clirio
+banc,bank (money),benthyciad
+banc,bank (money),llog
+banc,bank (money),sefydliad ariannol
+banc,bank (money),banc masnachol
+banc,bank (money),casgliad
+banc,bank (money),bancwyr
+banc,bank (money),cyfradd banc
+banc,bank (money),banc cydweithredol
+banc,bank (money),dyled
+banc,bank (money),elw
+banc,bank (money),banc cynilo
+banc,bank (money),trethu
+gorfod,obligation,rhwymedigaeth
+gorfod,obligation,gorfodaeth
+gorfod,obligation,rheidrwydd
+gorfod,obligation,cyfrifoldeb
+gorfod,obligation,rhaid
+gorfod,obligation,dyletswydd
+gorfod,obligation,angen
+gorfod,obligation,ymrwymiad
+gorfod,obligation,cytundeb
+gorfod,obligation,anghenraid
+gorfod,obligation,atebolrwydd
+gorfod,obligation,contract
+gorfod,obligation,dodi rhywun i
+gorfod,obligation,dyled
+gorfod,obligation,cymhelliad
+gorfod,obligation,swydd
+gorfod,obligation,gorfod
+gorfod,obligation,baich
+gorfod,obligation,cyfrifodeb
+gorfod,have to do something,rhaid
+gorfod,have to do something,gorfodaeth
+gorfod,have to do something,dyletswydd
+gorfod,have to do something,rheidrwydd
+gorfod,have to do something,rhwymedigaeth
+gorfod,have to do something,angen
+gorfod,have to do something,arddodi
+gorfod,have to do something,anghenraid
+gorfod,have to do something,dyled
+gorfod,have to do something,gorfod
+gorfod,have to do something,angenrheidiol
+gorfod,have to do something,cyfrifoldeb
+gorfod,have to do something,hanfodol
+gorfod,have to do something,gordd
+gorfod,have to do something,bod dan rwymedigaeth
+gorfod,have to do something,cymhelliad
+gorfod,have to do something,rôl
+gorfod,have to do something,ymrwymiad
+gorfod,have to do something,angenrheidrwydd
+gorfod,have to do something,diolchgarwch
+teimlad,feeling,emosiwn
+teimlad,feeling,ymdeimlad
+teimlad,feeling,angerdd
+teimlad,feeling,ymwybyddiaeth
+teimlad,feeling,swmpiad
+teimlad,feeling,blin
+teimlad,feeling,naws
+teimlad,feeling,ymwybodol
+teimlad,feeling,agwedd
+teimlad,feeling,cydymdeimlad
+teimlad,feeling,greddf
+teimlad,feeling,synnwyr
+teimlad,feeling,canfod
+teimlad,feeling,cred
+teimlad,feeling,ymwybod
+teimlad,feeling,meddyliau
+teimlad,feeling,serch
+teimlad,feeling,synhwyriad
+teimlad,feeling,cyffwrdd
+teimlad,feeling,ymateb emosiynol
+teimlad,feeling,adwaith
+teimlad,feeling,natur
+teimlad,feeling,cyflwr meddwl
+teimlad,feeling,cyffyrddiad
+teimlad,feeling,canfyddiad
+teimlad,feeling,angerddol
+teimlad,feeling,hapus
+teimlad,feeling,hydeimledd
+teimlad,feeling,trist
+teimlad,feeling,ymateb
+heol,street,stryd
+heol,street,ffordd
+heol,street,lôn
+heol,street,llwybr
+heol,street,rhodfa
+heol,street,trac
+heol,street,priffordd
+heol,street,mynedfa
+heol,street,lon
+heol,street,pafin
+heol,street,cwrs
+heol,street,tramwyfa
+heol,street,beidr
+heol,street,palmant
+heol,street,heol gefn
+heol,street,heol
+heol,street,modd
+heol,street,heol fawr
+heol,street,traffordd
+heol,street,heol gart
+heol,street,dull
+heol,street,wtra
+heol,street,teithio
+heol,street,troedffordd
+heol,street,pellter
+pennod,chapter,rhan
+pennod,chapter,cyfnod
+pennod,chapter,adran
+pennod,chapter,llyfr
+pennod,chapter,cabidwl
+pennod,chapter,darllen
+pennod,chapter,rhaniad
+pennod,chapter,rhan o lyfr
+pennod,chapter,darn
+pennod,chapter,toriad
+pennod,chapter,segment
+pennod,chapter,cyfnod o oes
+pennod,chapter,testun
+pennod,chapter,rhan o oes
+pennod,chapter,episod
+pennod,chapter,adnod
+pennod,chapter,rhaglen
+pennod,chapter,nofel
+pennod,chapter,pwnc
+pennod,chapter,llenyddiaeth
+pennod,chapter,israniad
+pennod,chapter,dosbarthiad
+pennod,chapter,cyfres
+pennod,chapter,darn o lenyddiaeth
+pennod,chapter,teitl
+pennod,chapter,cyfran
+pennod,chapter,uned
+pennod,chapter,categori
+egwyddor,principle,sail
+egwyddor,principle,sylfaen
+egwyddor,principle,cynsail
+egwyddor,principle,hanfod
+egwyddor,principle,teg
+egwyddor,principle,argyhoeddiad
+egwyddor,principle,cred
+egwyddor,principle,egwyddorol
+egwyddor,principle,moes
+egwyddor,principle,moeseg
+egwyddor,principle,maesau
+egwyddor,principle,gosodiad
+egwyddor,principle,craidd
+egwyddor,principle,athrawiaeth
+egwyddor,principle,uniondeb
+egwyddor,principle,deddf
+egwyddor,principle,cod
+egwyddor,principle,rheswm
+egwyddor,principle,gwir
+egwyddor,principle,elfen
+egwyddor,principle,gwirionedd
+egwyddor,principle,moesoldeb
+egwyddor,principle,rheol
+egwyddor,principle,tybiaeth
+egwyddor,principle,moesol
+egwyddor,principle,dogma
+egwyddor,principle,rhinwedd
+egwyddor,principle,cyfiawn
+egwyddor,principle,gonest
+elusen,charity,cardod
+elusen,charity,haelioni
+elusen,charity,sefydliad
+elusen,charity,rhodd
+elusen,charity,mudiad
+elusen,charity,caredigrwydd
+elusen,charity,lloches
+elusen,charity,achos da
+elusen,charity,mudiad elusennol
+elusen,charity,ail law
+elusen,charity,rhodd i'r tlawd
+elusen,charity,cyfraniad
+elusen,charity,cronfa
+elusen,charity,elusengarwch
+elusen,charity,gweithred dda o drugaredd
+elusen,charity,cyfrannu
+elusen,charity,cymwynasgarwch
+elusen,charity,ariannu
+elusen,charity,menter
+elusen,charity,rhoddi
+elusen,charity,haelfrydig
+elusen,charity,nawdd
+elusen,charity,cymorth
+elusen,charity,lles
+elusen,charity,dyngarwch
+elusen,charity,rhoi
+elusen,charity,tosturi
+elusen,charity,nodi
+elusen,charity,cymwynas
+elusen,charity,cefnogaeth
+elusen,charity,tlodi
+maint,size,swm
+maint,size,lled
+maint,size,hyd
+maint,size,mesur
+maint,size,taldra
+maint,size,uchder
+maint,size,seis
+maint,size,maintioli
+maint,size,swmp
+maint,size,cynnwys
+maint,size,trwch
+maint,size,meintiau
+maint,size,hyd a lled
+maint,size,mesuriad
+maint,size,dimensiwn
+maint,size,calibr
+maint,size,capasiti
+maint,size,mawr
+maint,size,pwysau
+maint,size,healaethrwydd
+maint,size,ehangder
+maint,size,corffolaeth
+maint,size,hir
+maint,size,helaethrwydd
+maint,size,helaethder
+maint,size,amrediad
+maint,size,nifer
+maint,size,cyfran
+maint,size,cyfaint
+maint,size,amlder
+tafarn,pub,tafarndy
+tafarn,pub,gwesty
+tafarn,pub,bar
+tafarn,pub,llety
+tafarn,pub,cymdeithasu
+tafarn,pub,tafarn win
+tafarn,pub,dioty
+tafarn,pub,sefydliad yfed
+tafarn,pub,tŷ tafarn
+tafarn,pub,tafarn goffi
+tafarn,pub,tŷ  tafarn
+tafarn,pub,adeilad
+tafarn,pub,tŷ cyhoeddus
+tafarn,pub,adeilad â thrwydded i werthu diodydd
+tafarn,pub,salwn
+tafarn,pub,bwyty
+tafarn,pub,alcohol
+tafarn,pub,salŵn
+tafarn,pub,lleoliad
+tafarn,pub,lolfa
+tafarn,pub,adeilad sy'n darparu diodydd
+tafarn,pub,diod
+tafarn,pub,bragdy
+tafarn,pub,uniad
+tafarn,pub,lle bwyta
+tafarn,pub,bwyd
+tafarn,pub,yfed
+tafarn,pub,bwyta
+tafarn,pub,tafranwr
+nodwedd,characteristic,priodoledd
+nodwedd,characteristic,personoliaeth
+nodwedd,characteristic,priodwedd
+nodwedd,characteristic,agwedd
+nodwedd,characteristic,unigryw
+nodwedd,characteristic,hynodrwydd
+nodwedd,characteristic,rhinwedd
+nodwedd,characteristic,nodedig
+nodwedd,characteristic,nodwedd
+nodwedd,characteristic,unigol
+nodwedd,characteristic,cymeriad
+nodwedd,characteristic,hynod
+nodwedd,characteristic,arwedd
+nodwedd,characteristic,natur person
+nodwedd,characteristic,neilltuol
+nodwedd,characteristic,hunaniaeth
+nodwedd,characteristic,natur
+nodwedd,characteristic,gwahanredol
+nodwedd,characteristic,arfer
+nodwedd,characteristic,arbennig
+nodwedd,characteristic,gwedd
+nodwedd,characteristic,anian
+nodwedd,characteristic,osgo
+nodwedd,characteristic,personol
+nodwedd,characteristic,stamp
+comisiwn,commission,dirprwyaeth
+comisiwn,commission,gwaith
+comisiwn,commission,bonws
+comisiwn,commission,pwyllgor
+comisiwn,commission,awdurdod
+comisiwn,commission,ffi
+comisiwn,commission,gorfodaeth
+comisiwn,commission,cyfarwyddo
+comisiwn,commission,tâl
+comisiwn,commission,dirprwyo
+comisiwn,commission,gorchwyl
+comisiwn,commission,cyflogi
+comisiwn,commission,hyfforddi
+comisiwn,commission,cenhadaeth
+comisiwn,commission,tasg
+comisiwn,commission,swydd
+comisiwn,commission,cyflogaeth
+comisiwn,commission,neges
+comisiwn,commission,mudiad
+comisiwn,commission,prosiect
+comisiwn,commission,apwyntio
+comisiwn,commission,comisiynu
+comisiwn,commission,sefydliad
+comisiwn,commission,taliad
+comisiwn,commission,anfonog
+comisiwn,commission,penodi
+comisiwn,commission,goruchwylio
+comisiwn,commission,menter
+comisiwn,commission,swyddogaeth
+comisiwn,commission,asiantaeth
+comisiwn,commission,swyddfa
+comisiwn,commission,dyletswydd
+bod,to be,bodoli
+bod,to be,byw
+bod,to be,disgwyliedig
+bod,to be,darpar
+bod,to be,dyfodol
+bod,to be,gorwel
+bod,to be,arfaethedig
+bod,to be,digwydd
+bod,to be,rhagweld
+bod,to be,disgwyl
+bod,to be,ymweld
+bod,to be,cyn bo hir
+bod,to be,ar y gweill
+bod,to be,presennol
+bod,to be,realiti
+bod,to be,dilynol
+bod,to be,anadlu
+bod,to be,fuan
+bod,to be,gwneud
+bod,to be,tybio
+bod,to be,taith
+bod,to be,am fod
+bod,to be,pen draw
+bod,to be,ffynnu
+bod,to be,dyfod
+bod,to be,enaid
+bod,to be,yn fuan
+bod,existence,bodolaeth
+bod,existence,bywyd
+bod,existence,bodoli
+bod,existence,byw
+bod,existence,anadlu
+bod,existence,presenoldeb
+bod,existence,bodoloaeth
+bod,existence,dirfod
+bod,existence,einioes
+bod,existence,hanfod
+bod,existence,realiti
+bod,existence,oes
+bod,existence,goroesi
+bod,existence,dirwedd
+bod,existence,hunaniaeth
+bod,existence,bod dynol
+bod,existence,natur
+bod,existence,enaid
+bod,existence,parhau
+bod,existence,hoedl
+bod,existence,cred
+bod,abode,cartref
+bod,abode,preswylfa
+bod,abode,addef
+bod,abode,annedd
+bod,abode,aelwyd
+bod,abode,cartrefle
+bod,abode,cynefin
+bod,abode,tŷ
+bod,abode,anheddfa
+bod,abode,trigfan
+bod,abode,mangre
+bod,abode,adeilad
+bod,abode,lleoliad
+bod,abode,llety
+bod,abode,tai
+bod,abode,fflat
+bod,abode,bwthyn
+bod,abode,ty
+bod,abode,lloches
+bod,abode,llys
+bod,abode,gweithle
+bod,abode,adref
+bod,abode,cyfannedd
+bod,abode,cysgod
+bod,abode,byngalo
+bod,abode,teulu
+bod,abode,hiraeth
+cael,to have,meddu
+cael,to have,derbyn
+cael,to have,perchnogi
+cael,to have,ennill
+cael,to have,caffael
+cael,to have,ymofyn
+cael,to have,darganfod
+cael,to have,perthyn
+cael,to have,bod â
+cael,to have,perchen
+cael,to have,hawlio
+cael,to have,medru
+cael,to have,piau
+cael,to have,meddu ar
+cael,to have,perchenogi
+cael,to have,meddiannu
+cael,to have,elwa
+cael,to have,cymryd
+cael,to have,cadw
+cael,to have,dod o hyd i
+cael,to have,rheoli
+cael,to have,derbyn rhywbeth
+cael,to have,berchen ar
+cael,to have,gyda
+cael,to have,gallu
+cael,to have,ennill rhywbeth
+cael,to have,cyrraedd
+cael,to have,casglu
+cael,to have,meddiannwr
+cael,to have,bod yn berchen
+cael,to have,sicrhau
+cael,to have,perchennog
+cael,to have,bwrw
+gwneud,to do,gweithredu
+gwneud,to do,cyflawni
+gwneud,to do,cynhyrchu
+gwneud,to do,ymgymryd
+gwneud,to do,dyfeisio
+gwneud,to do,creu
+gwneud,to do,saernio
+gwneud,to do,llunio
+gwneud,to do,cwblhau
+gwneud,to do,cyfansoddi
+gwneud,to do,llwyddo
+gwneud,to do,cyflawni rhywbeth
+gwneud,to do,ffurfio
+gwneud,to do,gwireddu
+gwneud,to do,ennill
+gwneud,to do,cwblhau rhywbeth
+gwneud,to do,paratoi
+gwneud,to do,rhoi mewn grym
+gwneud,to do,gorffen
+gwneud,to do,creu rhywbeth
+gwneud,to do,gwario amser
+gwneud,to do,cynhyrchu rhywbeth
+gwneud,to do,adeiladu
+gwneud,to do,peri
+gwneud,to do,paratoi rhywbeth
+gwneud,to do,ymgymryd â rhywbeth
+gwneud,to do,derbyniad
+gwneud,to do,codi
+gwneud,to do,dad-wneud
+gwneud,to do,achosi
+gwneud,to do,trin
+gwneud,artificial,ffug
+gwneud,artificial,artiffisial
+gwneud,artificial,annaturiol
+gwneud,artificial,anwir
+gwneud,artificial,synthetig
+gwneud,artificial,gosod
+gwneud,artificial,dosbarthiad gwneud
+gwneud,artificial,defnydd
+gwneud,artificial,porthladd gwneud
+gwneud,artificial,deallusrwydd artiffisial
+gwneud,artificial,llwgr
+gwneud,artificial,dannedd gosod
+gwneud,artificial,deunydd
+gwneud,artificial,anwiredd
+gwneud,artificial,gwneuthuredig
+gwneud,artificial,sidan gwneud
+gwneud,artificial,drwg
+gwneud,artificial,gwneuthuriedig
+gwneud,artificial,cyfansoddiadol
+mynd,to go,myned
+mynd,to go,gadael
+mynd,to go,symud
+mynd,to go,rhodio
+mynd,to go,ymadael
+mynd,to go,diflannu
+mynd,to go,mentro
+mynd,to go,darfod
+mynd,to go,crwydro
+mynd,to go,cerdded
+mynd,to go,hedfan
+mynd,to go,mynd i rywle
+mynd,to go,cer
+mynd,to go,mynd i bysgota
+mynd,to go,mynd i siopa
+mynd,to go,rhedeg
+mynd,to go,cychwyn
+mynd,to go,mynd i'r deintydd
+mynd,to go,mynd i'r parti
+mynd,to go,fflio
+mynd,to go,mynd i gyfarfod
+mynd,to go,marw
+mynd,to go,hwylio
+mynd,to go,mynd i gerdded
+mynd,to go,trafeilio
+mynd,to go,bywiogrwydd
+mynd,to go,mynd i redeg
+dod,to come,cyrraedd
+dod,to come,dyfod
+dod,to come,agosau
+dod,to come,treiddio
+dod,to come,nesáu
+dod,to come,nesaf
+dod,to come,cyrraedd rhywle
+dod,to come,symud
+dod,to come,closio
+dod,to come,dilyn
+dod,to come,ymddangos yn rhywle
+dod,to come,cyfagos
+dod,to come,dŵad
+dod,to come,ymddangos
+dod,to come,gerllaw
+dod,to come,dwad
+dod,to come,dod i gasgliad
+dod,to come,agosáu
+dod,to come,dod i dermau â
+dod,to come,dynesu
+dod,to come,agos
+dod,to come,dod i delerau â
+dod,to come,blaenu
+dod,to come,ar y ffordd
+dod,to come,digwydd
+dod,to come,cynyddu
+dod,to come,glanio
+dod,to come,nesau
+dod,to come,teithio
+dod,to come,mynd
+dod,to come,crwydro
+dod,to come,ergyd
+dod,to come,cerdded
+gweld,to see,edrych
+gweld,to see,canfod
+gweld,to see,sylweddoli
+gweld,to see,gweled
+gweld,to see,arsylwi
+gweld,to see,gwylio
+gweld,to see,cip
+gweld,to see,sylwi
+gweld,to see,esgobaeth
+gweld,to see,adnabod
+gweld,to see,chwilio
+gweld,to see,dychmygu
+gweld,to see,amgyffred
+gweld,to see,deall
+gweld,to see,cipolwg
+gweld,to see,dallt
+gweld,to see,craffu
+gweld,to see,trem
+gweld,to see,cadw llygad ar
+gweld,to see,ystyried
+gweld,to see,dirnad
+gweld,to see,syllu
+gweld,to see,golwg
+gweld,to see,sbecian
+gweld,to see,goruchwylio
+gweld,to see,ymchwilio
+gweld,to see,ymweld
+gweld,to see,darganfod
+gweld,to see,sbio
+dweud,to say,siarad
+dweud,to say,mynegi
+dweud,to say,adrodd
+dweud,to say,ynganu
+dweud,to say,datgan
+dweud,to say,llefaru
+dweud,to say,cyfathrebu
+dweud,to say,lleisio
+dweud,to say,traethu
+dweud,to say,sgwrsio
+dweud,to say,gorchymyn
+dweud,to say,ymadrodd
+dweud,to say,sôn
+dweud,to say,honni
+dweud,to say,cyhoeddi
+dweud,to say,hawlio
+dweud,to say,cynanu
+dweud,to say,yngan
+dweud,to say,tybio
+dweud,to say,llais
+dweud,to say,rhoi gwybod
+dweud,to say,crybwyll
+dweud,to say,trafod
+gallu,to be able to,medru
+gallu,to be able to,abl
+gallu,to be able to,galluog
+gallu,to be able to,cymwys
+gallu,to be able to,cael
+gallu,to be able to,ar gael i
+gallu,to be able to,addas
+gallu,to be able to,gwybod
+gallu,to be able to,yn rhydd i
+gallu,to be able to,bod
+gallu,to be able to,ar gael
+gallu,to be able to,bod yn abl
+gallu,to be able to,yn fodlon
+gallu,to be able to,medrus
+gallu,to be able to,o gwmpas
+gallu,to be able to,capasiti
+gallu,to be able to,digonol
+gallu,to be able to,rhydd
+gallu,to be able to,sut
+gallu,to be able to,yn awyddus i
+gallu,to be able to,cyfleus
+gallu,to be able to,yn
+gallu,to be able to,yn hyderus i
+gallu,to be able to,chwannog
+gallu,to be able to,hwylus
+gallu,to be able to,gallu
+gallu,to be able to,priodol
+gallu,to be able to,tueddol
+gallu,ableness,abledd
+gallu,ableness,medr
+gallu,ableness,cymhwysedd
+gallu,ableness,medrusrwydd
+gallu,ableness,abl
+gallu,ableness,medrus
+gallu,ableness,hyfedredd
+gallu,ableness,yn gymwys
+gallu,ableness,arbenigedd
+gallu,ableness,galluog
+gallu,ableness,galluoedd
+gallu,ableness,sgil
+gallu,ableness,atebol
+gallu,ableness,parod
+gallu,ableness,cymhwyster
+gallu,ableness,digonol
+gallu,ableness,gallu
+gallu,ableness,nerth
+gallu,ableness,profiadol
+gallu,ableness,medru
+gallu,ableness,priodoldeb
+gallu,ableness,meddu'r grym
+gallu,ableness,gwedduster
+gallu,ableness,sgiliau
+gallu,ableness,cymwys
+gallu,ableness,dawn
+gallu,ableness,tueddfryd
+gallu,ableness,grym
+gallu,ableness,effeithiolrwydd
+gallu,ableness,addasrwydd
+gallu,ableness,awdurdod
+gallu,ableness,pwer
+gallu,ableness,deheurwydd
+gallu,ableness,galluedd
+gallu,ableness,cryfder
+rhoi,to give,cyfrannu
+rhoi,to give,cyflwyno
+rhoi,to give,rhoddi
+rhoi,to give,darparu
+rhoi,to give,trosglwyddo
+rhoi,to give,rhodd
+rhoi,to give,gosod
+rhoi,to give,offrymu
+rhoi,to give,anrhegu
+rhoi,to give,gwobrwyo
+rhoi,to give,cynnig
+rhoi,to give,dodi
+rhoi,to give,rhannu
+rhoi,to give,danfon
+rhoi,to give,estyn
+rhoi,to give,talu
+rhoi,to give,dosbarthu
+rhoi,to give,caredigrwydd
+rhoi,to give,gadael
+rhoi,to give,cynhyrchu
+rhoi,to give,aberthu
+rhoi,to give,cyfleu
+rhoi,to give,caniatau
+rhoi,to give,lleoli
+rhoi,to give,sbario
+defnyddio,to use,manteisio
+defnyddio,to use,trin
+defnyddio,to use,arfer
+defnyddio,to use,gwneud defnydd o
+defnyddio,to use,llawio
+defnyddio,to use,defnyddio allwedd
+defnyddio,to use,trafod
+defnyddio,to use,gweithio
+defnyddio,to use,defnyddio gliniadur
+defnyddio,to use,cymryd
+defnyddio,to use,defnyddio rhwber
+defnyddio,to use,rheoli
+defnyddio,to use,ymdopi
+defnyddio,to use,buddiol
+defnyddio,to use,gweithredu
+defnyddio,to use,defnyddio cynhwysydd
+defnyddio,to use,llesol
+defnyddio,to use,defnyddio sebon
+defnyddio,to use,trefnu
+defnyddio,to use,gwasanaethu
+defnyddio,to use,hylaw
+defnyddio,to use,deunydd
+defnyddio,to use,ymwneud â
+defnyddio,to use,delio â
+defnyddio,to use,cymorth
+defnyddio,to use,triniaeth
+defnyddio,to use,cyfarwyddo
+defnyddio,to use,gwasanaeth
+defnyddio,to use,paratoi
+defnyddio,to use,ymdrin â
+gwybod,to know,adnabod
+gwybod,to know,deall
+gwybod,to know,amgyffred
+gwybod,to know,sylweddoli
+gwybod,to know,gweld
+gwybod,to know,dirnad
+gwybod,to know,ymwybodol
+gwybod,to know,gwybodus
+gwybod,to know,cydnabod
+gwybod,to know,medru
+gwybod,to know,dysgu
+gwybod,to know,canfod
+gwybod,to know,bod yn gyfarwydd â
+gwybod,to know,dealltwriaeth
+gwybod,to know,profi
+gwybod,to know,ar gof
+gwybod,to know,medrus
+gwybod,to know,sylwi
+gwybod,to know,synied
+gwybod,to know,teimlo
+gwybod,to know,meddu ar wybodaeth
+gwybod,to know,arddel
+siarad,to speak,sgwrsio
+siarad,to speak,llefaru
+siarad,to speak,dweud
+siarad,to speak,cyfathrebu
+siarad,to speak,mynegi
+siarad,to speak,clebran
+siarad,to speak,adrodd
+siarad,to speak,ymddiddan
+siarad,to speak,sgwrs
+siarad,to speak,mwydro
+siarad,to speak,llais
+siarad,to speak,cloncian
+siarad,to speak,traethu
+siarad,to speak,parablu
+siarad,to speak,datgan
+siarad,to speak,swynnwyr
+siarad,to speak,gweiddi
+siarad,to speak,ymgomio
+siarad,to speak,trafod
+siarad,to speak,darlitho
+siarad,to speak,ymadroddi
+siarad,to speak,areithio
+siarad,to speak,ynganu
+siarad,to speak,sibrwd
+siarad,to speak,son
+siarad,to speak,parablus
+siarad,to speak,anerchiad
+siarad,to speak,cyfleu
+siarad,to speak,pregethu
+siarad,to speak,mân siarad
+edrych,to look,gwylio
+edrych,to look,syllu
+edrych,to look,craffu
+edrych,to look,gweld
+edrych,to look,sbio
+edrych,to look,tremu
+edrych,to look,llygadrythu
+edrych,to look,cipolwg
+edrych,to look,bwrw golwg
+edrych,to look,llygadu
+edrych,to look,archwilio
+edrych,to look,golwg
+edrych,to look,bwrw golwg ar
+edrych,to look,sylwi
+edrych,to look,tremio
+edrych,to look,disgwyl
+edrych,to look,ysbio
+edrych,to look,edmygu
+edrych,to look,sylweddoli
+edrych,to look,trem
+edrych,to look,edrychiad
+edrych,to look,wynebu
+edrych,to look,yli
+edrych,to look,ceisio gweld
+edrych,to look,defnyddio'r llygaid
+edrych,to look,ymddangos
+gweithio,to work,llafurio
+gweithio,to work,gweithredu
+gweithio,to work,labro
+gweithio,to work,ymdrechu
+gweithio,to work,gwneud gwaith
+gweithio,to work,gorchwyl
+gweithio,to work,gweithio'n effeithiol
+gweithio,to work,cyflogedig
+gweithio,to work,dyletswydd
+gweithio,to work,tasg
+gweithio,to work,gwneud
+gweithio,to work,gweithio'n effeithlon
+gweithio,to work,gwasanaethu
+gweithio,to work,cyfiawnhau
+gweithio,to work,masnach
+gweithio,to work,gweithgaredd
+gweithio,to work,cydweithio
+gweithio,to work,dyletswyddau
+gweithio,to work,rheoli
+gweithio,to work,gweithiwr
+gweithio,to work,dygnu arni
+gweithio,to work,diwydiant
+gweithio,to work,cynhyrchu
+gweithio,to work,ymdrech
+gweithio,to work,asesiad
+gweithio,to work,swyddi
+gweithio,to work,gweithle
+gweithio,to work,rhedeg
+gweithio,to work,llwyddo
+gweithio,to work,gweithiwr cyflogedig
+gweithio,to work,rhwymedigaeth
+gweithio,to work,ymlafnio
+gweithio,to work,perfformiad
+codi,to raise,dyrchafu
+codi,to raise,cynyddu
+codi,to raise,magu
+codi,to raise,adeiladu
+codi,to raise,esgyn
+codi,to raise,aflonyddu
+codi,to raise,cynhyrchu
+codi,to raise,codi aeliau
+codi,to raise,hel
+codi,to raise,meithrin
+codi,to raise,achosi
+codi,to raise,codi calon
+codi,to raise,atgyfodi
+codi,to raise,chwyddo
+codi,to raise,creu
+codi,to raise,codi ysbryd
+codi,to raise,deffro
+codi,to raise,codiad
+codi,to raise,tyfu
+codi,to raise,dringo
+codi,to raise,codi hwyliau
+codi,to raise,gwneud
+codi,to raise,codi
+codi,to raise,codi bocs
+codi,to raise,neidio
+codi,to raise,tarddu
+codi,to raise,cyfodi
+codi,to raise,casglu
+codi,to raise,cynhyrfu
+codi,to raise,cwyd
+dysgu,to learn,astudio
+dysgu,to learn,addysgu
+dysgu,to learn,meistroli
+dysgu,to learn,hyfforddi
+dysgu,to learn,deall
+dysgu,to learn,myfyrio
+dysgu,to learn,llyfrau
+dysgu,to learn,ymarfer
+dysgu,to learn,darganfod
+dysgu,to learn,dod i wybod
+dysgu,to learn,dod i ddeall
+dysgu,to learn,datrys
+dysgu,to learn,derbyn gwybodaeth
+dysgu,to learn,diwyllio
+dysgu,to learn,hyfforddiant
+dysgu,to learn,meistrioli
+dysgu,to learn,ymroi i ymarfer
+dysgu,to learn,amgyffred
+dysgu,to learn,rhoi addysg
+dysgu,to learn,sylweddoli
+dysgu,to learn,cymathu
+dysgu,to learn,dod yn fedrus
+dysgu,to learn,rheoli
+dysgu,to learn,ymgyfarwyddo
+dysgu,to learn,meithrin
+dysgu,to learn,gwybodaeth
+dysgu,to learn,cyfarwyddo
+dysgu,to learn,gwaith
+dysgu,to learn,ennill gwybodaeth
+dysgu,to learn,gwybod
+dysgu,to learn,tasg
+dysgu,to learn,adolygu
+dysgu,to learn,ysgol
+gofyn,to ask,cwestiynu
+gofyn,to ask,holi
+gofyn,to ask,ymholi
+gofyn,to ask,herio
+gofyn,to ask,erchi
+gofyn,to ask,ymofyn
+gofyn,to ask,galw
+gofyn,to ask,amau
+gofyn,to ask,gofyniad
+gofyn,to ask,ceisio
+gofyn,to ask,cais
+gofyn,to ask,bwrw amheuaeth
+gofyn,to ask,ymbil
+gofyn,to ask,sialensio
+gofyn,to ask,ymorol
+gofyn,to ask,ansicr
+gofyn,to ask,ymchwilio
+gofyn,to ask,ymgynhori
+gofyn,to ask,ansicrwydd
+gofyn,to ask,dymuno
+gofyn,to ask,gwahodd
+gofyn,to ask,erfyn
+gofyn,to ask,chwilfrydedd
+gofyn,to ask,apelio
+gofyn,to ask,croesholi
+gofyn,to ask,cwestiynnu
+gofyn,to ask,mynnu
+gofyn,to ask,ymgais
+gofyn,a request,cais
+gofyn,a request,erfyn
+gofyn,a request,galw
+gofyn,a request,ceisio
+gofyn,a request,deisyfiad
+gofyn,a request,ymbil
+gofyn,a request,apelio
+gofyn,a request,ymholiad
+gofyn,a request,appelio
+gofyn,a request,gofyn am rywbeth
+gofyn,a request,dymuniad
+gofyn,a request,dymuno
+gofyn,a request,erfyn ar rywun am rywbeth
+gofyn,a request,galw am
+gofyn,a request,galw am rywbeth
+gofyn,a request,gwahoddiad
+gofyn,a request,ymgais
+gofyn,a request,deisebu
+gofyn,a request,pleidio
+gofyn,a request,awydd
+gofyn,a request,apêl
+gofyn,a request,gofyniad
+gofyn,a request,gofyn caniatâd
+gofyn,a request,gorchymyn
+gofyn,a request,eiriol
+gofyn,a request,angen
+gofyn,a request,eisiau
+gofyn,a request,prinder
+gofyn,a request,gwahodd
+gofyn,a request,arch
+gofyn,a request,archeb
+byw,to live,bodoli
+byw,to live,preswylio
+byw,to live,bod
+byw,to live,ymgartrefu
+byw,to live,anadlu
+byw,to live,oesi
+byw,to live,trigo
+byw,to live,bywyd
+byw,to live,trigiannu
+byw,to live,bodolaeth
+byw,to live,cyfanheddu
+byw,to live,hoedl
+byw,to live,heneiddio
+byw,to live,einioes
+byw,to live,goroesi
+byw,to live,parhau
+byw,to live,goddef
+byw,to live,genedigaeth
+byw,to live,ymsefydlu
+byw,to live,aros
+byw,to live,cartrefu
+byw,to live,oes
+byw,to live,egni
+byw,lively,bywiog
+byw,lively,byrlymus
+byw,lively,heini
+byw,lively,sionc
+byw,lively,egniol
+byw,lively,siriol
+byw,lively,ysbrydol
+byw,lively,hoenus
+byw,lively,gwyllt
+byw,lively,nwyfus
+byw,lively,chwareus
+byw,lively,bywiol
+byw,lively,diddan
+byw,lively,hwyliog
+byw,lively,difyrrus
+byw,lively,chwim
+byw,lively,egnïol
+byw,lively,ysbrydiol
+byw,lively,gwisgi
+byw,lively,llawen
+byw,lively,afieithus
+byw,lively,ystwyth
+byw,lively,llon
+byw,lively,hynawf
+byw,lively,hoyw
+byw,lively,ffit
+byw,lively,diddorol
+byw,lively,actif
+darllen,to read,dehongli
+darllen,to read,deall
+darllen,to read,astudio
+darllen,to read,edrych
+darllen,to read,llygaid
+darllen,to read,darllen nodiadau
+darllen,to read,cyfieithu
+darllen,to read,prawfddarllen
+darllen,to read,amgyffred
+darllen,to read,dysgu
+darllen,to read,diffinio
+darllen,to read,sbio
+darllen,to read,esbonio
+darllen,to read,sganio
+darllen,to read,arsylwi
+darllen,to read,adnabod
+darllen,to read,darllen llyfr
+darllen,to read,gwybod
+darllen,to read,scanio
+darllen,to read,archwilio
+darllen,to read,derbyn gwybodaeth
+darllen,to read,dadansoddi
+darllen,to read,darllen testun
+darllen,to read,darllen yn uchel
+darllen,to read,darllenadwy
+darllen,to read,darllen arwydd
+darllen,to read,cyfeirio
+darllen,to read,trosi
+darllen,to read,gweld
+darllen,to read,darllen erthygl
+darllen,to read,cof
+darllen,to read,darllen nofel
+darllen,to read,cyfathrebu
+darllen,to read,geiriau
+darllen,to read,darllen cyfarwyddiadau
+cofio,to remember,atgofio
+cofio,to remember,meddwl
+cofio,to remember,dwyn i gof
+cofio,to remember,atgoffa
+cofio,to remember,ystyried
+cofio,to remember,coffau
+cofio,to remember,adnabod
+cofio,to remember,cadw mewn cof
+cofio,to remember,galw i gof
+cofio,to remember,dathlu
+cofio,to remember,gwybod
+cofio,to remember,atgofion
+cofio,to remember,cof
+cofio,to remember,gorffennol
+cofio,to remember,dysgu
+cofio,to remember,ail-fyw
+cofio,to remember,bod ar gof
+cofio,to remember,edrych yn ol
+cofio,to remember,meistroli
+cofio,to remember,colli
+cofio,to remember,crybwyll
+dal,to catch,gafael
+dal,to catch,cydio
+dal,to catch,bachu
+dal,to catch,maglu
+dal,to catch,goddef
+dal,to catch,dalfa
+dal,to catch,hel
+dal,to catch,ymateb synhwyrol
+dal,to catch,cymryd
+dal,to catch,cadw
+dal,to catch,cipio
+dal,to catch,helfa
+dal,to catch,crafangu
+dal,to catch,corlannu
+dal,to catch,glynu
+dal,to catch,arestio
+dal,to catch,dala
+dal,to catch,gwasgu
+dal,to catch,trapio
+dal,to catch,ymaflyd
+dal,to catch,dal annwyd
+dal,to catch,cynnal
+dal,to catch,mynd a
+dal,to catch,anhawster
+dal,to catch,clicied
+dal,to catch,dal bws
+dal,to catch,daliwr
+dal,to catch,goddiweddyd
+dal,to catch,dilyn
+clywed,to hear,gwrando
+clywed,to hear,cipglywed
+clywed,to hear,clustfeinio
+clywed,to hear,swn
+clywed,to hear,synhwyro
+clywed,to hear,sylw
+clywed,to hear,defnyddio'r glust
+clywed,to hear,profi
+clywed,to hear,clywed sain
+clywed,to hear,darganfod
+clywed,to hear,amgyffred
+clywed,to hear,camglywed
+clywed,to hear,clywed cerddoriaeth
+clywed,to hear,dysgu
+clywed,to hear,siarad
+clywed,to hear,digwydd clywed
+clywed,to hear,deall
+clywed,to hear,arogl
+clywed,to hear,clywed ochenaid
+clywed,to hear,canolbwyntio
+clywed,to hear,difa
+clywed,to hear,clywed cyhoeddiad
+clywed,to hear,swynnwyr
+clywed,to hear,trafod
+clywed,to hear,clywed neges
+clywed,to hear,clywed blas
+clywed,to hear,recordio
+clywed,to hear,sylweddoli
+clywed,to hear,ymglywed
+clywed,to hear,clywed arogl
+clywed,to hear,clustiau
+clywed,to hear,clust
+cymryd,to take,cipio
+cymryd,to take,dwyn
+cymryd,to take,derbyn
+cymryd,to take,bachu
+cymryd,to take,mynd â
+cymryd,to take,cael
+cymryd,to take,meddiannu
+cymryd,to take,cymryd yn ganiataol
+cymryd,to take,gafael
+cymryd,to take,cwyd
+cymryd,to take,mynd
+cymryd,to take,dilyn
+cymryd,to take,casglu
+cymryd,to take,cymryd amser
+cymryd,to take,benthyg
+cymryd,to take,pocedu
+cymryd,to take,tybio
+cymryd,to take,cymryd anadl
+cymryd,to take,dal
+cymryd,to take,cymryd at galon
+cymryd,to take,torri
+cymryd,to take,dychwelyd
+cymryd,to take,mynd a
+cymryd,to take,perchnogi
+cymryd,to take,meddu
+cymryd,to take,perchenogi
+cymryd,to take,ffilmio
+digwydd,to happen,damweinio
+digwydd,to happen,darfod
+digwydd,to happen,ymddangos
+digwydd,to happen,digwyddiad
+digwydd,to happen,hapio
+digwydd,to happen,materoli
+digwydd,to happen,dilyn
+digwydd,to happen,taro
+digwydd,to happen,canlyniad
+digwydd,to happen,canlyniad rhywbeth
+digwydd,to happen,datblygu
+digwydd,to happen,deillio
+digwydd,to happen,codi
+digwydd,to happen,materioli
+digwydd,to happen,pasio
+digwydd,to happen,achos
+digwydd,to happen,ffawd
+digwydd,to happen,gweithred
+digwydd,to happen,cynnal
+digwydd,to happen,tro
+digwydd,to happen,effaith
+digwydd,to happen,trydarthu
+digwydd,to happen,siawns
+digwydd,a chance,siawns
+digwydd,a chance,cyfle
+digwydd,a chance,hap
+digwydd,a chance,damwain
+digwydd,a chance,posibilrwydd
+digwydd,a chance,agoriad
+digwydd,a chance,ffawdd
+digwydd,a chance,tebygolrwydd
+digwydd,a chance,ar hap
+digwydd,a chance,cynnig
+digwydd,a chance,tebgrwydd
+digwydd,a chance,hapio
+digwydd,a chance,mentro
+digwydd,a chance,agoriad drws
+digwydd,a chance,rhagolwg
+digwydd,a chance,achlysurol
+digwydd,a chance,annisgwyl
+digwydd,a chance,lwc
+digwydd,a chance,digwydd bod
+digwydd,a chance,gobaith
+digwydd,a chance,ffawd
+digwydd,a chance,anlwc
+digwydd,a chance,tynged
+creu,to create,cynhyrchu
+creu,to create,gwneud
+creu,to create,adeiladu
+creu,to create,llunio
+creu,to create,cyfansoddi
+creu,to create,dyfeisio
+creu,to create,dylunio
+creu,to create,cynllunio
+creu,to create,sefydlu
+creu,to create,artistig
+creu,to create,rhoi
+creu,to create,cenhedlu
+creu,to create,achosi
+creu,to create,ffurfio
+creu,to create,saernïo
+creu,to create,cyflwyno
+creu,to create,gweithgynhyrchu
+creu,to create,darganfod
+creu,to create,saernio
+creu,to create,cwyd
+creu,to create,peri
+creu,to create,dychymyg
+creu,to create,tyfu
+newid,to change,cyfnewid
+newid,to change,amnewid
+newid,to change,addasu
+newid,to change,altro
+newid,to change,gweddnewid
+newid,to change,trosi
+newid,to change,amrywio
+newid,to change,cymhwyso
+newid,to change,newid pwnc
+newid,to change,adolygu
+newid,to change,trawsnewid
+newid,to change,newid testun
+newid,to change,adnewid
+newid,to change,newid stori
+newid,to change,newid dilledyn
+newid,to change,datblygu
+newid,to change,newid esgidiau
+newid,to change,symudiad
+newid,to change,gwahaniaethu
+newid,to change,gwahanol
+newid,to change,ailfeddwl
+newid,to change,cyfaddasu
+newid,to change,amrywiol
+newid,to change,troi
+newid,to change,amrywiad
+newid,to change,chwyldro
+newid,to change,tro
+newid,to change,troi'n wahanol
+newid,a change,gwahaniaeth
+newid,a change,addasiad
+newid,a change,amrywiad
+newid,a change,addasu
+newid,a change,trawsnewid
+newid,a change,cyfnewid
+newid,a change,newidiad
+newid,a change,chwyldro
+newid,a change,gweddnewidiad
+newid,a change,arallgyfeirio
+newid,a change,gwahanol
+newid,a change,cymhwysiad
+newid,a change,datblygu
+newid,a change,diwygiad
+newid,a change,gweddnewid
+newid,a change,cyfnewidiad
+newid,a change,amrywio
+newid,a change,trawsffurfiad
+newid,a change,altrad
+newid,a change,adolygiad
+newid,a change,adnewid
+newid,a change,cymhwyso
+newid,a change,gwneud gwahaniaeth
+newid,a change,amnewid
+newid,a change,adolygu
+newid,a change,trawsnewidiad
+newid,a change,tro
+newid,a change,tröedigaeth
+gadael,to leave,mynd
+gadael,to leave,ymadael
+gadael,to leave,symud
+gadael,to leave,encilio
+gadael,to leave,ffarwelio
+gadael,to leave,ffoi
+gadael,to leave,ymddeol
+gadael,to leave,diflannu
+gadael,to leave,dianc
+gadael,to leave,denig
+gadael,to leave,afiaith
+gadael,to leave,codi pac
+gadael,to leave,cymynrodd
+gadael,to leave,hedfan y nyth
+gadael,to leave,cefnu
+gadael,to leave,cymynnu
+gadael,to leave,cychwyn
+gadael,to leave,crwydro
+gadael,to leave,hedfan
+gadael,to leave,gwyliau
+gadael,to leave,cefnu ar
+gadael,to leave,darfod
+gadael,to leave,caniatad
+gadael,to leave,mynd ymaith
+gadael,to leave,diardddel
+cadw,to keep,arbed
+cadw,to keep,cynnal
+cadw,to keep,dal
+cadw,to keep,pocedu
+cadw,to keep,cael
+cadw,to keep,storio
+cadw,to keep,gwarchod
+cadw,to keep,casglu
+cadw,to keep,derbyn
+cadw,to keep,gorthwr
+cadw,to keep,cynilo
+cadw,to keep,gwrarchod
+cadw,to keep,cario
+cadw,to keep,safio
+cadw,to keep,cadw rheol
+cadw,to keep,rheoli
+cadw,to keep,diogelu
+cadw,to keep,cadw addewid
+cadw,to keep,rhoi
+cadw,to keep,achub
+cadw,to keep,cadw at draddodiad
+cadw,to keep,celcio
+cadw,to keep,meddiannu
+cadw,to keep,rhoi o'r neilltu
+cadw,to keep,amddiffyn
+cadw,to keep,rhoi o'r golwg
+dangos,to show,arddangos
+dangos,to show,amlygu
+dangos,to show,datguddio
+dangos,to show,cyflwyno
+dangos,to show,cyfleu
+dangos,to show,mynegi
+dangos,to show,datgelu
+dangos,to show,adlewyrchu
+dangos,to show,dysgu
+dangos,to show,dadlennu
+dangos,to show,dadorchuddio
+dangos,to show,dangosiad
+dangos,to show,esbonio
+dangos,to show,egluro
+dangos,to show,perfformio
+dangos,to show,cynrychioli
+dangos,to show,sefydlu
+dangos,to show,hysbysu
+dangos,to show,arwain
+dangos,to show,gwneud yn hysbys
+dangos,to show,gwneud yn amlwg
+dangos,to show,sioe
+cynnal,to maintain,cadw
+cynnal,to maintain,arofalu
+cynnal,to maintain,amddiffyn
+cynnal,to maintain,haeru
+cynnal,to maintain,cefnogi
+cynnal,to maintain,dal
+cynnal,to maintain,ategu
+cynnal,to maintain,gofalu
+cynnal,to maintain,cadarnhau
+cynnal,to maintain,gofalu am
+cynnal,to maintain,rheoli
+cynnal,to maintain,meithrin
+cynnal,to maintain,trwsio
+cynnal,to maintain,atgyfnerthu
+cynnal,to maintain,gwarchod
+cynnal,to maintain,cyfnerthu
+cynnal,to maintain,parhad
+cynnal,to maintain,parhau
+cynnal,to maintain,magu
+cynnal,to maintain,achub
+cynnal,to maintain,gwrachod
+cynnal,to maintain,honni
+cynnal,to maintain,atgyweirio
+cynnal,to maintain,diogelu
+cynnal,to maintain,maethu
+cynnal,to maintain,ennyn
+credu,to believe,coelio
+credu,to believe,meddwl
+credu,to believe,tybio
+credu,to believe,hyderu
+credu,to believe,dychmygu
+credu,to believe,ymddiried
+credu,to believe,cred
+credu,to believe,gobeithio
+credu,to believe,teimlo
+credu,to believe,disgwyl
+credu,to believe,barn
+credu,to believe,ffyddiog
+credu,to believe,angerddol
+credu,to believe,ystyried
+credu,to believe,rhagdybio
+credu,to believe,seilio
+credu,to believe,seilio ffydd ar
+credu,to believe,deall
+credu,to believe,cymryd
+credu,to believe,dyfalu
+credu,to believe,selio ffydd ar
+credu,to believe,cydnabod
+dilyn,to follow,olynu
+dilyn,to follow,canlyn
+dilyn,to follow,mynd ar ôl
+dilyn,to follow,dynwared
+dilyn,to follow,digwydd o ganlyniad
+dilyn,to follow,dilyn trywydd
+dilyn,to follow,deall
+dilyn,to follow,olrhain
+dilyn,to follow,dilyn galwedigaeth
+dilyn,to follow,copio
+dilyn,to follow,gwybod
+dilyn,to follow,glynu
+dilyn,to follow,ymlynu
+dilyn,to follow,copïo
+dilyn,to follow,ufuddhau
+dilyn,to follow,efelychu
+dilyn,to follow,dilyn gwirionedd
+dilyn,to follow,cydymffurfio
+dilyn,to follow,erlid
+dilyn,to follow,mynd gyda
+dilyn,to follow,cadw
+dilyn,to follow,uffuddhau
+dilyn,to follow,dilyn cyfraith
+dilyn,to follow,cadw at
+dilyn,to follow,dilyn crefft
+dilyn,to follow,gwneud copi
+dilyn,to follow,cyfeilio
+dilyn,to follow,ymlid
+dilyn,to follow,cyddeithio
+dilyn,to follow,mynd
+dilyn,to follow,mynd ar drywydd
+dilyn,to follow,dilyn achos
+dilyn,to follow,bod yn ufudd
+dilyn,to follow,helfa
+dilyn,to follow,cwrsio
+dilyn,to follow,hela
+dilyn,to follow,dilynwr
+derbyn,to accept,cymryd
+derbyn,to accept,croesawu
+derbyn,to accept,cytuno
+derbyn,to accept,dygymod
+derbyn,to accept,arddel
+derbyn,to accept,cydnabod
+derbyn,to accept,cael
+derbyn,to accept,ennill
+derbyn,to accept,goddef
+derbyn,to accept,cydnabyddiaeth
+derbyn,to accept,bodloni
+derbyn,to accept,crosawu
+derbyn,to accept,cymeradwyo
+derbyn,to accept,ildio
+derbyn,to accept,cydsynio
+derbyn,to accept,dod i delerau â
+derbyn,to accept,addef
+derbyn,to accept,cyfaddef
+derbyn,to accept,caniatau
+derbyn,to accept,ymgymryd
+derbyn,to accept,cyfarch
+derbyn,to accept,cyffesu
+derbyn,to accept,dod i dderbyn
+derbyn,to accept,croeso
+derbyn,to accept,coelio
+derbyn,to accept,caffael
+derbyn,to accept,cymryd yn ganiataol
+eisiau,to want,dymuno
+eisiau,to want,angen
+eisiau,to want,awydd
+eisiau,to want,chwant
+eisiau,to want,awchu
+eisiau,to want,isio
+eisiau,to want,awydd i
+eisiau,to want,cais
+eisiau,to want,ymofyn
+eisiau,to want,efryn
+eisiau,to want,llwgu
+eisiau,to want,prinder
+eisiau,to want,ysfa i
+eisiau,to want,blysio
+eisiau,to want,dymuno cael
+eisiau,to want,eisiau gwaith
+eisiau,to want,hiraethu
+eisiau,to want,eisiau bwyd
+eisiau,to want,crefu
+eisiau,to want,gobeithio
+eisiau,to want,gofyn
+eisiau,to want,eisiau diod
+eisiau,to want,hiraeth
+eisiau,to want,ffansio
+eisiau,to want,tlodi
+eisiau,to want,amddifadedd
+eisiau,to want,absenoldeb
+eisiau,to want,newyn
+teimlo,to feel,cyffwrdd
+teimlo,to feel,profi
+teimlo,to feel,synhwyro
+teimlo,to feel,naws
+teimlo,to feel,swmpo
+teimlo,to feel,byseddu
+teimlo,to feel,dideimlad
+teimlo,to feel,dan deimlad
+teimlo,to feel,emosiynau
+teimlo,to feel,teimlad
+teimlo,to feel,teimlo emosiwn
+teimlo,to feel,ymdeimlo
+teimlo,to feel,defnyddio emosion
+teimlo,to feel,synhwyro rhywbeth
+teimlo,to feel,ymdeimlad
+teimlo,to feel,meddyliau
+teimlo,to feel,dal
+teimlo,to feel,teimlo naws
+teimlo,to feel,trin
+teimlo,to feel,teimlo awyrgylch
+teimlo,to feel,credu
+teimlo,to feel,swynnwyr
+teimlo,to feel,arwa
+teimlo,to feel,ymgyfarwyddo
+teimlo,to feel,meddwl
+teimlo,to feel,defnyddio emosiwn
+teimlo,to feel,emosiwn
+teimlo,to feel,awyrgylch
+teimlo,to feel,dandeimlad
+teimlo,to feel,bodio
+teimlo,to feel,dangos empathi
+teimlo,to feel,canfod
+teimlo,to feel,hapus
+teimlo,to feel,dioddef
+teimlo,to feel,trist
+teimlo,to feel,bywyd
+teimlo,to feel,ymbalfalu
+teimlo,to feel,blin
+tynnu,to pull,llusgo
+tynnu,to pull,atynnu
+tynnu,to pull,denu
+tynnu,to pull,bachu
+tynnu,to pull,tynnu cyhyr
+tynnu,to pull,cipio
+tynnu,to pull,plycio
+tynnu,to pull,halio
+tynnu,to pull,tynnu rhaff
+tynnu,to pull,symud
+tynnu,to pull,hudo
+tynnu,to pull,tyniad
+tynnu,to pull,cael gwared
+tynnu,to pull,tynnu rhwyf
+tynnu,to pull,tynfa
+tynnu,to pull,rhwygo
+tynnu,to pull,casglu
+tynnu,to pull,cludo
+tynnu,to pull,dylanwad
+troi,to turn,trosi
+troi,to turn,troelli
+troi,to turn,newid
+troi,to turn,cylchdroi
+troi,to turn,symud
+troi,to turn,styrbio
+troi,to turn,cylch
+troi,to turn,troi allwedd
+troi,to turn,dymchwelyd
+troi,to turn,chwyrlïo
+troi,to turn,troi tudalen
+troi,to turn,amgylchu
+troi,to turn,rholio
+troi,to turn,troi drosodd
+troi,to turn,ongli
+troi,to turn,diflasu
+troi,to turn,tro
+troi,to turn,troi cornel
+troi,to turn,colynnu
+troi,to turn,troi golau
+troi,to turn,aredig
+troi,to turn,cyfeiriad
+troi,to turn,crwydro
+troi,to turn,troad
+troi,to turn,chwyldroi
+troi,to turn,symudiad
+troi,to turn,cymysgu
+troi,to turn,newid cyfeiriad
+troi,to turn,treiglo
+troi,to turn,rownd
+troi,to turn,cromlin
+troi,to turn,gweithred
+troi,to turn,cyfieithu
+troi,to turn,gweithgaredd
+cyrraedd,to arrive,dod
+cyrraedd,to arrive,glanio
+cyrraedd,to arrive,ymddangos
+cyrraedd,to arrive,dyfod
+cyrraedd,to arrive,cyrraedd adref
+cyrraedd,to arrive,arddangos
+cyrraedd,to arrive,cyrraedd y gweithle
+cyrraedd,to arrive,troi fyny
+cyrraedd,to arrive,dŵad
+cyrraedd,to arrive,cyrraedd y dref
+cyrraedd,to arrive,ymestyn
+cyrraedd,to arrive,agosau
+cyrraedd,to arrive,agosáu
+cyrraedd,to arrive,ymweld
+cyrraedd,to arrive,ymweld â
+cyrraedd,to arrive,cyrraedd yr orsaf
+cyrraedd,to arrive,cofrestru
+cyrraedd,to arrive,mynediad
+cyrraedd,to arrive,mynychu
+cyrraedd,to arrive,nesáu
+cyrraedd,to arrive,pigo draw
+cyrraedd,to arrive,cyrraedd y pentref
+cyrraedd,to arrive,croeso
+cyrraedd,to arrive,lleoliad
+cyrraedd,to arrive,llwyddo
+cyrraedd,to arrive,ymrithio
+cyrraedd,to arrive,digwyddiad
+cyrraedd,to arrive,estyn
+cyrraedd,to arrive,gallu
+cyhoeddi,to publish,argraffu
+cyhoeddi,to publish,datgan
+cyhoeddi,to publish,datgelu
+cyhoeddi,to publish,lledaenu
+cyhoeddi,to publish,hysbysebu
+cyhoeddi,to publish,gwybodaeth
+cyhoeddi,to publish,cyflwyno
+cyhoeddi,to publish,cyhoeddi llyfr
+cyhoeddi,to publish,cynhyrchiad
+cyhoeddi,to publish,cyfleu
+cyhoeddi,to publish,cyhoeddi nofel
+cyhoeddi,to publish,datguddio
+cyhoeddi,to publish,dosbarthu
+cyhoeddi,to publish,cylchredeg
+cyhoeddi,to publish,cynhyrchu
+cyhoeddi,to publish,hyrwyddo
+cyhoeddi,to publish,cyhoeddi erthygl
+cyhoeddi,to publish,darlledu
+cyhoeddi,to publish,hysbysu
+cyhoeddi,to publish,cyhoeddi testun
+cyhoeddi,to publish,gwasgaru
+cyhoeddi,to publish,traethu
+cyhoeddi,to publish,dadlennu
+cyhoeddi,to publish,cyhoeddi ffynhonell
+cyhoeddi,to publish,amgylchu
+cyhoeddi,to publish,rhannu
+cyhoeddi,to publish,rhoi gwybodaeth
+cyhoeddi,to publish,adrodd
+cyhoeddi,to publish,mynegi
+cyhoeddi,to publish,argfraffu
+cyhoeddi,to publish,adroddiad
+ceisio,to attempt,ymgeisio
+ceisio,to attempt,trio
+ceisio,to attempt,ymdrechu
+ceisio,to attempt,cynnig
+ceisio,to attempt,ymegnio
+ceisio,to attempt,anelu
+ceisio,to attempt,trïo
+ceisio,to attempt,rhoi cynnig ar
+ceisio,to attempt,osio
+ceisio,to attempt,cynnig  (ar)
+ceisio,to attempt,profi
+ceisio,to attempt,dymuno
+ceisio,to attempt,ymdrechu i
+ceisio,to attempt,dilyn
+ceisio,to attempt,ymgymryd
+ceisio,to attempt,ceisio gwenu
+ceisio,to attempt,gorchwyl
+ceisio,to attempt,taclo
+ceisio,to attempt,erfyn
+ceisio,to attempt,ymdrech
+ceisio,to attempt,ymegnïo
+ceisio,to attempt,mentro
+ceisio,to attempt,ceisio coginio
+ceisio,to attempt,brwydro
+ceisio,to attempt,disgwyl
+ceisio,to attempt,ceisio pobi
+ceisio,to attempt,arbrofi
+ceisio,to attempt,prawf
+ceisio,to attempt,ymbilio
+ceisio,to attempt,ceisio trafod
+ceisio,to attempt,argeisio
+ceisio,to attempt,ymofyn
+ceisio,to attempt,arbrawf
+ceisio,to attempt,cyrchu
+dechrau,to start,cychwyn
+dechrau,to start,tarddu
+dechrau,to start,lansio
+dechrau,to start,dechrau mynd i'r gwersi
+dechrau,to start,dechrau darn o waith
+dechrau,to start,gwraidd
+dechrau,to start,mynd
+dechrau,to start,tasgu
+dechrau,to start,creu
+dechrau,to start,symud
+dechrau,to start,cynhyrchu
+dechrau,to start,cyflwyniad
+dechrau,to start,dechrau mynd i'r sesiynau
+dechrau,to start,sefydlu
+dechrau,to start,mynd ati
+dechrau,to start,man cychwyn
+dechrau,to start,dechrau mynd i'r darlithoedd
+dechrau,to start,dechreuad
+dechrau,to start,sylfaenu
+dechrau,to start,dyddio
+dechrau,to start,tanio
+dechrau,to start,hyfforddi
+dechrau,to start,agoriad
+dechrau,to start,gwawrio
+dechrau,to start,gwawr
+dechrau,to start,bwrw ati
+dechrau,to start,dechrau bwyta ffrwythau
+dechrau,to start,bwrw iddi
+dechrau,to start,geni
+dechrau,to start,dydd
+dechrau,to start,codi
+dechrau,to start,gafael ynddi
+dechrau,the start,dechreuad
+dechrau,the start,cychwyniad
+dechrau,the start,tarddiad
+dechrau,the start,agoriad
+dechrau,the start,gwreiddyn
+dechrau,the start,man cychwyn
+dechrau,the start,gwraidd
+dechrau,the start,cychwyn
+dechrau,the start,ffynhonnell
+dechrau,the start,sylfaen
+dechrau,the start,rhan gyntaf
+dechrau,the start,gwawr
+dechrau,the start,dyddiau cynnar
+dechrau,the start,mantais
+dechrau,the start,ynydiad
+dechrau,the start,genedigaeth
+dechrau,the start,lansiad
+dechrau,the start,sefydlu
+dechrau,the start,sylfaenu
+dechrau,the start,lansio
+dechrau,the start,gwanwyn
+dechrau,the start,geni
+dechrau,the start,cyffroad
+dechrau,the start,sail
+dechrau,the start,deilliad
+chwilio,to look for,edrych
+chwilio,to look for,chwilota
+chwilio,to look for,ymchwilio
+chwilio,to look for,disgwyl
+chwilio,to look for,teimlo
+chwilio,to look for,archwilio
+chwilio,to look for,sbio
+chwilio,to look for,edrych am
+chwilio,to look for,chwilio am eiddo
+chwilio,to look for,sbïo
+chwilio,to look for,tremio
+chwilio,to look for,chwilio am ddillad
+chwilio,to look for,ymholi
+chwilio,to look for,chwilio am lyfr
+chwilio,to look for,craffu (ar)
+chwilio,to look for,bwrw golwg
+chwilio,to look for,ceisio
+chwilio,to look for,ymofyn
+chwilio,to look for,chwilio am gysur
+chwilio,to look for,ciledrych
+chwilio,to look for,ceisio gweld
+chwilio,to look for,arolygu
+chwilio,to look for,sbio (am)
+chwilio,to look for,gwirio
+chwilio,to look for,syllu
+chwilio,to look for,archwiio
+chwilio,to look for,chwilio am drwbl
+chwilio,to look for,cribo
+chwilio,to look for,cipolwg
+chwilio,to look for,chwilmanta
+chwilio,to look for,darganfod
+chwilio,to look for,gweld
+chwilio,to look for,golwg
+chwilio,to look for,ceisio darganfod
+chwilio,to look for,palfalu
+chwilio,to look for,goruwchwylio
+chwilio,to look for,tyrchu
+cyflwyno,to present,arddangos
+cyflwyno,to present,datgan
+cyflwyno,to present,trosglwyddo
+cyflwyno,to present,perfformio
+cyflwyno,to present,rhoi
+cyflwyno,to present,gwobrwyo
+cyflwyno,to present,cyflwyno rhywbeth
+cyflwyno,to present,cyhoeddi
+cyflwyno,to present,cyfrannu
+cyflwyno,to present,cyflwyniad
+cyflwyno,to present,cynhyrchu
+cyflwyno,to present,cyflwyno rhywun
+cyflwyno,to present,datgan enw
+cyflwyno,to present,anrhegu
+cyflwyno,to present,cyflwyno drama
+cyflwyno,to present,rhoddi
+cyflwyno,to present,traddodi
+cyflwyno,to present,rhannu
+cyflwyno,to present,cyflwyno golygfa ysblennydd
+cyflwyno,to present,cyflwyno strategaeth
+cyflwyno,to present,cyflwyno gwybodaeth
+cyflwyno,to present,darlleniad
+cyflwyno,to present,amlygu
+cyflwyno,to present,cynnig
+cyflwyno,to present,dangos
+cyflwyno,to present,ymgyflwyno
+cyflwyno,to present,neilltuo
+cyflwyno,to present,hyrwyddo
+cyflwyno,to present,argymell
+cysylltu,to join,ymuno
+cysylltu,to join,uno
+cysylltu,to join,clymu
+cysylltu,to join,cyfuno
+cysylltu,to join,cydio
+cysylltu,to join,cydgysylltu
+cysylltu,to join,cyfrannu
+cysylltu,to join,ymaelodi
+cysylltu,to join,asio
+cysylltu,to join,cydweithredu
+cysylltu,to join,uniadu
+cysylltu,to join,cyfarfod
+cysylltu,to join,cyplysu
+cysylltu,to join,cyplu
+cysylltu,to join,cyraedd
+cysylltu,to join,cyduno
+cysylltu,to join,cyfannu
+cysylltu,to join,dilyn
+cysylltu,to join,cyswllt
+cysylltu,to join,gwneud yn un
+cysylltu,to join,cyfranogi
+cysylltu,to join,uniad
+cysylltu,to join,perthynas
+cysylltu,to join,pontio
+cysylltu,to join,cydosod
+helpu,to help,cynorthwyo
+helpu,to help,cefnogi
+helpu,to help,cymorth
+helpu,to help,argymell
+helpu,to help,cymorthi
+helpu,to help,rhoi cymorth i
+helpu,to help,rhoi cyngor i
+helpu,to help,cyngori
+helpu,to help,rhwyddhau
+helpu,to help,cyfrannu
+helpu,to help,rhoi arweiniad i
+helpu,to help,cyd-dynnu
+helpu,to help,lleddfu
+helpu,to help,help llaw
+helpu,to help,cysuro
+helpu,to help,bod yn gefn
+helpu,to help,ategu
+helpu,to help,rhoi cymorth
+helpu,to help,cyfarwyddo
+helpu,to help,arweiniad
+helpu,to help,lliniaru
+helpu,to help,rhoi cefnogaeth i
+helpu,to help,cynghori
+helpu,to help,rhoi help llaw
+helpu,to help,arwain
+helpu,to help,bod yn llesol
+helpu,to help,hwyluso
+helpu,to help,bod o fudd
+helpu,to help,hyfforddi
+helpu,to help,gwasnaeth
+helpu,to help,gwasanaeth
+helpu,to help,cefnogaeth
+helpu,to help,hwylsuo
+helpu,to help,nerthu
+helpu,to help,calonogi
+helpu,to help,budd
+helpu,to help,cynhaliaeth
+helpu,to help,estyn cymorth
+sicrhau,to ensure,gwarantu
+sicrhau,to ensure,diogelu
+sicrhau,to ensure,cadarnhau
+sicrhau,to ensure,amddiffyn
+sicrhau,to ensure,dilysu
+sicrhau,to ensure,gofalu
+sicrhau,to ensure,addunedu
+sicrhau,to ensure,gwneud siwr
+sicrhau,to ensure,dilsyu
+sicrhau,to ensure,ymrwymo
+sicrhau,to ensure,gwneud yn siwr
+sicrhau,to ensure,gwirio
+sicrhau,to ensure,gwneud yn sicr
+sicrhau,to ensure,sefydlu
+sicrhau,to ensure,i wneud yn siwr
+sicrhau,to ensure,trefnu
+sicrhau,to ensure,i sefydlu
+sicrhau,to ensure,mechnïo
+sicrhau,to ensure,asiwro
+sicrhau,to ensure,paratoi
+sicrhau,to ensure,gaddo
+sicrhau,to ensure,darparu
+sicrhau,to ensure,i gadarnhau
+sicrhau,to ensure,gwneud yn siŵr
+sicrhau,to ensure,tystio
+sicrhau,to ensure,ymdynghedu
+sicrhau,to ensure,addo
+symud,to move,mynd
+symud,to move,mudo
+symud,to move,ymfudo
+symud,to move,gadael
+symud,to move,cychwyn
+symud,to move,cerdded
+symud,to move,symudiad
+symud,to move,adleoli
+symud,to move,newid
+symud,to move,teithio
+symud,to move,cario
+symud,to move,syflyd
+symud,to move,dringo
+symud,to move,ailgartrefu
+symud,to move,newid lleoliad
+symud,to move,ysgogi
+symud,to move,gwthio
+symud,to move,mynd o le i le
+symud,to move,symud i rhywle
+symud,to move,mudiant
+symud,to move,rhodio
+symud,to move,cynnig
+symud,to move,cyffroi
+symud,to move,disodli
+symud,to move,cynhyrfu
+symud,to move,gweithred
+meithrin,to foster,magu
+meithrin,to foster,maethu
+meithrin,to foster,mabwysiadu
+meithrin,to foster,gofalu
+meithrin,to foster,coleddu
+meithrin,to foster,annog
+meithrin,to foster,hyfforddi
+meithrin,to foster,gofalu am
+meithrin,to foster,llochesu
+meithrin,to foster,cymorthi
+meithrin,to foster,cefnogi
+meithrin,to foster,dwyn i fyny
+meithrin,to foster,anwylo
+meithrin,to foster,cysuro
+meithrin,to foster,dysgu
+meithrin,to foster,cynnal
+meithrin,to foster,tendio
+meithrin,to foster,goruwchwylio
+meithrin,to foster,trin
+meithrin,to foster,llochesi
+meithrin,to foster,rhoi ar ben ffordd
+meithrin,to foster,caru
+meithrin,to foster,maldodi
+meithrin,to foster,codi
+meithrin,to foster,mynwesu
+meithrin,to foster,noddi
+hoffi,to like,licio
+hoffi,to like,mwynhau
+hoffi,to like,caru
+hoffi,to like,bod yn hoff o
+hoffi,to like,joio
+hoffi,to like,parchu
+hoffi,to like,barn
+hoffi,to like,edmygu
+hoffi,to like,addoli
+hoffi,to like,ymfalchio
+hoffi,to like,gwerthfawrogi
+hoffi,to like,ymhyfrydu yn
+hoffi,to like,ffafrio
+hoffi,to like,serchu
+hoffi,to like,edmygu rhywbeth
+hoffi,to like,dymuno
+hoffi,to like,caru rhywbeth
+hoffi,to like,pleserus
+hoffi,to like,parchu rhywbeth
+hoffi,to like,ffansio
+hoffi,to like,anrhydeddu
+hoffi,to like,rhyfeddu
+hoffi,to like,pleseru
+hoffi,to like,cael pleser
+hoffi,to like,angerdd
+hoffi,to like,chwant
+hoffi,to like,anwylo
+hoffi,to like,wrth ei fodd
+hoffi,to like,ymhyfrydu
+hoffi,to like,serch
+hoffi,to like,teimlad
+datblygu,to develop,gwella
+datblygu,to develop,esblygu
+datblygu,to develop,ehangu
+datblygu,to develop,tyfu
+datblygu,to develop,aeddfedu
+datblygu,to develop,prifio
+datblygu,to develop,datblygu caethiwed
+datblygu,to develop,meithrin
+datblygu,to develop,datblygu sgiliau
+datblygu,to develop,ymhelaethu
+datblygu,to develop,altro
+datblygu,to develop,cynyddu
+datblygu,to develop,cynnydd
+datblygu,to develop,datblygu angerdd at
+datblygu,to develop,datblygu cariad at
+datblygu,to develop,cynydd
+datblygu,to develop,ffurfio
+datblygu,to develop,ychwanegu
+datblygu,to develop,ymestyn
+datblygu,to develop,ymledu
+datblygu,to develop,datblygu teimladau at
+datblygu,to develop,newid er gwell
+datblygu,to develop,creu
+datblygu,to develop,magu
+datblygu,to develop,egnio
+datblygu,to develop,ymffurfio
+datblygu,to develop,lledu
+teipio,to type,ysgrifennu
+teipio,to type,cofnodi
+teipio,to type,trawsgrifio
+teipio,to type,printio
+teipio,to type,dosbarthu
+teipio,to type,mynegi
+teipio,to type,argraffu
+teipio,to type,nodi
+teipio,to type,ysgrifennu ar ffôn
+teipio,to type,ysgrifennydd
+teipio,to type,categoreiddio
+teipio,to type,ysgrifennu ar gyfrifiadur
+teipio,to type,nodiadau
+teipio,to type,cynhyrchu
+teipio,to type,copio
+teipio,to type,adroddiad
+teipio,to type,llythyru
+teipio,to type,mewnbynnu rhywbeth
+teipio,to type,symbolau
+teipio,to type,tecstio
+teipio,to type,electronig
+teipio,to type,ebsotio
+teipio,to type,teipio ar gyfrifiadur
+teipio,to type,teipio ar liniadur
+teipio,to type,grwpio
+teipio,to type,gwaith gweinyddol
+teipio,to type,siarad
+teipio,to type,cyfleu
+teipio,to type,sgwrsio
+teipio,to type,math
+brifo,to hurt,anafu
+brifo,to hurt,niweidio
+brifo,to hurt,dolurio
+brifo,to hurt,clwyfo
+brifo,to hurt,difrodi
+brifo,to hurt,poeni
+brifo,to hurt,cleisio
+brifo,to hurt,brifo person
+brifo,to hurt,cael dolur
+brifo,to hurt,poenus
+brifo,to hurt,brifo anifail anwes
+brifo,to hurt,brifo anifail gwyllt
+brifo,to hurt,brifo rhywbeth
+brifo,to hurt,curo
+brifo,to hurt,hitio
+brifo,to hurt,achosi poen
+brifo,to hurt,briwio
+brifo,to hurt,brifo aelod o'r teulu
+brifo,to hurt,gloes
+brifo,to hurt,bod yn ddolurus
+brifo,to hurt,anafu rhywbeth
+brifo,to hurt,taro
+brifo,to hurt,cwffio
+brifo,to hurt,gwynegu
+brifo,to hurt,archolli
+brifo,to hurt,anafu rhywun
+brifo,to hurt,drwg
+crynhoi,to summarise,cwtogi
+crynhoi,to summarise,casglu
+crynhoi,to summarise,byrhau
+crynhoi,to summarise,cywasgu
+crynhoi,to summarise,amlinellu
+crynhoi,to summarise,talfyrru
+crynhoi,to summarise,gwneud yn fyrrach
+crynhoi,to summarise,crynhoi rhywbeth
+crynhoi,to summarise,crynhoi dadl
+crynhoi,to summarise,cynnull
+crynhoi,to summarise,ymgasglu
+crynhoi,to summarise,ailwampio
+crynhoi,to summarise,crynhoi safbwynt
+crynhoi,to summarise,crynodeb
+crynhoi,to summarise,crynhoi tystiolaeth
+crynhoi,to summarise,crisialu
+crynhoi,to summarise,symio
+crynhoi,to summarise,lleihau
+crynhoi,to summarise,cyddwyso
+crynhoi,to summarise,crynhoi mewn casgliad
+crynhoi,to summarise,deall
+crynhoi,to summarise,cronni
+crynhoi,to summarise,torri
+crynhoi,to summarise,ailardodd
+crynhoi,to summarise,crynhoi cynnwys
+crynhoi,to summarise,hel
+crynhoi,to summarise,pentyrru
+crynhoi,to summarise,crynodebu
+crynhoi,to summarise,gwneud yn llai
+gwahodd,to invite,croesawu
+gwahodd,to invite,denu
+gwahodd,to invite,cynnig
+gwahodd,to invite,dymuno
+gwahodd,to invite,gofyn
+gwahodd,to invite,estyn gwahoddiad
+gwahodd,to invite,gwadd
+gwahodd,to invite,cyfarfod
+gwahodd,to invite,gwahodd rhywun i
+gwahodd,to invite,galw
+gwahodd,to invite,croeso
+gwahodd,to invite,gofyn i rhywun ddod
+gwahodd,to invite,annog rhywun i ddod
+gwahodd,to invite,annog
+gwahodd,to invite,cais
+gwahodd,to invite,gwahoddiad
+gwahodd,to invite,mynnu rhywun i ddod
+gwahodd,to invite,perswadio rhywun i ddod
+gwahodd,to invite,apelio
+gwahodd,to invite,erfyn
+gwahodd,to invite,cynnig i rhywun ddod
+gwahodd,to invite,cyfarch
+gwahodd,to invite,atynnu
+gwahodd,to invite,derbyn
+gwahodd,to invite,galwad
+gwahodd,to invite,perswadio
+gwahodd,to invite,deisyfu
+cyfnewid,exchange,newid
+cyfnewid,exchange,ffeirio
+cyfnewid,exchange,amnewid
+cyfnewid,exchange,trwco
+cyfnewid,exchange,trosglwyddo
+cyfnewid,exchange,cyfnewid llyfr
+cyfnewid,exchange,masnachu
+cyfnewid,exchange,cyfnewid dilledyn
+cyfnewid,exchange,cyfnewidfa
+cyfnewid,exchange,masnach
+cyfnewid,exchange,trosi
+cyfnewid,exchange,addasiad
+cyfnewid,exchange,cyfnewid potel
+cyfnewid,exchange,gwahanol
+cyfnewid,exchange,cyfnewidfa stoc
+cyfnewid,exchange,rhoi a derbyn
+cyfnewid,exchange,cyfnewid bwyd
+cyfnewid,exchange,trosiad
+cyfnewid,exchange,cyfnewid ticedi
+cyfnewid,exchange,rhwydwaith
+cyfnewid,exchange,amrywiad
+cyfnewid,exchange,ymgyfnewid
+cyfnewid,exchange,newidiaeth
+cyfnewid,exchange,switsio
+cyfnewid,exchange,trawsffurfiad
+cyfnewid,exchange,cyfnewid menyg
+anadlu,to breathe,mewnanadlu
+anadlu,to breathe,resbiradu
+anadlu,to breathe,allanadlu
+anadlu,to breathe,cymryd anadl
+anadlu,to breathe,chwythu
+anadlu,to breathe,chwyth
+anadlu,to breathe,ochneidio
+anadlu,to breathe,nwyf
+anadlu,to breathe,cymryd gwynt
+anadlu,to breathe,griddfan
+anadlu,to breathe,anadlu'n drwm
+anadlu,to breathe,byw
+anadlu,to breathe,chwythu drwy
+anadlu,to breathe,allananadlu
+anadlu,to breathe,gwynt
+anadlu,to breathe,treiddio drwy
+anadlu,to breathe,allyrru
+anadlu,to breathe,ebychu
+anadlu,to breathe,ffroeni
+anadlu,to breathe,bywyd
+anadlu,to breathe,peuo
+anadlu,to breathe,bod
+anadlu,to breathe,anadlu'n rhwyddach
+anadlu,to breathe,einioes
+anadlu,to breathe,awyru
+anadlu,to breathe,goranadlu
+anadlu,to breathe,hanfod
+anadlu,to breathe,egni
+anadlu,to breathe,bodoli
+llefaru,to speak (about),siarad
+llefaru,to speak (about),pregethu
+llefaru,to speak (about),adrodd
+llefaru,to speak (about),mynegi
+llefaru,to speak (about),cyfathrebu
+llefaru,to speak (about),parablu
+llefaru,to speak (about),traethu
+llefaru,to speak (about),lleisio
+llefaru,to speak (about),cloncian
+llefaru,to speak (about),siarad yn gyhoeddus
+llefaru,to speak (about),areithio
+llefaru,to speak (about),trafod
+llefaru,to speak (about),dweud
+llefaru,to speak (about),traddodi
+llefaru,to speak (about),torri gair
+llefaru,to speak (about),datgan
+llefaru,to speak (about),mynnegi
+llefaru,to speak (about),ymadroddi
+llefaru,to speak (about),rhannu
+llefaru,to speak (about),cyhoeddi
+llefaru,to speak (about),ynganu
+llefaru,to speak (about),adrodd ar eiriau
+llefaru,to speak (about),annerch
+llefaru,to speak (about),seinio
+llefaru,to speak (about),ymadrodd
+llefaru,to speak (about),clebran
+llefaru,to speak (about),llais
+llefaru,to speak (about),rhoi anerchiad
+chwythu,to blow,rhuo
+chwythu,to blow,anadlu
+chwythu,to blow,awel
+chwythu,to blow,cwthwm
+chwythu,to blow,chwythu balŵn
+chwythu,to blow,gwynt
+chwythu,to blow,allyrru
+chwythu,to blow,dyrnod
+chwythu,to blow,chwythu canhwyllau
+chwythu,to blow,allanadlu
+chwythu,to blow,awelu
+chwythu,to blow,ergyd
+chwythu,to blow,chwibiannu
+chwythu,to blow,chwythu offeryn
+chwythu,to blow,codi'n wynt
+chwythu,to blow,cam dywydd
+chwythu,to blow,goranadlu
+chwythu,to blow,tymestl
+chwythu,to blow,swaden
+chwythu,to blow,llifo
+chwythu,to blow,chwyth
+chwythu,to blow,byrstio
+chwythu,to blow,dyhefod
+chwythu,to blow,corwynt
+chwythu,to blow,chwythu chwiban
+chwythu,to blow,ebychu
+chwythu,to blow,gwichian
+chwythu,to blow,hedfan
+chwythu,to blow,chwythu ffliwt
+chwythu,to blow,trawiad
+chwythu,to blow,anadlu'n drwm
+chwythu,to blow,tywydd garw
+chwythu,to blow,drafft
+chwythu,to blow,ochneidio
+chwythu,to blow,stormus
+tybio,to suppose,meddwl
+tybio,to suppose,rhagdybio
+tybio,to suppose,synio
+tybio,to suppose,amau
+tybio,to suppose,ystyried
+tybio,to suppose,credu
+tybio,to suppose,dychmygu
+tybio,to suppose,gobeithio
+tybio,to suppose,amcanu
+tybio,to suppose,dyfalu
+tybio,to suppose,disgwyl
+tybio,to suppose,damcaniaethu
+tybio,to suppose,coelio
+tybio,to suppose,rhagfarnu
+tybio,to suppose,barnu
+tybio,to suppose,deallt
+tybio,to suppose,synied
+tybio,to suppose,tybio
+tybio,to suppose,gwnued
+tybio,to suppose,cogio
+mesur,to measure,pwyso
+mesur,to measure,mesuro
+mesur,to measure,maint
+mesur,to measure,cymryd mesur
+mesur,to measure,helaethder
+mesur,to measure,tafoli
+mesur,to measure,mesur pellter
+mesur,to measure,cofnodi
+mesur,to measure,maintoli
+mesur,to measure,cyfrifo
+mesur,to measure,cymryd hyd a lled
+mesur,to measure,amcangyfrif
+mesur,to measure,mesur cyflymder
+mesur,to measure,graddfa
+mesur,to measure,rhifo
+mesur,to measure,gwirio
+mesur,to measure,cloriannu
+mesur,to measure,graddnodi
+mesur,to measure,assesu
+mesur,to measure,cyfrif
+mesur,to measure,mesur pwysau
+mesur,to measure,dogn
+mesur,to measure,darganfod
+mesur,to measure,hyd
+mesur,to measure,cyfran
+mesur,to measure,mesur cyfaint
+mesur,to measure,safon
+mesur,to measure,mesur tymheredd
+mesur,to measure,lled
+mesur,to measure,mesur grym
+mesur,to measure,maintioli
+mesur,to measure,asesu
+mesur,to measure,pwyso a mesur
+mesur,to measure,mesur egni
+mesur,to measure,meintioli
+mesur,to measure,arfarnu
+mesur,to measure,nodi mesuriad
+mesur,to measure,mydr
+mesur,to measure,gwerthuso
+mesur,to measure,diamedr
+mesur,to measure,metru
+mesur,to measure,ehangder
+mesur,measurement,mesuriad
+mesur,measurement,maint
+mesur,measurement,dimensiwn
+mesur,measurement,swm
+mesur,measurement,cyfrifiant
+mesur,measurement,pwysau
+mesur,measurement,meintioli
+mesur,measurement,graddiad
+mesur,measurement,amcangyfrif
+mesur,measurement,graddiant
+mesur,measurement,cofnodiad
+mesur,measurement,meintoliad
+mesur,measurement,asesiad
+mesur,measurement,dwysedd
+mesur,measurement,cyfrifiad
+mesur,measurement,hyd
+mesur,measurement,diamedr
+mesur,measurement,ffurf
+mesur,measurement,ehangder
+mesur,measurement,pwyso
+mesur,measurement,dadansoddiad
+mesur,measurement,hyd a lled
+mesur,measurement,amledd
+mesur,measurement,helaethder
+mesur,measurement,lled
+mesur,measurement,enrhifiad
+mesur,measurement,cymhwysedd
+mesur,measurement,helaethrwydd
+mesur,measurement,cyfaint
+mesur,measurement,nifer
+dynodi,to denote,arwyddo
+dynodi,to denote,dangos
+dynodi,to denote,golygu
+dynodi,to denote,mynegi
+dynodi,to denote,nodi
+dynodi,to denote,awgrymu
+dynodi,to denote,cyfleu
+dynodi,to denote,ysgrifennu
+dynodi,to denote,i ddangos
+dynodi,to denote,anodi
+dynodi,to denote,i nodweddu
+dynodi,to denote,enwebu
+dynodi,to denote,cyhoeddi
+dynodi,to denote,clustnodi
+dynodi,to denote,cyfeirio at
+dynodi,to denote,cynodi
+dynodi,to denote,datgan
+dynodi,to denote,i awgrymu
+dynodi,to denote,cynrychioli
+dynodi,to denote,i adlewyrchu
+dynodi,to denote,penu
+dynodi,to denote,i atgyfnerthu
+dynodi,to denote,bwriadu
+dynodi,to denote,ymhlygu
+dynodi,to denote,arwyddocâd
+dynodi,to denote,profi
+dynodi,to denote,cyfeirio
+dynodi,to denote,sillafu
+dynodi,to denote,pennu
+dynodi,to denote,pwyntio
+llywio,govern,arwain
+llywio,govern,llywodraethu
+llywio,govern,rheoli
+llywio,govern,gweinyddu
+llywio,govern,arglwyddiaethu
+llywio,govern,cyfarwyddo
+llywio,govern,trefnu
+llywio,govern,tywys
+llywio,govern,goruchwylio
+llywio,govern,meistroli
+llywio,govern,disgyblu
+llywio,govern,arglwyddiaethu (ar)
+llywio,govern,teyrnasu
+llywio,govern,arddweud
+llywio,govern,gofalu
+llywio,govern,gyrru
+llywio,govern,rheoleiddio
+llywio,govern,awdurdod
+cwestiynu,to question,holi
+cwestiynu,to question,gofyn
+cwestiynu,to question,amau
+cwestiynu,to question,stilio
+cwestiynu,to question,croesholi
+cwestiynu,to question,archwilio
+cwestiynu,to question,ymchwilio
+cwestiynu,to question,bwrw amheuaeth
+cwestiynu,to question,herio
+cwestiynu,to question,ymholi
+cwestiynu,to question,arholi
+cwestiynu,to question,ceisio
+cwestiynu,to question,ymofyn
+cwestiynu,to question,drwgdybio
+cwestiynu,to question,posau
+cwestiynu,to question,dadlau
+cwestiynu,to question,profi
+cwestiynu,to question,deall
+cwestiynu,to question,bwrw amheuaeth ar
+cwestiynu,to question,testun
+cyfiawnhau,to justify,amddiffyn
+cyfiawnhau,to justify,cyfreithloni
+cyfiawnhau,to justify,unioni
+cyfiawnhau,to justify,esgusodi
+cyfiawnhau,to justify,dadlau
+cyfiawnhau,to justify,haeddu
+cyfiawnhau,to justify,dadlau achos
+cyfiawnhau,to justify,cadarnhau
+cyfiawnhau,to justify,dilysu
+cyfiawnhau,to justify,cywirio
+cyfiawnhau,to justify,rhesymoli
+cyfiawnhau,to justify,eiriolwr
+cyfiawnhau,to justify,cyfrif am
+cyfiawnhau,to justify,egluro
+cyfiawnhau,to justify,teilyngu
+cyfiawnhau,to justify,taeru
+cyfiawnhau,to justify,adfocadu
+cyfiawnhau,to justify,esbonio
+cyfiawnhau,to justify,haeru
+cyfiawnhau,to justify,rhesymu
+cyfiawnhau,to justify,rhyddhau o fai
+cyfiawnhau,to justify,diheuro
+cyfiawnhau,to justify,honni
+cyfiawnhau,to justify,apelio
+cyfiawnhau,to justify,cymwynas
+cyfiawnhau,to justify,eglurhad
+cyfiawnhau,to justify,cyfamodi
+cyfiawnhau,to justify,cefnogi
+crafu,to scratch,cosi
+crafu,to scratch,cripio
+crafu,to scratch,sgrafellu
+crafu,to scratch,rhwbio
+crafu,to scratch,cripian
+crafu,to scratch,crafangu
+crafu,to scratch,rwbio
+crafu,to scratch,sgrapo
+crafu,to scratch,trachwantu
+crafu,to scratch,sgathru
+crafu,to scratch,rhathu
+crafu,to scratch,pigo
+crafu,to scratch,marcio
+crafu,to scratch,marc
+crafu,to scratch,crafu briw
+crafu,to scratch,crafiad
+crafu,to scratch,mefl
+crafu,to scratch,ysgythru
+crafu,to scratch,crafu dolur
+crafu,to scratch,rhathellu
+crafu,to scratch,rhygnu
+crafu,to scratch,cosfa
+crafu,to scratch,niweidio
+crafu,to scratch,pawennu
+crafu,to scratch,engrafu
+crafu,to scratch,crafu toriad
+crafu,to scratch,ysgraffinio
+crafu,to scratch,ysu
+crafu,to scratch,niwed
+crafu,to wrangle,anghytuno
+crafu,to wrangle,ffraeo
+crafu,to wrangle,dadlau
+crafu,to wrangle,cweryla
+crafu,to wrangle,anghydweld
+crafu,to wrangle,cecru
+crafu,to wrangle,ymbil
+crafu,to wrangle,gwrthdaro
+crafu,to wrangle,bargeinio
+crafu,to wrangle,erfyn
+crafu,to wrangle,apelio
+crafu,to wrangle,cecrus
+crafu,to wrangle,crafangu
+crafu,to wrangle,crefu
+crafu,to wrangle,ffrygydau
+crafu,to wrangle,gofyn
+crafu,to wrangle,sgraffinio
+crafu,to wrangle,anghydfod
+crafu,to wrangle,eisiau
+crafu,to wrangle,rhygnu
+crafu,to wrangle,bicran
+crafu,to wrangle,codi stŵr
+crafu,to wrangle,ysgyrnygu
+crafu,to wrangle,sgrafellu
+crafu,to wrangle,trafferth
+crafu,to wrangle,cripio
+recriwtio,to recruit,listio
+recriwtio,to recruit,ymrestru
+recriwtio,to recruit,cyflogi
+recriwtio,to recruit,ymaelodi
+recriwtio,to recruit,cofrestru
+recriwtio,to recruit,anfon
+recriwtio,to recruit,newydd
+recriwtio,to recruit,pennu
+recriwtio,to recruit,chwilio
+recriwtio,to recruit,dechreuwr
+recriwtio,to recruit,dewis
+recriwtio,to recruit,newyddian
+recriwtio,to recruit,edrych am
+recriwtio,to recruit,galw
+recriwtio,to recruit,adfilwr
+recriwtio,to recruit,ceisio
+recriwtio,to recruit,talu
+recriwtio,to recruit,perswadio
+recriwtio,to recruit,codi
+recriwtio,to recruit,drafftio
+recriwtio,to recruit,gwirfoddoli
+recriwtio,to recruit,sicrhau gwasanaeth
+recriwtio,to recruit,ymholi
+recriwtio,to recruit,gweithio
+recriwtio,to recruit,hyfforddi
+recriwtio,to recruit,cyflenwi
+recriwtio,to recruit,apwyntio
+recriwtio,to recruit,aelodau newydd
+recriwtio,to recruit,nofydd
+recriwtio,to recruit,penodi
+recriwtio,to recruit,adnewyddu
+recriwtio,to recruit,cynnull
+recriwtio,to recruit,gorfodi
+recriwtio,to recruit,gyrru
+recriwtio,to recruit,dysgwr
+dinistrio,to destroy,chwalu
+dinistrio,to destroy,difetha
+dinistrio,to destroy,difrodi
+dinistrio,to destroy,difa
+dinistrio,to destroy,diwreiddio
+dinistrio,to destroy,distrywio
+dinistrio,to destroy,difodi
+dinistrio,to destroy,andwyo
+dinistrio,to destroy,dad-wneud
+dinistrio,to destroy,malu
+dinistrio,to destroy,diddymu
+dinistrio,to destroy,rhacsio
+dinistrio,to destroy,torri
+dinistrio,to destroy,creu llanast
+dinistrio,to destroy,dryllio
+dinistrio,to destroy,sarnu
+dinistrio,to destroy,gwasgu
+dinistrio,to destroy,datgymalu
+dinistrio,to destroy,chwilfriwio
+dinistrio,to destroy,anrheithio
+dinistrio,to destroy,lladd
+dinistrio,to destroy,niweidio
+llusgo,to drag,tynnu
+llusgo,to drag,cludo
+llusgo,to drag,cario
+llusgo,to drag,ymlwybro
+llusgo,to drag,halio
+llusgo,to drag,symud
+llusgo,to drag,helcyd
+llusgo,to drag,llusgo traed
+llusgo,to drag,cropian
+llusgo,to drag,llusgo ei lais
+llusgo,to drag,llusgo geiriau
+llusgo,to drag,ymlusgo
+llusgo,to drag,mudiad
+llusgo,to drag,mynd yn araf
+llusgo,to drag,siffrwd
+llusgo,to drag,tyniad
+llusgo,to drag,gwrthiant
+llusgo,to drag,ymdroi
+llusgo,to drag,mygyn
+llusgo,to drag,cerdded yn araf
+llusgo,to drag,nod
+llusgo,to drag,amcan
+llyncu,to swallow,yfed
+llyncu,to swallow,bwyta
+llyncu,to swallow,traflyncu
+llyncu,to swallow,amlyncu
+llyncu,to swallow,drachtio
+llyncu,to swallow,llawcian
+llyncu,to swallow,sugno
+llyncu,to swallow,llyncu bwyd
+llyncu,to swallow,traflwnc
+llyncu,to swallow,llowcio
+llyncu,to swallow,ymborthi
+llyncu,to swallow,llyncu poer
+llyncu,to swallow,gwennol
+llyncu,to swallow,derbyn
+llyncu,to swallow,llyncu meddyginiaeth
+llyncu,to swallow,amsugno
+llyncu,to swallow,llyncu'ch geiriau
+llyncu,to swallow,jochiau
+llyncu,to swallow,llyncu yn groes
+llyncu,to swallow,llowc
+llyncu,to swallow,llyncu gwaed
+llyncu,to swallow,llyncu gormod
+rasio,to race,gwibio
+rasio,to race,rhedeg
+rasio,to race,rhuthro
+rasio,to race,carlamu
+rasio,to race,cystadlu
+rasio,to race,ras
+rasio,to race,brysio
+rasio,to race,rasio car
+rasio,to race,rasio beic
+rasio,to race,gyrru
+rasio,to race,rasio ceffylau
+rasio,to race,rhedeg yn wyllt
+rasio,to race,mynd yn gyflym
+rasio,to race,hela
+rasio,to race,hedfan
+rasio,to race,cystadleuaeth
+rasio,to race,cydymgeisio
+rasio,to race,sgrialu
+rasio,to race,digwyddiad
+rasio,to race,rhedfa
+rasio,to race,trac
+rasio,to race,ymgeisio
+rasio,to race,gornest
+rasio,to race,ennill
+rasio,to race,cymryd rhan
+rasio,to race,herio'i gilydd
+rasio,to race,colli
+rasio,to race,gwobr
+rasio,to race,cerdded
+craffu,to gaze,syllu
+craffu,to gaze,edrych
+craffu,to gaze,tremio
+craffu,to gaze,gweld
+craffu,to gaze,gwylio
+craffu,to gaze,rhythu
+craffu,to gaze,llygadu
+craffu,to gaze,arsyllu
+craffu,to gaze,canfod
+craffu,to gaze,sylweddoli
+craffu,to gaze,sylwi
+craffu,to gaze,edmygu
+craffu,to gaze,llygadrythu
+craffu,to gaze,canolbwyntio
+craffu,to gaze,archwilio
+craffu,to gaze,arsylwi
+craffu,to gaze,arolygu
+craffu,to gaze,craffu (ar)
+craffu,to gaze,ysbio
+cynilo,to save (money),arbed
+cynilo,to save (money),safio
+cynilo,to save (money),cadw
+cynilo,to save (money),casglu
+cynilo,to save (money),rheoli
+cynilo,to save (money),diogelu
+cynilo,to save (money),achub
+cynilo,to save (money),rhoi i gadw
+cynilo,to save (money),darbodus
+cynilo,to save (money),cyfoeth
+cynilo,to save (money),crintachu
+cynilo,to save (money),gwared
+cynilo,to save (money),rhoi wrth gefn
+cynilo,to save (money),storio
+cynilo,to save (money),cynnal
+cynilo,to save (money),cynilo
+cynilo,to save (money),hepgor
+cynilo,to save (money),gofalu
+cynilo,to save (money),gofalu am arian
+cynilo,to save (money),gwarchod
+cynilo,to save (money),arbed arian
+cynilo,to save (money),cadw arian
+cynilo,to save (money),blaendal
+ildio,to yield,derbyn
+ildio,to yield,ymostwng
+ildio,to yield,plygu
+ildio,to yield,ymollwng
+ildio,to yield,anobeithio
+ildio,to yield,gadael
+ildio,to yield,ildio mewn brwydr
+ildio,to yield,cynhyrchu
+ildio,to yield,rhoi fyny
+ildio,to yield,cnydio
+ildio,to yield,rhoi gorau
+ildio,to yield,ildio i ddadl
+ildio,to yield,ildio i benderfyniad
+ildio,to yield,cydymffurfio
+ildio,to yield,gorffen
+ildio,to yield,rhoi'r gorau i rhywbeth
+ildio,to yield,ymddiswyddo
+ildio,to yield,ffidl yn y to
+ildio,to yield,ymgrymu
+ildio,to yield,ildio i berson
+ildio,to yield,diweddu
+ildio,to yield,cyflenwad
+ildio,to yield,cydnabod
+ildio,to yield,swyno
+ildio,to yield,darparu
+ildio,to yield,cyfaddef
+ildio,to yield,rhoi i mewn
+ildio,to yield,gildio
+ildio,to yield,caniatau
+ildio,to yield,darfod
+ildio,to yield,rhoi'r gorau i
+ildio,to yield,terfynnu
+ildio,to yield,paratoi
+pennu,to appoint,dewis
+pennu,to appoint,apwyntio
+pennu,to appoint,sefydlu
+pennu,to appoint,dynodi
+pennu,to appoint,penderfynu
+pennu,to appoint,gosod
+pennu,to appoint,penodi
+pennu,to appoint,trefnu
+pennu,to appoint,ethol
+pennu,to appoint,dyfarnu swydd
+pennu,to appoint,clustnodi
+pennu,to appoint,nodi
+pennu,to appoint,recriwtio
+pennu,to appoint,comisiynu
+pennu,to appoint,cyflogi
+pennu,to appoint,ordeinio
+pennu,to appoint,enwebu
+pennu,to appoint,enwi
+pennu,to appoint,dewis rhywun i
+pennu,to appoint,llenwi swydd
+pennu,to appoint,pigo
+pennu,to appoint,anfonog
+pennu,to appoint,neilltuo
+pennu,to appoint,categoreiddio
+da,good,buddiol
+da,good,lles
+da,good,gwych
+da,good,addas
+da,good,rhyfeddol
+da,good,gweddus
+da,good,daioni
+da,good,ardderchog
+da,good,llesol
+da,good,dibechod
+da,good,teg
+da,good,safonol
+da,good,arbennig
+da,good,iawn
+da,good,cyfiawn
+da,good,positif
+da,good,derbyniol
+da,good,budd
+da,good,canmoladwy
+da,good,daionus
+da,good,conmoladwy
+da,good,ffafriol
+da,good,ffodus
+da,good,cyfreithlon
+da,good,bendigedig
+da,good,rhagorol
+da,good,pleserus
+da,good,caredig
+da,good,ffantastig
+da,good,boddhaol
+da,good,aruthrol
+da,good,campus
+da,good,penigamp
+da,good,cymeradwy
+da,good,gwerthfawr
+da,good,digonol
+da,good,rhinweddol
+da,cows,gwartheg
+da,cows,buchod
+da,cows,gyr
+da,cows,teirw
+da,cows,anifeiliaid
+da,cows,stoc
+da,cows,lloi
+da,cows,ychen
+da,cows,buwch
+da,cows,ych
+da,cows,buches
+da,cows,llo
+da,cows,eiddo
+da,cows,gyrroedd
+da,cows,lloeau
+da,cows,eidion
+da,cows,bwrw llo
+da,cows,bystych
+da,cows,da byw
+da,cows,cyfoeth
+da,cows,fferm
+da,cows,meddiant
+da,cows,heffer
+da,cows,tarw
+da,cows,bustach
+mawr,big,enfawr
+mawr,big,anferth
+mawr,big,swmpus
+mawr,big,helaeth
+mawr,big,eang
+mawr,big,lluosog
+mawr,big,tew
+mawr,big,sylweddol
+mawr,big,cawraidd
+mawr,big,llydan
+mawr,big,anferthol
+mawr,big,niferus
+mawr,big,bras
+mawr,big,aruthrol
+mawr,big,pwysig
+mawr,big,trwchus
+mawr,big,dychrynllyd
+mawr,big,poblogaidd
+mawr,big,maith
+mawr,big,dirfawr
+arall,other,amgen
+arall,other,gwahanol
+arall,other,llall
+arall,other,eraill
+arall,other,amrywiol
+arall,other,mwy
+arall,other,gwhanol
+arall,other,cyferbyniol
+arall,other,dewisol
+arall,other,nid yr un
+arall,other,ychwanegol
+arall,other,ar wahan
+arall,other,anhebyg
+arall,other,newydd
+arall,other,nid yr un un
+arall,other,opsiwn
+arall,other,y llall
+arall,other,amryw
+arall,other,arbennig
+arall,other,annhebyg
+arall,other,rhagor
+arall,other,atodol
+arall,other,anghyffelyb
+arall,other,gilydd
+newydd,new,diweddar
+newydd,new,anghyfarwydd
+newydd,new,ffres
+newydd,new,modern
+newydd,new,newydd sbon
+newydd,new,diethr
+newydd,new,crai
+newydd,new,dibrofiad
+newydd,new,ifanc
+newydd,new,wedi ei wneud
+newydd,new,cyfoes
+newydd,new,dieithr
+newydd,new,heb ei ddefnyddio
+newydd,new,glân
+newydd,new,wedi ei ddarganfod
+newydd,new,wahanol
+newydd,new,anghynefin
+newydd,new,ffasiynol
+newydd,new,glan
+newydd,new,datblygiedig
+newydd,new,diwygiedig
+newydd,new,ychwanegol
+newydd,new,gwahanol
+newydd,new,anghyffredin
+newydd,new,ieuanc
+newydd,new,arall
+newydd,new,diwygiedif
+bach,small,bychan
+bach,small,pitw
+bach,small,ifanc
+bach,small,byr
+bach,small,eiddil
+bach,small,man
+bach,small,mân
+bach,small,cyfyngedig
+bach,small,cul
+bach,small,bychain
+bach,small,main
+bach,small,ci bach
+bach,small,llai
+bach,small,mini
+bach,small,traed bach
+bach,small,gwylaidd
+bach,small,microsgopig
+bach,small,cadair fach
+bach,small,prin
+bach,small,tenau
+bach,small,bach iawn
+bach,small,maint
+bach,small,lleiaf
+bach,small,clos
+bach,small,tennau
+agos,close,gerllaw
+agos,close,cyfagos
+agos,close,clos
+agos,close,bron
+agos,close,lleol
+agos,close,nesau
+agos,close,cyffwrdd
+agos,close,clòs
+agos,close,heb fod ymhell o
+agos,close,annwyl
+agos,close,bwys
+agos,close,ger
+agos,close,ar bwys
+agos,close,union
+agos,close,o fewn ychydig i
+agos,close,ymron
+agos,close,wrth ymyl
+agos,close,o fewn dim
+agos,close,ymyl
+agos,close,cyfleus
+agos,close,bron â bod yn
+agos,close,nesaf
+agos,close,agos atoch
+agos,close,cyfarwydd
+agos,close,agosatrwydd
+agos,close,hoff
+agos,close,twym
+agos,close,wrth
+agos,close,braidd
+agos,close,agos at fy nghalon
+hen,old,hynafol
+hen,old,oedrannus
+hen,old,henaidd
+hen,old,aeddfed
+hen,old,hŷn
+hen,old,henffasiwn
+hen,old,llwyd
+hen,old,cyntefig
+hen,old,henaint
+hen,old,cyfarwydd
+hen,old,wedi aeddfedu
+hen,old,oedran
+hen,old,gwreiddiol
+hen,old,heneiddio
+hen,old,euddfed
+hen,old,traddodiadol
+hen,old,hybarch
+hen,old,gwybodus
+hen,old,wedi hir-wreiddio
+hen,old,llegach
+hen,old,sefydlog
+hen,old,blinedig
+hen,old,doeth
+cyntaf,first,prif
+cyntaf,first,ar y blaen
+cyntaf,first,arweiniol
+cyntaf,first,sylfaenol
+cyntaf,first,pennaf
+cyntaf,first,dechreuol
+cyntaf,first,blaen
+cyntaf,first,agoriadol
+cyntaf,first,cychwynnol
+cyntaf,first,dechrau
+cyntaf,first,gwreiddiol
+cyntaf,first,y tro cyntaf
+cyntaf,first,cychwynol
+cyntaf,first,blaenaf
+cyntaf,first,ei benblwydd cyntaf
+cyntaf,first,arwain
+cyntaf,first,cyflymaf
+cyntaf,first,ei siwrna cyntaf
+cyntaf,first,curo
+cyntaf,first,unfed
+cyntaf,first,y cyntaf o ebrill
+cyntaf,first,cyntefig
+cyntaf,first,cynnar
+cyntaf,first,enillydd
+cyntaf,first,byw ar y llawr cyntaf
+cyntaf,first,cynharaf
+cyntaf,first,agroiadol
+cyntaf,first,hynaf
+gwahanol,different,annhebyg
+gwahanol,different,amrywiol
+gwahanol,different,unigryw
+gwahanol,different,anghyffelyb
+gwahanol,different,anghyffredin
+gwahanol,different,rhyfedd
+gwahanol,different,gwrthgyferbyniol
+gwahanol,different,cyferbyniol
+gwahanol,different,arall
+gwahanol,different,dieithr
+gwahanol,different,amgen
+gwahanol,different,eraill
+gwahanol,different,cyferbyniad
+gwahanol,different,amryw
+gwahanol,different,ddim yn debyg
+gwahanol,different,anghonfensiynol
+gwahanol,different,unigol
+gwahanol,different,eithriadol
+gwahanol,different,anghyfarwydd
+gwahanol,different,cyferbynniol
+gwahanol,different,anghydffurfiol
+gwahanol,different,newydd
+gwahanol,different,rhyfeddol
+gwahanol,different,gwahaniaethadwy
+ifanc,young,anaeddfed
+ifanc,young,ieuanc
+ifanc,young,newydd
+ifanc,young,llancaidd
+ifanc,young,dibrofiad
+ifanc,young,iau
+ifanc,young,baban
+ifanc,young,ienanc
+ifanc,young,glas
+ifanc,young,ieuengrwydd
+ifanc,young,datblygol
+ifanc,young,amhrofiadol
+ifanc,young,llanc
+ifanc,young,glasoed
+ifanc,young,llencynnol
+ifanc,young,dyn ifanc
+ifanc,young,merch ifanc
+ifanc,young,gwyryfol
+ifanc,young,bach o oedran
+ifanc,young,diniwed
+ifanc,young,plentyn
+ifanc,young,tyfu
+ifanc,young,dysgu
+ifanc,young,bach
+pwysig,important,arwyddocaol
+pwysig,important,awdurdodol
+pwysig,important,gwerthfawr
+pwysig,important,dylanwadol
+pwysig,important,blaenllaw
+pwysig,important,sylweddol
+pwysig,important,cofiadwy
+pwysig,important,mawr
+pwysig,important,o bwys
+pwysig,important,newyddion pwysig
+pwysig,important,hanfodol
+pwysig,important,llythyr pwysig
+pwysig,important,cyhoeddiad pwysig
+pwysig,important,angenrheidiol
+pwysig,important,amlwg
+pwysig,important,mater pwysig
+pwysig,important,rhwysgfawr
+pwysig,important,terfynol
+pwysig,important,enfawr
+pwysig,important,elfen pwysig
+pwysig,important,enwog
+pwysig,important,pwysfawr
+pwysig,important,praff
+pwysig,important,difrifol
+pwysig,important,arbennig
+pwysig,important,strategol
+llawn,full,cyflawn
+llawn,full,gorlawn
+llawn,full,llond
+llawn,full,mawr
+llawn,full,yn llawn bywyd
+llawn,full,yn llawn dop
+llawn,full,llonaid
+llawn,full,manwl
+llawn,full,llawn dop
+llawn,full,llwyr
+llawn,full,pannu
+llawn,full,llenwi
+llawn,full,llawn gwynt
+llawn,full,hollol
+llawn,full,dan ei sang
+llawn,full,i'r ymyl
+llawn,full,cyfan
+llawn,full,digonedd
+llawn,full,llawn hyder
+llawn,full,holl
+llawn,full,eithaf
+llawn,full,llawnder
+llawn,full,paciedig
+llawn,full,bodlon
+llawn,full,digon
+llawn,full,toreth
+llawn,full,byrstio
+llawn,full,absoliwt
+llawn,full,helaethrwydd
+llawn,full,llwythog
+arbennig,excellent,rhagorol
+arbennig,excellent,gwych
+arbennig,excellent,eithriadol
+arbennig,excellent,rhyfeddol
+arbennig,excellent,penigamp
+arbennig,excellent,ardderchog
+arbennig,excellent,grêt
+arbennig,excellent,ysblennydd
+arbennig,excellent,da
+arbennig,excellent,godidog
+arbennig,excellent,campus
+arbennig,excellent,unigryw
+arbennig,excellent,anarferol
+arbennig,excellent,odiaeth
+arbennig,excellent,safonol
+arbennig,excellent,canmoladwy
+arbennig,excellent,nodedig
+arbennig,excellent,anghyffredin
+arbennig,excellent,amheuthun
+arbennig,excellent,hynod
+arbennig,excellent,neilltuol
+arbennig,excellent,bendigedig
+arbennig,excellent,nodwedd
+prif,main,pennaf
+prif,main,pwysicaf
+prif,main,uchaf
+prif,main,blaenaf
+prif,main,mwyaf
+prif,main,yn ffinio
+prif,main,canolog
+prif,main,prif adeilad
+prif,main,pwysig
+prif,main,hanfodol
+prif,main,prif fynedfa
+prif,main,arweiniol
+prif,main,goruchaf
+prif,main,gorau
+prif,main,blaenllaw
+prif,main,pennaeth
+prif,main,prif egwyddor
+prif,main,penodol
+prif,main,prif ddadl
+prif,main,arbenigol
+prif,main,trechol
+prif,main,sylfaenol
+prif,main,pen
+prif,main,anhepgor
+prif,main,cyntaf
+prif,main,gerllaw
+prif,main,arch
+prif,main,arbennig
+lleol,local,cyfagos
+lleol,local,agos
+lleol,local,rhanbarthol
+lleol,local,taleithiol
+lleol,local,cymdogaeth
+lleol,local,ardal
+lleol,local,cartref
+lleol,local,o'r ardal
+lleol,local,o'r fro
+lleol,local,wrth ymyl
+lleol,local,cymunedol
+lleol,local,brodorol
+lleol,local,siop leol
+lleol,local,bro
+lleol,local,cyfarwydd
+lleol,local,yn y cyffiniau
+lleol,local,garej leol
+lleol,local,cynefin
+lleol,local,taleithol
+lleol,local,tref
+lleol,local,yn y cyffuniau
+lleol,local,llyfrgell leol
+lleol,local,cylch
+lleol,local,o'r cylch
+lleol,local,cynhenid
+lleol,local,tir
+lleol,local,cwmwd
+lleol,local,dalgylch
+lleol,local,cymdeithas
+lleol,local,preswyl
+lleol,local,amgylchedd
+cenedlaethol,national,gwladol
+cenedlaethol,national,cyhoeddus
+cenedlaethol,national,sifil
+cenedlaethol,national,gwlad
+cenedlaethol,national,cymunedol
+cenedlaethol,national,domestig
+cenedlaethol,national,amgueddfa cenedlaethol
+cenedlaethol,national,gwladolyn
+cenedlaethol,national,ar lefel genedlaethol
+cenedlaethol,national,cyngerdd cenedlaethol
+cenedlaethol,national,ffederal
+cenedlaethol,national,cenedlaetholdeb
+cenedlaethol,national,llywodraethiant
+cenedlaethol,national,cenedl
+cenedlaethol,national,rhaglen cenedlaethol
+cenedlaethol,national,mewnol
+cenedlaethol,national,llywodraethol
+cenedlaethol,national,elusen cenedlaethol
+cenedlaethol,national,cenhedlig
+cenedlaethol,national,gwaedoliaeth
+cenedlaethol,national,siop cenedlaethol
+cenedlaethol,national,rhywogaeth
+cenedlaethol,national,cymdeithasol
+cenedlaethol,national,cynhenid
+cenedlaethol,national,math
+cenedlaethol,national,brodorol
+cenedlaethol,national,cartef
+cenedlaethol,national,rhanbarthol
+cenedlaethol,national,dosbarth
+cenedlaethol,national,cymdeithas
+cenedlaethol,national,pobl
+cenedlaethol,national,taleithiol
+iawn,correct,cywir
+iawn,correct,gwir
+iawn,correct,union
+iawn,correct,derbyniol
+iawn,correct,priodol
+iawn,correct,perffaith
+iawn,correct,da
+iawn,correct,ffeithiol
+iawn,correct,addas
+iawn,correct,cyfiawn
+iawn,correct,oce
+iawn,correct,golygu
+iawn,correct,manwl
+iawn,correct,di-fai
+iawn,correct,cyfreithlon
+iawn,correct,teg
+iawn,correct,diwygio
+iawn,correct,diamau
+iawn,correct,manwl gywir
+iawn,correct,di-nam
+iawn,correct,gonest
+iawn,correct,llym
+iawn,correct,safonol
+iawn,correct,di-wall
+iawn,correct,ffyddlon
+iawn,correct,gwella
+iawn,correct,gweddus
+iawn,correct,cyfaddas
+iawn,correct,disgyblu
+iawn,justice,tegwch
+iawn,justice,cyfiawnder
+iawn,justice,cywir
+iawn,justice,gonestrwydd
+iawn,justice,ustus
+iawn,justice,gwir
+iawn,justice,da
+iawn,justice,cyfiawnhau
+iawn,justice,rhesymoli
+iawn,justice,cyfiawndrer
+iawn,justice,cyfreithiol
+iawn,justice,eglurhad
+iawn,justice,uniondeb
+iawn,justice,cydraddoldeb
+iawn,justice,cyfiawnder naturiol
+iawn,justice,gwirionedd
+iawn,justice,integrol
+iawn,justice,ynad
+iawn,justice,dilysu
+iawn,justice,cyfartal
+iawn,justice,cyfiawnder gweithdrefnol
+iawn,justice,cyfiawnder dialgar
+iawn,justice,awdurdod
+iawn,justice,didueddrwydd
+iawn,justice,haeddiant
+iawn,justice,hafal
+iawn,justice,gonest
+iawn,justice,amddiffyn
+iawn,justice,cydradd
+iawn,justice,rhesymol
+iawn,justice,ffafriaeth
+iawn,justice,iawnderau
+iawn,justice,daioni
+iawn,justice,teilyngdod
+iawn,justice,moesoldeb
+iawn,very,andros
+iawn,very,tra
+iawn,very,ofnadwy
+iawn,very,gwir
+iawn,very,yn dda iawn
+iawn,very,dros ben
+iawn,very,hynod
+iawn,very,yn gryf iawn
+iawn,very,arbennig
+iawn,very,un
+iawn,very,gor-
+iawn,very,neilltuol
+iawn,very,yn fedrus iawn
+iawn,very,cywir
+iawn,very,dychrynllyd
+iawn,very,odiaeth
+iawn,very,yn weithgar iawn
+iawn,very,i'r eithaf
+iawn,very,hollol
+iawn,very,gormodol
+iawn,very,eithraidol
+iawn,very,derbyniol
+iawn,very,yn ddirfawr
+iawn,very,cymeradwy
+iawn,very,yn felys iawn
+iawn,very,ar y naw
+iawn,very,yn sicr
+iawn,very,amlwg
+iawn,very,uffernol
+iawn,very,eithafol
+siŵr,sure,sicr
+siŵr,sure,pendant
+siŵr,sure,cadarn
+siŵr,sure,saff
+siŵr,sure,positif
+siŵr,sure,hyderus
+siŵr,sure,heb os
+siŵr,sure,diamau
+siŵr,sure,clir
+siŵr,sure,i gadarnhau
+siŵr,sure,yn ddiau
+siŵr,sure,diamheuol
+siŵr,sure,anochel
+siŵr,sure,diddadl
+siŵr,sure,penodol
+siŵr,sure,yn sicr
+siŵr,sure,dibetrus
+siŵr,sure,yn bendant
+siŵr,sure,ffyddiog
+siŵr,sure,argyhoeddedig
+siŵr,sure,diogel
+siŵr,sure,amlwg
+siŵr,sure,heb amheuaeth
+siŵr,sure,diamwys
+siŵr,sure,di-ddadl
+siŵr,sure,eglur
+siŵr,sure,di-os
+siŵr,sure,diymwad
+siŵr,sure,di-ball
+diweddar,recent,newydd
+diweddar,recent,modern
+diweddar,recent,cyfoes
+diweddar,recent,newydd ddigwydd
+diweddar,recent,ffres
+diweddar,recent,heddiw
+diweddar,recent,hwyr
+diweddar,recent,ar ôl amser
+diweddar,recent,ymadawedig
+diweddar,recent,ar ei hôl hi
+diweddar,recent,hyd heddiw
+diweddar,recent,diogel
+diweddar,recent,presennol
+diweddar,recent,ffasiynol
+diweddar,recent,yn perthyn i'r presennol
+diweddar,recent,positif
+diweddar,recent,yn perthyn i'r gorffennol agos
+diweddar,recent,diweddariad
+diweddar,recent,cyfredol
+diweddar,recent,amser
+diweddar,recent,marw
+diweddar,recent,yn y dyddiau hyn
+diweddar,recent,ifanc
+diweddar,recent,diau
+tebyg,similar,cyfatebol
+tebyg,similar,unwedd
+tebyg,similar,cyffelyb
+tebyg,similar,unfath
+tebyg,similar,fel
+tebyg,similar,cyflun
+tebyg,similar,cymaradwy
+tebyg,similar,o'r un fath
+tebyg,similar,cymharol
+tebyg,similar,o'r un natur
+tebyg,similar,yr un peth
+tebyg,similar,megis
+tebyg,similar,cyfryw
+tebyg,similar,cyfartal
+tebyg,similar,hafal
+tebyg,similar,cyflenwol
+tebyg,similar,cydweddu
+tebyg,similar,cytras
+tebyg,similar,lliwiau tebyg
+tebyg,similar,perthynol
+tebyg,similar,pur debyg
+tebyg,similar,chwiorydd tebyg
+tebyg,similar,mwy na thebyg
+tebyg,similar,agos
+unig,alone,ynysig
+unig,alone,anghyfannedd
+unig,alone,anghysbell
+unig,alone,ar ei ben ei hun
+unig,alone,diffaith
+unig,alone,ben ei hun
+unig,alone,amddifad
+unig,alone,sengl
+unig,alone,hiraethus
+unig,alone,ar ben ei hun
+unig,alone,anghyraeddadwy
+unig,alone,wrtho'i hun
+unig,alone,unigol
+unig,alone,hunan
+unig,alone,datgysylltiedig
+unig,alone,diarfordd
+unig,alone,meudwy
+unig,alone,eithr
+unig,alone,digyfaill
+unig,alone,diarffordd
+unig,alone,unigedd
+unig,alone,dim ond
+unig,alone,annibynnol
+unig,alone,meudwyaidd
+unig,alone,anhysbell
+unig,alone,unawd
+unig,alone,gwag
+unig,alone,neb
+unig,alone,pell
+unig,alone,gweddw
+unig,alone,wrtho'i hunan
+amlwg,obvious,clir
+amlwg,obvious,eglur
+amlwg,obvious,diamwys
+amlwg,obvious,gweladwy
+amlwg,obvious,enwog
+amlwg,obvious,plaen
+amlwg,obvious,pendant
+amlwg,obvious,adnabyddadwy
+amlwg,obvious,digamsyniol
+amlwg,obvious,blaenllaw
+amlwg,obvious,adnabyddus
+amlwg,obvious,cyfarwydd
+amlwg,obvious,blaengar
+amlwg,obvious,dealladwy
+amlwg,obvious,syml
+amlwg,obvious,darllenadwy
+amlwg,obvious,croyw
+amlwg,obvious,bendant
+amlwg,obvious,diymwad
+amlwg,obvious,clywadwy
+amlwg,obvious,sicr
+amlwg,obvious,esboniadol
+amlwg,obvious,llachar
+amlwg,obvious,nodedig
+amlwg,obvious,pwysig
+amlwg,obvious,dybryd
+amlwg,obvious,hygyrch
+amlwg,obvious,hysbys
+hir,long,maith
+hir,long,hirfaith
+hir,long,hirwyntog
+hir,long,mawr
+hir,long,pell
+hir,long,llaes
+hir,long,tal
+hir,long,araf
+hir,long,hyd
+hir,long,mesuriad
+hir,long,hirlaes
+hir,long,am amser maith
+hir,long,llawer o amser
+hir,long,llydan
+hir,long,taith hir
+hir,long,hiraethu
+hir,long,amser hir
+hir,long,hwyr
+hir,long,ehangedig
+hir,long,estyngedig
+hir,long,estynedig
+hir,long,cwmpasog
+hir,long,mawr ei hyd
+hir,long,mwy na'r cyffredin
+hir,long,dyheu
+hir,long,diderfyn
+hir,long,uchel
+hir,long,diddiwedd
+hir,long,dwfn
+drwg,bad,gwael
+drwg,bad,anfoesol
+drwg,bad,cas
+drwg,bad,niweidiol
+drwg,bad,annuwiol
+drwg,bad,llygredig
+drwg,bad,ofnadwy
+drwg,bad,annerbyniol
+drwg,bad,andwyol
+drwg,bad,sbwriel
+drwg,bad,pechadurus
+drwg,bad,annymunol
+drwg,bad,sâl
+drwg,bad,rhad
+drwg,bad,tila
+drwg,bad,peryglus
+drwg,bad,diwerth
+drwg,bad,anghymeradwy
+drwg,bad,cras
+drwg,bad,siomedig
+drwg,bad,llym
+drwg,bad,anfoddhaol
+drwg,bad,erchyll
+drwg,bad,drygionus
+drwg,bad,anfedrus
+drwg,bad,esgeulus
+drwg,bad,anweddus
+drwg,bad,amherffaith
+drwg,bad,annigonol
+drwg,bad,trist
+drwg,mischief,direidi
+drwg,mischief,drygioni
+drwg,mischief,drygionus
+drwg,mischief,direidus
+drwg,mischief,anfoesol
+drwg,mischief,niwed
+drwg,mischief,cythreuldeb
+drwg,mischief,anfadrwydd
+drwg,mischief,celwydd
+drwg,mischief,camymddwyn
+drwg,mischief,trygionus
+drwg,mischief,malais
+drwg,mischief,camymddygiad
+drwg,mischief,cellwair
+drwg,mischief,camwedd
+drwg,mischief,dihirwch
+drwg,mischief,cambyhafio
+drwg,mischief,sbeit
+drwg,mischief,hwyl ddiniwed
+drwg,mischief,trychineb
+drwg,mischief,difrodi
+drwg,mischief,mileindra
+drwg,mischief,chwareusrwydd
+drwg,mischief,gwael
+drwg,mischief,troseddu
+drwg,mischief,gweithred ddrwg
+drwg,mischief,twyll
+drwg,mischief,bwriadol
+drwg,mischief,atgasedd
+drwg,mischief,annymunol
+drwg,mischief,fandaliaeth
+drwg,mischief,cas
+drwg,mischief,niweidiol
+drwg,mischief,anffawd
+drwg,mischief,drwg
+drwg,mischief,niweidio
+drwg,mischief,pechadurus
+drwg,mischief,trosedd
+drwg,mischief,anfad
+drwg,mischief,anfadwaith
+drwg,mischief,andwyo
+parod,ready,bodlon
+parod,ready,cyfleus
+parod,ready,cymwynasgar
+parod,ready,cymwys
+parod,ready,ewyllysgar
+parod,ready,calonnog
+parod,ready,didrafferth
+parod,ready,hygyrch
+parod,ready,parod at y nadolig
+parod,ready,parod at y daith
+parod,ready,wedi'i baratoi
+parod,ready,ewyllsgar
+parod,ready,diymdroi
+parod,ready,rhwydd
+parod,ready,parod at y wers
+parod,ready,gwasanaethgar
+parod,ready,hwylus
+parod,ready,paratoi
+parod,ready,parod at y ddarlith
+parod,ready,priodol
+parod,ready,parodrwydd
+parod,ready,trefnu
+parod,ready,disgwylgar
+parod,ready,parod i weld ffrind
+parod,ready,hylaw
+parod,ready,amodol
+parod,ready,hawdd
+parod,ready,wedi paratoi
+anodd,difficult,caled
+anodd,difficult,trafferthus
+anodd,difficult,heriol
+anodd,difficult,llafurus
+anodd,difficult,cymhleth
+anodd,difficult,afrwydd
+anodd,difficult,cas
+anodd,difficult,annifyr
+anodd,difficult,anghyfleus
+anodd,difficult,ffwdanus
+anodd,difficult,uchelgeisiol
+anodd,difficult,dyrys
+anodd,difficult,astrus
+anodd,difficult,drysys
+anodd,difficult,hanfodol
+anodd,difficult,poenus
+anodd,difficult,baich
+anodd,difficult,anhydrin
+anodd,difficult,anhawster
+anodd,difficult,ystyfnig
+anodd,difficult,anystywallt
+anodd,difficult,problematig
+anodd,difficult,ymrechgar
+anodd,difficult,gwydn
+aneglur,unclear,amwys
+aneglur,unclear,niwlog
+aneglur,unclear,amhendant
+aneglur,unclear,annealladwy
+aneglur,unclear,dryslyd
+aneglur,unclear,amhenodol
+aneglur,unclear,annelwig
+aneglur,unclear,afloyw
+aneglur,unclear,anghlir
+aneglur,unclear,cyfarwyddiadau aneglur
+aneglur,unclear,cymylog
+aneglur,unclear,ansicr
+aneglur,unclear,esboniad aneglur
+aneglur,unclear,ateb aneglur
+aneglur,unclear,arholiad aneglur
+aneglur,unclear,cymylu
+aneglur,unclear,diafael
+aneglur,unclear,brith
+aneglur,unclear,neges aneglur
+aneglur,unclear,aneglur
+aneglur,unclear,astrus
+aneglur,unclear,ansefydlog
+aneglur,unclear,cymysglyd
+aneglur,unclear,tywyll
+aneglur,unclear,bloesg
+aneglur,unclear,anhryloyw
+diwethaf,last,olaf
+diwethaf,last,terfynol
+diwethaf,last,diweddar
+diwethaf,last,blaenorol
+diwethaf,last,y gair diwethaf
+diwethaf,last,gorffenedig
+diwethaf,last,y frenhines diwethaf
+diwethaf,last,gorffen yn olaf
+diwethaf,last,gorffen
+diwethaf,last,diweddu
+diwethaf,last,blwyddyn diwethaf
+diwethaf,last,diweddaraf
+diwethaf,last,marwolaeth
+diwethaf,last,colli
+diwethaf,last,casgliad
+diwethaf,last,mis diwethaf
+diwethaf,last,agos
+diwethaf,last,cynt
+diwethaf,last,dibennu
+diwethaf,last,methu
+diwethaf,last,pennaf
+diwethaf,last,caeedig
+diwethaf,last,y cartref diwethaf
+diwethaf,last,cwblhau
+diwethaf,last,darfod
+diwethaf,last,diwedd
+diwethaf,last,eithaf
+cymaint,as many,cynifer
+cymaint,as many,llawer
+cymaint,as many,niferus
+cymaint,as many,sawl
+cymaint,as many,nifer
+cymaint,as many,mawr
+cymaint,as many,aml
+cymaint,as many,lluosog
+cymaint,as many,cymaint o bobl
+cymaint,as many,llwyth
+cymaint,as many,digon
+cymaint,as many,cymaint o drafod am
+cymaint,as many,mor fawr
+cymaint,as many,mor niferus
+cymaint,as many,digonedd
+cymaint,as many,faint
+cymaint,as many,cymaint o werth
+cymaint,as many,yr un faint
+cymaint,as many,gormod
+cymaint,as many,cymaint o sylw
+cymaint,as many,llaweroedd
+cymaint,as many,cymaint o nodweddion i'r
+cymaint,as many,wmbredd
+cymaint,as many,helaeth
+cymaint,as many,helaethrwydd
+cymaint,as many,brith
+cymaint,as many,amryw
+cymaint,as many,cyffredin
+cyffredinol,common,arferol
+cyffredinol,common,cyffredin
+cyffredinol,common,bras
+cyffredinol,common,aml
+cyffredinol,common,cyson
+cyffredinol,common,yn gyffredin
+cyffredinol,common,comin
+cyffredinol,common,cyfarwydd
+cyffredinol,common,wedi'i rannu
+cyffredinol,common,poblogaidd
+cyffredinol,common,normal
+cyffredinol,common,byd-eang
+cyffredinol,common,beunyddiol
+cyffredinol,common,gweddol
+cyffredinol,common,adnabyddus
+cyffredinol,common,cymedrol
+cyffredinol,common,mynych
+cyffredinol,common,naturiol
+cyffredinol,common,yn perthyn i bawb
+cyffredinol,common,syml
+cyffredinol,common,yr un peth
+cyffredinol,common,derbyniad
+cyffredinol,common,cyfun
+cyffredinol,common,rheolaidd
+cyffredinol,common,cylchol
+cyffredinol,common,cydwladol
+cyffredinol,common,yn perthyn i bopeth
+cyffredinol,common,cytir
+cyffredinol,common,nodweddiadol
+gwych,excellent,ardderchog
+gwych,excellent,rhagorol
+gwych,excellent,campus
+gwych,excellent,da
+gwych,excellent,canmoladwy
+gwych,excellent,ysblennydd
+gwych,excellent,penigamp
+gwych,excellent,brenhinol
+gwych,excellent,dethol
+gwych,excellent,godidog
+gwych,excellent,bendigedig
+gwych,excellent,gret
+gwych,excellent,rhyfeddol
+gwych,excellent,gwiw
+gwych,excellent,eithriadol
+gwych,excellent,da iawn
+gwych,excellent,llwyddiannus
+gwych,excellent,odiaeth
+gwych,excellent,mawreddog
+gwych,excellent,teg
+gwych,excellent,ffantastig
+gwych,excellent,ysblenydd
+olaf,last,diwethaf
+olaf,last,terfynol
+olaf,last,gorffen
+olaf,last,y dasg olaf
+olaf,last,colli
+olaf,last,y wers olaf
+olaf,last,lest
+olaf,last,y gystadleuaeth olaf
+olaf,last,diben
+olaf,last,diweddar
+olaf,last,eithaf
+olaf,last,gorffen yn olaf
+olaf,last,blaenorol
+olaf,last,y dawns olaf
+olaf,last,terfyn
+olaf,last,agos
+olaf,last,cynt
+olaf,last,lleiaf
+olaf,last,methu
+olaf,last,pennaf
+olaf,last,darfod
+olaf,last,y rhaglen olaf
+olaf,last,gorffenedig
+olaf,last,llynedd
+olaf,last,diweddglo
+olaf,last,y daith olaf
+olaf,last,gorffennol
+olaf,last,cyflawn
+olaf,last,diwedd
+cymdeithasol,sociable/social,cyfeillgar
+cymdeithasol,sociable/social,cymdeithasgar
+cymdeithasol,sociable/social,croesawgar
+cymdeithasol,sociable/social,allblyg
+cymdeithasol,sociable/social,caredig
+cymdeithasol,sociable/social,hynaws
+cymdeithasol,sociable/social,cymdeithasu
+cymdeithasol,sociable/social,grwp
+cymdeithasol,sociable/social,sifil
+cymdeithasol,sociable/social,mewnblyg
+cymdeithasol,sociable/social,siaradus
+cymdeithasol,sociable/social,ymadawol
+cymdeithasol,sociable/social,calonnog
+cymdeithasol,sociable/social,sgwrsio
+cymdeithasol,sociable/social,gwresog
+cymdeithasol,sociable/social,yn cymysgu gydag eraill
+cymdeithasol,sociable/social,treulio amser
+cymdeithasol,sociable/social,cynnes
+cymdeithasol,sociable/social,cyhoeddus
+cymdeithasol,sociable/social,cordial
+cymdeithasol,sociable/social,hyfryd
+cymdeithasol,sociable/social,cymdogol
+cymdeithasol,sociable/social,croesawus
+cymdeithasol,sociable/social,hoffus
+cymdeithasol,sociable/social,hyderus
+cymdeithasol,sociable/social,cymysgu
+cymdeithasol,sociable/social,lletygar
+cymdeithasol,sociable/social,siarad
+cymdeithasol,sociable/social,cydymaith
+cymdeithasol,sociable/social,clebran
+cymdeithasol,sociable/social,agored
+pell,distant,anghysbell
+pell,distant,ymhell
+pell,distant,oeraidd
+pell,distant,pellennig
+pell,distant,hirbell
+pell,distant,diarffordd
+pell,distant,anghymdeithasol
+pell,distant,hir
+pell,distant,brith
+pell,distant,maith
+pell,distant,distaw
+pell,distant,yn y pellter
+pell,distant,anghyraeddadwy
+pell,distant,anhygyrch
+pell,distant,pellach
+pell,distant,anodd mynd ato
+pell,distant,pellenig
+pell,distant,cyrhaeddbell
+pell,distant,cwmpas
+pell,distant,diserch
+pell,distant,encilgar
+pell,distant,anodd closio ato
+pell,distant,ynysig
+pell,distant,ar-wahan
+pell,distant,maintioli
+pell,distant,unig
+pell,distant,i ffwrdd
+pell,distant,anghyfeillgar
+pell,distant,anghroesawgar
+aml,often,rheolaidd
+aml,often,cyson
+aml,often,yn fynych
+aml,often,cyffredin
+aml,often,llawer
+aml,often,arferol
+aml,often,drachefn
+aml,often,toreithiog
+aml,often,niferus
+aml,often,helaeth
+aml,often,llawer gwaith
+aml,often,bob hyn a hyn
+aml,often,mynych
+aml,often,o bryd i'w gilydd
+aml,often,weithiau
+aml,often,lluosog
+aml,often,yn gyson
+aml,often,normal
+aml,often,naturiol
+aml,often,toreithog
+aml,often,cyffredinol
+aml,often,lot
+aml,often,brith
+posib,possible,ymarferol
+posib,possible,potensial
+posib,possible,dichonadwy
+posib,possible,cyraeddadwy
+posib,possible,tebygol
+posib,possible,credadwy
+posib,possible,dichonol
+posib,possible,cyfle
+posib,possible,siawns
+posib,possible,dymunol
+posib,possible,gallu
+posib,possible,cyrraeddadwy
+posib,possible,creadwy
+posib,possible,hap
+posib,possible,cyflanwnadwy
+posib,possible,hyfyw
+posib,possible,a all fod
+posib,possible,defnyddiol
+posib,possible,dirnadwy
+posib,possible,gobeithiol
+posib,possible,dychmygol
+coch,red (colour),fflamgoch
+coch,red (colour),rhuddgoch
+coch,red (colour),ysgarlad
+coch,red (colour),cringoch
+coch,red (colour),dugoch
+coch,red (colour),awyr coch
+coch,red (colour),purgoch
+coch,red (colour),lliw
+coch,red (colour),afal coch
+coch,red (colour),browngoch
+coch,red (colour),coch golau
+coch,red (colour),lliw gwaed
+coch,red (colour),rhosyn
+coch,red (colour),esgidiau coch
+coch,red (colour),cochliw
+coch,red (colour),bwrgwyn
+coch,red (colour),coch tywyll
+coch,red (colour),brown
+coch,red (colour),rhwd
+coch,red (colour),fflam
+coch,red (colour),mwclis coch
+coch,red (colour),cymru
+coch,red (colour),breichled coch
+coch,red (colour),ceirios
+coch,red (colour),carmin
+coch,red (colour),cochi
+coch,red (colour),cochddu
+coch,red (colour),addurniadau coch
+coch,red (colour),calon
+coch,red (colour),gwin coch
+coch,red (colour),clustog coch
+coch,red (colour),gwin
+coch,red (colour),gwaed
+coch,red (colour),clustdlysau coch
+coch,red (colour),beic coch
+coch,red (poor/ rude),anweddus
+coch,red (poor/ rude),anghwrtais
+coch,red (poor/ rude),digywilydd
+coch,red (poor/ rude),gwael
+coch,red (poor/ rude),brwnt
+coch,red (poor/ rude),amharchus
+coch,red (poor/ rude),anfoesgar
+coch,red (poor/ rude),hy
+coch,red (poor/ rude),di-chwaeth
+coch,red (poor/ rude),anghywrain
+coch,red (poor/ rude),taeog
+coch,red (poor/ rude),cyntefig
+coch,red (poor/ rude),anghelfydd
+coch,red (poor/ rude),crai
+coch,red (poor/ rude),swrth
+coch,red (poor/ rude),dilornus
+coch,red (poor/ rude),aflednais
+coch,red (poor/ rude),amrwd
+coch,red (poor/ rude),anwybodus
+coch,red (poor/ rude),dirmygus
+coch,red (poor/ rude),annymunol
+coch,red (poor/ rude),di-foes
+coch,red (poor/ rude),digwrtais
+coch,red (poor/ rude),tila
+coch,red (poor/ rude),anfedrus
+coch,red (poor/ rude),amheus
+coch,red (poor/ rude),anhyfedr
+coch,red (poor/ rude),anghoeth
+coch,red (poor/ rude),di-barch
+coch,red (poor/ rude),anhydrin
+coch,red (poor/ rude),eofn
+coch,red (poor/ rude),anwaraidd
+coch,red (poor/ rude),haerllug
+is,below,o dan
+is,below,isod
+is,below,islaw
+is,below,tanodd
+is,below,obry
+is,below,dirprwy
+is,below,lawr
+is,below,tan
+is,below,dirprwyol
+is,below,y llys isod
+is,below,eilradd
+is,below,danodd
+is,below,y frawddeg isod
+is,below,iselradd
+is,below,y wybodaeth isod
+is,below,israddol
+is,below,oddi tan
+is,below,gwael
+is,below,fel y nodir isod
+is,below,y tu isaf i
+is,below,dan
+is,below,goris
+is,below,isel
+is,below,heb fod cystal
+is,below,ail mewn safle
+ariannol,financial,cyllidol
+ariannol,financial,economaidd
+ariannol,financial,masnachol
+ariannol,financial,pres
+ariannol,financial,arian
+ariannol,financial,busnes
+ariannol,financial,cyflog
+ariannol,financial,perthynol i arian
+ariannol,financial,bancio
+ariannol,financial,buddsoddiad
+ariannol,financial,enillion
+ariannol,financial,cyfoeth
+ariannol,financial,dyled ariannol
+ariannol,financial,banciau
+ariannol,financial,sefydlog yn ariannol
+ariannol,financial,rhifau
+ariannol,financial,adenillion
+ariannol,financial,cyfoethogi
+ariannol,financial,tâl
+ariannol,financial,llog
+penodol,particular,union
+penodol,particular,penodedig
+penodol,particular,arbennig
+penodol,particular,neilltuol
+penodol,particular,pendant
+penodol,particular,eglur
+penodol,particular,arbenigol
+penodol,particular,cymharol
+penodol,particular,nodedig
+penodol,particular,clir
+penodol,particular,sbesiffig
+penodol,particular,priod
+penodol,particular,diamwys
+penodol,particular,enwedig
+penodol,particular,gwrthrych penodol
+penodol,particular,teimlad penodol
+penodol,particular,sicr
+penodol,particular,priodol
+penodol,particular,manwl
+penodol,particular,trachywir
+penodol,particular,manwl gywir
+penodol,particular,ardal penodol
+penodol,particular,rhan penodol
+penodol,particular,addas
+penodol,particular,dyfais penodol
+penodol,particular,unigol
+penodol,particular,allwedd penodol
+penodol,particular,cwrs penodol
+diddorol,interesting,difyr
+diddorol,interesting,adloniadol
+diddorol,interesting,diddan
+diddorol,interesting,difyrrus
+diddorol,interesting,swynol
+diddorol,interesting,nodedig
+diddorol,interesting,hudol
+diddorol,interesting,dymunol
+diddorol,interesting,diddanus
+diddorol,interesting,deniadol
+diddorol,interesting,cyffrous
+diddorol,interesting,chwilfrydig
+diddorol,interesting,diddanu
+diddorol,interesting,pleserus
+diddorol,interesting,cynhyrfiol
+diddorol,interesting,apelgar
+diddorol,interesting,boddhaol
+diddorol,interesting,anarferol
+diddorol,interesting,ymchwilgar
+diddorol,interesting,hudolus
+diddorol,interesting,yn dal sylw
+diddorol,interesting,lliwgar
+diddorol,interesting,cymhellol
+diddorol,interesting,dengar
+diddorol,interesting,cymell
+diddorol,interesting,o ddirddordeb
+cyhoeddus,public,agored
+cyhoeddus,public,hysbys
+cyhoeddus,public,cyffredin
+cyhoeddus,public,gwybyddus
+cyhoeddus,public,cymunedol
+cyhoeddus,public,poblogaidd
+cyhoeddus,public,coedd
+cyhoeddus,public,cymdeithasol
+cyhoeddus,public,sifil
+cyhoeddus,public,ar goedd
+cyhoeddus,public,cyffredinol
+cyhoeddus,public,gwybodus
+cyhoeddus,public,trefol
+cyhoeddus,public,amlwg i bawb
+cyhoeddus,public,neges cyhoeddus
+cyhoeddus,public,cyfrannol
+cyhoeddus,public,cyfarwydd
+cyhoeddus,public,dinesig
+cyhoeddus,public,pobl
+cyhoeddus,public,cyfunol
+cyhoeddus,public,i bawb
+cyhoeddus,public,perthyn i bawb
+hawdd,easy,syml
+hawdd,easy,rhwydd
+hawdd,easy,diymdrech
+hawdd,easy,hwylus
+hawdd,easy,didrafferth
+hawdd,easy,anffurfiol
+hawdd,easy,cyfleus
+hawdd,easy,didraffaerth
+hawdd,easy,amlwg
+hawdd,easy,dirwystr
+hawdd,easy,diffwdan
+hawdd,easy,hydrin
+hawdd,easy,hygyrch
+hawdd,easy,di-boen
+hawdd,easy,esmwyth
+hawdd,easy,anghymhleth
+hawdd,easy,heb fod yn galed
+hawdd,easy,cyraeddadwy
+hawdd,easy,parod
+hawdd,easy,dilestair
+cynnar,early,buan
+cynnar,early,boreol
+cynnar,early,bore
+cynnar,early,cynamserol
+cynnar,early,ffres
+cynnar,early,cyn pryd
+cynnar,early,plygeiniol
+cynnar,early,cychwynnol
+cynnar,early,fuan
+cynnar,early,sydyn
+cynnar,early,diweddar
+cynnar,early,mewn amser da
+cynnar,early,annhymig
+cynnar,early,newydd
+cynnar,early,crai
+cynnar,early,gwely cynnar
+cynnar,early,cyntaf
+cynnar,early,anamserol
+cynnar,early,irion
+cynnar,early,cinio cynnar
+cynnar,early,cyntefig
+cynnar,early,mewn da bryd
+cynnar,early,swper cynnar
+cynnar,early,amserol
+cynnar,early,cyn yr amser penodedig
+cynnar,early,parod
+cynnar,early,cynt
+cynnar,early,blaenorol
+gwreiddiol,original,sylfaenol
+gwreiddiol,original,cychwynnol
+gwreiddiol,original,unigryw
+gwreiddiol,original,cyntaf
+gwreiddiol,original,dechreuol
+gwreiddiol,original,cyntefig
+gwreiddiol,original,cynharaf
+gwreiddiol,original,ffres
+gwreiddiol,original,cysefin
+gwreiddiol,original,hanfodol
+gwreiddiol,original,newydd
+gwreiddiol,original,arloesol
+gwreiddiol,original,hen
+gwreiddiol,original,creadigol
+gwreiddiol,original,dilys
+gwreiddiol,original,gwerthfawr
+gwreiddiol,original,dychmygus
+gwreiddiol,original,cynnar
+gwreiddiol,original,anghonfensiynol
+gwreiddiol,original,blaen
+gwreiddiol,original,dyfeisgar
+gwreiddiol,origin,tarddiad
+gwreiddiol,origin,dechreuad
+gwreiddiol,origin,gwraidd
+gwreiddiol,origin,ffynhonnell
+gwreiddiol,origin,gwreiddyn
+gwreiddiol,origin,cynhenid
+gwreiddiol,origin,tarddle
+gwreiddiol,origin,brodorol
+gwreiddiol,origin,cychwyniad
+gwreiddiol,origin,haniad
+gwreiddiol,origin,man cychwyn
+gwreiddiol,origin,cysefin
+gwreiddiol,origin,achos dechreuol
+gwreiddiol,origin,cartref
+gwreiddiol,origin,tarddbwynt
+gwreiddiol,origin,genedigath
+gwreiddiol,origin,cenedl
+gwreiddiol,origin,mebyd
+gwreiddiol,origin,gwawr
+gwreiddiol,origin,cychwyn
+gwreiddiol,origin,yn enedigol o
+gwreiddiol,origin,llinach
+gwreiddiol,origin,cyntaf
+gwreiddiol,origin,perthynas
+gwreiddiol,origin,yn hanu o
+gwreiddiol,origin,dylanwad
+gwreiddiol,origin,sylfaen
+gwreiddiol,origin,deilliad
+hapus,happy,llawen
+hapus,happy,bodlon
+hapus,happy,dedwydd
+hapus,happy,siriol
+hapus,happy,llon
+hapus,happy,hwyliog
+hapus,happy,cyffrous
+hapus,happy,cysurus
+hapus,happy,mewn hwyliau da
+hapus,happy,dymunol
+hapus,happy,wrth ei fodd
+hapus,happy,diddig
+hapus,happy,ffodus
+hapus,happy,diddan
+hapus,happy,balch
+hapus,happy,gwynfedig
+hapus,happy,diwarafun
+hapus,happy,gwynfydedig
+hapus,happy,gwyn ei fyd
+hapus,happy,braf
+uchel,high,tal
+uchel,high,serth
+uchel,high,mawreddog
+uchel,high,mynyddig
+uchel,high,fry
+uchel,high,hir
+uchel,high,pell o'r llawr
+uchel,high,mawr
+uchel,high,adeilad uchel
+uchel,high,uchel yn yr awyr
+uchel,high,anferth
+uchel,high,ymgodol
+uchel,high,safonau uchel
+uchel,high,uwch
+uchel,high,tyrog
+uchel,high,dyrchafedig
+uchel,high,dwys
+uchel,high,gradd uchel
+uchel,high,swydd uchel
+uchel,high,enfawr
+uchel,high,pell
+uchel,high,mynyddog
+uchel,high,cawraidd
+uchel,high,cost uchel
+uchel,high,amrylawr
+uchel,high,aml-lawr
+uchel,high,nendwr
+union,straight/direct,syth
+union,straight/direct,uniongyrchol
+union,straight/direct,agored
+union,straight/direct,unionsyth
+union,straight/direct,priodol
+union,straight/direct,gwir
+union,straight/direct,plaen
+union,straight/direct,penodol
+union,straight/direct,gonest
+union,straight/direct,cymwys
+union,straight/direct,clir
+union,straight/direct,sbesiffig
+union,straight/direct,rheoli
+union,straight/direct,diwyro
+union,straight/direct,manwl
+union,straight/direct,addas
+union,straight/direct,gorchymyn
+union,straight/direct,diffuant
+union,straight/direct,cyfiawn
+union,straight/direct,didwyll
+union,straight/direct,diduedd
+union,straight/direct,trachywir
+union,straight/direct,syml
+union,straight/direct,unionlin
+union,straight/direct,anhyblyg
+union,straight/direct,sianelu
+union,straight/direct,cyfreithlon
+union,straight/direct,hollol
+union,straight/direct,dyledus
+union,straight/direct,llywyddu
+union,straight/direct,llinellol
+union,straight/direct,cywir
+union,straight/direct,cyfarwyddo
+union,straight/direct,teg
+union,straight/direct,plwmp
+neis,nice,annwyl
+neis,nice,caredig
+neis,nice,dymunol
+neis,nice,hyfryd
+neis,nice,pleserus
+neis,nice,braf
+neis,nice,cwrtais
+neis,nice,clên
+neis,nice,atyniadol
+neis,nice,del
+neis,nice,teg
+neis,nice,cyfeillgar
+neis,nice,ffeind
+neis,nice,cyffeillgar
+neis,nice,deniadol
+neis,nice,blasus
+neis,nice,hoffus
+neis,nice,clen
+neis,nice,prydferth
+neis,nice,hynaws
+neis,nice,apeliadol
+neis,nice,apelgar
+neis,nice,ystyriol
+neis,nice,swynol
+personol,personal,preifat
+personol,personal,cyfrinachol
+personol,personal,unigolyn
+personol,personal,cudd
+personol,personal,unigryw
+personol,personal,penodol
+personol,personal,manylion personol
+personol,personal,agos
+personol,personal,hunain
+personol,personal,unigol
+personol,personal,cyfarwydd
+personol,personal,cyfeiriad personol
+personol,personal,goddrychol
+personol,personal,arbennig
+personol,personal,datganiad personol
+personol,personal,cyfrinach
+personol,personal,cyfrin
+personol,personal,nodedig
+personol,personal,onest
+personol,personal,cyfarfod personol
+personol,personal,hunan
+personol,personal,i'r unigolyn
+personol,personal,tiwtor personol
+personol,personal,anghynhwysol
+personol,personal,neges personol
+personol,personal,neilltuedig
+personol,personal,anrheg personol
+sych,not wet,cras
+sych,not wet,crimp
+sych,not wet,sychedig
+sych,not wet,crin
+sych,not wet,hysb
+sych,not wet,sychlyd
+sych,not wet,dadhydredig
+sych,not wet,diffaith
+sych,not wet,diffrwyth
+sych,not wet,tir sych
+sych,not wet,dihysbyddu
+sych,not wet,pridd sych
+sych,not wet,wedi sychu
+sych,not wet,toes sych
+sych,not wet,diflas
+sych,not wet,noeth
+sych,not wet,sychu
+sych,not wet,paent sych
+sych,not wet,anhydrus
+sych,not wet,crablyd
+sych,not wet,caled
+sych,not wet,brechdan sych
+sych,not wet,hen
+sych,not wet,tywydd sych
+sych,not wet,crebachlyd
+sych,not wet,llychryd
+sych,not wet,anial
+sych,not wet,dysychedig
+sych,dull/ dry (humour),diflas
+sych,dull/ dry (humour),digywilydd
+sych,dull/ dry (humour),undonog
+sych,dull/ dry (humour),dwl
+sych,dull/ dry (humour),syml
+sych,dull/ dry (humour),anniddorol
+sych,dull/ dry (humour),syrffedus
+sych,dull/ dry (humour),digellwair
+sych,dull/ dry (humour),anhwylus
+sych,dull/ dry (humour),chwerw
+sych,dull/ dry (humour),digyffro
+sych,dull/ dry (humour),dihiwmor
+sych,dull/ dry (humour),sarrug
+sych,dull/ dry (humour),sychlyd
+sych,dull/ dry (humour),adroddiadol
+sych,dull/ dry (humour),plaen
+sych,dull/ dry (humour),swta
+sych,dull/ dry (humour),dienaid
+sych,dull/ dry (humour),annymunol
+sych,dull/ dry (humour),fflat
+sych,dull/ dry (humour),anfanwl
+sych,dull/ dry (humour),anemosiynol
+sych,dull/ dry (humour),diserch
+sych,dull/ dry (humour),llwm
+sych,dull/ dry (humour),anghwrtais
+sych,dull/ dry (humour),surbwch
+sych,dull/ dry (humour),dieneiniad
+sych,dull/ dry (humour),tawel
+prydferth,beautiful,hardd
+prydferth,beautiful,del
+prydferth,beautiful,tlws
+prydferth,beautiful,pert
+prydferth,beautiful,prydweddol
+prydferth,beautiful,golygus
+prydferth,beautiful,pur
+prydferth,beautiful,lluniaidd
+prydferth,beautiful,deniadol
+prydferth,beautiful,merch prydferth
+prydferth,beautiful,glwys
+prydferth,beautiful,dengar
+prydferth,beautiful,golygfa prydferth
+prydferth,beautiful,hudolus
+prydferth,beautiful,blodyn prydferth
+prydferth,beautiful,ciwt
+prydferth,beautiful,telaid
+prydferth,beautiful,cyfrwys
+prydferth,beautiful,cain
+prydferth,beautiful,gweddaidd
+prydferth,beautiful,mirain
+prydferth,beautiful,swynol
+prydferth,beautiful,teg
+prydferth,beautiful,glandeg
+prydferth,beautiful,perffaith
+prydferth,beautiful,syfrdanol
+prydferth,beautiful,ceindeg
+prydferth,beautiful,trawiadol
+prydferth,beautiful,deiniadol
+prydferth,beautiful,glan
+hyll,ugly,erchyll
+hyll,ugly,hagr
+hyll,ugly,salw
+hyll,ugly,amhrydferth
+hyll,ugly,afiach
+hyll,ugly,anhardd
+hyll,ugly,gwrthun
+hyll,ugly,annymunol
+hyll,ugly,diolwg
+hyll,ugly,grotesg
+hyll,ugly,anolygus
+hyll,ugly,diserch
+hyll,ugly,od
+hyll,ugly,plaen
+hyll,ugly,annifyr
+hyll,ugly,dybryd
+hyll,ugly,ffiaidd
+hyll,ugly,echrydus
+hyll,ugly,anneniadol
+hyll,ugly,aflunaidd
+hyll,ugly,gwael
+hyll,ugly,dirmygadwy
+hyll,ugly,diofal
+hyll,ugly,cas
+hyll,ugly,drwg
+hyll,ugly,ofnadwy
+hyll,ugly,atgas
+hwylus,convenient,cyfleus
+hwylus,convenient,hylaw
+hwylus,convenient,hawdd
+hwylus,convenient,rhwydd
+hwylus,convenient,didrafferth
+hwylus,convenient,ar bwys
+hwylus,convenient,ar gael
+hwylus,convenient,cyfagos
+hwylus,convenient,cyfaddas
+hwylus,convenient,gerllaw
+hwylus,convenient,hygyrch
+hwylus,convenient,addas
+hwylus,convenient,o fewn cyrraedd
+hwylus,convenient,ffafriol
+hwylus,convenient,agos
+hwylus,convenient,pwrpasol
+hwylus,convenient,cyffyrddus
+hwylus,convenient,dymunol
+hwylus,convenient,gweddus
+hwylus,convenient,defnyddiol
+hwylus,convenient,cynorthwyol
+hwylus,convenient,parod
+hwylus,convenient,ger
+hwylus,convenient,wrth
+hwylus,healthy,iachus
+hwylus,healthy,iach
+hwylus,healthy,cryf
+hwylus,healthy,diglefyd
+hwylus,healthy,llesol
+hwylus,healthy,holliach
+hwylus,healthy,heini
+hwylus,healthy,bywiog
+hwylus,healthy,abl
+hwylus,healthy,bodlon
+hwylus,healthy,da
+hwylus,healthy,maethlon
+hwylus,healthy,egnïol
+hwylus,healthy,actif
+hwylus,healthy,grymus
+hwylus,healthy,balch
+hwylus,healthy,athletaidd
+hwylus,healthy,yn gwbl iach
+hwylus,healthy,gweithredol
+hwylus,healthy,egniol
+hwylus,healthy,digeflyd
+hwylus,healthy,normal
+hwylus,smooth/went well,diymdrech
+hwylus,smooth/went well,hawdd
+hwylus,smooth/went well,llyfn
+hwylus,smooth/went well,esmwyth
+hwylus,smooth/went well,da
+hwylus,smooth/went well,sefydlog
+hwylus,smooth/went well,slic
+hwylus,smooth/went well,hawdd ei ddefnyddio
+hwylus,smooth/went well,braf
+hwylus,smooth/went well,dirwystr
+hwylus,smooth/went well,didrafferth
+hwylus,smooth/went well,llwyddiannus
+hwylus,smooth/went well,hyfryf
+hwylus,smooth/went well,hawdd ei drin
+hwylus,smooth/went well,rhwydd
+hwylus,smooth/went well,cyson
+hwylus,smooth/went well,llifo
+hwylus,smooth/went well,heddychlon
+hwylus,smooth/went well,cyfleus
+hwylus,smooth/went well,heb fawr o drafferth
+hwylus,smooth/went well,gwelliant
+hwylus,smooth/went well,iawn
+hwylus,smooth/went well,llonydd
+hwylus,smooth/went well,digyffro
+hwylus,smooth/went well,llifol
+hwylus,smooth/went well,ffafriol
+hwylus,smooth/went well,defnyddiol
+hwylus,smooth/went well,effeithiol
+hwylus,smooth/went well,di-ddigwyddiad
+hwylus,smooth/went well,dymunol
+hwylus,smooth/went well,graenus
+hwylus,smooth/went well,tawel
+buddugol,victorious,ennill
+buddugol,victorious,llwyddiannus
+buddugol,victorious,trechu
+buddugol,victorious,gorchfygol
+buddugol,victorious,buddugoliaethus
+buddugol,victorious,arobryn
+buddugol,victorious,pencampwraig
+buddugol,victorious,gorchfygu
+buddugol,victorious,wedi ennill
+buddugol,victorious,enillydd
+buddugol,victorious,yn derbyn
+buddugol,victorious,cyntaf
+buddugol,victorious,pencampwr
+buddugol,victorious,gorfoleddus
+buddugol,victorious,enillwr
+buddugol,victorious,wedi'i ddyfarnu
+buddugol,victorious,trech
+buddugol,victorious,curo
+buddugol,victorious,gorau
+buddugol,victorious,cyrraedd
+buddugol,victorious,ar y tu blaen
+buddugol,victorious,goruchafiaeth
+buddugol,victorious,buddugol
+buddugol,victorious,maeddu
+buddugol,victorious,cwblhau
+buddugol,victorious,haeddiannol
+buddugol,victorious,balchder
+buddugol,victorious,grymus
+buddugol,victorious,llwyddiant
+buddugol,victorious,ar y brig
+amheus,doubtful,ansicr
+amheus,doubtful,petrus
+amheus,doubtful,drwgdybus
+amheus,doubtful,amhendant
+amheus,doubtful,dadleuol
+amheus,doubtful,gwamal
+amheus,doubtful,amwys
+amheus,doubtful,anargyhoeddedig
+amheus,doubtful,ansefydlog
+amheus,doubtful,drwgdybio
+amheus,doubtful,di-ffydd
+amheus,doubtful,amau
+amheus,doubtful,yn amau
+amheus,doubtful,annhebygol
+amheus,doubtful,niwlog
+amheus,doubtful,problematig
+amheus,doubtful,pryderus
+amheus,doubtful,dyrys
+amheus,doubtful,petrusgar
+amheus,doubtful,annibynnadwy
+amheus,doubtful,annibynadwy
+amheus,doubtful,anghredadwy
+amheus,doubtful,amhenderfynol
+amheus,doubtful,rhanedig
+amheus,doubtful,anwadl
+amheus,doubtful,aneglur
+amheus,doubtful,aflonydd
+llym,sharp/pointed,miniog
+llym,sharp/pointed,siarp
+llym,sharp/pointed,blaenllym
+llym,sharp/pointed,pigog
+llym,sharp/pointed,pigfain
+llym,sharp/pointed,awchlym
+llym,sharp/pointed,minllym
+llym,sharp/pointed,awchus
+llym,sharp/pointed,crafog
+llym,sharp/pointed,llem
+llym,sharp/pointed,llonnod
+llym,sharp/pointed,caled
+llym,sharp/pointed,craff
+llym,sharp/pointed,treiddgar
+llym,sharp/pointed,garw
+llym,sharp/pointed,gwydn
+llym,sharp/pointed,ysgithrog
+llym,sharp/pointed,main
+llym,sharp/pointed,danheddog
+llym,sharp/pointed,sur
+llym,sharp/pointed,blaenfain
+llym,sharp/pointed,conig
+llym,harsh,cras
+llym,harsh,cas
+llym,harsh,caled
+llym,harsh,garw
+llym,harsh,creulon
+llym,harsh,aflafar
+llym,harsh,didostur
+llym,harsh,milain
+llym,harsh,anfoesgar
+llym,harsh,ffyrnig
+llym,harsh,chwerw
+llym,harsh,difaol
+llym,harsh,brwnt
+llym,harsh,ysol
+llym,harsh,cryg
+llym,harsh,anghwtais
+llym,harsh,gerwindeb
+llym,harsh,aflafr
+llym,harsh,anhrugarog
+llym,harsh,didrugaredd
+llym,harsh,difrifol
+llym,harsh,anwaraidd
+llym,harsh,ciaidd
+llym,harsh,diarbed
+llym,harsh,egr
+llym,harsh,gerwin
+llym,harsh,anwar
+serth,steep,llethrog
+serth,steep,syth
+serth,steep,cribog
+serth,steep,fertigol
+serth,steep,unionsyth
+serth,steep,diffwysol
+serth,steep,llethr
+serth,steep,grisiau serth
+serth,steep,gogwyddo
+serth,steep,clogwynog
+serth,steep,tir serth
+serth,steep,llafurus
+serth,steep,perpendicwlar
+serth,steep,gostyngiad serth
+serth,steep,bryniog
+serth,steep,yn gogwyddo
+serth,steep,clogwyn
+serth,steep,gallt
+serth,steep,llym
+serth,steep,uwch
+serth,steep,allt serth
+serth,steep,esgynnol
+serth,steep,eithafol
+serth,steep,dyrchafedig
+serth,steep,cyfradd serth
+serth,steep,graddiant
+serth,steep,gormodol
+serth,steep,llechweddog
+serth,steep,serthochrog
+serth,steep,uchel
+serth,steep,cribol
+poen,nuisance,trafferth
+poen,nuisance,niwsans
+poen,nuisance,poendod
+poen,nuisance,baich
+poen,nuisance,anghyfleuster
+poen,nuisance,strach
+poen,nuisance,byrdwn
+poen,nuisance,anghyfleus
+poen,nuisance,anhwylustod
+poen,nuisance,anghyfleustra
+poen,nuisance,anghylwystod
+poen,nuisance,ffwdan
+poen,nuisance,pla
+poen,nuisance,poenedigaeth
+poen,nuisance,helynt
+poen,nuisance,problem
+poen,nuisance,cur
+poen,nuisance,tarfu
+poen,nuisance,enynfa
+poen,nuisance,anhawster
+poen,nuisance,dirboen
+poen,nuisance,gofid
+poen,nuisance,trwbl
+poen,nuisance,helbul
+poen,nuisance,cythrudd
+poen,nuisance,llidydd
+poen,nuisance,anghyfforddus
+poen,agony,dolur
+poen,agony,dirboen
+poen,agony,anaf
+poen,agony,clwyf
+poen,agony,trallod
+poen,agony,dioddefaint
+poen,agony,gofid
+poen,agony,gloes
+poen,agony,anghysur
+poen,agony,ingoedd
+poen,agony,ing
+poen,agony,anafu
+poen,agony,brifo
+poen,agony,anhwylder
+poen,agony,briw
+poen,agony,poenydio
+poen,agony,dolurio
+poen,agony,artaith
+poen,agony,niwed
+poen,agony,niweidio
+poen,agony,trueni
+poen,agony,gwae
+poen,agony,cur
+poen,agony,anhwyldeb
+poen,agony,loes
+poen,agony,poenedigaeth
+poen,agony,anghyfforddus
+poen,agony,dioddefiant
+poen,agony,atafaeliad
+poen,agony,clais
+poen,agony,salwch
+poen,effort,ymdrech
+poen,effort,ymgais
+poen,effort,ymroddiad
+poen,effort,straen
+poen,effort,gweithgarwch
+poen,effort,llafur
+poen,effort,ceisio
+poen,effort,anhwylustod
+poen,effort,cur
+poen,effort,trafferth
+poen,effort,gwaith
+poen,effort,egni
+poen,effort,llafurus
+poen,effort,bwriad
+poen,effort,ansoddair
+poen,effort,cynnig
+poen,effort,stryffaglu
+poen,effort,cais
+poen,effort,brwydr
+poen,effort,llafurio
+poen,effort,pwysau
+poen,effort,egnio
+poen,effort,defosiwn
+poen,effort,cwffio
+poen,effort,dycnwch
+poen,effort,dyfalbarhad
+poen,effort,anhawster
+poen,effort,menter
+poen,effort,atafael
+poen,effort,ymorddiad
+nerfus,nervous,ofnus
+nerfus,nervous,gofidus
+nerfus,nervous,swil
+nerfus,nervous,pryderus
+nerfus,nervous,petrusgar
+nerfus,nervous,crynedig
+nerfus,nervous,cynhyrfus
+nerfus,nervous,dihyder
+nerfus,nervous,anesmwyth
+nerfus,nervous,cynhyrflyd
+nerfus,nervous,aflonydd
+nerfus,nervous,ffwdanus
+nerfus,nervous,mewnblyg
+nerfus,nervous,llidiog
+nerfus,nervous,anniddig
+nerfus,nervous,anhyderus
+nerfus,nervous,preyderus
+nerfus,nervous,rhusiog
+nerfus,nervous,tyn
+nerfus,nervous,distaw
+nerfus,nervous,ansad
+nerfus,nervous,poeni
+nerfus,nervous,poenus
+cefnogol,supportive,calonogol
+cefnogol,supportive,cynorthwyol
+cefnogol,supportive,ffafriol
+cefnogol,supportive,ategol
+cefnogol,supportive,o blaid
+cefnogol,supportive,pleidiol
+cefnogol,supportive,adborth
+cefnogol,supportive,sbarduno
+cefnogol,supportive,ysgogol
+cefnogol,supportive,cadarnhaol
+cefnogol,supportive,cynhorthwyol
+cefnogol,supportive,cymwynasgar
+cefnogol,supportive,calanogol
+cefnogol,supportive,caredig
+cefnogol,supportive,cyfochrog
+cefnogol,supportive,annog
+cefnogol,supportive,cyfrannol
+cefnogol,supportive,cytuno
+cefnogol,supportive,defnyddiol
+cefnogol,supportive,yn gefnogol o
+cefnogol,supportive,cynorthwyo
+cefnogol,supportive,cyflenwol
+cefnogol,supportive,nawddogl
+cefnogol,supportive,yn cefnogi
+cefnogol,supportive,helpu
+cefnogol,supportive,cymeradwyo
+cefnogol,supportive,ategu
+cefnogol,supportive,cyfrannu
+cefnogol,supportive,rhoi cefnogaeth
+cefnogol,supportive,adeiladol
+cefnogol,supportive,addawol
+cefnogol,supportive,gobeithiol
+cefnogol,supportive,positif
+cefnogol,supportive,cymell
+disglair,shiny,gloyw
+disglair,shiny,llachar
+disglair,shiny,sgleiniog
+disglair,shiny,llathraidd
+disglair,shiny,araul
+disglair,shiny,pefriol
+disglair,shiny,pelydrol
+disglair,shiny,caboledig
+disglair,shiny,croyw
+disglair,shiny,yn fflachio
+disglair,shiny,golau
+disglair,shiny,fflachio
+disglair,shiny,pelydryn
+disglair,shiny,llathredig
+disglair,shiny,llewyrchus
+disglair,shiny,pelydrus
+disglair,shiny,coeth
+disglair,shiny,drychweddu
+disglair,shiny,claer
+disglair,shiny,adlewyrchol
+disglair,shiny,gwyn
+disglair,shiny,gwawr
+disglair,shiny,clear
+disglair,clever,clyfar
+disglair,clever,medrus
+disglair,clever,dawnus
+disglair,clever,galluog
+disglair,clever,deallus
+disglair,clever,penigamp
+disglair,clever,arbennig
+disglair,clever,peniog
+disglair,clever,craff
+disglair,clever,talentog
+disglair,clever,synhwyrol
+disglair,clever,siarp
+disglair,clever,abl
+disglair,clever,llewyrchus
+disglair,clever,gwybodus
+disglair,clever,deheuig
+disglair,clever,rhagorol
+disglair,clever,miniog
+disglair,clever,cynhyrchiol
+disglair,clever,awenus
+disglair,clever,ffyniannus
+disglair,clever,doeth
+disglair,clever,da
+disglair,clever,cymwys
+creulon,brutal,cas
+creulon,brutal,milain
+creulon,brutal,didostur
+creulon,brutal,didrugaredd
+creulon,brutal,brwnt
+creulon,brutal,chwerw
+creulon,brutal,ciaidd
+creulon,brutal,barbaraidd
+creulon,brutal,cras
+creulon,brutal,annymunol
+creulon,brutal,ymosodol
+creulon,brutal,ffyrnig
+creulon,brutal,annifyr
+creulon,brutal,dideimlad
+creulon,brutal,anghynnes
+creulon,brutal,dienaid
+creulon,brutal,llym
+creulon,brutal,gwydlon
+creulon,brutal,aflafar
+creulon,brutal,annynol
+creulon,brutal,digydwybod
+creulon,brutal,garw
+creulon,brutal,anwar
+creulon,brutal,diarbed
+creulon,brutal,ffiaidd
+creulon,brutal,anhrugarog
+creulon,brutal,ansensitif
+creulon,brutal,budr
+normal,normal,cyffredin
+normal,normal,arferol
+normal,normal,rheolaidd
+normal,normal,naturiol
+normal,normal,cyson
+normal,normal,derbyniol
+normal,normal,safonol
+normal,normal,traddodiadol
+normal,normal,nodweddiadol
+normal,normal,cyfferdin
+normal,normal,defodol
+normal,normal,fel arfer
+normal,normal,cyffredinol
+normal,normal,confensiynol
+normal,normal,syml
+normal,normal,boddhaol
+normal,normal,canolig
+normal,normal,trefn
+coll,lost (ansoddair),colledig
+coll,lost (ansoddair),absennol
+coll,lost (ansoddair),ar goll
+coll,lost (ansoddair),anghofiedig
+coll,lost (ansoddair),anifail coll
+coll,lost (ansoddair),ar ddisberod
+coll,lost (ansoddair),diflan
+coll,lost (ansoddair),o'i le
+coll,lost (ansoddair),allweddi coll
+coll,lost (ansoddair),yn eisiau
+coll,lost (ansoddair),diflanu
+coll,lost (ansoddair),diobaith
+coll,lost (ansoddair),manylion coll
+coll,lost (ansoddair),cyfrgoll
+coll,lost (ansoddair),cudd
+coll,lost (ansoddair),rhan coll
+coll,lost (ansoddair),ar gyfeiliorn
+coll,lost (ansoddair),crwydro
+coll,lost (ansoddair),ffwrdd
+coll,lost (ansoddair),wedi mynd
+coll,lost (ansoddair),nodwedd coll
+coll,lost (ansoddair),camosod
+coll,lost (ansoddair),ar gyfeillorn
+coll,lost (ansoddair),cuddio
+coll,lost (ansoddair),disberpd
+coll,lost (ansoddair),fforffed
+coll,lost (ansoddair),diflannu
+coll,lost (ansoddair),aneglur
+coll,loss,colled
+coll,loss,diffyg
+coll,loss,difrod
+coll,loss,gwendid
+coll,loss,profedigaeth
+coll,loss,niwed
+coll,loss,galar
+coll,loss,angau
+coll,loss,damwain
+coll,loss,nam
+coll,loss,marwolaeth
+coll,loss,gofid
+coll,loss,colledigaeth
+coll,loss,profediagaeth
+coll,loss,trychineb
+coll,loss,dioddefaint
+coll,loss,methiant
+coll,loss,ffaeledd
+coll,loss,poen
+coll,loss,annigonedd
+coll,loss,anffawd
+coll,loss,diflaniad
+coll,loss,penwendid
+coll,loss,prinder
+coll,loss,trallod
+coll,loss,gwallgofrwydd
+coll,loss,diffygiad
+syfrdanol,stunning,trawiadol
+syfrdanol,stunning,anhygoel
+syfrdanol,stunning,hardd
+syfrdanol,stunning,rhyfeddol
+syfrdanol,stunning,del
+syfrdanol,stunning,ysblennydd
+syfrdanol,stunning,nodedig
+syfrdanol,stunning,gwyrthiol
+syfrdanol,stunning,hyfryd
+syfrdanol,stunning,hynod
+syfrdanol,stunning,pert
+syfrdanol,stunning,aruthrol
+syfrdanol,stunning,prydferth
+syfrdanol,stunning,golygus
+syfrdanol,stunning,hudolus
+syfrdanol,stunning,disglair
+syfrdanol,stunning,arbennig
+syfrdanol,stunning,gwych
+syfrdanol,stunning,cyfrwys
+syfrdanol,stunning,annisgwyl
+syfrdanol,stunning,dengar
+syfrdanol,stunning,campus
+syfrdanol,stunning,tlws
+syfrdanol,stunning,eithriadol
+syfrdanol,stunning,lloriol
+syfrdanol,stunning,anghyffredin
+brawychus,frightening,dychrynllyd
+brawychus,frightening,arswydus
+brawychus,frightening,ofnus
+brawychus,frightening,hunllefus
+brawychus,frightening,ofnadwy
+brawychus,frightening,echrydus
+brawychus,frightening,erchyll
+brawychus,frightening,hynllefus
+brawychus,frightening,aethus
+brawychus,frightening,afiach
+brawychus,frightening,iasoer
+brawychus,frightening,grotesg
+brawychus,frightening,hyll
+brawychus,frightening,dychrynu
+brawychus,frightening,peri ofn
+brawychus,frightening,dybryd
+brawychus,frightening,cyffroi
+brawychus,frightening,crynedig
+brawychus,frightening,trychinebus
+brawychus,frightening,ysgeler

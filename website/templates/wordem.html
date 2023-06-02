@@ -1,0 +1,151 @@
+{% extends "base2.html" %}
+{% block title %} Home Page {% endblock %}
+
+{% block sampledata %}
+<div class="word-list">
+    {% for row in table %}
+    <span class="word" id="word_{{ loop.index }}" onclick="showInfo('{{ loop.index }}', '{{ word }}', '{{ options }}')">{{ row['synset'] }}</span>
+    {% endfor %}
+</div>
+
+{% if table %}
+<div id="info" class="info-frame hide-border"></div>
+<div id="sentences" class="fancy-sentences"></div>
+{% endif %}
+
+<style>
+/* Add your fancy styles for word-list */
+.word-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+.word {
+    color: blue;
+    text-decoration: underline;
+    cursor: pointer;
+    background-color: #f1f1f1;
+    padding: 5px 10px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.word.active {
+    color: red;
+}
+
+.highlight {
+    color: red;
+    font-weight: bold;
+}
+
+p {
+    line-height: 1.6;
+}
+
+/* Frame for additional info */
+.info-frame {
+    margin-bottom: 20px;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f8f8f8;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Add your fancy styles for sentences */
+.fancy-sentences {
+    font-family: 'Arial', sans-serif;
+    font-size: 18px;
+    line-height: 1.8;
+    text-align: justify;
+}
+
+.fancy-sentences p {
+    margin-bottom: 15px;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f8f8f8;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+.hide-border {
+    border: none;
+    padding: 0;
+}
+</style>
+
+<script>
+let activeWord = null;
+
+function highlightWord(sentence, word) {
+    const regex = new RegExp(`(${word})`, 'gi');
+    return sentence.replace(regex, '<span class="highlight">$1</span>');
+}
+
+function showInfo(word_id, word, options) {
+    // Get the selected word from the table
+    const selectedWord = document.getElementById('word_' + word_id);
+
+    // If there's an active word, remove the 'active' class
+    if (activeWord) {
+        activeWord.classList.remove('active');
+    }
+
+    // Add the 'active' class to the clicked word and update the activeWord variable
+    selectedWord.classList.add('active');
+    activeWord = selectedWord;
+
+    // Fetch additional information about the selected word
+    fetch('/get_word_info', {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({
+            'word': word,
+            'options': options,
+            'selected_word': selectedWord.innerText
+        }),
+    })
+    .then(response => response.json())
+    
+    .then(data => {
+    const info = document.getElementById('info');
+    const sentencesContainer = document.getElementById('sentences');
+
+    if (data.additional_info) {
+        // Update the info div with the fetched data
+        info.innerHTML = '<p>' + data.additional_info + '</p>';
+        info.classList.remove('hide-border');
+    } else {
+        info.innerHTML = '';
+        info.classList.add('hide-border');
+    }
+
+    if (data.sentences) {
+        // Display the sentences containing the selected_word
+        sentencesContainer.innerHTML = data.sentences.split('<br>').map((sentence, index) => {
+            // Replace the selected_word with a colored version of the word
+            const coloredWord = `<span style="color: red;">${selectedWord.innerText}</span>`;
+            const coloredSentence = sentence.replace(new RegExp(selectedWord.innerText, 'g'), coloredWord);
+            return `<p><strong>Sentence ${index + 1}:</strong> ${coloredSentence}</p>`;
+        }).join('');
+        
+        // Scroll to the sentencesContainer
+        const containerPosition = sentencesContainer.getBoundingClientRect().top + window.pageYOffset;
+        window.scrollTo({ top: containerPosition, behavior: 'smooth' });
+    } else {
+        sentencesContainer.innerHTML = '';
+    }
+})
+
+.catch((error) => {
+    console.error('Error:', error);
+});
+
+}
+</script>
+{% endblock %}

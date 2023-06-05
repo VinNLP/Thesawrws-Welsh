@@ -23,6 +23,24 @@ $ export FLASK_APP=main.py
 $ flask run --host=0.0.0.0
 ```
 
+
+_If you use any of these corpora in your work, please cite this paper:_
+
+```
+
+@inproceedings{,
+    title = "Open-Source Thesaurus Development for Under-Resourced Languages: a Welsh Case Study",
+    author = "Nouran Khallaf, Elin Arfon, Mo El-Haj, Jonathan Morris, Dawn Knight, Paul Rayson,Tymaa Hammouda3 and Mustafa Jarrar",
+    booktitle = "",
+    month = ,
+    year = "",
+    address = "",
+    publisher = "",
+    url = "",
+    pages = "",
+}
+```
+
 ### Contacts
 - [Jonathan Morris](MorrisJ17@cardiff.ac.uk)
 - [Nouran Khallaf](https://github.com/Nouran-Khallaf)

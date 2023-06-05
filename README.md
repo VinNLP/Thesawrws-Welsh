@@ -1,6 +1,15 @@
 # Thesawrws welsh
 This repo introduces an open-access, user-friendly online thesaurus for the Welsh language, aimed at enriching digital resources for Welsh speakers and learners. Utilising advances in Natural Language Processing (NLP), our approach combines pre-existing word embeddings, a Welsh semantic tagger, and human evaluation to establish related terms. 
 
+## FastText Installation
+
+To install FastText, open your terminal and execute the following commands:
+
+```bash
+git clone https://github.com/facebookresearch/fastText.git
+cd fastText
+mkdir build && cd build && cmake ..
+make && make install
 
 ### Contacts
 - [Jonathan Morris](MorrisJ17@cardiff.ac.uk)

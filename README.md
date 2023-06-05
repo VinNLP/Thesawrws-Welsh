@@ -44,9 +44,9 @@ _If you use any of these corpora in your work, please cite this paper:_
 ```
 
 ### Contacts
-- [Jonathan Morris](MorrisJ17@cardiff.ac.uk)
 - [Nouran Khallaf](https://github.com/Nouran-Khallaf)
 - [Mahmoud El-Haj](https://github.com/drelhaj)
+- [Jonathan Morris](MorrisJ17@cardiff.ac.uk)
 - [Elin Afron](arfone@cardiff.ac.uk)
 - [Dawn Knight](https://github.com/DawnKnight-Cardiff)
 

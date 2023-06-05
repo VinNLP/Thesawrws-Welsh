@@ -10,7 +10,7 @@ git clone https://github.com/facebookresearch/fastText.git
 cd fastText
 mkdir build && cd build && cmake ..
 make && make install
-
+```
 ### Contacts
 - [Jonathan Morris](MorrisJ17@cardiff.ac.uk)
 - [Nouran Khallaf](https://github.com/Nouran-Khallaf)

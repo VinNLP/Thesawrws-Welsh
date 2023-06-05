@@ -1,19 +1,19 @@
 # Thesawrws welsh
 This repo introduces an open-access, user-friendly online thesaurus for the Welsh language, aimed at enriching digital resources for Welsh speakers and learners. Utilising advances in Natural Language Processing (NLP), our approach combines pre-existing word embeddings, a Welsh semantic tagger, and human evaluation to establish related terms. 
 
-## Inatlation
+## Instalation
 To install this Flask website, open your terminal and execute the following commands:
 ```bash
-git clone https://github.com/Nouran-Khallaf/Thesawrws-website.git
-sudo apt-get install python3 python3-venv
-cd Thesawrws-website
-python3 -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
-##########To install FastText 
-git clone https://github.com/facebookresearch/fastText.git
-cd fastText
-pip install .
+$ git clone https://github.com/Nouran-Khallaf/Thesawrws-website.git
+$ sudo apt-get install python3 python3-venv
+$ cd Thesawrws-website
+$ python3 -m venv venv
+$ source venv/bin/activate
+$ pip install -r requirements.txt
+# To install FastText
+$ git clone https://github.com/facebookresearch/fastText.git
+$ cd fastText
+$ pip install .
 ```
 
 ### Contacts

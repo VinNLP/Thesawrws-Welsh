@@ -22,8 +22,19 @@ $ cd Thesawrws-website
 $ export FLASK_APP=main.py
 $ flask run --host=0.0.0.0
 ```
-
-
+## Too use RESTful API 
+Command line
+```bash
+$ curl "http://127.0.0.1:5000/api/synonyms?word=pobl"
+```
+or Python script 
+```bash
+$ import requests
+$ import json
+$ response = requests.get('http://148.88.72.60:5000/api/synonyms', params={'word': 'school'})
+$ data = response.json()
+$ print(json.dumps(data, indent=2))
+```
 
 
 _If you use any of these corpora in your work, please cite this paper:_

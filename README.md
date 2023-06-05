@@ -16,6 +16,7 @@ $ cd fastText
 $ pip install .
 ```
 ## Start the Thesawrws website
+Execute the following commands:
 ```bash
 $ cd Thesawrws-website
 $ export FLASK_APP=main.py

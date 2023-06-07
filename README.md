@@ -57,7 +57,7 @@ _If you use any of these corpora in your work, please cite this paper:_
 ### Contacts
 - [Nouran Khallaf](https://github.com/Nouran-Khallaf)
 - [Mahmoud El-Haj](https://github.com/drelhaj)
-- [Jonathan Morris](MorrisJ17@cardiff.ac.uk)
+- [Jonathan Morris](https://github.com/jonmorris83)
 - [Elin Afron](arfone@cardiff.ac.uk)
 - [Dawn Knight](https://github.com/DawnKnight-Cardiff)
 

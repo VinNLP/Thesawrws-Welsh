@@ -31,7 +31,7 @@ or Python script
 ```bash
 $ import requests
 $ import json
-$ response = requests.get('http://148.88.72.60:5000/api/synonyms', params={'word': 'school'})
+$ response = requests.get('http://ucrel-freetxt-1.lancs.ac.uk:8010/api/synonyms', params={'word': 'school'})
 $ data = response.json()
 $ print(json.dumps(data, indent=2))
 ```

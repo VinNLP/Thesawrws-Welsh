@@ -25,7 +25,7 @@ $ flask run --host=0.0.0.0
 ## Too use RESTful API 
 Command line
 ```bash
-$ curl "http://127.0.0.1:5000/api/synonyms?word=pobl"
+$ curl "http://ucrel-freetxt-1.lancs.ac.uk:8010/api/synonyms?word=pobl"
 ```
 or Python script 
 ```bash

@@ -1,4 +1,3 @@
-                                                                 
 from flask import Blueprint, render_template, request, flash, jsonify, Flask
 from flask_restful import Resource, Api
 import json
@@ -52,28 +51,32 @@ class SynonymsAPI(Resource):
     def get(self):
         word = request.args.get('word', default='Thesawrws')
         synonyms = set()
-
+        
         # Gold-standard synonyms
         gold_standard_matches= get_matches(word,'GS-synonyms.db')
         if gold_standard_matches is not None:
             gold_standard_synonyms = gold_standard_matches['synset'].tolist()
-            synonyms.update(gold_standard_synonyms)
+            synonyms.update(gold_standard_synonyms[:5])
 
-        # FastText synonyms
-        fastText_synonyms = model.get_nearest_neighbors(word, 20)
-        clean_synonyms = {syn[1] for syn in fastText_synonyms}
-        synonyms.update(clean_synonyms)
+        
         # Dictionary synonyms
         dictionary_matches = get_matches(word,'Dict-synonyms.db')
         if dictionary_matches is not None:
             dictionary_synonyms = dictionary_matches['synset'].tolist()
-            synonyms.update(dictionary_synonyms)
+            synonyms.update(dictionary_synonyms[:5])
+
+        # FastText synonyms
+        fastText_synonyms = model.get_nearest_neighbors(word, 5)
+        clean_synonyms = {syn[1] for syn in fastText_synonyms}
+        synonyms.update(clean_synonyms)
 
         # Fine-tuned synonyms
         df = pd.read_csv("./website/data/Sk_vectors_lemma_subset.csv", index_col=False)
         fine_tuned_synonyms = df.loc[df.Gair==word]['synset'].tolist()
+       
+        # Select only the first five synonyms
+        fine_tuned_synonyms = fine_tuned_synonyms[:5]
         synonyms.update(fine_tuned_synonyms)
-
         # remove the search word if it's in the synonyms set
         synonyms.discard(word)
 
@@ -111,8 +114,8 @@ class SynonymsAPI(Resource):
         # Filter out synonyms that share the same lemma with the search word
         synonyms = {syn: lemma for syn, lemma in synonym_lemmas.items() if lemma != search_word_lemma}
         # Remove synonyms that contain numbers, punctuation, or are empty
-        synonyms = {syn.lower(): lemma for syn, lemma in synonyms.items() if re.match("^[a-zA-Z]*$", syn)and len(syn) > 1} 
-
+       # synonyms = {syn.lower(): lemma for syn, lemma in synonyms.items() if re.match("^[a-zA-Z]*$", syn)and len(syn) > 1} 
+        synonyms = {syn.lower(): lemma for syn, lemma in synonyms.items() if re.match("^[a-zA-Z]*$", syn) and len(syn) > 1 and is_welsh(syn.lower())}
         # Create the response dictionary
         response = {
             'word': word,
@@ -121,6 +124,16 @@ class SynonymsAPI(Resource):
 
         # Return the JSON response
         return jsonify(response)
+
+
+###detect language
+from langdetect import detect 
+def is_welsh(word):
+   try:
+      return detect(word)== 'cy'
+   except:
+      return false
+
 
 # Initialize the Api and add the resources
 api = Api(words)
@@ -131,35 +144,36 @@ def home():
     word = request.args.get('word', default='Thesawrws')
 
     
+    #synonyms_dict = set()
+    #synonyms_embed = set()
     synonyms = set()
-
     # Gold-standard synonyms
     gold_standard_matches= get_matches(word,'GS-synonyms.db')
     if gold_standard_matches is not None:
         gold_standard_synonyms = gold_standard_matches['synset'].tolist()
-        synonyms.update(gold_standard_synonyms)
-    
-
-    # FastText synonyms
-    fastText_synonyms = model.get_nearest_neighbors(word, 20)
-    clean_synonyms = {syn[1] for syn in fastText_synonyms}
-    synonyms.update(clean_synonyms)
-
-
+        synonyms.update(gold_standard_synonyms[:5])
     # Dictionary synonyms
     dictionary_matches = get_matches(word,'Dict-synonyms.db')
     if dictionary_matches is not None:
         dictionary_synonyms = dictionary_matches['synset'].tolist()
-        synonyms.update(dictionary_synonyms)
+        synonyms.update(dictionary_synonyms[:5])
+
+    # FastText synonyms
+    fastText_synonyms = model.get_nearest_neighbors(word, 5)
+    clean_synonyms = {syn[1] for syn in fastText_synonyms}
+    synonyms.update(clean_synonyms)
+
 
     # Fine-tuned synonyms
     df = pd.read_csv("./website/data/Sk_vectors_lemma_subset.csv", index_col=False)
     fine_tuned_synonyms = df.loc[df.Gair==word]['synset'].tolist()
+    # Select only the first five synonyms
+    fine_tuned_synonyms = fine_tuned_synonyms[:5]
     synonyms.update(fine_tuned_synonyms)
 
     # remove the search word if it's in the synonyms set
     synonyms.discard(word)
-
+    synonyms.discard(word)
     # remove the words that shares the same lemma with the search word 
     files = {
         'type': (None, 'rest'),
@@ -194,8 +208,8 @@ def home():
     # Filter out synonyms that share the same lemma with the search word
     synonyms = {syn: lemma for syn, lemma in synonym_lemmas.items() if lemma != search_word_lemma}
     # Remove synonyms that contain numbers, punctuation, or are empty
-    synonyms = {syn.lower(): lemma for syn, lemma in synonyms.items() if re.match("^[a-zA-Z]*$", syn)and len(syn) > 1} 
-   
+    #synonyms = {syn.lower(): lemma for syn, lemma in synonyms.items() if re.match("^[a-zA-Z]*$", syn)and len(syn) > 1} 
+    synonyms = {syn.lower(): lemma for syn, lemma in synonyms.items() if re.match("^[a-zA-Z]*$", syn) and len(syn) > 1 and is_welsh(syn.lower())}
     # Convert to DataFrame
     subset = pd.DataFrame(list(synonyms.keys()), columns=['synset'])
 
@@ -206,6 +220,7 @@ def home():
     if subset.empty: 
         subset = [f"No synonyms found for the word '{word}'"]
         subset = pd.DataFrame(subset, columns=['synset'])
+        #subset_dict= pd.DataFrame(synonyms_dict,columns=['synset'])
 
     return render_template('wordem.html', table=subset[['synset']].to_dict('records'), word=word)
 
@@ -251,4 +266,3 @@ def get_word_info():
 
 
     return jsonify({'additional_info': additional_info, 'sentences': sentences_html})
-

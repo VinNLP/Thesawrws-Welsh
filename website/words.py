@@ -12,8 +12,42 @@ import requests
 from requests.exceptions import ConnectionError
 import io
 import re
-words = Blueprint('words',__name__)
 
+
+
+translations = {
+    'en': {
+        'search_msg': 'Please write your Search Word in Welsh',
+        'placeholder': 'Thesawrws',
+        'search_btn': 'Search',
+        'enter_word_msg': 'Please enter a word to search.',
+        'no_matches_msg': "No matches found for '{}'.",
+        'back_to_top': 'Back to top',
+        'follow_us': "Follow us on Twitter:",
+        'like_us': "Like us on Facebook:",
+        'contact_us': "For further information on the CorCenCC project please contact the project team:",
+        'corpus':'National Corpus of Contemporary Welsh',
+        'Thesaurus':'Online Thesaurus of Contemporary Welsh',
+        'sentence' : 'Sentence',
+    
+    },
+    'cy': { # Welsh language code
+        'search_msg': 'Ysgrifennwch y gair yr hoffech chwilio amdano',
+        'placeholder': 'Thesawrws',
+        'search_btn': 'Chwilio',
+        'enter_word_msg': 'Ysgrifennwch y gair yr hoffech chwilio amdano',
+        'no_matches_msg': "[Welsh translation for no matches found message]",
+        'back_to_top': "Yn ôl i'r top",
+        'follow_us': "Dilynwch ni ar Twitter:",
+        'like_us': "Hoffwch ni ar Facebook :",
+        'contact_us': "I gael mwy o wybodaeth am brosiect CorCenCC, cysylltwch â thîm y prosiect:",
+        'corpus':'Corpws Cenedlaethol Cymraeg Cyfoes',
+        'Thesaurus':'Thesawrws Ar-lein Cymraeg Cyfoes',
+         'sentence' :'Brawddeg',
+    }
+}
+
+words = Blueprint('words',__name__)
 ## to get the words from the gold standard dataset 
 def get_matches(word_or_synset, db):
     try:
@@ -140,6 +174,8 @@ api.add_resource(SynonymsAPI, '/api/synonyms')
 
 @words.route('/', methods=['GET', 'POST'])
 def home():
+    lang = request.args.get('lang', 'en')
+    print("Language selected:", lang) 
     word = request.args.get('word', default='Thesawrws')
 
     
@@ -221,7 +257,7 @@ def home():
         subset = pd.DataFrame(subset, columns=['synset'])
         #subset_dict= pd.DataFrame(synonyms_dict,columns=['synset'])
 
-    return render_template('wordem.html', table=subset[['synset']].to_dict('records'), word=word)
+    return render_template('wordem.html', lang=lang, translations=translations, table=subset[['synset']].to_dict('records'), word=word)
 
 def find_sentences(word, file_path, num_sentences=5):
     word_pattern = regex.compile(r'\b' + regex.escape(word.lower()) + r'\b', regex.UNICODE)
@@ -260,8 +296,14 @@ def get_word_info():
 
         # Find sentences containing the word
     sentences = find_sentences(selected_word, './website/data/corcencc_clean_sentences.txt')
+    
     sentences_html = '<br>'.join(sentences)
     
 
 
     return jsonify({'additional_info': additional_info, 'sentences': sentences_html})
+
+@app.route('/')
+def index():
+    lang = request.args.get('lang', 'en')
+    return render_template('wordem.html', lang=lang, translations=translations)

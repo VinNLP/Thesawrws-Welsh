@@ -1,3 +1,5 @@
+*[Read this in English](README.en.md)*
+
 # Thesawrws Ar-lein Cymraeg Cyfoes (ThACC) / Welsh Online Thesaurus
 
 Mae'r ystorfa hon yn cyflwyno thesawrws Cymraeg ar-lein sy'n fynediad agored ac yn hawdd ei ddefnyddio. Nod y prosiect oedd cyfoethogi adnoddau digidol yn y Gymraeg. Gan fanteisio ar ddatblygiadau ym maes Prosesu Iaith Naturiol (NLP), mae ein dull yn cyfuno mewnblaniadau geiriau sy'n bodoli eisioes, tagiwr semanteg Cymraeg, a gwerthusiadau gan fodau dynol er mwyn dod o hyd i gyfystyron.

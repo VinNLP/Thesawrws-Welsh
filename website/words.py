@@ -6,7 +6,6 @@ import random
 import re
 import regex
 from fasttext import load_model
-#from flask_sqlalchemy import SQLAlchemy
 import sqlite3
 from flask import current_app as app
 import requests

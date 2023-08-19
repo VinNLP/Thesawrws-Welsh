@@ -41,17 +41,15 @@ $ print(json.dumps(data, indent=2))
 _If you use any of these corpora in your work, please cite this paper:_
 
 ```
-
 @inproceedings{,
     title = "Open-Source Thesaurus Development for Under-Resourced Languages: a Welsh Case Study",
     author = "Nouran Khallaf, Elin Arfon, Mo El-Haj, Jonathan Morris, Dawn Knight, Paul Rayson,Tymaa Hammouda3 and Mustafa Jarrar",
-    booktitle = "",
-    month = ,
-    year = "",
-    address = "",
-    publisher = "",
+    month = sep.,
+    year = "2023",
+    publisher = "The 4th Conference on Language, Data and Knowledge Conference (LDK 2023), Vienna, Austria.",
     url = "",
     pages = "",
+
 }
 ```
 

@@ -131,7 +131,7 @@ function showInfo(word_id, word, options) {
             // Replace the selected_word with a colored version of the word
             const coloredWord = `<span style="color: red;">${selectedWord.innerText}</span>`;
             const coloredSentence = sentence.replace(new RegExp(selectedWord.innerText, 'g'), coloredWord);
-            return `<p><strong>Sentence ${index + 1}:</strong> ${coloredSentence}</p>`;
+            return `<p><strong>{{ translations[lang]['sentence'] }} ${index + 1}:</strong> ${coloredSentence}</p>`;
         }).join('');
         
         // Scroll to the sentencesContainer

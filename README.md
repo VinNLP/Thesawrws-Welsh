@@ -33,14 +33,14 @@ $ flask run --host=0.0.0.0
 Llinell Orchymyn:
 Command line:
 ```bash
-$ curl "http:/148.88.72.60:5000/api/synonyms?word=pobl"
+$ curl "http:/148.88.72.60:8010/api/synonyms?word=pobl"
 ```
 neu sgript Python
 or Python script 
 ```bash
 $ import requests
 $ import json
-$ response = requests.get('http://148.88.72.60:5000/api/synonyms', params={'word': 'school'})
+$ response = requests.get('http://148.88.72.60:8010/api/synonyms', params={'word': 'school'})
 $ data = response.json()
 $ print(json.dumps(data, indent=2))
 ```

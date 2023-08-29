@@ -33,7 +33,7 @@ $ flask run --host=0.0.0.0
 Llinell Orchymyn:
 Command line:
 ```bash
-$ curl "http://127.0.0.1:5000/api/synonyms?word=pobl"
+$ curl "http:/148.88.72.60:5000/api/synonyms?word=pobl"
 ```
 neu sgript Python
 or Python script 

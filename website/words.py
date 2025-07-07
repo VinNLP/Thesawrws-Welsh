@@ -77,7 +77,7 @@ def get_matches(word_or_synset, db):
     except Exception as e:
         print("An error occurred:", e)
 
-from load_model_utils import get_model
+from .load_model_utils import get_model
 model = get_model()
 
 app = Flask(__name__)

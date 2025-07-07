@@ -6,3 +6,4 @@ gensim
 requests
 flask_restful
 werkzeug==2.3.8
+flask-cors
